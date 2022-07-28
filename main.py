@@ -21,6 +21,7 @@ def read_root():
 async def takes_frever():
     await asyncio.sleep(200)
 
+#http://localhost:8001/event/level_load/
 @app.get("/event/level_load")
 async def read_item():#, q: Optional[str] = None
     t = asyncio.create_task(takes_frever())
@@ -82,7 +83,7 @@ async def read_item():
 async def read_item():
 
     documentAction("LevelQuit")
-    eval_df.to_csv(player+"_"+profile+"_"+str(level_start.strftime("%m_%d_%y__%H_%M"))+".csv")
+    eval_df.to_csv("Stats/"+player+"_"+profile+"_"+str(level_start.strftime("%d_%m_%y__%H_%M"))+".csv")
 
     documentAction("killed an enemy")
     return {"received"}
@@ -102,6 +103,11 @@ async def read_item():
     documentAction("shielded hit")
     return {"received"}
 
+@app.get("/evaluate/regeneratearmor")
+async def read_item():
+    documentAction("auto regenerate armor")
+    return {"received"}
+
 @app.get("/evaluate/downed")
 async def read_item():
     documentAction("downed")
@@ -109,7 +115,24 @@ async def read_item():
 
 @app.get("/evaluate/revived")
 async def read_item():
-    documentAction("revived")
+    documentAction("revived by ally")
+    return {"received"}
+
+@app.get("/evaluate/replenish")
+async def read_item():
+    documentAction("auto replenish health")
+    return {"received"}
+
+@app.get("/evaluate/doctor_bag_used")
+async def read_item():
+    documentAction("doctor_bag")
+    return {"received"}
+
+#http://localhost:8001/evaluate/sethp/30?armor=0
+@app.get("/evaluate/sethp/{hp}")
+async def read_item(hp: int, armor:int):
+    documentAction("hp "+str(hp))
+    documentAction("armor " + str(armor))
     return {"received"}
 
 if __name__ == "__main__":
