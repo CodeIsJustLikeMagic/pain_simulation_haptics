@@ -83,7 +83,7 @@ async def read_item():
 async def read_item():
 
     documentAction("LevelQuit")
-    eval_df.to_csv("Stats/"+player+"_"+profile+"_"+str(level_start.strftime("%d_%m_%y__%H_%M"))+".csv")
+    eval_df.to_csv("Stats/"+player+"_"+profile+"_"+str(level_start.strftime("%y_%m_%d__%H_%M"))+".csv")
 
     documentAction("killed an enemy")
     return {"received"}
@@ -127,6 +127,22 @@ async def read_item():
 async def read_item():
     documentAction("doctor_bag")
     return {"received"}
+
+@app.get("/evaluate/enemy_hit")
+async def read_item():
+    documentAction("enemy_hit")
+    return {"received"}
+
+@app.get("/evaluate/enemy_headshot")
+async def read_item():
+    documentAction("enemy_headshot")
+    return {"received"}
+
+@app.get("/evaluate/enemy_crit")
+async def read_item():
+    documentAction("enemy_crit")
+    return {"received"}
+
 
 #http://localhost:8001/evaluate/sethp/30?armor=0
 @app.get("/evaluate/sethp/{hp}")
