@@ -10,6 +10,11 @@ player.register("CenterX", "CenterX.tact")
 print("register Circle")
 player.register("Circle", "Circle.tact")
 
+
+print("register Electric")
+player.register("Electric1_back", "bhapticsPatterns/Electric1_back.tact")
+
+
 interval = 0.5
 durationMillis = 100
 
@@ -46,6 +51,9 @@ def play(index):
             player.submit_dot("frontFrame", "VestFront", [{"index": i, "intensity": 100}], durationMillis)
             sleep(interval)
 
+    elif index ==5:
+        player.submit_registered("Electric1_back")
+
 def run():
     # sleep(0.5)
     # play(1)
@@ -56,14 +64,8 @@ def run():
         key = keyboard.read_key()
         if key == "q" or key == "Q":
             break
-        elif key == "1":
-            play(1)
-        elif key == "2":
-            play(2)
-        elif key == "3":
-            play(3)
-        elif key =="4":
-            play(4)
+        else:
+            play(int(key))
 
 
         print('=================================================')
