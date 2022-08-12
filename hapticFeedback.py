@@ -15,14 +15,7 @@ durationMillis = 100
 
 
 
-for i in range(20):
-    print(i, "back")
-    player.submit_dot("backFrame", "VestBack", [{"index": i, "intensity": 100}], durationMillis)
-    sleep(interval)
 
-    print(i, "front")
-    player.submit_dot("frontFrame", "VestFront", [{"index": i, "intensity": 100}], durationMillis)
-    sleep(interval)
 
 
 def play(index):
@@ -34,12 +27,24 @@ def play(index):
         player.submit_registered_with_option("Circle", "alt",
                                              scale_option={"intensity": 1, "duration": 1},
                                              rotation_option={"offsetAngleX": 180, "offsetY": 0})
+        # direction means how long the pattern takes
+        # offset Angle will rotate pattern around the person. 180 moves the pattern from front to back
+        # offsetY moves Pattern up toward head. Offset 0.25 moves up by one dot.
+        # intesity is range between 0 and 1. Intensity percentage.
     elif index == 3:
         print("submit Circle With Diff AltKey")
         player.submit_registered_with_option("Circle", "alt2",
-                                             scale_option={"intensity": 1, "duration": 1},
-                                             rotation_option={"offsetAngleX": 0, "offsetY": 0})
+                                             scale_option={"intensity": 0.1, "duration": 1},
+                                             rotation_option={"offsetAngleX": 180, "offsetY": 0})
+    elif index ==4:
+        for i in range(20):
+            print(i, "back")
+            player.submit_dot("backFrame", "VestBack", [{"index": i, "intensity": 100}], durationMillis)
+            sleep(interval)
 
+            print(i, "front")
+            player.submit_dot("frontFrame", "VestFront", [{"index": i, "intensity": 100}], durationMillis)
+            sleep(interval)
 
 def run():
     # sleep(0.5)
@@ -57,6 +62,8 @@ def run():
             play(2)
         elif key == "3":
             play(3)
+        elif key =="4":
+            play(4)
 
 
         print('=================================================')
