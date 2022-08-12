@@ -151,6 +151,16 @@ async def read_item(hp: int, armor:int):
     documentAction("armor " + str(armor))
     return {"received"}
 
+@app.get("/evaluate/complete_objective/{objective}")
+async def read_item(objective: str):
+    documentAction("complete_objective "+str(objective))
+    return {"received"}
+
+@app.get("/evaluate/activate_objective/{objective}")
+async def read_item(objective: str):
+    documentAction("activate_objective "+str(objective))
+    return {"received"}
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8001)
