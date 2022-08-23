@@ -23,46 +23,42 @@ async def takes_frever():
     await asyncio.sleep(200)
 
 #http://localhost:8001/event/level_load/
-@app.get("/event/level_load")
-async def read_item():#, q: Optional[str] = None
-    t = asyncio.create_task(takes_frever())
-    print(f"{datetime.datetime.now()} level_load")
+
+#http://localhost:8001/event/damage_taken_shielded
+@app.get("/event/damage_taken_shielded/{rotation}")
+async def read_item(rotation:float):
+    t = asyncio.create_task(hapticFeedback.impact_shielded(rotation))
     return {"received"}
 
-@app.get("/event/shield/{value}")
-async def read_item(value: int):#, q: Optional[str] = None
-    t = asyncio.create_task(takes_frever())
-    print(f"{datetime.datetime.now()} set shield with value {value}")
-    return {"received"}
-
-@app.get("/event/health/{value}")
-async def read_item(value: int):
-    t = asyncio.create_task(takes_frever())
-    print(f"{datetime.datetime.now()} set health with value {value}")
-    return {"received"}
-
-@app.get("/event/damage_taken")
-async def read_item():
-    t = asyncio.create_task(takes_frever())
-    print(f"{datetime.datetime.now()} damage_taken")
+@app.get("/event/damage_taken_unshielded/{rotation}")
+async def read_item(rotation:float):
+    t = asyncio.create_task(hapticFeedback.impact_unshielded(rotation))
     return {"received"}
 
 @app.get("/event/downed")
 async def read_item():
-    t = asyncio.create_task(takes_frever())
-    print(f"{datetime.datetime.now()} downed")
+    t = asyncio.create_task(hapticFeedback.downed())
+    return {"received"}
+
+@app.get("/event/revived")
+async def read_item():
+    # no longer downed
+    t = asyncio.create_task(hapticFeedback.stopDowned())
     return {"received"}
 
 @app.get("/event/arrested")
 async def read_item():
-    t = asyncio.create_task(takes_frever())
-    print(f"{datetime.datetime.now()} arrested")
+    t = asyncio.create_task(hapticFeedback.stopDowned())
     return {"received"}
 
 @app.get("/event/custody")
 async def read_item():
-    t = asyncio.create_task(takes_frever())
-    print(f"{datetime.datetime.now()} custody")
+    t = asyncio.create_task(hapticFeedback.stopDowned())
+    return {"received"}
+
+@app.get("/event/electric")
+async def read_item():
+    t = asyncio.create_task(hapticFeedback.eletrifiiieeeeddddd_iiiiiiiiieeeeeeeeddd())
     return {"received"}
 
 
