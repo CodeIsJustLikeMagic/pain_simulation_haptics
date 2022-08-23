@@ -3,6 +3,7 @@ from typing import Optional
 import datetime
 from fastapi import FastAPI
 import pandas as pd
+import hapticFeedback
 
 app = FastAPI()
 
