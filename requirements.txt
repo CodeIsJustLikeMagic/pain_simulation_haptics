@@ -2,6 +2,5 @@ uvicorn[standard]
 fastapi
 pandas
 numpy
-keyboard
 websocket-client~=0.57.0
 python-osc~=1.7.4
