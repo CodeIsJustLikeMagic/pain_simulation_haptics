@@ -13,8 +13,8 @@ player.initialize()
 player.register("Electric_front_and_back", "bhapticsPatterns/Rumble2.tact")
 player.register("Circle", "bhapticsPatterns/Circle.tact")
 player.register("CenterX", "bhapticsPatterns/CenterX.tact")
-player.register("Heatbeat2", "bhapticsPatterns/Heartbeat2.tact")
-player.register("Heatbeat3", "bhapticsPatterns/Heartbeat3.tact")
+player.register("Heartbeat2", "bhapticsPatterns/Heartbeat2.tact")
+player.register("Heartbeat3", "bhapticsPatterns/Heartbeat3.tact")
 
 impact_patterns = ["Impact1", "Impact2", "Impact3"]
 
@@ -33,6 +33,7 @@ downedEffect: HapticEffect = None
 
 # is run when game is loaded
 async def loadProfile(path):
+    print(f"loaded profile from {path}")
     global shieldedEffect
     global unshieldedEffect
     global tasedEffect
@@ -108,7 +109,9 @@ async def eletrifiiieeeeddddd_iiiiiiiiieeeeeeeeddd(rotation=0, offsetY=0):
 async def stop_tased():
     global iselectrefied
     iselectrefied = False
-
+    player.submit_registered_with_option("Circle","alt",
+                                         scale_option={"intensity": 0, "duration": 0.01},
+                                         rotation_option={"offsetAngleX": 0, "offsetY": 0})
 
 isdowned = False
 
@@ -119,8 +122,10 @@ async def downed(rotation=0, offsetY=0):
     global isdowned
     isdowned = True
     while isdowned:
+
         pattern = random.choice(downedEffect.patterns)
         intensity = random.uniform(downedEffect.lowerbound, downedEffect.upperbound)
+        print(f"downed {pattern} intensity {intensity} duration {downedEffect.duration} rotation {rotation}")
         player.submit_registered_with_option(pattern, "alt",
                                              scale_option={"intensity": intensity, "duration": downedEffect.duration},
                                              rotation_option={"offsetAngleX": rotation, "offsetY": offsetY})
