@@ -46,7 +46,7 @@ def initialize():
         x = threading.Thread(target=thread_function, args=(1,))
         x.start()
     except:
-        print("Couldn't connect")
+        print("bHaptics Couldn't connect. Is the vest turned on?")
         return
 
 
@@ -71,7 +71,8 @@ def is_device_connected(position):
 def register(key, file_directory):
     json_data = open(file_directory).read()
 
-    print(json_data)
+    #print(json_data)
+    print(f"Haptic Pattern {key}")
 
     data = json.loads(json_data)
     project = data["project"]
