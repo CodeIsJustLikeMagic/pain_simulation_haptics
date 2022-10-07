@@ -106,6 +106,13 @@ async def read_item(session_accuracy:str, session_total_downed:str, session_tota
     documentAction("Session_total_specials_kills "+str(session_total_specials_kills))
     documentAction("Session_civilians_killed "+str(session_civilian_kills))
 
+    print(f"saving eval dataframe with session stats to Stats/"+player+"_"+profile+"_"+str(level_start.strftime("%y_%m_%d__%H_%M"))+".csv")
+    eval_df.to_csv("Stats/"+player+"_"+profile+"_"+str(level_start.strftime("%y_%m_%d__%H_%M"))+".csv")
+    return {"received"}
+
+@app.get("/evaluate/saveevalfile")
+async def read_item():
+
     print(f"saving eval dataframe Stats/"+player+"_"+profile+"_"+str(level_start.strftime("%y_%m_%d__%H_%M"))+".csv")
     eval_df.to_csv("Stats/"+player+"_"+profile+"_"+str(level_start.strftime("%y_%m_%d__%H_%M"))+".csv")
     return {"received"}
@@ -155,19 +162,16 @@ async def read_item():
     documentAction("doctor_bag")
     return {"received"}
 
-@app.get("/evaluate/enemy_hit")
-async def read_item():
-    documentAction("enemy_hit")
+@app.get("/evaluate/weapon_fired/{hit_count}")
+async def read_item(hit_count: int):
+    documentAction(f"weapon_fired {hit_count}")
+    # hit count is 0 if player missed.
+    # accuracy can be over 100 percent if player hits more that one person per shot
     return {"received"}
 
 @app.get("/evaluate/enemy_headshot")
 async def read_item():
     documentAction("enemy_headshot")
-    return {"received"}
-
-@app.get("/evaluate/enemy_crit")
-async def read_item():
-    documentAction("enemy_crit")
     return {"received"}
 
 #http://localhost:8001/evaluate/sethp/30?armor=0
