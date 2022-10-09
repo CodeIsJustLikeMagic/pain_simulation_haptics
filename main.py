@@ -95,20 +95,11 @@ async def read_item(profilfile: str, playertag:str):
     print(f"ready to write Evaluation file into Stats/"+player+"_"+profile+"_"+str(level_start.strftime("%y_%m_%d__%H_%M"))+".csv")
     return {"received"}
 
-@app.get("/evaluate/saveevalfile/{session_accuracy}")
-async def read_item(session_accuracy:str, session_total_downed:str, session_total_kills: str, session_total_head_shots: str, session_total_specials_kills: str, session_civilian_kills:str):
-
-    documentAction("Session_Accuracy "+str(session_accuracy))
-    #documentAction("Session_time_played "+str(session_time_played))
-    documentAction("Session_total_downed " +str(session_total_downed))
-    documentAction("Session_total_kills "+str(session_total_kills))
-    documentAction("Session_total_head_shots "+str(session_total_head_shots))
-    documentAction("Session_total_specials_kills "+str(session_total_specials_kills))
-    documentAction("Session_civilians_killed "+str(session_civilian_kills))
-
-    print(f"saving eval dataframe with session stats to Stats/"+player+"_"+profile+"_"+str(level_start.strftime("%y_%m_%d__%H_%M"))+".csv")
-    eval_df.to_csv("Stats/"+player+"_"+profile+"_"+str(level_start.strftime("%y_%m_%d__%H_%M"))+".csv")
-    return {"received"}
+@app.get("/evaluate/change_playertag/{playertag}")
+async def read_item(playertag: str):
+    global player
+    player = playertag
+    print(f"changed playertag. Will save whatever data was collected under new playertag")
 
 @app.get("/evaluate/saveevalfile")
 async def read_item():
@@ -179,6 +170,11 @@ async def read_item():
 async def read_item(hp: int, armor:int):
     documentAction("hp "+str(hp))
     documentAction("armor " + str(armor))
+    return {"received"}
+
+@app.get("/evaluate/health_subtracted/{amount}")
+async def read_item(amount: str):
+    documentAction("health_subtracted "+str(amount))
     return {"received"}
 
 @app.get("/evaluate/complete_objective/{objective}")

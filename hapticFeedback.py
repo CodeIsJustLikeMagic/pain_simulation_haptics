@@ -43,17 +43,21 @@ async def loadProfile(path):
     profile = json.load(profileFile)
     profileFile.close()
 
-    shieldedEffect = _createHapticEffect(profile["shielded"]["haptic"], "rotation")
-    unshieldedEffect = _createHapticEffect(profile["unshielded"]["haptic"], "rotation")
-    tasedEffect = _createHapticEffect(profile["tased"]["haptic"], "sleep")
-    downedEffect = _createHapticEffect(profile["downed"]["haptic"], "sleep")
+    shieldedEffect = _createHapticEffect(profile["shielded"], "rotation")
+    unshieldedEffect = _createHapticEffect(profile["unshielded"], "rotation")
+    tasedEffect = _createHapticEffect(profile["tased"], "sleep")
+    downedEffect = _createHapticEffect(profile["downed"], "sleep")
 
 
 
 def _createHapticEffect(haptic_settings, extraProperty="rotation"):
-    effect = HapticEffect(haptic_settings["patterns"], haptic_settings["lowerbound"], haptic_settings["upperbound"],
-                          haptic_settings["duration"], haptic_settings[extraProperty])
-    return effect
+    if "haptic" in haptic_settings:
+        haptic_settings = haptic_settings["haptic"]
+        effect = HapticEffect(haptic_settings["patterns"], haptic_settings["lowerbound"], haptic_settings["upperbound"],
+                              haptic_settings["duration"], haptic_settings[extraProperty])
+        return effect
+    else:
+        return None # make sure to remove effect if none are wanted. Should make switching from haptic profile to non haptic profile work
 
 
 for p in impact_patterns:
@@ -93,7 +97,7 @@ iselectrefied = False
 
 
 async def eletrifiiieeeeddddd_iiiiiiiiieeeeeeeeddd(rotation=0, offsetY=0):
-    if isdowned:
+    if isdowned or tasedEffect is None:
         return
     global iselectrefied
     iselectrefied = True
@@ -119,6 +123,8 @@ isdowned = False
 async def downed(rotation=0, offsetY=0):
     if iselectrefied:
         await stop_tased()
+    if downedEffect is None:
+        return
     global isdowned
     isdowned = True
     while isdowned:
