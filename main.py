@@ -177,6 +177,11 @@ async def read_item(amount: str):
     documentAction("health_subtracted "+str(amount))
     return {"received"}
 
+@app.get("/evaluate/stance_crouched/{true_or_false}")
+async def read_item(true_or_false: int):
+    documentAction("stance_crouched "+str(true_or_false))
+    return {"received"}
+
 @app.get("/evaluate/complete_objective/{objective}")
 async def read_item(objective: str):
     documentAction("complete_objective "+str(objective))
