@@ -4,7 +4,7 @@ import random
 import json
 from collections import namedtuple
 
-print("haptic Feedback initialize")
+print("bhapticFeedback initialize")
 
 player.initialize()
 
@@ -55,10 +55,10 @@ def _createHapticEffect(haptic_settings, extraProperty="rotation"):
         haptic_settings = haptic_settings["haptic"]
         effect = HapticEffect(haptic_settings["patterns"], haptic_settings["lowerbound"], haptic_settings["upperbound"],
                               haptic_settings["duration"], haptic_settings[extraProperty])
-        print("hapticFeedback hapic effect created")
+        print("bhapticFeedback hapic effect created")
         return effect
     else:
-        print("hapticFeedback no haptic effect found in profile")
+        print("bhapticFeedback no haptic effect found in profile")
         return None # make sure to remove effect if none are wanted. Should make switching from haptic profile to non haptic profile work
 
 
@@ -66,8 +66,8 @@ for p in impact_patterns:
     player.register(p, "bhapticsPatterns/" + p + ".tact")
 
 
-async def impact_shielded(rotation=0, offsetY=0):
-    print("hapticFeedback impact_shielded")
+async def shielded_hit(rotation=0, offsetY=0):
+    print("bhapticFeedback impact_shielded")
     if isdowned or iselectrefied or shieldedEffect is None:
         return
     pattern = random.choice(shieldedEffect.patterns)
@@ -78,8 +78,8 @@ async def impact_shielded(rotation=0, offsetY=0):
                                          scale_option={"intensity": intensity, "duration": shieldedEffect.duration},
                                          rotation_option={"offsetAngleX": rotation, "offsetY": offsetY})
 
-async def impact_unshielded(rotation=0, offsetY=0):
-    print("hapticFeedback impact_unshielded")
+async def unshielded_hit(rotation=0, offsetY=0):
+    print("bhapticFeedback impact_unshielded")
     if isdowned or iselectrefied or unshieldedEffect is None:
         return
     pattern = random.choice(unshieldedEffect.patterns)
@@ -101,7 +101,7 @@ iselectrefied = False
 
 
 async def eletrifiiieeeeddddd_iiiiiiiiieeeeeeeeddd(rotation=0, offsetY=0):
-    print("hapticFeedback tased")
+    print("bhapticFeedback tased")
     if isdowned or tasedEffect is None:
         return
     global iselectrefied
@@ -116,7 +116,7 @@ async def eletrifiiieeeeddddd_iiiiiiiiieeeeeeeeddd(rotation=0, offsetY=0):
 
 
 async def stop_tased():
-    print("hapticFeedback tase stoped")
+    print("bhapticFeedback tase stoped")
     global iselectrefied
     iselectrefied = False
     player.submit_registered_with_option("Circle","alt",
@@ -127,7 +127,7 @@ isdowned = False
 
 
 async def downed(rotation=0, offsetY=0):
-    print("hapticFeedback downed")
+    print("bhapticFeedback downed")
     if iselectrefied:
         await stop_tased()
     if downedEffect is None:
@@ -146,6 +146,6 @@ async def downed(rotation=0, offsetY=0):
 
 
 async def stop_downed():
-    print("hapticFeedback stop downed")
+    print("bhapticFeedback stop downed")
     global isdowned
     isdowned = False

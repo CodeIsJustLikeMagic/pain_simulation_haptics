@@ -4,3 +4,4 @@ pandas
 numpy
 websocket-client~=0.57.0
 python-osc~=1.7.4
+pyserial

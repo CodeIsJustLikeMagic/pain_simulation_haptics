@@ -16,10 +16,6 @@ void setup() {
     digitalWrite(pin_counterclockwise[i], LOW);
     pinMode(pin_pwm[i], OUTPUT);
     analogWrite(pin_pwm[i], 0);
-
-    digitalWrite(pin_clockwise[i], HIGH);
-    digitalWrite(pin_counterclockwise[i], LOW);
-    analogWrite(pin_pwm[i], 255);
   }
   delay(100);
   Serial.print("> ");
@@ -28,14 +24,8 @@ void setup() {
 String inputString = "";
 void interpretCommand(){
 
-    Serial.print("input String is ");
-    Serial.println(inputString);
     int8_t h_brueke = inputString[0]-48;
-    Serial.print("want to adjust h_brueke ");
-    Serial.println(h_brueke);
     String sub = inputString.substring(1, inputString.length());
-    Serial.print("pwm is ");
-    Serial.println(sub);
     sub.trim();
     uint8_t pwm = sub.toInt();
     if(h_brueke<0 || h_brueke>NUM_H_BRUECKEN-1){
@@ -43,10 +33,6 @@ void interpretCommand(){
     }
 
     if(pwm > 0){
-      Serial.print("pin clockwise ");
-      Serial.println(pin_clockwise[h_brueke]);
-      Serial.print("pin counterclockwise ");
-      Serial.println(pin_counterclockwise[h_brueke]);
       digitalWrite(pin_clockwise[h_brueke], HIGH);
       digitalWrite(pin_counterclockwise[h_brueke], LOW);
       analogWrite(pin_pwm[h_brueke], pwm);

@@ -4,7 +4,8 @@ from typing import Optional
 import datetime
 from fastapi import FastAPI
 import pandas as pd
-import hapticFeedback
+import bhapticsFeedback
+import thermalFeedback
 
 app = FastAPI()
 
@@ -24,55 +25,76 @@ def read_root():
 @app.get("/event/load_profile/{profile}")
 async def read_item(profile:str):
     path = os.path.join(r"C:/Program Files (x86)/Steam/steamapps/common/PAYDAY 2/mods/pain_simulation_payday", profile)
-    t = asyncio.create_task(hapticFeedback.loadProfile(path))
+    t = asyncio.create_task(bhapticsFeedback.loadProfile(path))
+    t = asyncio.create_task(thermalFeedback.loadProfile(path))
     return {"received"}
 
 @app.get("/event/stop_feedback")
 async def read_item():
-    t = asyncio.create_task(hapticFeedback.stop_downed())
-    t = asyncio.create_task(hapticFeedback.stop_tased())
+    t = asyncio.create_task(bhapticsFeedback.stop_downed())
+    t = asyncio.create_task(bhapticsFeedback.stop_tased())
+    t = asyncio.create_task(thermalFeedback.stop_downed())
     return {"recieved"}
 
 #http://localhost:8001/event/damage_taken_shielded
 @app.get("/event/damage_taken_shielded/{rotation}")
 async def read_item(rotation:float):
-    t = asyncio.create_task(hapticFeedback.impact_shielded(rotation))
+    t = asyncio.create_task(bhapticsFeedback.shielded_hit(rotation))
+    t2 = asyncio.create_task(thermalFeedback.shielded_hit())
     return {"received"}
 
 @app.get("/event/damage_taken_unshielded/{rotation}")
 async def read_item(rotation:float):
-    t = asyncio.create_task(hapticFeedback.impact_unshielded(rotation))
+    t = asyncio.create_task(bhapticsFeedback.unshielded_hit(rotation))
+    t2 = asyncio.create_task(thermalFeedback.unshielded_hit())
     return {"received"}
 
 @app.get("/event/downed")
 async def read_item():
-    t = asyncio.create_task(hapticFeedback.downed())
+    t = asyncio.create_task(bhapticsFeedback.downed())
+    t2 = asyncio.create_task(thermalFeedback.stop_downed())
     return {"received"}
 
 @app.get("/event/revived")
 async def read_item():
     # no longer downed
-    t = asyncio.create_task(hapticFeedback.stop_downed())
+    t = asyncio.create_task(bhapticsFeedback.stop_downed())
+    t2 = asyncio.create_task(thermalFeedback.stop_downed())
     return {"received"}
 
 @app.get("/event/arrested")
 async def read_item():
-    t = asyncio.create_task(hapticFeedback.stop_downed())
+    t = asyncio.create_task(bhapticsFeedback.stop_downed())
+    t2 = asyncio.create_task(thermalFeedback.stop_downed())
     return {"received"}
 
 @app.get("/event/custody")
 async def read_item():
-    t = asyncio.create_task(hapticFeedback.stop_downed())
+    t = asyncio.create_task(bhapticsFeedback.stop_downed())
+    t2 = asyncio.create_task(thermalFeedback.stop_downed())
     return {"received"}
 
 @app.get("/event/tased")
 async def read_item():
-    t = asyncio.create_task(hapticFeedback.eletrifiiieeeeddddd_iiiiiiiiieeeeeeeeddd())
+    t = asyncio.create_task(bhapticsFeedback.eletrifiiieeeeddddd_iiiiiiiiieeeeeeeeddd())
+    t2 = asyncio.create_task(thermalFeedback.eletrifiiieeeeddddd_iiiiiiiiieeeeeeeeddd())
     return {"received"}
 
 @app.get("/event/tasestoped")
 async def read_item():
-    t = asyncio.create_task(hapticFeedback.stop_tased())
+    t = asyncio.create_task(bhapticsFeedback.stop_tased())
+    t2 = asyncio.create_task(thermalFeedback.stop_tased())
+    return {"received"}
+
+
+@app.get("/debug/coldstart")
+async def read_item():
+    t = asyncio.create_task(thermalFeedback.startCold())
+    return {"received"}
+
+@app.get("/debug/coldstop")
+async def read_item():
+    t = asyncio.create_task(thermalFeedback.stopCold())
     return {"received"}
 
 #endregion
