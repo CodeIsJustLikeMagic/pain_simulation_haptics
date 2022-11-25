@@ -52,7 +52,7 @@ async def read_item(rotation:float):
 @app.get("/event/downed")
 async def read_item():
     t = asyncio.create_task(bhapticsFeedback.downed())
-    t2 = asyncio.create_task(thermalFeedback.stop_downed())
+    t2 = asyncio.create_task(thermalFeedback.downed())
     return {"received"}
 
 @app.get("/event/revived")
@@ -87,6 +87,28 @@ async def read_item():
     return {"received"}
 
 
+
+@app.get("/debug/bhapticintensity/{factor}")
+async def read_item(factor:float):
+    t = asyncio.create_task(bhapticsFeedback.modifyIntensity(factor)) # range of 0 to 1
+    return {"received"}
+
+@app.get("/debug/thermalintensity/{pwm}")
+async def read_item(pwm:int):
+    t = asyncio.create_task(thermalFeedback.modifyIntensity(pwm)) # range of o to 255
+    return {"received"}
+
+@app.get("/debug/restintensities")
+async def read_item():
+    t = asyncio.create_task(bhapticsFeedback.modifyIntensity(1))
+    t = asyncio.create_task(thermalFeedback.modifyIntensity(255))
+    return {"received"}
+
+@app.get("/debug/bhaptic")
+async def read_item():
+    t = asyncio.create_task(bhapticsFeedback.debug_play())
+    return {"received"}
+
 @app.get("/debug/coldstart")
 async def read_item():
     t = asyncio.create_task(thermalFeedback.startCold())
@@ -95,6 +117,16 @@ async def read_item():
 @app.get("/debug/coldstop")
 async def read_item():
     t = asyncio.create_task(thermalFeedback.stopCold())
+    return {"received"}
+
+@app.get("/debug/coldleft")
+async def read_item():
+    t = asyncio.create_task(thermalFeedback.startCold([0]))
+    return {"received"}
+
+@app.get("/debug/coldright")
+async def read_item():
+    t = asyncio.create_task(thermalFeedback.startCold([1]))
     return {"received"}
 
 #endregion

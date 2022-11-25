@@ -18,6 +18,9 @@ player.register("Heartbeat3", "bhapticsPatterns/Heartbeat3.tact")
 
 impact_patterns = ["Impact1", "Impact2", "Impact3"]
 
+for p in impact_patterns:
+    player.register(p, "bhapticsPatterns/" + p + ".tact")
+
 kinda_fire = ["Impact6", "Impact7"]
 
 player.register("Piercing1", "bhapticsPatterns/Piercing1.tact")
@@ -31,6 +34,8 @@ tasedEffect: HapticEffect = None
 downedEffect: HapticEffect = None
 
 
+intensityFactor = 1 # can be set through /debug/bhapticintensity/{factor} to kalibrate
+
 # is run when game is loaded
 async def loadProfile(path):
     print(f"loaded profile from {path}")
@@ -39,15 +44,22 @@ async def loadProfile(path):
     global tasedEffect
     global downedEffect
 
-    profileFile = open(path)
-    profile = json.load(profileFile)
-    profileFile.close()
+    try:
+        profileFile = open(path)
+        profile = json.load(profileFile)
+        profileFile.close()
+        shieldedEffect = _createHapticEffect(profile["shielded"], "rotation")
+        unshieldedEffect = _createHapticEffect(profile["unshielded"], "rotation")
+        tasedEffect = _createHapticEffect(profile["tased"], "sleep")
+        downedEffect = _createHapticEffect(profile["downed"], "sleep")
 
-    shieldedEffect = _createHapticEffect(profile["shielded"], "rotation")
-    unshieldedEffect = _createHapticEffect(profile["unshielded"], "rotation")
-    tasedEffect = _createHapticEffect(profile["tased"], "sleep")
-    downedEffect = _createHapticEffect(profile["downed"], "sleep")
-
+    except FileNotFoundError:
+        print(f"Error!!!! could not find profile {path}")
+        shieldedEffect = None
+        unshieldedEffect = None
+        tasedEffect = None
+        downedEffect = None
+        print("bhapticFeedback disabled")
 
 
 def _createHapticEffect(haptic_settings, extraProperty="rotation"):
@@ -62,8 +74,7 @@ def _createHapticEffect(haptic_settings, extraProperty="rotation"):
         return None # make sure to remove effect if none are wanted. Should make switching from haptic profile to non haptic profile work
 
 
-for p in impact_patterns:
-    player.register(p, "bhapticsPatterns/" + p + ".tact")
+
 
 
 async def shielded_hit(rotation=0, offsetY=0):
@@ -75,7 +86,7 @@ async def shielded_hit(rotation=0, offsetY=0):
     if shieldedEffect.extra == "false":
         rotation = 0
     player.submit_registered_with_option(pattern, "alt",
-                                         scale_option={"intensity": intensity, "duration": shieldedEffect.duration},
+                                         scale_option={"intensity": intensity * intensityFactor, "duration": shieldedEffect.duration},
                                          rotation_option={"offsetAngleX": rotation, "offsetY": offsetY})
 
 async def unshielded_hit(rotation=0, offsetY=0):
@@ -84,10 +95,10 @@ async def unshielded_hit(rotation=0, offsetY=0):
         return
     pattern = random.choice(unshieldedEffect.patterns)
     intensity = random.uniform(unshieldedEffect.lowerbound, unshieldedEffect.upperbound)
-    if unshieldedEffect.extra == "false":
+    if unshieldedEffect.extra == "false": # locks the rotation to front facing, if specified in the profile
         rotation = 0
     player.submit_registered_with_option(pattern, "alt",
-                                         scale_option={"intensity": intensity, "duration": unshieldedEffect.duration},
+                                         scale_option={"intensity": intensity * intensityFactor, "duration": unshieldedEffect.duration},
                                          rotation_option={"offsetAngleX": rotation, "offsetY": offsetY})
 
     # direction means how long the pattern takes
@@ -110,7 +121,7 @@ async def eletrifiiieeeeddddd_iiiiiiiiieeeeeeeeddd(rotation=0, offsetY=0):
         pattern = random.choice(tasedEffect.patterns)
         intensity = random.uniform(tasedEffect.lowerbound, tasedEffect.upperbound)
         player.submit_registered_with_option(pattern, "alt",
-                                             scale_option={"intensity": intensity, "duration": tasedEffect.duration},
+                                             scale_option={"intensity": intensity * intensityFactor, "duration": tasedEffect.duration},
                                              rotation_option={"offsetAngleX": rotation, "offsetY": offsetY})
         await asyncio.sleep(tasedEffect.extra)
 
@@ -140,7 +151,7 @@ async def downed(rotation=0, offsetY=0):
         intensity = random.uniform(downedEffect.lowerbound, downedEffect.upperbound)
         print(f"downed {pattern} intensity {intensity} duration {downedEffect.duration} rotation {rotation}")
         player.submit_registered_with_option(pattern, "alt",
-                                             scale_option={"intensity": intensity, "duration": downedEffect.duration},
+                                             scale_option={"intensity": intensity * intensityFactor, "duration": downedEffect.duration},
                                              rotation_option={"offsetAngleX": rotation, "offsetY": offsetY})
         await asyncio.sleep(downedEffect.extra)
 
@@ -149,3 +160,24 @@ async def stop_downed():
     print("bhapticFeedback stop downed")
     global isdowned
     isdowned = False
+
+
+async def debug_play():
+    # play an impact pattern with random rotation and max intensity
+    # works regardless of active profile
+    # will stop active feedback patterns
+    await stop_downed()
+    await stop_tased()
+
+    print("bhapticFeedback debug impact_unshielded")
+
+    pattern = random.choice(impact_patterns)
+    intensity = random.uniform(0.7, 1.0)
+    player.submit_registered_with_option(pattern, "alt",
+                                         scale_option={"intensity": intensity * intensityFactor, "duration": 0.5},
+                                         rotation_option={"offsetAngleX": random.uniform(0,360), "offsetY": 0})
+
+# temporarily change intensity through kalibration step
+async def modifyIntensity(factor):
+    global intensityFactor
+    intensityFactor = factor

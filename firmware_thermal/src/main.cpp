@@ -32,9 +32,10 @@ void interpretCommand(){
       return;
     }
 
-    if(pwm > 0){
-      digitalWrite(pin_clockwise[h_brueke], HIGH);
-      digitalWrite(pin_counterclockwise[h_brueke], LOW);
+    if(pwm > 0){ // peltier elment anschluss: schwarz auf ausgang A und rot bei ausgang B
+      // dann wird die seite mit dem Schriftzug kalt 
+      digitalWrite(pin_clockwise[h_brueke], LOW);
+      digitalWrite(pin_counterclockwise[h_brueke], HIGH);
       analogWrite(pin_pwm[h_brueke], pwm);
       
       Serial.print("Hbruecke ");
