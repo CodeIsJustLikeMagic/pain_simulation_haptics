@@ -98,7 +98,7 @@ async def read_item(pwm:int):
     t = asyncio.create_task(thermalFeedback.modifyIntensity(pwm)) # range of o to 255
     return {"received"}
 
-@app.get("/debug/restintensities")
+@app.get("/debug/resetintensities")
 async def read_item():
     t = asyncio.create_task(bhapticsFeedback.modifyIntensity(1))
     t = asyncio.create_task(thermalFeedback.modifyIntensity(255))

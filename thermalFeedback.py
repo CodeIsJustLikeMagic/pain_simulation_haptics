@@ -94,7 +94,7 @@ async def shielded_hit():
 async def unshielded_hit():
     t = asyncio.create_task(shielded_hit())
 
-def downed():
+async def downed():
     global last_cold_trigger
     t = asyncio.create_task(startCold())
     last_cold_trigger = time.time()
