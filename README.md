@@ -16,6 +16,8 @@ Before starting pain_simulation_haptics: turn bHaptics Player on, and connect ha
 Then start pain_simulation_haptics before entering Payday Heist. (The Server needs to recieve the "load_profile" call to know which feedback profile should be loaded and used.)
 
 
+https://www.soscisurvey.de/schmerz-simulation-pfeifer/
+
 --------------
 
 Setup: 
