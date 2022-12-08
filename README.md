@@ -15,8 +15,13 @@ Run:
 Before starting pain_simulation_haptics: turn bHaptics Player on, and connect hapitc Vest. Also connect Arduino and start the power supply for the Peltier devices.  
 Then start pain_simulation_haptics before entering Payday Heist. (The Server needs to recieve the "load_profile" call to know which feedback profile should be loaded and used.)
 
+---------------
+Evaluierungslinks:
 
-https://www.soscisurvey.de/schmerz-simulation-pfeifer/
+- https://www.soscisurvey.de/schmerz-simulation-pfeifer/
+- https://www.soscisurvey.de/schmerz-simulation-pfeifer/?q=BCDA
+- https://www.soscisurvey.de/schmerz-simulation-pfeifer/?q=CDAB
+- https://www.soscisurvey.de/schmerz-simulation-pfeifer/?q=DABC
 
 --------------
 
