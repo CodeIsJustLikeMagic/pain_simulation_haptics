@@ -1,0 +1,1691 @@
+,Player,Profile,Time,Event
+0,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:06:38.724533,stance_crouched 0
+1,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:06:42.038283,stance_crouched 0
+2,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:06:42.131305,activate_objective Enter_the_bank
+3,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:06:53.912444,complete_objective Enter_the_bank
+4,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:06:54.923674,activate_objective Inspect_the_second_floor
+5,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:06:55.882891,stance_crouched 0
+6,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:06:56.485028,weapon_fired 0
+7,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:06:56.576049,weapon_fired 0
+8,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:06:56.613058,stance_crouched 0
+9,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:03.923715,weapon_fired 1
+10,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:03.929715,killed an enemy
+11,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:03.999732,weapon_fired 0
+12,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:04.069748,weapon_fired 0
+13,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:04.132762,weapon_fired 0
+14,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:05.965177,stance_crouched 0
+15,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:06.605323,weapon_fired 0
+16,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:06.683340,weapon_fired 0
+17,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:06.731352,stance_crouched 0
+18,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:07.325486,stance_crouched 0
+19,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:08.104663,weapon_fired 0
+20,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:08.182680,stance_crouched 0
+21,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:09.532494,stance_crouched 0
+22,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:10.468708,weapon_fired 0
+23,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:11.305278,weapon_fired 0
+24,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:11.367291,weapon_fired 0
+25,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:11.440817,weapon_fired 0
+26,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:11.513839,weapon_fired 0
+27,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:11.592539,weapon_fired 0
+28,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:12.312702,enemy_headshot
+29,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:12.317703,weapon_fired 1
+30,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:12.321705,hp 460
+31,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:12.324706,armor 117
+32,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:12.391721,weapon_fired 0
+33,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:12.466738,weapon_fired 0
+34,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:12.533752,weapon_fired 0
+35,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:12.606769,weapon_fired 0
+36,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:12.637776,stance_crouched 0
+37,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:14.939249,stance_crouched 0
+38,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:15.070576,stance_crouched 0
+39,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:15.338768,stance_crouched 0
+40,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:16.208430,weapon_fired 0
+41,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:16.288447,weapon_fired 0
+42,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:16.304452,stance_crouched 0
+43,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:16.354463,hp 460
+44,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:16.356463,armor 117
+45,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:16.363465,shielded hit
+46,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:16.372467,hp 460
+47,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:16.374468,armor 117
+48,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:16.378469,hp 460
+49,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:16.381470,armor 117
+50,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:16.385469,health_subtracted 0
+51,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:17.189652,hp 460
+52,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:17.192653,armor 109
+53,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:17.197655,shielded hit
+54,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:17.203656,hp 460
+55,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:17.206656,armor 109
+56,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:17.211657,hp 460
+57,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:17.213658,armor 109
+58,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:17.217658,health_subtracted 0
+59,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:17.681763,shielded hit
+60,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:17.686765,hp 460
+61,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:17.689766,armor 99
+62,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:17.693767,hp 460
+63,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:17.697768,armor 99
+64,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:17.703769,hp 460
+65,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:17.707770,armor 99
+66,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:17.711771,health_subtracted 0
+67,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:18.549961,hp 460
+68,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:18.551961,armor 91
+69,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:18.559963,shielded hit
+70,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:18.575967,hp 460
+71,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:18.578967,armor 91
+72,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:18.583969,hp 460
+73,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:18.585970,armor 91
+74,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:18.588970,health_subtracted 0
+75,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.003063,hp 460
+76,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.006064,armor 87
+77,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.010065,shielded hit
+78,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.018067,hp 460
+79,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.021068,armor 87
+80,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.025068,hp 460
+81,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.028069,armor 87
+82,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.033070,health_subtracted 0
+83,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.506177,hp 460
+84,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.509179,armor 57
+85,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.517180,shielded hit
+86,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.528183,hp 460
+87,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.531183,armor 57
+88,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.538185,hp 460
+89,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.541185,armor 57
+90,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.545186,health_subtracted 0
+91,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.667214,hp 460
+92,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.670215,armor 54
+93,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.674216,shielded hit
+94,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.685219,hp 460
+95,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.688219,armor 54
+96,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.693220,hp 460
+97,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.696220,armor 54
+98,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:19.700221,health_subtracted 0
+99,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:20.934502,complete_objective Inspect_the_second_floor
+100,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:21.659665,hp 460
+101,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:21.662668,armor 23
+102,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:21.666667,auto regenerate armor
+103,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:21.941731,activate_objective Cut_a_hole_in_the_floor
+104,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:48.068714,complete_objective Cut_a_hole_in_the_floor
+105,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:49.072941,activate_objective Defend_the_cutter
+106,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:51.141411,hp 460
+107,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:51.144412,armor 117
+108,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:51.148413,shielded hit
+109,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:51.158415,hp 460
+110,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:51.161416,armor 117
+111,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:51.177419,hp 460
+112,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:51.180419,armor 117
+113,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:51.185421,health_subtracted 0
+114,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:51.616520,hp 460
+115,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:51.618519,armor 87
+116,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:51.621521,shielded hit
+117,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:51.632521,hp 460
+118,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:51.635523,armor 87
+119,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:51.642524,hp 460
+120,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:51.645527,armor 87
+121,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:51.648525,health_subtracted 0
+122,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:53.816017,stance_crouched 0
+123,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:54.086079,hp 460
+124,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:54.088080,armor 57
+125,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:54.092080,auto regenerate armor
+126,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:54.295126,weapon_fired 0
+127,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:54.372143,weapon_fired 0
+128,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:54.448160,stance_crouched 0
+129,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:54.885260,stance_crouched 0
+130,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.034294,hp 460
+131,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.036294,armor 117
+132,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.041296,shielded hit
+133,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.048296,hp 460
+134,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.050298,armor 117
+135,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.059299,health_subtracted 0
+136,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.063301,hp 460
+137,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.065301,armor 117
+138,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.266346,weapon_fired 0
+139,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.335361,weapon_fired 1
+140,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.415380,stance_crouched 0
+141,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.620427,hp 460
+142,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.622427,armor 109
+143,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.626428,shielded hit
+144,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.635430,hp 460
+145,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.639430,armor 109
+146,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.644432,hp 460
+147,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.648432,armor 109
+148,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.652434,health_subtracted 0
+149,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.661436,stance_crouched 0
+150,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.834475,weapon_fired 1
+151,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.838476,killed an enemy
+152,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.900490,weapon_fired 0
+153,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:55.937498,stance_crouched 0
+154,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:56.913720,stance_crouched 0
+155,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:57.311811,weapon_fired 0
+156,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:57.384826,weapon_fired 0
+157,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:57.467845,weapon_fired 0
+158,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:57.534861,weapon_fired 0
+159,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:57.553866,stance_crouched 0
+160,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:58.096988,hp 460
+161,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:58.099989,armor 99
+162,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:07:58.102990,auto regenerate armor
+163,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:01.107671,stance_crouched 0
+164,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:01.390735,weapon_fired 0
+165,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:01.466751,weapon_fired 0
+166,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:01.543770,weapon_fired 0
+167,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:01.622787,killed an enemy
+168,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:01.627788,weapon_fired 1
+169,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:01.706806,weapon_fired 0
+170,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:01.717808,stance_crouched 0
+171,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:03.271161,stance_crouched 0
+172,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:03.389188,weapon_fired 0
+173,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:03.467205,weapon_fired 0
+174,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:03.511216,hp 460
+175,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:03.514216,armor 117
+176,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:03.518217,auto regenerate armor
+177,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:03.550226,weapon_fired 0
+178,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:03.617239,weapon_fired 0
+179,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:03.689256,weapon_fired 0
+180,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:03.752270,weapon_fired 0
+181,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:03.822287,weapon_fired 0
+182,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:03.888302,weapon_fired 0
+183,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:03.900303,stance_crouched 0
+184,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:06.130810,stance_crouched 0
+185,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:06.668441,weapon_fired 0
+186,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:06.742458,weapon_fired 0
+187,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:06.816474,stance_crouched 0
+188,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:08.518627,stance_crouched 0
+189,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:08.645655,weapon_fired 0
+190,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:08.729674,weapon_fired 0
+191,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:08.795689,weapon_fired 0
+192,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:08.869706,weapon_fired 0
+193,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:08.892711,stance_crouched 0
+194,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:09.537858,stance_crouched 0
+195,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:09.616875,weapon_fired 0
+196,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:09.689891,weapon_fired 0
+197,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:09.766910,weapon_fired 0
+198,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:09.838925,killed an enemy
+199,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:09.843926,weapon_fired 1
+200,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:09.903940,weapon_fired 0
+201,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:09.969955,killed an enemy
+202,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:09.974956,weapon_fired 1
+203,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:10.205008,weapon_fired 0
+204,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:10.275025,weapon_fired 0
+205,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:10.349041,killed an enemy
+206,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:10.354042,weapon_fired 1
+207,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:10.424058,weapon_fired 0
+208,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:10.497075,weapon_fired 0
+209,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:10.538084,stance_crouched 0
+210,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:11.611328,stance_crouched 0
+211,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:11.689245,weapon_fired 0
+212,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:11.773265,weapon_fired 0
+213,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:11.850282,killed an enemy
+214,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:11.855283,weapon_fired 1
+215,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:11.916297,weapon_fired 0
+216,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:11.983312,weapon_fired 0
+217,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:12.032324,stance_crouched 0
+218,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:12.655476,hp 460
+219,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:12.658476,armor 117
+220,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:12.663478,auto regenerate armor
+221,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:12.888596,stance_crouched 0
+222,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:13.104648,weapon_fired 0
+223,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:13.167754,weapon_fired 0
+224,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:13.241772,weapon_fired 0
+225,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:13.316788,weapon_fired 0
+226,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:13.383803,weapon_fired 0
+227,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:13.421831,stance_crouched 0
+228,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:14.256765,stance_crouched 0
+229,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:14.456810,killed an enemy
+230,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:14.460812,weapon_fired 1
+231,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:14.532828,weapon_fired 0
+232,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:14.589840,weapon_fired 0
+233,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:14.662857,weapon_fired 0
+234,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:15.238988,killed an enemy
+235,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:15.242989,weapon_fired 1
+236,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:15.321006,weapon_fired 0
+237,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:15.390021,weapon_fired 0
+238,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:15.470039,stance_crouched 0
+239,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:16.398250,hp 460
+240,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:16.402251,armor 117
+241,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:16.406253,auto regenerate armor
+242,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:18.288680,stance_crouched 0
+243,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:18.798795,weapon_fired 0
+244,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:18.877812,weapon_fired 0
+245,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:18.931825,stance_crouched 0
+246,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:19.943053,stance_crouched 0
+247,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:20.016071,weapon_fired 1
+248,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:20.101090,killed an enemy
+249,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:20.105091,weapon_fired 1
+250,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:20.170105,weapon_fired 0
+251,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:20.243122,weapon_fired 0
+252,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:20.312137,weapon_fired 0
+253,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:20.376152,weapon_fired 0
+254,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:20.444167,weapon_fired 0
+255,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:20.511183,weapon_fired 0
+256,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:20.584200,weapon_fired 0
+257,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:20.595202,stance_crouched 0
+258,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:31.785740,hp 460
+259,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:31.787740,armor 117
+260,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:31.791740,shielded hit
+261,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:31.797742,hp 460
+262,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:31.800743,armor 117
+263,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:31.804743,hp 460
+264,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:31.807745,armor 117
+265,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:31.812746,health_subtracted 0
+266,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:32.891991,hp 460
+267,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:32.895991,armor 113
+268,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:32.902992,shielded hit
+269,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:32.917996,hp 460
+270,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:32.921997,armor 113
+271,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:32.925998,hp 460
+272,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:32.927998,armor 113
+273,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:32.934000,health_subtracted 0
+274,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:36.121722,stance_crouched 1
+275,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:36.984919,stance_crouched 1
+276,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:37.275984,stance_crouched 1
+277,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:37.481031,stance_crouched 0
+278,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:37.943135,hp 460
+279,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:37.946136,armor 103
+280,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:37.951137,auto regenerate armor
+281,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:38.471255,stance_crouched 1
+282,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:39.531495,hp 460
+283,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:39.534496,armor 117
+284,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:39.543498,shielded hit
+285,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:39.553501,hp 460
+286,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:39.556502,armor 117
+287,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:39.563504,hp 460
+288,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:39.565504,armor 117
+289,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:39.570504,health_subtracted 0
+290,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:39.582507,stance_crouched 1
+291,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:39.810559,stance_crouched 1
+292,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:40.312673,shielded hit
+293,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:40.317673,hp 460
+294,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:40.320675,armor 109
+295,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:40.325675,hp 460
+296,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:40.328676,armor 109
+297,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:40.332678,hp 460
+298,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:40.335678,armor 109
+299,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:40.340679,health_subtracted 0
+300,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:40.677756,stance_crouched 0
+301,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:40.757773,hp 460
+302,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:40.760775,armor 99
+303,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:40.765775,shielded hit
+304,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:40.775778,hp 460
+305,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:40.778779,armor 99
+306,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:40.784779,hp 460
+307,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:40.787780,armor 99
+308,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:40.791781,health_subtracted 0
+309,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:41.382916,hp 460
+310,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:41.385916,armor 69
+311,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:41.388918,shielded hit
+312,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:41.396918,hp 460
+313,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:41.399919,armor 69
+314,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:41.404920,hp 460
+315,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:41.407921,armor 69
+316,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:41.411923,health_subtracted 0
+317,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:41.931040,hp 460
+318,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:41.933040,armor 49
+319,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:41.937041,shielded hit
+320,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:41.946043,hp 460
+321,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:41.949043,armor 49
+322,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:41.954044,hp 460
+323,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:41.956045,armor 49
+324,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:41.961047,health_subtracted 0
+325,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:42.406654,hp 460
+326,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:42.408656,armor 29
+327,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:42.412655,shielded hit
+328,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:42.422658,hp 460
+329,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:42.424658,armor 29
+330,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:42.428658,hp 460
+331,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:42.431387,armor 29
+332,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:42.435387,health_subtracted 0
+333,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:42.903494,hp 460
+334,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:42.908494,armor 25
+335,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:42.912495,shielded hit
+336,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:42.919497,hp 460
+337,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:42.922497,armor 25
+338,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:42.927499,hp 460
+339,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:42.929500,armor 25
+340,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:42.943503,health_subtracted 0
+341,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:43.614655,stance_crouched 0
+342,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:43.768690,hp 460
+343,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:43.771691,armor 0
+344,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:43.782692,unshielded hit
+345,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:43.785694,hp 435
+346,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:43.789694,armor 0
+347,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:43.797697,health_subtracted 2.5
+348,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:43.803697,hp 449
+349,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:43.806698,armor 0
+350,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:43.812701,hp 449
+351,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:43.815700,armor 0
+352,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:43.820702,hp 449
+353,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:43.822702,armor 0
+354,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:43.829704,hp 449
+355,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:43.832704,armor 0
+356,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:44.162779,stance_crouched 0
+357,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:44.359824,stance_crouched 1
+358,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:44.997968,stance_crouched 1
+359,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:45.290034,weapon_fired 0
+360,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:45.365052,killed an enemy
+361,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:45.369052,weapon_fired 1
+362,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:45.442069,weapon_fired 0
+363,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:45.504084,weapon_fired 0
+364,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:45.589102,stance_crouched 1
+365,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:46.745364,stance_crouched 1
+366,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:46.930407,weapon_fired 0
+367,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:47.005424,weapon_fired 0
+368,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:47.070439,weapon_fired 0
+369,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:47.135452,weapon_fired 0
+370,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:47.162459,stance_crouched 1
+371,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:47.554597,stance_crouched 1
+372,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:47.919770,weapon_fired 0
+373,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:47.988076,weapon_fired 0
+374,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.052090,weapon_fired 0
+375,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.109104,stance_crouched 1
+376,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.389171,stance_crouched 1
+377,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.451187,hp 449
+378,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.453187,armor 0
+379,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.457189,hp 449
+380,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.460189,armor 0
+381,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.464190,auto regenerate armor
+382,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.537206,weapon_fired 0
+383,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.621224,weapon_fired 0
+384,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.675236,weapon_fired 0
+385,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.740251,weapon_fired 0
+386,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.769259,hp 460
+387,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.772258,armor 113
+388,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.777260,hp 460
+389,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.780261,armor 113
+390,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.787263,hp 460
+391,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.790264,armor 113
+392,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.805266,hp 460
+393,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.808267,armor 113
+394,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.850276,weapon_fired 0
+395,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.912291,weapon_fired 0
+396,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:48.977305,weapon_fired 0
+397,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:49.041320,weapon_fired 0
+398,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:49.105335,weapon_fired 0
+399,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:49.170349,weapon_fired 0
+400,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:49.241365,weapon_fired 0
+401,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:49.304380,weapon_fired 0
+402,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:49.392401,weapon_fired 0
+403,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:49.447413,weapon_fired 0
+404,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:49.513427,weapon_fired 0
+405,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:49.587444,weapon_fired 0
+406,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:49.649458,weapon_fired 0
+407,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:49.721475,weapon_fired 0
+408,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:49.792490,weapon_fired 0
+409,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:49.851503,weapon_fired 0
+410,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:49.929522,weapon_fired 0
+411,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:49.998537,weapon_fired 0
+412,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:50.069553,weapon_fired 0
+413,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:50.142569,weapon_fired 0
+414,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:50.216586,weapon_fired 0
+415,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:50.285602,weapon_fired 0
+416,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:50.355618,weapon_fired 0
+417,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:50.425633,weapon_fired 0
+418,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:50.497650,weapon_fired 0
+419,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:50.569666,weapon_fired 0
+420,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:50.636682,weapon_fired 0
+421,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:50.705697,weapon_fired 0
+422,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:50.774713,weapon_fired 0
+423,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:50.823724,stance_crouched 1
+424,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:51.241819,stance_crouched 0
+425,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:51.669916,hp 460
+426,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:51.672917,armor 117
+427,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:51.676917,auto regenerate armor
+428,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:52.048001,stance_crouched 1
+429,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:52.837181,stance_crouched 0
+430,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:54.657593,stance_crouched 1
+431,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:55.479780,stance_crouched 1
+432,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:55.699829,weapon_fired 1
+433,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:55.780848,weapon_fired 1
+434,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:55.785849,killed an enemy
+435,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:55.845863,weapon_fired 0
+436,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:55.925880,weapon_fired 0
+437,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:56.000898,stance_crouched 1
+438,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:56.019902,hp 460
+439,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:56.022903,armor 117
+440,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:56.027904,auto regenerate armor
+441,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:57.328200,stance_crouched 1
+442,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:57.907330,weapon_fired 0
+443,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:57.969344,weapon_fired 0
+444,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:58.038360,weapon_fired 0
+445,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:58.391440,weapon_fired 1
+446,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:58.475459,weapon_fired 0
+447,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:58.546475,weapon_fired 0
+448,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:58.606489,weapon_fired 0
+449,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:58.677505,weapon_fired 0
+450,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:08:58.767525,stance_crouched 1
+451,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:04.180752,stance_crouched 1
+452,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:04.468817,weapon_fired 0
+453,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:04.546836,weapon_fired 1
+454,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:04.620852,killed an enemy
+455,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:04.623853,weapon_fired 1
+456,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:04.691869,weapon_fired 0
+457,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:04.819898,stance_crouched 1
+458,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:06.840361,stance_crouched 1
+459,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:06.997396,stance_crouched 1
+460,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:08.758796,stance_crouched 0
+461,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:10.112102,stance_crouched 1
+462,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:13.644903,hp 460
+463,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:13.647904,armor 117
+464,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:13.650905,shielded hit
+465,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:13.657907,hp 460
+466,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:13.660908,armor 117
+467,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:13.665909,hp 460
+468,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:13.668910,armor 117
+469,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:13.672910,health_subtracted 0
+470,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:13.681912,stance_crouched 1
+471,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:13.898961,weapon_fired 0
+472,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:13.954975,killed an enemy
+473,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:13.957975,weapon_fired 1
+474,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:14.034993,weapon_fired 0
+475,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:14.096007,weapon_fired 0
+476,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:14.168022,weapon_fired 0
+477,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:14.247040,weapon_fired 0
+478,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:14.316056,weapon_fired 0
+479,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:14.380070,weapon_fired 0
+480,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:14.455087,weapon_fired 0
+481,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:14.518101,killed an enemy
+482,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:14.524103,weapon_fired 1
+483,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:14.592119,weapon_fired 0
+484,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:14.654132,weapon_fired 0
+485,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:14.717148,stance_crouched 1
+486,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:15.343288,stance_crouched 0
+487,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:15.976432,stance_crouched 1
+488,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:16.158473,hp 460
+489,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:16.161476,armor 113
+490,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:16.165475,auto regenerate armor
+491,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:20.577840,stance_crouched 1
+492,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:20.807892,weapon_fired 0
+493,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:20.890911,weapon_fired 0
+494,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:20.962927,hp 460
+495,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:20.965927,armor 117
+496,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:20.969929,enemy_headshot
+497,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:20.974930,killed an enemy
+498,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:20.978931,weapon_fired 1
+499,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:21.041945,killed an enemy
+500,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:21.045946,weapon_fired 1
+501,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:21.115961,weapon_fired 0
+502,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:21.188978,weapon_fired 0
+503,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:21.258995,weapon_fired 0
+504,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:21.317007,weapon_fired 0
+505,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:21.387023,weapon_fired 0
+506,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:21.892137,hp 460
+507,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:21.895138,armor 117
+508,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:21.898139,shielded hit
+509,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:21.909142,hp 460
+510,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:21.912142,armor 117
+511,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:21.917143,hp 460
+512,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:21.920143,armor 117
+513,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:21.924144,health_subtracted 0
+514,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:21.981158,killed an enemy
+515,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:21.986159,weapon_fired 1
+516,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:22.070179,weapon_fired 0
+517,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:22.128191,weapon_fired 0
+518,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:22.206209,weapon_fired 0
+519,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:22.271223,weapon_fired 0
+520,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:22.287228,stance_crouched 1
+521,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:22.899366,stance_crouched 1
+522,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.092356,hp 460
+523,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.095356,armor 107
+524,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.098357,shielded hit
+525,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.106359,hp 460
+526,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.109360,armor 107
+527,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.112359,hp 460
+528,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.115360,armor 107
+529,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.119361,health_subtracted 0
+530,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.543328,hp 460
+531,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.546328,armor 103
+532,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.549330,shielded hit
+533,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.559331,hp 460
+534,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.562332,armor 103
+535,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.576335,hp 460
+536,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.579337,armor 103
+537,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.584337,health_subtracted 0
+538,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.589339,weapon_fired 1
+539,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.658354,killed an enemy
+540,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.662355,weapon_fired 1
+541,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:23.729370,weapon_fired 1
+542,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:24.475379,stance_crouched 1
+543,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:25.571253,hp 460
+544,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:25.574254,armor 95
+545,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:25.578254,auto regenerate armor
+546,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:25.619265,stance_crouched 1
+547,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:25.879323,weapon_fired 0
+548,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:25.951339,hp 460
+549,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:25.954340,armor 117
+550,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:25.957341,shielded hit
+551,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:25.977344,hp 460
+552,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:25.980346,armor 117
+553,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:25.984347,health_subtracted 0
+554,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:25.987347,hp 460
+555,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:25.990349,armor 117
+556,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:25.995349,weapon_fired 0
+557,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:26.066365,weapon_fired 1
+558,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:26.072367,killed an enemy
+559,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:26.128380,weapon_fired 0
+560,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:26.192394,weapon_fired 0
+561,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:26.255408,weapon_fired 0
+562,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:26.305419,stance_crouched 1
+563,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:27.317477,stance_crouched 1
+564,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:27.473512,weapon_fired 0
+565,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:27.546529,weapon_fired 0
+566,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:27.627547,weapon_fired 0
+567,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:27.704565,weapon_fired 0
+568,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:27.772580,weapon_fired 0
+569,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:27.845597,weapon_fired 0
+570,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:27.924614,weapon_fired 0
+571,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:28.129662,weapon_fired 1
+572,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:28.199677,weapon_fired 0
+573,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:28.277694,weapon_fired 0
+574,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:28.337708,killed an enemy
+575,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:28.342710,weapon_fired 1
+576,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:28.424729,stance_crouched 1
+577,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:28.452734,hp 460
+578,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:28.455735,armor 107
+579,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:28.459736,auto regenerate armor
+580,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:29.089879,complete_objective Defend_the_cutter
+581,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:30.058098,activate_objective Remove_the_cutter
+582,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:33.632309,shielded hit
+583,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:33.637310,hp 460
+584,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:33.640310,armor 117
+585,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:33.644311,hp 460
+586,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:33.646312,armor 117
+587,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:33.650313,hp 460
+588,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:33.653314,armor 117
+589,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:33.656316,health_subtracted 0
+590,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:34.098414,complete_objective Remove_the_cutter
+591,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:34.562519,hp 460
+592,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:34.565520,armor 112
+593,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:34.568521,shielded hit
+594,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:34.576523,hp 460
+595,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:34.578522,armor 112
+596,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:34.582525,hp 460
+597,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:34.585525,armor 112
+598,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:34.590526,health_subtracted 0
+599,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:34.770567,killed an enemy
+600,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:34.775568,weapon_fired 1
+601,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:34.782570,stance_crouched 1
+602,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:34.857587,weapon_fired 0
+603,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:34.926602,weapon_fired 0
+604,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:34.981615,weapon_fired 0
+605,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:35.047629,weapon_fired 0
+606,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:35.101643,weapon_fired 0
+607,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:35.145652,activate_objective Blow_open_the_floor
+608,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:35.166656,weapon_fired 0
+609,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:35.218669,stance_crouched 1
+610,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:36.988069,hp 460
+611,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:36.991070,armor 102
+612,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:36.994071,auto regenerate armor
+613,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:41.959197,stance_crouched 1
+614,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:42.099228,weapon_fired 0
+615,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:42.170244,weapon_fired 0
+616,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:42.236259,weapon_fired 1
+617,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:42.315278,killed an enemy
+618,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:42.319278,weapon_fired 1
+619,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:42.400296,weapon_fired 0
+620,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:42.467311,weapon_fired 0
+621,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:42.490317,stance_crouched 1
+622,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:42.633349,stance_crouched 0
+623,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:44.047670,stance_crouched 1
+624,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:44.555785,stance_crouched 1
+625,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:44.698818,weapon_fired 0
+626,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:44.773835,weapon_fired 0
+627,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:44.859855,weapon_fired 0
+628,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:45.176926,hp 460
+629,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:45.179927,armor 117
+630,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:45.183928,enemy_headshot
+631,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:45.188929,killed an enemy
+632,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:45.193931,weapon_fired 1
+633,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:45.273949,weapon_fired 0
+634,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:45.304956,hp 460
+635,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:45.307956,armor 117
+636,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:45.310956,shielded hit
+637,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:45.318959,hp 460
+638,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:45.321960,armor 117
+639,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:45.325960,hp 460
+640,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:45.327960,armor 117
+641,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:45.331962,health_subtracted 0
+642,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:45.378481,killed an enemy
+643,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:45.383482,weapon_fired 1
+644,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:45.450498,weapon_fired 0
+645,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:45.506510,weapon_fired 0
+646,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:46.016627,stance_crouched 1
+647,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:47.001849,stance_crouched 0
+648,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:47.599985,hp 460
+649,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:47.602985,armor 107
+650,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:47.605986,auto regenerate armor
+651,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:48.413169,stance_crouched 0
+652,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:49.049313,weapon_fired 0
+653,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:49.145336,weapon_fired 0
+654,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:49.205349,weapon_fired 0
+655,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:49.279365,weapon_fired 0
+656,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:49.348381,weapon_fired 0
+657,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:49.425399,weapon_fired 1
+658,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:49.499416,weapon_fired 0
+659,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:49.576434,weapon_fired 0
+660,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:49.659452,stance_crouched 0
+661,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:50.012532,stance_crouched 1
+662,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:50.224580,stance_crouched 1
+663,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:50.229582,hp 460
+664,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:50.232582,armor 117
+665,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:50.237583,shielded hit
+666,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:50.243585,hp 460
+667,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:50.246584,armor 117
+668,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:50.250586,hp 460
+669,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:50.254586,armor 117
+670,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:50.258588,health_subtracted 0
+671,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:50.583662,stance_crouched 1
+672,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:51.956973,stance_crouched 1
+673,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:53.160037,hp 460
+674,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:53.163038,armor 97
+675,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:53.168039,auto regenerate armor
+676,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:53.744868,hp 460
+677,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:53.747868,armor 117
+678,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:53.751869,shielded hit
+679,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:53.757870,hp 460
+680,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:53.761871,armor 117
+681,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:53.765872,hp 460
+682,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:53.767872,armor 117
+683,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:53.771873,health_subtracted 0
+684,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:53.977920,killed an enemy
+685,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:53.981921,weapon_fired 1
+686,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:54.053937,weapon_fired 0
+687,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:54.538047,hp 460
+688,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:54.541047,armor 107
+689,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:54.545049,shielded hit
+690,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:54.551049,hp 460
+691,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:54.554051,armor 107
+692,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:54.559051,hp 460
+693,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:54.562052,armor 107
+694,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:54.565053,health_subtracted 0
+695,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:54.623066,hp 460
+696,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:54.626067,armor 94
+697,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:54.629067,enemy_headshot
+698,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:54.633068,killed an enemy
+699,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:54.638070,weapon_fired 1
+700,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:54.712086,weapon_fired 0
+701,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:54.773100,weapon_fired 1
+702,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:55.241205,weapon_fired 0
+703,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:55.381237,stance_crouched 1
+704,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:57.016109,hp 460
+705,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:57.019110,armor 102
+706,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:57.022110,auto regenerate armor
+707,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:59.070585,stance_crouched 1
+708,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:59.146601,killed an enemy
+709,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:59.150602,weapon_fired 1
+710,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:59.227621,weapon_fired 0
+711,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:59.288634,weapon_fired 0
+712,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:59.372654,weapon_fired 0
+713,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:09:59.410662,stance_crouched 1
+714,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:01.065037,stance_crouched 1
+715,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:01.697180,weapon_fired 0
+716,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:01.785200,killed an enemy
+717,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:01.790201,weapon_fired 1
+718,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:01.864219,weapon_fired 0
+719,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:02.392338,weapon_fired 0
+720,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:02.465355,weapon_fired 0
+721,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:02.538371,weapon_fired 0
+722,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:02.551374,stance_crouched 1
+723,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:02.601385,hp 460
+724,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:02.605386,armor 117
+725,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:02.609387,shielded hit
+726,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:02.615388,hp 460
+727,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:02.618389,armor 117
+728,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:02.622390,hp 460
+729,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:02.625390,armor 117
+730,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:02.630391,health_subtracted 0
+731,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:05.127958,stance_crouched 1
+732,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:05.552054,hp 460
+733,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:05.555055,armor 107
+734,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:05.559056,auto regenerate armor
+735,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:05.689086,killed an enemy
+736,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:05.693087,weapon_fired 1
+737,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:05.769104,weapon_fired 0
+738,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:05.848121,weapon_fired 0
+739,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:05.925138,stance_crouched 1
+740,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:06.483265,stance_crouched 0
+741,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:08.897586,stance_crouched 1
+742,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:10.016840,hp 460
+743,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:10.018841,armor 117
+744,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:10.023842,shielded hit
+745,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:10.028843,hp 460
+746,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:10.032844,armor 117
+747,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:10.041846,health_subtracted 0
+748,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:10.045847,hp 460
+749,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:10.048847,armor 117
+750,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:10.502951,hp 460
+751,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:10.505952,armor 87
+752,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:10.508952,shielded hit
+753,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:10.518954,hp 460
+754,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:10.521955,armor 87
+755,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:10.525955,hp 460
+756,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:10.527957,armor 87
+757,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:10.531956,health_subtracted 0
+758,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:12.785468,stance_crouched 1
+759,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:13.842708,hp 460
+760,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:13.845709,armor 67
+761,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:13.850710,shielded hit
+762,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:13.856711,hp 460
+763,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:13.859711,armor 67
+764,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:13.864712,hp 460
+765,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:13.867713,armor 67
+766,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:13.870714,health_subtracted 0
+767,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:13.920725,hp 460
+768,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:13.923725,armor 55
+769,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:13.926726,enemy_headshot
+770,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:13.931728,killed an enemy
+771,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:13.935729,weapon_fired 1
+772,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:14.014746,weapon_fired 0
+773,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:14.350822,stance_crouched 1
+774,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:15.673122,stance_crouched 1
+775,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:16.158233,weapon_fired 0
+776,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:16.245252,weapon_fired 1
+777,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:16.315268,hp 460
+778,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:16.317269,armor 62
+779,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:16.321270,enemy_headshot
+780,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:16.325271,killed an enemy
+781,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:16.328271,weapon_fired 1
+782,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:16.351278,hp 460
+783,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:16.354277,armor 64
+784,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:16.358278,auto regenerate armor
+785,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:16.671349,weapon_fired 0
+786,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:16.748366,weapon_fired 0
+787,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:17.496536,weapon_fired 0
+788,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:17.575554,killed an enemy
+789,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:17.580554,weapon_fired 1
+790,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:17.925633,weapon_fired 0
+791,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:18.339727,stance_crouched 1
+792,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:19.325951,auto regenerate armor
+793,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:19.331953,hp 460
+794,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:19.334953,armor 117
+795,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:20.811287,stance_crouched 1
+796,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:21.442431,weapon_fired 1
+797,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:21.525449,weapon_fired 1
+798,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:21.809514,weapon_fired 0
+799,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:21.893533,weapon_fired 0
+800,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:22.233611,weapon_fired 0
+801,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:22.669708,hp 460
+802,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:22.672710,armor 117
+803,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:22.676711,enemy_headshot
+804,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:22.680711,killed an enemy
+805,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:22.684713,weapon_fired 1
+806,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:23.038792,weapon_fired 0
+807,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:23.438883,weapon_fired 0
+808,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:23.511900,weapon_fired 0
+809,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:23.875982,weapon_fired 0
+810,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:23.950999,weapon_fired 0
+811,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:24.548740,killed an enemy
+812,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:24.552740,weapon_fired 1
+813,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:24.635759,weapon_fired 0
+814,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:25.008844,weapon_fired 0
+815,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:25.087861,weapon_fired 0
+816,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:25.377927,killed an enemy
+817,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:25.391930,weapon_fired 1
+818,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:25.419936,hp 460
+819,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:25.422937,armor 117
+820,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:25.426939,auto regenerate armor
+821,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:25.468948,weapon_fired 0
+822,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:26.249125,stance_crouched 1
+823,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:26.363151,stance_crouched 0
+824,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:26.778245,hp 460
+825,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:26.780246,armor 117
+826,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:26.784247,shielded hit
+827,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:26.791248,hp 460
+828,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:26.794248,armor 117
+829,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:26.800249,hp 460
+830,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:26.803250,armor 117
+831,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:26.807251,health_subtracted 0
+832,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:27.971516,stance_crouched 1
+833,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:31.517946,auto regenerate armor
+834,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:31.523947,hp 460
+835,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:31.526948,armor 107
+836,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:32.620196,stance_crouched 0
+837,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:35.731916,stance_crouched 1
+838,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:38.063446,hp 460
+839,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:38.066446,armor 117
+840,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:38.069447,shielded hit
+841,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:38.076448,hp 460
+842,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:38.080449,armor 117
+843,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:38.083450,hp 460
+844,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:38.086451,armor 117
+845,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:38.090452,health_subtracted 0
+846,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:39.640804,hp 460
+847,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:39.645805,armor 97
+848,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:39.650806,shielded hit
+849,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:39.656807,hp 460
+850,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:39.660809,armor 97
+851,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:39.664809,hp 460
+852,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:39.666810,armor 97
+853,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:39.671811,health_subtracted 0
+854,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:40.726050,stance_crouched 1
+855,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:41.557291,weapon_fired 0
+856,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:41.633308,killed an enemy
+857,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:41.637309,weapon_fired 1
+858,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:41.719256,weapon_fired 0
+859,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:42.003321,stance_crouched 1
+860,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:42.130349,hp 460
+861,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:42.133350,armor 77
+862,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:42.137351,auto regenerate armor
+863,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:43.403272,stance_crouched 0
+864,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:48.722489,shielded hit
+865,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:48.727489,hp 460
+866,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:48.730491,armor 117
+867,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:48.734491,hp 460
+868,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:48.737491,armor 117
+869,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:48.742492,hp 460
+870,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:48.745493,armor 117
+871,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:48.750495,health_subtracted 0
+872,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:51.204051,hp 460
+873,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:51.207052,armor 112
+874,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:51.211053,auto regenerate armor
+875,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:54.030578,stance_crouched 1
+876,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:54.272633,stance_crouched 1
+877,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:54.783749,weapon_fired 0
+878,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:54.857766,weapon_fired 1
+879,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:54.861767,killed an enemy
+880,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:55.235852,weapon_fired 0
+881,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:55.434897,hp 460
+882,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:55.437898,armor 117
+883,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:55.440898,shielded hit
+884,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:55.447900,hp 460
+885,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:55.450901,armor 117
+886,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:55.454901,hp 460
+887,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:55.456902,armor 117
+888,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:55.460903,health_subtracted 0
+889,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:55.600935,killed an enemy
+890,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:55.604935,weapon_fired 1
+891,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:55.677951,weapon_fired 0
+892,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:55.986022,weapon_fired 0
+893,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:56.054037,killed an enemy
+894,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:56.058038,weapon_fired 1
+895,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:56.261084,weapon_fired 0
+896,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:56.318097,weapon_fired 0
+897,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:56.798206,weapon_fired 0
+898,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:56.884226,weapon_fired 0
+899,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:57.245307,weapon_fired 1
+900,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:57.261311,stance_crouched 1
+901,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:57.900456,hp 460
+902,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:57.903456,armor 113
+903,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:57.907457,auto regenerate armor
+904,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:58.143511,hp 460
+905,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:58.146512,armor 117
+906,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:58.150512,shielded hit
+907,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:58.159514,hp 460
+908,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:58.162515,armor 117
+909,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:58.169516,hp 460
+910,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:58.173518,armor 117
+911,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:58.176518,health_subtracted 0
+912,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:59.526824,weapon_fired 0
+913,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:59.531825,stance_crouched 1
+914,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:10:59.633849,stance_crouched 1
+915,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:00.149966,stance_crouched 1
+916,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:00.489042,hp 460
+917,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:00.492043,armor 107
+918,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:00.496044,auto regenerate armor
+919,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:00.698090,hp 460
+920,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:00.701091,armor 116
+921,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:00.704091,shielded hit
+922,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:00.712093,hp 460
+923,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:00.715094,armor 116
+924,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:00.720095,hp 460
+925,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:00.723096,armor 116
+926,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:00.726096,health_subtracted 0
+927,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:00.943145,killed an enemy
+928,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:00.948147,weapon_fired 1
+929,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:01.037167,weapon_fired 0
+930,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:01.393248,weapon_fired 0
+931,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:01.472267,weapon_fired 0
+932,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:01.777335,weapon_fired 0
+933,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:01.854353,killed an enemy
+934,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:01.858354,weapon_fired 1
+935,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:02.572515,weapon_fired 0
+936,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:02.648532,weapon_fired 0
+937,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:02.944337,weapon_fired 0
+938,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:03.010352,weapon_fired 0
+939,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:03.408443,weapon_fired 1
+940,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:03.494462,killed an enemy
+941,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:03.499463,weapon_fired 1
+942,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:03.954566,hp 460
+943,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:03.957566,armor 113
+944,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:03.962568,enemy_headshot
+945,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:03.966569,killed an enemy
+946,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:03.970570,weapon_fired 1
+947,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:04.381663,weapon_fired 0
+948,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:04.450679,weapon_fired 0
+949,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:04.857771,weapon_fired 0
+950,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:05.305873,weapon_fired 0
+951,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:06.108054,weapon_fired 0
+952,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:06.199075,weapon_fired 0
+953,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:06.993234,weapon_fired 0
+954,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:07.074252,weapon_fired 1
+955,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:07.307305,hp 460
+956,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:07.310305,armor 117
+957,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:07.314307,shielded hit
+958,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:07.329310,hp 460
+959,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:07.331310,armor 117
+960,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:07.335313,hp 460
+961,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:07.338312,armor 117
+962,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:07.342313,health_subtracted 0
+963,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:07.346314,weapon_fired 0
+964,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:08.607601,killed an enemy
+965,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:08.611601,weapon_fired 1
+966,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:09.298757,hp 460
+967,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:09.301758,armor 97
+968,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:09.305758,killed an enemy
+969,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:09.309759,weapon_fired 1
+970,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:09.312760,enemy_headshot
+971,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:09.796870,hp 460
+972,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:09.798871,armor 117
+973,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:09.802872,auto regenerate armor
+974,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:10.799096,weapon_fired 0
+975,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:10.879115,weapon_fired 0
+976,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:11.319215,weapon_fired 1
+977,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:13.204630,weapon_fired 0
+978,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:13.598720,weapon_fired 0
+979,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:13.965803,stance_crouched 1
+980,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:15.438136,stance_crouched 1
+981,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:16.432362,stance_crouched 1
+982,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:17.123519,weapon_fired 0
+983,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:17.279555,hp 460
+984,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:17.282556,armor 117
+985,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:17.286556,health_subtracted 0
+986,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:17.289558,hp 460
+987,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:17.292558,armor 117
+988,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:17.777668,hp 460
+989,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:17.780668,armor 107
+990,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:17.783668,shielded hit
+991,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:17.790670,hp 460
+992,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:17.793671,armor 107
+993,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:17.797672,hp 460
+994,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:17.800673,armor 107
+995,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:17.804674,health_subtracted 0
+996,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:17.882705,stance_crouched 1
+997,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:19.265421,stance_crouched 0
+998,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:20.253612,auto regenerate armor
+999,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:20.258613,hp 460
+1000,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:20.261613,armor 97
+1001,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:20.996779,stance_crouched 1
+1002,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:21.428879,stance_crouched 1
+1003,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:24.701620,weapon_fired 0
+1004,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:25.810872,killed an enemy
+1005,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:25.815872,weapon_fired 1
+1006,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:26.400005,stance_crouched 1
+1007,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:26.821100,stance_crouched 0
+1008,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:27.865338,stance_crouched 0
+1009,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:28.131397,stance_crouched 1
+1010,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:28.615507,weapon_fired 0
+1011,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:28.794548,stance_crouched 1
+1012,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:30.878587,stance_crouched 1
+1013,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:32.309912,stance_crouched 1
+1014,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:33.738492,hp 460
+1015,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:33.740493,armor 117
+1016,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:33.744494,shielded hit
+1017,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:33.752498,hp 460
+1018,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:33.755498,armor 117
+1019,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:33.758497,hp 460
+1020,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:33.762499,armor 117
+1021,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:33.766499,health_subtracted 0
+1022,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:34.189596,weapon_fired 0
+1023,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:34.268613,killed an enemy
+1024,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:34.272614,weapon_fired 1
+1025,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:35.606917,enemy_headshot
+1026,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:35.610917,killed an enemy
+1027,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:35.614918,hp 460
+1028,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:35.617918,armor 113
+1029,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:35.623922,weapon_fired 1
+1030,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:35.706940,weapon_fired 0
+1031,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:35.940993,stance_crouched 1
+1032,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:36.127034,stance_crouched 0
+1033,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:37.884433,hp 460
+1034,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:37.886433,armor 117
+1035,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:37.891434,auto regenerate armor
+1036,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:39.786865,stance_crouched 1
+1037,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:40.023918,stance_crouched 1
+1038,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:40.286977,weapon_fired 0
+1039,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:40.364995,weapon_fired 0
+1040,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:40.428009,killed an enemy
+1041,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:40.431012,weapon_fired 1
+1042,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:40.496025,weapon_fired 0
+1043,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:40.557039,weapon_fired 0
+1044,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:40.634056,weapon_fired 0
+1045,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:40.696070,hp 460
+1046,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:40.698071,armor 117
+1047,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:40.701071,enemy_headshot
+1048,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:40.711074,weapon_fired 1
+1049,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:40.716074,killed an enemy
+1050,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:40.796094,weapon_fired 0
+1051,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:40.866109,enemy_headshot
+1052,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:40.873110,weapon_fired 1
+1053,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:40.878112,killed an enemy
+1054,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:40.939126,weapon_fired 0
+1055,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:41.005141,weapon_fired 0
+1056,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:41.018143,stance_crouched 1
+1057,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:41.182180,hp 460
+1058,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:41.185181,armor 117
+1059,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:41.189182,shielded hit
+1060,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:41.194184,hp 460
+1061,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:41.197184,armor 117
+1062,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:41.201184,hp 460
+1063,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:41.204185,armor 117
+1064,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:41.208186,health_subtracted 0
+1065,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:41.253196,hp 460
+1066,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:41.256197,armor 116
+1067,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:41.260198,shielded hit
+1068,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:41.268200,hp 460
+1069,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:41.271200,armor 116
+1070,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:41.276201,hp 460
+1071,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:41.280202,armor 116
+1072,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:41.285203,health_subtracted 0
+1073,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:43.268653,stance_crouched 1
+1074,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:44.453922,killed an enemy
+1075,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:44.457924,weapon_fired 1
+1076,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:44.536941,weapon_fired 0
+1077,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:44.674972,stance_crouched 1
+1078,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:44.862015,stance_crouched 0
+1079,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:45.716209,stance_crouched 0
+1080,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:45.909252,weapon_fired 0
+1081,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:45.981269,weapon_fired 0
+1082,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:46.044283,weapon_fired 0
+1083,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:46.107670,weapon_fired 0
+1084,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:46.181687,stance_crouched 0
+1085,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:47.176954,stance_crouched 1
+1086,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:48.169178,hp 460
+1087,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:48.171179,armor 103
+1088,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:48.176180,auto regenerate armor
+1089,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:48.613279,stance_crouched 0
+1090,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:55.347964,hp 460
+1091,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:55.350966,armor 117
+1092,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:55.361967,hp 460
+1093,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:55.364968,armor 117
+1094,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:55.368968,shielded hit
+1095,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:55.372970,hp 457
+1096,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:55.376971,armor 117
+1097,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:55.379971,health_subtracted 0.3
+1098,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:55.388973,hp 460
+1099,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:55.391974,armor 108
+1100,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:55.397976,hp 460
+1101,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:55.401976,armor 108
+1102,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:55.404977,hp 460
+1103,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:55.407978,armor 108
+1104,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:55.416979,hp 460
+1105,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:55.419981,armor 108
+1106,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:56.765285,stance_crouched 1
+1107,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:57.833527,hp 460
+1108,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:57.835528,armor 0
+1109,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:57.840530,hp 460
+1110,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:57.842529,armor 0
+1111,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:57.847531,auto regenerate armor
+1112,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:11:59.396881,stance_crouched 1
+1113,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:00.693176,hp 460
+1114,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:00.696177,armor 117
+1115,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:00.699178,enemy_headshot
+1116,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:00.703178,killed an enemy
+1117,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:00.708180,weapon_fired 1
+1118,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:00.855212,stance_crouched 1
+1119,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:01.634390,stance_crouched 0
+1120,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:03.430305,stance_crouched 1
+1121,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:18.307546,stance_crouched 0
+1122,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:19.221946,stance_crouched 1
+1123,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:22.667737,complete_objective Blow_open_the_floor
+1124,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:23.326886,stance_crouched 0
+1125,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:23.659961,activate_objective Enter_the_vault_room
+1126,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:25.106289,complete_objective Enter_the_vault_room
+1127,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:26.134523,activate_objective Disable_the_security_shutters
+1128,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:27.399809,complete_objective Disable_the_security_shutters
+1129,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:27.901923,stance_crouched 0
+1130,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:28.296013,weapon_fired 0
+1131,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:28.402038,stance_crouched 0
+1132,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:28.418041,activate_objective Place_the_thermite_on_the_vault
+1133,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:30.072416,hp 460
+1134,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:30.075415,armor 117
+1135,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:30.078417,shielded hit
+1136,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:30.088420,hp 460
+1137,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:30.091420,armor 117
+1138,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:30.095421,hp 460
+1139,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:30.098422,armor 117
+1140,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:30.102422,health_subtracted 0
+1141,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:30.613538,stance_crouched 1
+1142,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:30.976620,stance_crouched 1
+1143,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:31.295693,stance_crouched 1
+1144,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:31.997853,stance_crouched 1
+1145,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:32.192897,weapon_fired 0
+1146,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:32.273915,hp 460
+1147,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:32.276916,armor 113
+1148,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:32.280916,enemy_headshot
+1149,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:32.284917,killed an enemy
+1150,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:32.288919,weapon_fired 1
+1151,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:32.356934,weapon_fired 0
+1152,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:32.449713,stance_crouched 1
+1153,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:32.838801,stance_crouched 1
+1154,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:33.034845,stance_crouched 1
+1155,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:33.985060,stance_crouched 0
+1156,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:34.236117,hp 460
+1157,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:34.239119,armor 117
+1158,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:34.242119,auto regenerate armor
+1159,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:34.697223,stance_crouched 0
+1160,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:35.142323,weapon_fired 0
+1161,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:35.226341,stance_crouched 0
+1162,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:35.353371,stance_crouched 1
+1163,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:36.591653,stance_crouched 1
+1164,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:36.822704,stance_crouched 1
+1165,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:37.724909,stance_crouched 1
+1166,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:38.188014,weapon_fired 0
+1167,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:38.292037,stance_crouched 1
+1168,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:43.007429,killed an enemy
+1169,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:43.014430,weapon_fired 1
+1170,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:43.019431,stance_crouched 1
+1171,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:43.105450,weapon_fired 0
+1172,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:43.177467,weapon_fired 0
+1173,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:43.242481,weapon_fired 0
+1174,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:43.305495,weapon_fired 0
+1175,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:43.387514,stance_crouched 1
+1176,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:45.983940,hp 460
+1177,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:45.985941,armor 117
+1178,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:45.989942,shielded hit
+1179,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:45.996943,hp 460
+1180,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:46.000944,armor 117
+1181,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:46.003945,hp 460
+1182,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:46.006945,armor 117
+1183,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:46.009946,health_subtracted 0
+1184,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:48.459501,hp 460
+1185,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:48.462503,armor 113
+1186,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:48.466503,auto regenerate armor
+1187,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:54.782940,complete_objective Place_the_thermite_on_the_vault
+1188,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:55.793168,activate_objective Wait_for_the_winch_parts
+1189,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:57.176482,stance_crouched 1
+1190,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:57.557570,weapon_fired 0
+1191,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:57.639587,killed an enemy
+1192,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:57.643588,weapon_fired 1
+1193,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:57.723607,weapon_fired 0
+1194,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:57.783621,weapon_fired 0
+1195,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:57.935654,weapon_fired 0
+1196,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.023674,weapon_fired 0
+1197,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.086689,weapon_fired 0
+1198,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.340746,hp 460
+1199,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.343747,armor 117
+1200,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.346748,shielded hit
+1201,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.362751,hp 460
+1202,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.364751,armor 117
+1203,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.367752,hp 460
+1204,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.370753,armor 117
+1205,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.374753,health_subtracted 0
+1206,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.381755,weapon_fired 0
+1207,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.460774,weapon_fired 1
+1208,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.522787,weapon_fired 0
+1209,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.596805,killed an enemy
+1210,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.600805,weapon_fired 1
+1211,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.662819,weapon_fired 0
+1212,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.734835,enemy_headshot
+1213,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.739836,hp 460
+1214,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.742838,armor 113
+1215,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.746839,killed an enemy
+1216,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.750840,weapon_fired 1
+1217,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.811853,weapon_fired 0
+1218,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.878869,weapon_fired 0
+1219,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:58.938882,weapon_fired 0
+1220,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:59.002896,weapon_fired 0
+1221,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:59.077914,weapon_fired 0
+1222,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:59.137928,weapon_fired 0
+1223,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:59.194940,weapon_fired 0
+1224,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:59.267956,weapon_fired 0
+1225,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:12:59.351977,stance_crouched 1
+1226,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:00.406214,stance_crouched 1
+1227,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:00.805962,hp 460
+1228,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:00.808963,armor 117
+1229,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:00.811965,auto regenerate armor
+1230,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:01.050017,stance_crouched 1
+1231,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:03.342088,stance_crouched 1
+1232,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:03.481120,killed an enemy
+1233,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:03.485121,weapon_fired 1
+1234,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:03.563139,weapon_fired 0
+1235,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:03.636155,weapon_fired 0
+1236,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:03.720173,weapon_fired 0
+1237,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:03.808194,stance_crouched 1
+1238,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:04.343315,stance_crouched 1
+1239,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:04.496349,killed an enemy
+1240,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:04.500351,weapon_fired 1
+1241,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:04.583369,weapon_fired 0
+1242,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:04.658386,hp 460
+1243,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:04.661387,armor 117
+1244,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:04.666388,enemy_headshot
+1245,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:04.675391,killed an enemy
+1246,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:04.681392,weapon_fired 1
+1247,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:04.743406,weapon_fired 0
+1248,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:04.810421,weapon_fired 0
+1249,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:04.875436,weapon_fired 0
+1250,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:04.946452,weapon_fired 0
+1251,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:05.005466,weapon_fired 0
+1252,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:05.084483,weapon_fired 0
+1253,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:05.160500,enemy_headshot
+1254,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:05.164501,killed an enemy
+1255,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:05.175503,weapon_fired 1
+1256,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:05.558039,weapon_fired 0
+1257,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:05.645304,weapon_fired 1
+1258,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:05.709304,killed an enemy
+1259,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:05.713305,weapon_fired 1
+1260,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:05.790321,weapon_fired 0
+1261,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:05.862342,weapon_fired 0
+1262,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:05.927889,weapon_fired 0
+1263,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:06.001906,weapon_fired 0
+1264,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:06.064920,weapon_fired 0
+1265,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:06.253962,killed an enemy
+1266,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:06.257964,weapon_fired 1
+1267,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:06.343983,weapon_fired 0
+1268,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:06.413998,enemy_headshot
+1269,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:06.424000,weapon_fired 1
+1270,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:06.427001,killed an enemy
+1271,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:06.497017,weapon_fired 0
+1272,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:06.555031,weapon_fired 0
+1273,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:06.626047,weapon_fired 0
+1274,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:06.695062,weapon_fired 0
+1275,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:07.703292,weapon_fired 1
+1276,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:07.790311,killed an enemy
+1277,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:07.794312,weapon_fired 1
+1278,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:08.107383,weapon_fired 1
+1279,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:08.187401,killed an enemy
+1280,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:08.190402,weapon_fired 1
+1281,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:08.258417,weapon_fired 0
+1282,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:08.331434,weapon_fired 0
+1283,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:08.396448,weapon_fired 0
+1284,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:08.465464,weapon_fired 0
+1285,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:08.547482,weapon_fired 0
+1286,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:08.614497,weapon_fired 0
+1287,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:08.687514,hp 460
+1288,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:08.690515,armor 117
+1289,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:08.694515,enemy_headshot
+1290,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:08.698517,killed an enemy
+1291,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:08.701518,weapon_fired 1
+1292,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:08.771534,weapon_fired 0
+1293,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:08.832547,weapon_fired 0
+1294,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:08.903563,weapon_fired 0
+1295,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:09.356667,hp 460
+1296,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:09.359666,armor 117
+1297,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:09.362668,shielded hit
+1298,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:09.370668,hp 460
+1299,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:09.372671,armor 117
+1300,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:09.380672,health_subtracted 0
+1301,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:09.385673,hp 460
+1302,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:09.388673,armor 117
+1303,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:09.406677,killed an enemy
+1304,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:09.410678,weapon_fired 1
+1305,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:09.483695,killed an enemy
+1306,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:09.488696,weapon_fired 1
+1307,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:09.504954,stance_crouched 1
+1308,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:11.843157,hp 460
+1309,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:11.846158,armor 97
+1310,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:11.850159,auto regenerate armor
+1311,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:11.916173,stance_crouched 1
+1312,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:13.442520,weapon_fired 0
+1313,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:13.539543,hp 460
+1314,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:13.542543,armor 117
+1315,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:13.546543,enemy_headshot
+1316,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:13.550545,killed an enemy
+1317,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:13.555546,weapon_fired 1
+1318,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:13.622561,weapon_fired 0
+1319,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:13.696578,weapon_fired 0
+1320,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:13.794600,stance_crouched 1
+1321,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:14.187688,stance_crouched 0
+1322,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:14.259706,hp 460
+1323,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:14.262706,armor 117
+1324,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:14.266706,shielded hit
+1325,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:14.272708,hp 460
+1326,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:14.274708,armor 117
+1327,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:14.280710,hp 460
+1328,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:14.282711,armor 117
+1329,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:14.286712,health_subtracted 0
+1330,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.234153,shielded hit
+1331,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.238154,hp 460
+1332,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.242154,armor 109
+1333,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.252157,hp 460
+1334,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.256157,armor 109
+1335,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.260158,hp 460
+1336,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.263160,armor 109
+1337,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.267160,health_subtracted 0
+1338,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.400191,stance_crouched 0
+1339,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.743268,weapon_fired 0
+1340,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.772276,hp 460
+1341,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.774276,armor 105
+1342,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.778276,shielded hit
+1343,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.785277,hp 460
+1344,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.788278,armor 105
+1345,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.793280,hp 460
+1346,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.796280,armor 105
+1347,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.800281,health_subtracted 0
+1348,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.840290,weapon_fired 0
+1349,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.908305,weapon_fired 1
+1350,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:16.974322,weapon_fired 0
+1351,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:17.043337,killed an enemy
+1352,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:17.047337,weapon_fired 1
+1353,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:17.112352,stance_crouched 0
+1354,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:19.297395,auto regenerate armor
+1355,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:19.301396,hp 460
+1356,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:19.304396,armor 101
+1357,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:20.493339,stance_crouched 0
+1358,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:20.565354,weapon_fired 0
+1359,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:20.659376,weapon_fired 1
+1360,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:20.730393,killed an enemy
+1361,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:20.734393,weapon_fired 1
+1362,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:20.816411,stance_crouched 0
+1363,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:22.707842,auto regenerate armor
+1364,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:22.713842,hp 460
+1365,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:22.716843,armor 117
+1366,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:24.207181,stance_crouched 1
+1367,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:24.707294,stance_crouched 1
+1368,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:25.053372,killed an enemy
+1369,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:25.057372,weapon_fired 1
+1370,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:25.134390,weapon_fired 0
+1371,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:25.197404,weapon_fired 0
+1372,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:25.285424,stance_crouched 1
+1373,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:25.893563,stance_crouched 1
+1374,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:25.994585,weapon_fired 0
+1375,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:26.075604,weapon_fired 0
+1376,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:26.147621,weapon_fired 0
+1377,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:26.212637,killed an enemy
+1378,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:26.218636,weapon_fired 1
+1379,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:26.285651,weapon_fired 0
+1380,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:26.415682,weapon_fired 0
+1381,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:26.488698,weapon_fired 0
+1382,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:26.553712,killed an enemy
+1383,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:26.557713,weapon_fired 1
+1384,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:26.637732,weapon_fired 0
+1385,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:26.714749,weapon_fired 1
+1386,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:26.789766,killed an enemy
+1387,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:26.793768,weapon_fired 1
+1388,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:26.869783,weapon_fired 0
+1389,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:26.936799,weapon_fired 0
+1390,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:26.989812,stance_crouched 1
+1391,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:28.497235,stance_crouched 1
+1392,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:28.795405,weapon_fired 0
+1393,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:28.872424,weapon_fired 0
+1394,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:28.949440,weapon_fired 1
+1395,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:29.015455,killed an enemy
+1396,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:29.020456,weapon_fired 1
+1397,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:29.064467,hp 460
+1398,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:29.066467,armor 117
+1399,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:29.069467,auto regenerate armor
+1400,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:29.118479,weapon_fired 0
+1401,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:29.162489,stance_crouched 1
+1402,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:32.183932,stance_crouched 1
+1403,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:33.482963,weapon_fired 0
+1404,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:33.558981,killed an enemy
+1405,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:33.562981,weapon_fired 1
+1406,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:33.637998,weapon_fired 0
+1407,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:33.700012,weapon_fired 0
+1408,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:33.833043,stance_crouched 1
+1409,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:34.383712,stance_crouched 0
+1410,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:36.709908,stance_crouched 1
+1411,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:36.877945,stance_crouched 1
+1412,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:37.361212,weapon_fired 0
+1413,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:37.440229,weapon_fired 0
+1414,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.001266,hp 460
+1415,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.004267,armor 117
+1416,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.008268,shielded hit
+1417,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.013270,hp 460
+1418,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.017271,armor 117
+1419,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.021271,hp 460
+1420,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.024272,armor 117
+1421,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.028273,health_subtracted 0
+1422,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.058280,weapon_fired 1
+1423,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.131296,weapon_fired 0
+1424,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.199312,weapon_fired 0
+1425,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.268328,weapon_fired 0
+1426,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.347346,weapon_fired 0
+1427,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.401357,killed an enemy
+1428,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.406359,weapon_fired 1
+1429,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.475375,weapon_fired 0
+1430,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.535540,killed an enemy
+1431,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.539540,weapon_fired 1
+1432,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.609555,weapon_fired 0
+1433,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.902443,weapon_fired 0
+1434,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:38.987461,weapon_fired 0
+1435,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:39.054835,weapon_fired 0
+1436,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:39.130852,weapon_fired 0
+1437,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:39.195867,weapon_fired 0
+1438,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:39.278886,enemy_headshot
+1439,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:39.282886,killed an enemy
+1440,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:39.286888,hp 460
+1441,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:39.289888,armor 107
+1442,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:39.293888,weapon_fired 1
+1443,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:39.429919,stance_crouched 1
+1444,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:39.786000,stance_crouched 1
+1445,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:40.367132,hp 460
+1446,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:40.370134,armor 117
+1447,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:40.374134,auto regenerate armor
+1448,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:40.381135,stance_crouched 1
+1449,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:40.720211,stance_crouched 1
+1450,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:41.841466,weapon_fired 1
+1451,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:41.846467,killed an enemy
+1452,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:41.927487,weapon_fired 0
+1453,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:42.003503,weapon_fired 0
+1454,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:43.940942,weapon_fired 0
+1455,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:44.021961,weapon_fired 0
+1456,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:44.906160,killed an enemy
+1457,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:44.910162,weapon_fired 1
+1458,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:44.989179,weapon_fired 0
+1459,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:45.069070,weapon_fired 0
+1460,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:45.132085,weapon_fired 0
+1461,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:45.207102,weapon_fired 1
+1462,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:45.285120,killed an enemy
+1463,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:45.289121,weapon_fired 1
+1464,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:45.354135,weapon_fired 0
+1465,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:46.580412,weapon_fired 0
+1466,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:46.674435,weapon_fired 0
+1467,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:46.738449,weapon_fired 0
+1468,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:46.960500,weapon_fired 1
+1469,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:47.041518,killed an enemy
+1470,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:47.055521,weapon_fired 1
+1471,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:47.119535,weapon_fired 0
+1472,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:47.190551,weapon_fired 0
+1473,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:47.261567,weapon_fired 0
+1474,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:47.893711,weapon_fired 1
+1475,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:47.975730,killed an enemy
+1476,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:47.979730,weapon_fired 1
+1477,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:48.064749,weapon_fired 0
+1478,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:48.131764,hp 460
+1479,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:48.134765,armor 117
+1480,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:48.139766,enemy_headshot
+1481,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:48.143768,killed an enemy
+1482,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:48.148769,weapon_fired 1
+1483,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:48.158771,stance_crouched 1
+1484,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:49.222012,hp 460
+1485,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:49.225012,armor 117
+1486,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:49.228013,auto regenerate armor
+1487,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:50.365271,stance_crouched 1
+1488,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:51.278780,weapon_fired 0
+1489,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:51.360797,weapon_fired 1
+1490,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:51.429813,hp 460
+1491,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:51.432813,armor 117
+1492,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:51.436814,enemy_headshot
+1493,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:51.440816,killed an enemy
+1494,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:51.444817,weapon_fired 1
+1495,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:51.760103,weapon_fired 1
+1496,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:51.835119,killed an enemy
+1497,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:51.839121,weapon_fired 1
+1498,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:52.825320,weapon_fired 0
+1499,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:53.371042,weapon_fired 0
+1500,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:53.452061,killed an enemy
+1501,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:53.458062,weapon_fired 1
+1502,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:53.542082,weapon_fired 0
+1503,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:53.610095,weapon_fired 0
+1504,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:54.040194,weapon_fired 0
+1505,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:54.115211,killed an enemy
+1506,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:54.119212,weapon_fired 1
+1507,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:54.200230,weapon_fired 0
+1508,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:54.272246,weapon_fired 0
+1509,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:54.338261,weapon_fired 0
+1510,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:54.444286,stance_crouched 1
+1511,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:55.030731,stance_crouched 1
+1512,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:55.511841,weapon_fired 0
+1513,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:55.590858,weapon_fired 0
+1514,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:55.904303,auto regenerate armor
+1515,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:55.910305,hp 460
+1516,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:55.913306,armor 117
+1517,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:56.077343,stance_crouched 1
+1518,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:58.634597,hp 460
+1519,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:58.637598,armor 117
+1520,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:58.641599,shielded hit
+1521,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:58.647599,hp 460
+1522,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:58.651601,armor 117
+1523,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:58.655602,hp 460
+1524,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:58.657602,armor 117
+1525,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:13:58.661603,health_subtracted 0
+1526,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:00.422369,stance_crouched 1
+1527,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:00.634631,weapon_fired 0
+1528,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:00.714649,hp 460
+1529,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:00.717649,armor 107
+1530,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:00.720651,shielded hit
+1531,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:00.728653,hp 460
+1532,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:00.731653,armor 107
+1533,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:00.737654,hp 460
+1534,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:00.741656,armor 107
+1535,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:00.744656,health_subtracted 0
+1536,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:00.756659,killed an enemy
+1537,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:00.763660,weapon_fired 1
+1538,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:00.834676,weapon_fired 0
+1539,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:00.893689,weapon_fired 0
+1540,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:00.949702,weapon_fired 0
+1541,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:01.017718,stance_crouched 1
+1542,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:01.251771,hp 460
+1543,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:01.254772,armor 87
+1544,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:01.258773,shielded hit
+1545,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:01.266775,hp 460
+1546,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:01.268775,armor 87
+1547,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:01.274776,hp 460
+1548,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:01.276777,armor 87
+1549,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:01.280778,health_subtracted 0
+1550,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:01.543836,stance_crouched 0
+1551,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:03.009175,shielded hit
+1552,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:03.013175,hp 460
+1553,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:03.016176,armor 57
+1554,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:03.021177,hp 460
+1555,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:03.024178,armor 57
+1556,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:03.030179,hp 460
+1557,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:03.033180,armor 57
+1558,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:03.037181,health_subtracted 0
+1559,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:03.815009,stance_crouched 1
+1560,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:04.762114,stance_crouched 0
+1561,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:05.270228,stance_crouched 1
+1562,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:05.615307,stance_crouched 1
+1563,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:06.020874,weapon_fired 0
+1564,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:06.101894,weapon_fired 0
+1565,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:06.241924,hp 460
+1566,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:06.245925,armor 37
+1567,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:06.249926,auto regenerate armor
+1568,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:06.705263,weapon_fired 0
+1569,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:06.787281,weapon_fired 0
+1570,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:06.914787,stance_crouched 1
+1571,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:07.241859,hp 460
+1572,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:07.244860,armor 117
+1573,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:07.249862,shielded hit
+1574,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:07.254863,hp 460
+1575,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:07.257864,armor 117
+1576,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:07.262865,hp 460
+1577,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:07.265866,armor 117
+1578,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:07.270866,health_subtracted 0
+1579,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:08.189604,hp 460
+1580,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:08.192605,armor 92
+1581,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:08.196607,shielded hit
+1582,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:08.210610,hp 460
+1583,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:08.212610,armor 92
+1584,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:08.216611,hp 460
+1585,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:08.218611,armor 92
+1586,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:08.223612,health_subtracted 0
+1587,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:09.266849,stance_crouched 1
+1588,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:10.232068,stance_crouched 1
+1589,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:10.663165,stance_crouched 1
+1590,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:13.821105,hp 460
+1591,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:13.824104,armor 67
+1592,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:13.828106,auto regenerate armor
+1593,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:16.006600,stance_crouched 1
+1594,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:16.468705,weapon_fired 0
+1595,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:16.920814,killed an enemy
+1596,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:16.924814,weapon_fired 1
+1597,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:16.928814,weapon_fired 1
+1598,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:17.383919,stance_crouched 1
+1599,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:18.236124,stance_crouched 1
+1600,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:19.014300,weapon_fired 0
+1601,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:19.458354,killed an enemy
+1602,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:19.462355,weapon_fired 1
+1603,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:20.279468,weapon_fired 0
+1604,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:20.443505,stance_crouched 1
+1605,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:20.582537,killed an enemy
+1606,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:20.587539,weapon_fired 1
+1607,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:25.136755,complete_objective Wait_for_the_winch_parts
+1608,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:25.780901,stance_crouched 1
+1609,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:26.062966,hp 460
+1610,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:26.066965,armor 117
+1611,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:26.070966,shielded hit
+1612,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:26.077969,hp 460
+1613,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:26.081969,armor 117
+1614,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:26.085970,hp 460
+1615,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:26.089971,armor 117
+1616,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:26.092971,health_subtracted 0
+1617,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:26.132981,weapon_fired 0
+1618,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:26.181992,activate_objective Collect_the_winch_parts
+1619,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:26.381036,weapon_fired 1
+1620,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:26.386038,killed an enemy
+1621,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:26.390040,killed an enemy
+1622,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:26.394039,weapon_fired 1
+1623,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:26.399041,killed an enemy
+1624,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:26.404043,weapon_fired 1
+1625,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:26.927160,stance_crouched 1
+1626,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:28.414497,hp 460
+1627,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:28.417498,armor 107
+1628,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:28.426502,auto regenerate armor
+1629,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:28.630547,stance_crouched 1
+1630,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:29.252688,stance_crouched 0
+1631,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:32.019316,stance_crouched 1
+1632,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:32.962530,stance_crouched 1
+1633,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:33.043548,weapon_fired 1
+1634,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:33.126566,killed an enemy
+1635,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:33.131567,weapon_fired 1
+1636,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:33.198583,weapon_fired 0
+1637,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:33.832727,weapon_fired 0
+1638,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:33.918745,weapon_fired 0
+1639,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:34.108790,stance_crouched 1
+1640,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:34.249821,stance_crouched 0
+1641,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:34.832072,stance_crouched 1
+1642,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:35.229956,stance_crouched 1
+1643,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:35.448005,shielded hit
+1644,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:35.454006,hp 460
+1645,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:35.457008,armor 117
+1646,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:35.462008,hp 460
+1647,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:35.465008,armor 117
+1648,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:35.470010,hp 460
+1649,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:35.473010,armor 117
+1650,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:35.478012,health_subtracted 0
+1651,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:35.536025,weapon_fired 0
+1652,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:35.618043,weapon_fired 0
+1653,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:35.688060,weapon_fired 0
+1654,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:35.753074,killed an enemy
+1655,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:35.766077,weapon_fired 1
+1656,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:35.822090,weapon_fired 0
+1657,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:35.887105,weapon_fired 0
+1658,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:35.961121,weapon_fired 0
+1659,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.015134,weapon_fired 0
+1660,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.080148,killed an enemy
+1661,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.084149,weapon_fired 1
+1662,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.091150,hp 460
+1663,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.094152,armor 107
+1664,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.104153,shielded hit
+1665,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.109155,hp 460
+1666,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.112156,armor 107
+1667,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.117156,hp 460
+1668,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.121158,armor 107
+1669,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.125159,health_subtracted 0
+1670,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.222181,stance_crouched 1
+1671,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.520249,stance_crouched 1
+1672,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.654279,killed an enemy
+1673,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.659279,weapon_fired 1
+1674,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.738298,weapon_fired 0
+1675,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.795311,weapon_fired 0
+1676,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.870327,weapon_fired 0
+1677,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:36.940344,weapon_fired 0
+1678,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:37.007358,weapon_fired 0
+1679,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:37.060371,weapon_fired 0
+1680,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:37.135388,weapon_fired 0
+1681,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:37.201402,weapon_fired 0
+1682,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:37.265417,killed an enemy
+1683,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:37.269418,weapon_fired 1
+1684,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:37.343435,weapon_fired 0
+1685,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:37.405449,weapon_fired 0
+1686,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:37.573487,stance_crouched 1
+1687,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:39.678964,hp 460
+1688,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:39.681965,armor 97
+1689,tuiew,Profile-Visual+Weste+Thermal+Sound,2022-11-25 01:14:39.685966,auto regenerate armor

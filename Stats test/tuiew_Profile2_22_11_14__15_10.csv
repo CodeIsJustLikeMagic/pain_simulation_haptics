@@ -1,0 +1,2577 @@
+,Player,Profile,Time,Event
+0,tuiew,Profile2,2022-11-14 15:10:35.876480,stance_crouched 0
+1,tuiew,Profile2,2022-11-14 15:10:38.991186,stance_crouched 0
+2,tuiew,Profile2,2022-11-14 15:10:39.003189,activate_objective Enter_the_bank
+3,tuiew,Profile2,2022-11-14 15:10:44.772808,stance_crouched 0
+4,tuiew,Profile2,2022-11-14 15:10:45.162897,weapon_fired 0
+5,tuiew,Profile2,2022-11-14 15:10:45.250917,killed an enemy
+6,tuiew,Profile2,2022-11-14 15:10:45.253918,weapon_fired 1
+7,tuiew,Profile2,2022-11-14 15:10:45.318933,weapon_fired 0
+8,tuiew,Profile2,2022-11-14 15:10:45.385948,weapon_fired 0
+9,tuiew,Profile2,2022-11-14 15:10:45.488971,stance_crouched 0
+10,tuiew,Profile2,2022-11-14 15:10:46.678816,stance_crouched 1
+11,tuiew,Profile2,2022-11-14 15:10:47.061375,stance_crouched 1
+12,tuiew,Profile2,2022-11-14 15:10:47.868558,weapon_fired 0
+13,tuiew,Profile2,2022-11-14 15:10:47.940574,weapon_fired 0
+14,tuiew,Profile2,2022-11-14 15:10:48.058601,stance_crouched 1
+15,tuiew,Profile2,2022-11-14 15:10:48.272649,stance_crouched 1
+16,tuiew,Profile2,2022-11-14 15:10:49.272427,weapon_fired 0
+17,tuiew,Profile2,2022-11-14 15:10:49.346443,weapon_fired 0
+18,tuiew,Profile2,2022-11-14 15:10:49.985774,weapon_fired 1
+19,tuiew,Profile2,2022-11-14 15:10:49.993776,killed an enemy
+20,tuiew,Profile2,2022-11-14 15:10:50.310848,stance_crouched 1
+21,tuiew,Profile2,2022-11-14 15:10:51.147037,stance_crouched 0
+22,tuiew,Profile2,2022-11-14 15:10:51.292070,complete_objective Enter_the_bank
+23,tuiew,Profile2,2022-11-14 15:10:52.296298,activate_objective Saw_open_the_door
+24,tuiew,Profile2,2022-11-14 15:11:01.549396,complete_objective Saw_open_the_door
+25,tuiew,Profile2,2022-11-14 15:11:02.541621,activate_objective Defend_the_saw
+26,tuiew,Profile2,2022-11-14 15:11:02.544622,stance_crouched 1
+27,tuiew,Profile2,2022-11-14 15:11:03.266786,stance_crouched 0
+28,tuiew,Profile2,2022-11-14 15:11:05.306248,stance_crouched 1
+29,tuiew,Profile2,2022-11-14 15:11:09.039111,stance_crouched 1
+30,tuiew,Profile2,2022-11-14 15:11:09.368185,stance_crouched 1
+31,tuiew,Profile2,2022-11-14 15:11:13.297497,stance_crouched 1
+32,tuiew,Profile2,2022-11-14 15:11:15.211931,stance_crouched 1
+33,tuiew,Profile2,2022-11-14 15:11:21.831316,stance_crouched 1
+34,tuiew,Profile2,2022-11-14 15:11:22.982578,stance_crouched 1
+35,tuiew,Profile2,2022-11-14 15:11:23.725746,stance_crouched 1
+36,tuiew,Profile2,2022-11-14 15:11:24.106833,stance_crouched 1
+37,tuiew,Profile2,2022-11-14 15:11:24.945022,stance_crouched 0
+38,tuiew,Profile2,2022-11-14 15:11:29.085711,stance_crouched 1
+39,tuiew,Profile2,2022-11-14 15:11:31.846121,stance_crouched 0
+40,tuiew,Profile2,2022-11-14 15:11:32.839347,stance_crouched 1
+41,tuiew,Profile2,2022-11-14 15:11:33.575514,stance_crouched 0
+42,tuiew,Profile2,2022-11-14 15:11:33.794563,stance_crouched 0
+43,tuiew,Profile2,2022-11-14 15:11:34.239664,stance_crouched 1
+44,tuiew,Profile2,2022-11-14 15:11:35.560964,weapon_fired 0
+45,tuiew,Profile2,2022-11-14 15:11:37.603427,weapon_fired 0
+46,tuiew,Profile2,2022-11-14 15:11:37.862485,stance_crouched 1
+47,tuiew,Profile2,2022-11-14 15:11:38.609655,stance_crouched 1
+48,tuiew,Profile2,2022-11-14 15:11:39.206791,weapon_fired 0
+49,tuiew,Profile2,2022-11-14 15:11:39.331819,stance_crouched 1
+50,tuiew,Profile2,2022-11-14 15:11:40.635398,stance_crouched 1
+51,tuiew,Profile2,2022-11-14 15:11:41.456133,weapon_fired 0
+52,tuiew,Profile2,2022-11-14 15:11:41.530234,weapon_fired 0
+53,tuiew,Profile2,2022-11-14 15:11:41.552239,stance_crouched 1
+54,tuiew,Profile2,2022-11-14 15:11:43.793698,stance_crouched 1
+55,tuiew,Profile2,2022-11-14 15:11:44.193788,weapon_fired 0
+56,tuiew,Profile2,2022-11-14 15:11:44.739912,weapon_fired 0
+57,tuiew,Profile2,2022-11-14 15:11:44.814929,killed an enemy
+58,tuiew,Profile2,2022-11-14 15:11:44.818930,weapon_fired 1
+59,tuiew,Profile2,2022-11-14 15:11:44.897948,weapon_fired 0
+60,tuiew,Profile2,2022-11-14 15:11:45.206018,stance_crouched 1
+61,tuiew,Profile2,2022-11-14 15:11:46.774363,stance_crouched 1
+62,tuiew,Profile2,2022-11-14 15:11:46.945401,weapon_fired 0
+63,tuiew,Profile2,2022-11-14 15:11:47.022243,weapon_fired 0
+64,tuiew,Profile2,2022-11-14 15:11:47.090259,weapon_fired 0
+65,tuiew,Profile2,2022-11-14 15:11:47.157274,weapon_fired 0
+66,tuiew,Profile2,2022-11-14 15:11:47.225289,weapon_fired 0
+67,tuiew,Profile2,2022-11-14 15:11:47.271300,stance_crouched 1
+68,tuiew,Profile2,2022-11-14 15:11:48.758738,stance_crouched 0
+69,tuiew,Profile2,2022-11-14 15:11:50.658067,stance_crouched 1
+70,tuiew,Profile2,2022-11-14 15:11:56.664429,stance_crouched 1
+71,tuiew,Profile2,2022-11-14 15:11:57.793685,stance_crouched 1
+72,tuiew,Profile2,2022-11-14 15:12:01.630555,stance_crouched 1
+73,tuiew,Profile2,2022-11-14 15:12:02.543763,hp 460
+74,tuiew,Profile2,2022-11-14 15:12:02.545763,armor 117
+75,tuiew,Profile2,2022-11-14 15:12:02.549763,enemy_headshot
+76,tuiew,Profile2,2022-11-14 15:12:02.553765,killed an enemy
+77,tuiew,Profile2,2022-11-14 15:12:02.556765,weapon_fired 1
+78,tuiew,Profile2,2022-11-14 15:12:02.625781,weapon_fired 0
+79,tuiew,Profile2,2022-11-14 15:12:04.284157,weapon_fired 0
+80,tuiew,Profile2,2022-11-14 15:12:04.463198,hp 460
+81,tuiew,Profile2,2022-11-14 15:12:04.465198,armor 117
+82,tuiew,Profile2,2022-11-14 15:12:04.470199,shielded hit
+83,tuiew,Profile2,2022-11-14 15:12:04.476201,hp 460
+84,tuiew,Profile2,2022-11-14 15:12:04.478200,armor 117
+85,tuiew,Profile2,2022-11-14 15:12:04.481202,hp 460
+86,tuiew,Profile2,2022-11-14 15:12:04.484203,armor 117
+87,tuiew,Profile2,2022-11-14 15:12:04.487203,health_subtracted 0
+88,tuiew,Profile2,2022-11-14 15:12:04.706252,killed an enemy
+89,tuiew,Profile2,2022-11-14 15:12:04.709253,weapon_fired 1
+90,tuiew,Profile2,2022-11-14 15:12:04.778269,weapon_fired 0
+91,tuiew,Profile2,2022-11-14 15:12:04.982315,stance_crouched 1
+92,tuiew,Profile2,2022-11-14 15:12:05.796501,stance_crouched 1
+93,tuiew,Profile2,2022-11-14 15:12:05.989544,hp 460
+94,tuiew,Profile2,2022-11-14 15:12:05.991544,armor 107
+95,tuiew,Profile2,2022-11-14 15:12:05.995545,shielded hit
+96,tuiew,Profile2,2022-11-14 15:12:06.001547,hp 460
+97,tuiew,Profile2,2022-11-14 15:12:06.004547,armor 107
+98,tuiew,Profile2,2022-11-14 15:12:06.008548,hp 460
+99,tuiew,Profile2,2022-11-14 15:12:06.010548,armor 107
+100,tuiew,Profile2,2022-11-14 15:12:06.013549,health_subtracted 0
+101,tuiew,Profile2,2022-11-14 15:12:06.126575,weapon_fired 1
+102,tuiew,Profile2,2022-11-14 15:12:06.199591,killed an enemy
+103,tuiew,Profile2,2022-11-14 15:12:06.203592,weapon_fired 1
+104,tuiew,Profile2,2022-11-14 15:12:06.778722,stance_crouched 1
+105,tuiew,Profile2,2022-11-14 15:12:08.464570,hp 460
+106,tuiew,Profile2,2022-11-14 15:12:08.467571,armor 103
+107,tuiew,Profile2,2022-11-14 15:12:08.471572,auto regenerate armor
+108,tuiew,Profile2,2022-11-14 15:12:13.620927,stance_crouched 0
+109,tuiew,Profile2,2022-11-14 15:12:14.317449,stance_crouched 1
+110,tuiew,Profile2,2022-11-14 15:12:21.280285,stance_crouched 1
+111,tuiew,Profile2,2022-11-14 15:12:21.510337,weapon_fired 1
+112,tuiew,Profile2,2022-11-14 15:12:21.580353,weapon_fired 0
+113,tuiew,Profile2,2022-11-14 15:12:21.647368,weapon_fired 0
+114,tuiew,Profile2,2022-11-14 15:12:21.715384,weapon_fired 0
+115,tuiew,Profile2,2022-11-14 15:12:21.781398,killed an enemy
+116,tuiew,Profile2,2022-11-14 15:12:21.784399,weapon_fired 1
+117,tuiew,Profile2,2022-11-14 15:12:21.877420,stance_crouched 1
+118,tuiew,Profile2,2022-11-14 15:12:24.834238,stance_crouched 1
+119,tuiew,Profile2,2022-11-14 15:12:25.027282,weapon_fired 0
+120,tuiew,Profile2,2022-11-14 15:12:25.103299,hp 460
+121,tuiew,Profile2,2022-11-14 15:12:25.105299,armor 117
+122,tuiew,Profile2,2022-11-14 15:12:25.110300,enemy_headshot
+123,tuiew,Profile2,2022-11-14 15:12:25.113301,killed an enemy
+124,tuiew,Profile2,2022-11-14 15:12:25.117302,weapon_fired 1
+125,tuiew,Profile2,2022-11-14 15:12:25.185317,weapon_fired 0
+126,tuiew,Profile2,2022-11-14 15:12:25.251332,weapon_fired 0
+127,tuiew,Profile2,2022-11-14 15:12:25.327350,weapon_fired 0
+128,tuiew,Profile2,2022-11-14 15:12:25.499389,stance_crouched 1
+129,tuiew,Profile2,2022-11-14 15:12:27.894305,stance_crouched 1
+130,tuiew,Profile2,2022-11-14 15:12:28.318481,hp 460
+131,tuiew,Profile2,2022-11-14 15:12:28.320482,armor 117
+132,tuiew,Profile2,2022-11-14 15:12:28.323483,enemy_headshot
+133,tuiew,Profile2,2022-11-14 15:12:28.327483,killed an enemy
+134,tuiew,Profile2,2022-11-14 15:12:28.330485,weapon_fired 1
+135,tuiew,Profile2,2022-11-14 15:12:28.404501,weapon_fired 0
+136,tuiew,Profile2,2022-11-14 15:12:28.596544,stance_crouched 1
+137,tuiew,Profile2,2022-11-14 15:12:29.575698,stance_crouched 1
+138,tuiew,Profile2,2022-11-14 15:12:30.956011,weapon_fired 0
+139,tuiew,Profile2,2022-11-14 15:12:31.026028,weapon_fired 0
+140,tuiew,Profile2,2022-11-14 15:12:31.387108,stance_crouched 1
+141,tuiew,Profile2,2022-11-14 15:12:31.860217,stance_crouched 1
+142,tuiew,Profile2,2022-11-14 15:12:32.166848,stance_crouched 1
+143,tuiew,Profile2,2022-11-14 15:12:32.434656,auto regenerate armor
+144,tuiew,Profile2,2022-11-14 15:12:32.437657,hp 460
+145,tuiew,Profile2,2022-11-14 15:12:32.440658,armor 117
+146,tuiew,Profile2,2022-11-14 15:12:34.549136,complete_objective Defend_the_saw
+147,tuiew,Profile2,2022-11-14 15:12:35.275106,stance_crouched 1
+148,tuiew,Profile2,2022-11-14 15:12:35.550168,activate_objective Remove_the_saw
+149,tuiew,Profile2,2022-11-14 15:12:35.568173,weapon_fired 0
+150,tuiew,Profile2,2022-11-14 15:12:35.645190,weapon_fired 0
+151,tuiew,Profile2,2022-11-14 15:12:35.714206,weapon_fired 0
+152,tuiew,Profile2,2022-11-14 15:12:35.999270,stance_crouched 1
+153,tuiew,Profile2,2022-11-14 15:12:36.503384,stance_crouched 1
+154,tuiew,Profile2,2022-11-14 15:12:36.835396,weapon_fired 1
+155,tuiew,Profile2,2022-11-14 15:12:36.911413,weapon_fired 0
+156,tuiew,Profile2,2022-11-14 15:12:37.167472,hp 460
+157,tuiew,Profile2,2022-11-14 15:12:37.170472,armor 117
+158,tuiew,Profile2,2022-11-14 15:12:37.174474,shielded hit
+159,tuiew,Profile2,2022-11-14 15:12:37.179474,hp 460
+160,tuiew,Profile2,2022-11-14 15:12:37.182476,armor 117
+161,tuiew,Profile2,2022-11-14 15:12:37.186476,hp 460
+162,tuiew,Profile2,2022-11-14 15:12:37.188476,armor 117
+163,tuiew,Profile2,2022-11-14 15:12:37.192478,health_subtracted 0
+164,tuiew,Profile2,2022-11-14 15:12:37.240488,weapon_fired 0
+165,tuiew,Profile2,2022-11-14 15:12:37.310504,weapon_fired 0
+166,tuiew,Profile2,2022-11-14 15:12:37.380519,weapon_fired 0
+167,tuiew,Profile2,2022-11-14 15:12:37.450536,weapon_fired 0
+168,tuiew,Profile2,2022-11-14 15:12:37.528553,weapon_fired 0
+169,tuiew,Profile2,2022-11-14 15:12:37.537555,stance_crouched 1
+170,tuiew,Profile2,2022-11-14 15:12:39.825955,stance_crouched 0
+171,tuiew,Profile2,2022-11-14 15:12:40.330069,stance_crouched 1
+172,tuiew,Profile2,2022-11-14 15:12:40.613133,hp 460
+173,tuiew,Profile2,2022-11-14 15:12:40.615134,armor 113
+174,tuiew,Profile2,2022-11-14 15:12:40.618135,auto regenerate armor
+175,tuiew,Profile2,2022-11-14 15:12:41.012102,stance_crouched 1
+176,tuiew,Profile2,2022-11-14 15:12:41.533220,weapon_fired 0
+177,tuiew,Profile2,2022-11-14 15:12:41.603236,weapon_fired 0
+178,tuiew,Profile2,2022-11-14 15:12:41.643245,hp 460
+179,tuiew,Profile2,2022-11-14 15:12:41.645246,armor 117
+180,tuiew,Profile2,2022-11-14 15:12:41.649247,shielded hit
+181,tuiew,Profile2,2022-11-14 15:12:41.654248,hp 460
+182,tuiew,Profile2,2022-11-14 15:12:41.656248,armor 117
+183,tuiew,Profile2,2022-11-14 15:12:41.660249,hp 460
+184,tuiew,Profile2,2022-11-14 15:12:41.663250,armor 117
+185,tuiew,Profile2,2022-11-14 15:12:41.666250,health_subtracted 0
+186,tuiew,Profile2,2022-11-14 15:12:41.953315,weapon_fired 0
+187,tuiew,Profile2,2022-11-14 15:12:42.024331,weapon_fired 0
+188,tuiew,Profile2,2022-11-14 15:12:42.080345,stance_crouched 1
+189,tuiew,Profile2,2022-11-14 15:12:43.260387,stance_crouched 1
+190,tuiew,Profile2,2022-11-14 15:12:44.272362,stance_crouched 1
+191,tuiew,Profile2,2022-11-14 15:12:44.655449,weapon_fired 0
+192,tuiew,Profile2,2022-11-14 15:12:44.952517,hp 460
+193,tuiew,Profile2,2022-11-14 15:12:44.955517,armor 87
+194,tuiew,Profile2,2022-11-14 15:12:44.960519,auto regenerate armor
+195,tuiew,Profile2,2022-11-14 15:12:45.250584,killed an enemy
+196,tuiew,Profile2,2022-11-14 15:12:45.253585,weapon_fired 1
+197,tuiew,Profile2,2022-11-14 15:12:46.365838,weapon_fired 0
+198,tuiew,Profile2,2022-11-14 15:12:46.622896,killed an enemy
+199,tuiew,Profile2,2022-11-14 15:12:46.625897,weapon_fired 1
+200,tuiew,Profile2,2022-11-14 15:12:46.991044,stance_crouched 1
+201,tuiew,Profile2,2022-11-14 15:12:48.169016,stance_crouched 1
+202,tuiew,Profile2,2022-11-14 15:12:49.654526,stance_crouched 1
+203,tuiew,Profile2,2022-11-14 15:12:50.170611,stance_crouched 1
+204,tuiew,Profile2,2022-11-14 15:12:50.544726,stance_crouched 1
+205,tuiew,Profile2,2022-11-14 15:12:50.685758,weapon_fired 0
+206,tuiew,Profile2,2022-11-14 15:12:50.759775,killed an enemy
+207,tuiew,Profile2,2022-11-14 15:12:50.762775,weapon_fired 1
+208,tuiew,Profile2,2022-11-14 15:12:50.827325,weapon_fired 0
+209,tuiew,Profile2,2022-11-14 15:12:50.898342,weapon_fired 0
+210,tuiew,Profile2,2022-11-14 15:12:50.989363,stance_crouched 1
+211,tuiew,Profile2,2022-11-14 15:12:51.575496,stance_crouched 1
+212,tuiew,Profile2,2022-11-14 15:12:52.128621,stance_crouched 1
+213,tuiew,Profile2,2022-11-14 15:12:53.369076,stance_crouched 1
+214,tuiew,Profile2,2022-11-14 15:12:53.740159,stance_crouched 1
+215,tuiew,Profile2,2022-11-14 15:12:56.716942,hp 460
+216,tuiew,Profile2,2022-11-14 15:12:56.718943,armor 117
+217,tuiew,Profile2,2022-11-14 15:12:56.721944,shielded hit
+218,tuiew,Profile2,2022-11-14 15:12:56.726946,hp 460
+219,tuiew,Profile2,2022-11-14 15:12:56.729945,armor 117
+220,tuiew,Profile2,2022-11-14 15:12:56.732946,hp 460
+221,tuiew,Profile2,2022-11-14 15:12:56.735946,armor 117
+222,tuiew,Profile2,2022-11-14 15:12:56.738947,health_subtracted 0
+223,tuiew,Profile2,2022-11-14 15:12:57.253133,hp 460
+224,tuiew,Profile2,2022-11-14 15:12:57.255133,armor 97
+225,tuiew,Profile2,2022-11-14 15:12:57.259134,shielded hit
+226,tuiew,Profile2,2022-11-14 15:12:57.265135,hp 460
+227,tuiew,Profile2,2022-11-14 15:12:57.267136,armor 97
+228,tuiew,Profile2,2022-11-14 15:12:57.271137,hp 460
+229,tuiew,Profile2,2022-11-14 15:12:57.273137,armor 97
+230,tuiew,Profile2,2022-11-14 15:12:57.276139,health_subtracted 0
+231,tuiew,Profile2,2022-11-14 15:12:57.821261,hp 460
+232,tuiew,Profile2,2022-11-14 15:12:57.823262,armor 77
+233,tuiew,Profile2,2022-11-14 15:12:57.827263,shielded hit
+234,tuiew,Profile2,2022-11-14 15:12:57.834265,hp 460
+235,tuiew,Profile2,2022-11-14 15:12:57.837265,armor 77
+236,tuiew,Profile2,2022-11-14 15:12:57.841266,hp 460
+237,tuiew,Profile2,2022-11-14 15:12:57.844267,armor 77
+238,tuiew,Profile2,2022-11-14 15:12:57.849268,health_subtracted 0
+239,tuiew,Profile2,2022-11-14 15:12:58.427350,stance_crouched 1
+240,tuiew,Profile2,2022-11-14 15:12:58.582385,killed an enemy
+241,tuiew,Profile2,2022-11-14 15:12:58.586387,weapon_fired 1
+242,tuiew,Profile2,2022-11-14 15:12:58.664404,weapon_fired 0
+243,tuiew,Profile2,2022-11-14 15:12:58.789432,stance_crouched 1
+244,tuiew,Profile2,2022-11-14 15:13:00.314857,hp 460
+245,tuiew,Profile2,2022-11-14 15:13:00.317858,armor 57
+246,tuiew,Profile2,2022-11-14 15:13:00.321860,auto regenerate armor
+247,tuiew,Profile2,2022-11-14 15:13:03.434546,stance_crouched 1
+248,tuiew,Profile2,2022-11-14 15:13:03.933660,weapon_fired 0
+249,tuiew,Profile2,2022-11-14 15:13:03.997675,weapon_fired 0
+250,tuiew,Profile2,2022-11-14 15:13:04.316840,weapon_fired 0
+251,tuiew,Profile2,2022-11-14 15:13:04.405861,weapon_fired 0
+252,tuiew,Profile2,2022-11-14 15:13:04.505883,stance_crouched 1
+253,tuiew,Profile2,2022-11-14 15:13:06.207146,stance_crouched 1
+254,tuiew,Profile2,2022-11-14 15:13:07.210372,stance_crouched 1
+255,tuiew,Profile2,2022-11-14 15:13:07.226375,hp 460
+256,tuiew,Profile2,2022-11-14 15:13:07.228376,armor 117
+257,tuiew,Profile2,2022-11-14 15:13:07.231377,shielded hit
+258,tuiew,Profile2,2022-11-14 15:13:07.237378,hp 460
+259,tuiew,Profile2,2022-11-14 15:13:07.239379,armor 117
+260,tuiew,Profile2,2022-11-14 15:13:07.243379,hp 460
+261,tuiew,Profile2,2022-11-14 15:13:07.245380,armor 117
+262,tuiew,Profile2,2022-11-14 15:13:07.247381,health_subtracted 0
+263,tuiew,Profile2,2022-11-14 15:13:07.580456,weapon_fired 0
+264,tuiew,Profile2,2022-11-14 15:13:07.710486,hp 460
+265,tuiew,Profile2,2022-11-14 15:13:07.713486,armor 87
+266,tuiew,Profile2,2022-11-14 15:13:07.717487,shielded hit
+267,tuiew,Profile2,2022-11-14 15:13:07.722488,hp 460
+268,tuiew,Profile2,2022-11-14 15:13:07.725489,armor 87
+269,tuiew,Profile2,2022-11-14 15:13:07.729489,hp 460
+270,tuiew,Profile2,2022-11-14 15:13:07.732490,armor 87
+271,tuiew,Profile2,2022-11-14 15:13:07.735491,health_subtracted 0
+272,tuiew,Profile2,2022-11-14 15:13:07.893526,killed an enemy
+273,tuiew,Profile2,2022-11-14 15:13:07.903529,weapon_fired 1
+274,tuiew,Profile2,2022-11-14 15:13:08.309621,stance_crouched 1
+275,tuiew,Profile2,2022-11-14 15:13:09.457433,stance_crouched 1
+276,tuiew,Profile2,2022-11-14 15:13:09.770567,stance_crouched 1
+277,tuiew,Profile2,2022-11-14 15:13:10.198969,hp 460
+278,tuiew,Profile2,2022-11-14 15:13:10.200970,armor 57
+279,tuiew,Profile2,2022-11-14 15:13:10.204971,auto regenerate armor
+280,tuiew,Profile2,2022-11-14 15:13:11.181192,stance_crouched 1
+281,tuiew,Profile2,2022-11-14 15:13:13.061461,stance_crouched 1
+282,tuiew,Profile2,2022-11-14 15:13:13.463552,killed an enemy
+283,tuiew,Profile2,2022-11-14 15:13:13.466552,weapon_fired 1
+284,tuiew,Profile2,2022-11-14 15:13:13.539569,weapon_fired 0
+285,tuiew,Profile2,2022-11-14 15:13:13.614586,weapon_fired 0
+286,tuiew,Profile2,2022-11-14 15:13:13.722611,stance_crouched 1
+287,tuiew,Profile2,2022-11-14 15:13:14.413280,stance_crouched 1
+288,tuiew,Profile2,2022-11-14 15:13:14.511303,hp 460
+289,tuiew,Profile2,2022-11-14 15:13:14.514303,armor 117
+290,tuiew,Profile2,2022-11-14 15:13:14.518304,enemy_headshot
+291,tuiew,Profile2,2022-11-14 15:13:14.521306,weapon_fired 1
+292,tuiew,Profile2,2022-11-14 15:13:14.587320,enemy_headshot
+293,tuiew,Profile2,2022-11-14 15:13:14.591321,killed an enemy
+294,tuiew,Profile2,2022-11-14 15:13:14.594323,weapon_fired 1
+295,tuiew,Profile2,2022-11-14 15:13:14.656336,weapon_fired 0
+296,tuiew,Profile2,2022-11-14 15:13:14.752357,stance_crouched 1
+297,tuiew,Profile2,2022-11-14 15:13:17.164604,stance_crouched 1
+298,tuiew,Profile2,2022-11-14 15:13:18.496802,weapon_fired 0
+299,tuiew,Profile2,2022-11-14 15:13:20.106056,weapon_fired 0
+300,tuiew,Profile2,2022-11-14 15:13:20.591166,weapon_fired 0
+301,tuiew,Profile2,2022-11-14 15:13:20.671184,weapon_fired 0
+302,tuiew,Profile2,2022-11-14 15:13:21.593393,weapon_fired 0
+303,tuiew,Profile2,2022-11-14 15:13:21.666296,weapon_fired 0
+304,tuiew,Profile2,2022-11-14 15:13:22.247428,weapon_fired 0
+305,tuiew,Profile2,2022-11-14 15:13:22.325446,weapon_fired 0
+306,tuiew,Profile2,2022-11-14 15:13:22.398463,weapon_fired 0
+307,tuiew,Profile2,2022-11-14 15:13:22.476480,weapon_fired 0
+308,tuiew,Profile2,2022-11-14 15:13:22.529492,shielded hit
+309,tuiew,Profile2,2022-11-14 15:13:22.536494,hp 460
+310,tuiew,Profile2,2022-11-14 15:13:22.538494,armor 117
+311,tuiew,Profile2,2022-11-14 15:13:22.542495,hp 460
+312,tuiew,Profile2,2022-11-14 15:13:22.545495,armor 117
+313,tuiew,Profile2,2022-11-14 15:13:22.549497,hp 460
+314,tuiew,Profile2,2022-11-14 15:13:22.551497,armor 117
+315,tuiew,Profile2,2022-11-14 15:13:22.554498,health_subtracted 0
+316,tuiew,Profile2,2022-11-14 15:13:22.557498,weapon_fired 0
+317,tuiew,Profile2,2022-11-14 15:13:22.624514,weapon_fired 0
+318,tuiew,Profile2,2022-11-14 15:13:22.687658,hp 460
+319,tuiew,Profile2,2022-11-14 15:13:22.690658,armor 97
+320,tuiew,Profile2,2022-11-14 15:13:22.694659,enemy_headshot
+321,tuiew,Profile2,2022-11-14 15:13:22.698660,killed an enemy
+322,tuiew,Profile2,2022-11-14 15:13:22.702661,weapon_fired 1
+323,tuiew,Profile2,2022-11-14 15:13:22.924712,weapon_fired 0
+324,tuiew,Profile2,2022-11-14 15:13:22.995727,weapon_fired 0
+325,tuiew,Profile2,2022-11-14 15:13:23.193773,stance_crouched 1
+326,tuiew,Profile2,2022-11-14 15:13:25.003016,hp 460
+327,tuiew,Profile2,2022-11-14 15:13:25.005016,armor 117
+328,tuiew,Profile2,2022-11-14 15:13:25.008018,auto regenerate armor
+329,tuiew,Profile2,2022-11-14 15:13:25.910421,stance_crouched 0
+330,tuiew,Profile2,2022-11-14 15:13:26.593576,stance_crouched 1
+331,tuiew,Profile2,2022-11-14 15:13:27.070687,stance_crouched 1
+332,tuiew,Profile2,2022-11-14 15:13:27.421766,weapon_fired 1
+333,tuiew,Profile2,2022-11-14 15:13:27.496784,weapon_fired 0
+334,tuiew,Profile2,2022-11-14 15:13:27.559797,weapon_fired 0
+335,tuiew,Profile2,2022-11-14 15:13:27.840367,stance_crouched 1
+336,tuiew,Profile2,2022-11-14 15:13:28.791587,stance_crouched 1
+337,tuiew,Profile2,2022-11-14 15:13:29.551449,weapon_fired 0
+338,tuiew,Profile2,2022-11-14 15:13:29.632467,hp 460
+339,tuiew,Profile2,2022-11-14 15:13:29.634468,armor 117
+340,tuiew,Profile2,2022-11-14 15:13:29.637468,enemy_headshot
+341,tuiew,Profile2,2022-11-14 15:13:29.641469,killed an enemy
+342,tuiew,Profile2,2022-11-14 15:13:29.644469,weapon_fired 1
+343,tuiew,Profile2,2022-11-14 15:13:29.929613,weapon_fired 0
+344,tuiew,Profile2,2022-11-14 15:13:30.006953,weapon_fired 0
+345,tuiew,Profile2,2022-11-14 15:13:30.087649,weapon_fired 1
+346,tuiew,Profile2,2022-11-14 15:13:30.160666,enemy_headshot
+347,tuiew,Profile2,2022-11-14 15:13:30.163667,killed an enemy
+348,tuiew,Profile2,2022-11-14 15:13:30.167668,weapon_fired 1
+349,tuiew,Profile2,2022-11-14 15:13:30.320702,stance_crouched 1
+350,tuiew,Profile2,2022-11-14 15:13:30.535752,hp 460
+351,tuiew,Profile2,2022-11-14 15:13:30.537752,armor 117
+352,tuiew,Profile2,2022-11-14 15:13:30.540752,shielded hit
+353,tuiew,Profile2,2022-11-14 15:13:30.546753,hp 460
+354,tuiew,Profile2,2022-11-14 15:13:30.548754,armor 117
+355,tuiew,Profile2,2022-11-14 15:13:30.551754,health_subtracted 0
+356,tuiew,Profile2,2022-11-14 15:13:30.556755,hp 460
+357,tuiew,Profile2,2022-11-14 15:13:30.558756,armor 117
+358,tuiew,Profile2,2022-11-14 15:13:30.594669,stance_crouched 1
+359,tuiew,Profile2,2022-11-14 15:13:30.721715,killed an enemy
+360,tuiew,Profile2,2022-11-14 15:13:30.725716,weapon_fired 1
+361,tuiew,Profile2,2022-11-14 15:13:30.738719,stance_crouched 1
+362,tuiew,Profile2,2022-11-14 15:13:31.462883,hp 460
+363,tuiew,Profile2,2022-11-14 15:13:31.464884,armor 107
+364,tuiew,Profile2,2022-11-14 15:13:31.469885,shielded hit
+365,tuiew,Profile2,2022-11-14 15:13:31.474887,hp 460
+366,tuiew,Profile2,2022-11-14 15:13:31.476886,armor 107
+367,tuiew,Profile2,2022-11-14 15:13:31.481888,hp 460
+368,tuiew,Profile2,2022-11-14 15:13:31.483889,armor 107
+369,tuiew,Profile2,2022-11-14 15:13:31.486889,health_subtracted 0
+370,tuiew,Profile2,2022-11-14 15:13:32.940397,weapon_fired 0
+371,tuiew,Profile2,2022-11-14 15:13:32.944397,stance_crouched 1
+372,tuiew,Profile2,2022-11-14 15:13:33.029417,weapon_fired 1
+373,tuiew,Profile2,2022-11-14 15:13:33.100531,killed an enemy
+374,tuiew,Profile2,2022-11-14 15:13:33.103532,weapon_fired 1
+375,tuiew,Profile2,2022-11-14 15:13:33.164545,weapon_fired 0
+376,tuiew,Profile2,2022-11-14 15:13:33.237562,weapon_fired 0
+377,tuiew,Profile2,2022-11-14 15:13:33.308578,weapon_fired 0
+378,tuiew,Profile2,2022-11-14 15:13:33.373603,weapon_fired 0
+379,tuiew,Profile2,2022-11-14 15:13:33.469625,stance_crouched 1
+380,tuiew,Profile2,2022-11-14 15:13:33.687755,stance_crouched 0
+381,tuiew,Profile2,2022-11-14 15:13:34.009893,hp 460
+382,tuiew,Profile2,2022-11-14 15:13:34.012894,armor 97
+383,tuiew,Profile2,2022-11-14 15:13:34.016895,shielded hit
+384,tuiew,Profile2,2022-11-14 15:13:34.023897,hp 460
+385,tuiew,Profile2,2022-11-14 15:13:34.026898,armor 97
+386,tuiew,Profile2,2022-11-14 15:13:34.031898,hp 460
+387,tuiew,Profile2,2022-11-14 15:13:34.034899,armor 97
+388,tuiew,Profile2,2022-11-14 15:13:34.038902,health_subtracted 0
+389,tuiew,Profile2,2022-11-14 15:13:34.084910,stance_crouched 1
+390,tuiew,Profile2,2022-11-14 15:13:34.244882,stance_crouched 1
+391,tuiew,Profile2,2022-11-14 15:13:34.357796,weapon_fired 0
+392,tuiew,Profile2,2022-11-14 15:13:34.422811,weapon_fired 0
+393,tuiew,Profile2,2022-11-14 15:13:34.491827,weapon_fired 0
+394,tuiew,Profile2,2022-11-14 15:13:34.563844,weapon_fired 0
+395,tuiew,Profile2,2022-11-14 15:13:34.625857,weapon_fired 0
+396,tuiew,Profile2,2022-11-14 15:13:34.701682,weapon_fired 0
+397,tuiew,Profile2,2022-11-14 15:13:34.771699,weapon_fired 0
+398,tuiew,Profile2,2022-11-14 15:13:34.811708,stance_crouched 1
+399,tuiew,Profile2,2022-11-14 15:13:34.950739,stance_crouched 0
+400,tuiew,Profile2,2022-11-14 15:13:35.269008,stance_crouched 0
+401,tuiew,Profile2,2022-11-14 15:13:35.469864,weapon_fired 0
+402,tuiew,Profile2,2022-11-14 15:13:35.536879,weapon_fired 0
+403,tuiew,Profile2,2022-11-14 15:13:35.607895,weapon_fired 0
+404,tuiew,Profile2,2022-11-14 15:13:35.677911,weapon_fired 0
+405,tuiew,Profile2,2022-11-14 15:13:35.749591,weapon_fired 0
+406,tuiew,Profile2,2022-11-14 15:13:35.817773,weapon_fired 0
+407,tuiew,Profile2,2022-11-14 15:13:35.886229,killed an enemy
+408,tuiew,Profile2,2022-11-14 15:13:35.889230,weapon_fired 1
+409,tuiew,Profile2,2022-11-14 15:13:35.961246,weapon_fired 0
+410,tuiew,Profile2,2022-11-14 15:13:36.031262,weapon_fired 0
+411,tuiew,Profile2,2022-11-14 15:13:36.078273,stance_crouched 0
+412,tuiew,Profile2,2022-11-14 15:13:36.246311,stance_crouched 1
+413,tuiew,Profile2,2022-11-14 15:13:37.093503,hp 460
+414,tuiew,Profile2,2022-11-14 15:13:37.096503,armor 77
+415,tuiew,Profile2,2022-11-14 15:13:37.100504,auto regenerate armor
+416,tuiew,Profile2,2022-11-14 15:13:39.724837,stance_crouched 0
+417,tuiew,Profile2,2022-11-14 15:13:43.374367,stance_crouched 1
+418,tuiew,Profile2,2022-11-14 15:13:44.456610,stance_crouched 1
+419,tuiew,Profile2,2022-11-14 15:13:45.202779,weapon_fired 0
+420,tuiew,Profile2,2022-11-14 15:13:45.278952,weapon_fired 0
+421,tuiew,Profile2,2022-11-14 15:13:45.326963,stance_crouched 1
+422,tuiew,Profile2,2022-11-14 15:13:46.402712,stance_crouched 1
+423,tuiew,Profile2,2022-11-14 15:13:47.924749,weapon_fired 0
+424,tuiew,Profile2,2022-11-14 15:13:48.002766,weapon_fired 0
+425,tuiew,Profile2,2022-11-14 15:13:48.661902,weapon_fired 1
+426,tuiew,Profile2,2022-11-14 15:13:48.738920,killed an enemy
+427,tuiew,Profile2,2022-11-14 15:13:48.742921,weapon_fired 1
+428,tuiew,Profile2,2022-11-14 15:13:49.729144,weapon_fired 0
+429,tuiew,Profile2,2022-11-14 15:13:49.799160,weapon_fired 0
+430,tuiew,Profile2,2022-11-14 15:13:49.870176,weapon_fired 0
+431,tuiew,Profile2,2022-11-14 15:13:49.945193,weapon_fired 0
+432,tuiew,Profile2,2022-11-14 15:13:50.019210,weapon_fired 0
+433,tuiew,Profile2,2022-11-14 15:13:50.083225,weapon_fired 0
+434,tuiew,Profile2,2022-11-14 15:13:51.188352,weapon_fired 0
+435,tuiew,Profile2,2022-11-14 15:13:51.265369,weapon_fired 0
+436,tuiew,Profile2,2022-11-14 15:13:51.960671,weapon_fired 1
+437,tuiew,Profile2,2022-11-14 15:13:52.476726,hp 460
+438,tuiew,Profile2,2022-11-14 15:13:52.478727,armor 117
+439,tuiew,Profile2,2022-11-14 15:13:52.481728,shielded hit
+440,tuiew,Profile2,2022-11-14 15:13:52.487729,hp 460
+441,tuiew,Profile2,2022-11-14 15:13:52.489729,armor 117
+442,tuiew,Profile2,2022-11-14 15:13:52.494731,hp 460
+443,tuiew,Profile2,2022-11-14 15:13:52.497731,armor 117
+444,tuiew,Profile2,2022-11-14 15:13:52.501733,health_subtracted 0
+445,tuiew,Profile2,2022-11-14 15:13:52.504733,hp 460
+446,tuiew,Profile2,2022-11-14 15:13:52.507733,armor 116
+447,tuiew,Profile2,2022-11-14 15:13:52.510734,enemy_headshot
+448,tuiew,Profile2,2022-11-14 15:13:52.514736,killed an enemy
+449,tuiew,Profile2,2022-11-14 15:13:52.518736,weapon_fired 1
+450,tuiew,Profile2,2022-11-14 15:13:52.688775,stance_crouched 1
+451,tuiew,Profile2,2022-11-14 15:13:52.909824,stance_crouched 1
+452,tuiew,Profile2,2022-11-14 15:13:53.017849,weapon_fired 0
+453,tuiew,Profile2,2022-11-14 15:13:53.094867,killed an enemy
+454,tuiew,Profile2,2022-11-14 15:13:53.098868,weapon_fired 1
+455,tuiew,Profile2,2022-11-14 15:13:53.169884,weapon_fired 0
+456,tuiew,Profile2,2022-11-14 15:13:53.242136,weapon_fired 0
+457,tuiew,Profile2,2022-11-14 15:13:53.313151,weapon_fired 0
+458,tuiew,Profile2,2022-11-14 15:13:53.378166,weapon_fired 0
+459,tuiew,Profile2,2022-11-14 15:13:53.392170,stance_crouched 1
+460,tuiew,Profile2,2022-11-14 15:13:53.618240,hp 460
+461,tuiew,Profile2,2022-11-14 15:13:53.620221,armor 117
+462,tuiew,Profile2,2022-11-14 15:13:53.624223,shielded hit
+463,tuiew,Profile2,2022-11-14 15:13:53.630224,hp 460
+464,tuiew,Profile2,2022-11-14 15:13:53.633224,armor 117
+465,tuiew,Profile2,2022-11-14 15:13:53.637225,hp 460
+466,tuiew,Profile2,2022-11-14 15:13:53.640226,armor 117
+467,tuiew,Profile2,2022-11-14 15:13:53.643226,health_subtracted 0
+468,tuiew,Profile2,2022-11-14 15:13:54.615447,hp 460
+469,tuiew,Profile2,2022-11-14 15:13:54.617447,armor 107
+470,tuiew,Profile2,2022-11-14 15:13:54.624449,hp 460
+471,tuiew,Profile2,2022-11-14 15:13:54.627450,armor 107
+472,tuiew,Profile2,2022-11-14 15:13:54.631450,shielded hit
+473,tuiew,Profile2,2022-11-14 15:13:54.635451,hp 460
+474,tuiew,Profile2,2022-11-14 15:13:54.637452,armor 107
+475,tuiew,Profile2,2022-11-14 15:13:54.641452,health_subtracted 0
+476,tuiew,Profile2,2022-11-14 15:13:55.642680,stance_crouched 1
+477,tuiew,Profile2,2022-11-14 15:13:55.654683,stance_crouched 1
+478,tuiew,Profile2,2022-11-14 15:13:57.095515,hp 460
+479,tuiew,Profile2,2022-11-14 15:13:57.097515,armor 87
+480,tuiew,Profile2,2022-11-14 15:13:57.102517,auto regenerate armor
+481,tuiew,Profile2,2022-11-14 15:13:59.157598,complete_objective Remove_the_saw
+482,tuiew,Profile2,2022-11-14 15:14:00.221840,stance_crouched 0
+483,tuiew,Profile2,2022-11-14 15:14:00.875988,stance_crouched 1
+484,tuiew,Profile2,2022-11-14 15:14:02.202128,stance_crouched 0
+485,tuiew,Profile2,2022-11-14 15:14:02.773337,activate_objective Retrieve_the_equipment
+486,tuiew,Profile2,2022-11-14 15:14:06.833893,stance_crouched 0
+487,tuiew,Profile2,2022-11-14 15:14:07.577061,weapon_fired 0
+488,tuiew,Profile2,2022-11-14 15:14:07.711091,stance_crouched 0
+489,tuiew,Profile2,2022-11-14 15:14:08.043014,stance_crouched 0
+490,tuiew,Profile2,2022-11-14 15:14:08.139035,killed an enemy
+491,tuiew,Profile2,2022-11-14 15:14:08.143037,weapon_fired 1
+492,tuiew,Profile2,2022-11-14 15:14:08.208051,weapon_fired 0
+493,tuiew,Profile2,2022-11-14 15:14:08.278067,weapon_fired 0
+494,tuiew,Profile2,2022-11-14 15:14:08.350083,weapon_fired 0
+495,tuiew,Profile2,2022-11-14 15:14:08.411097,stance_crouched 0
+496,tuiew,Profile2,2022-11-14 15:14:10.081876,stance_crouched 0
+497,tuiew,Profile2,2022-11-14 15:14:10.253388,weapon_fired 0
+498,tuiew,Profile2,2022-11-14 15:14:10.327405,weapon_fired 0
+499,tuiew,Profile2,2022-11-14 15:14:10.391419,weapon_fired 0
+500,tuiew,Profile2,2022-11-14 15:14:10.452433,weapon_fired 1
+501,tuiew,Profile2,2022-11-14 15:14:10.528451,hp 460
+502,tuiew,Profile2,2022-11-14 15:14:10.530451,armor 117
+503,tuiew,Profile2,2022-11-14 15:14:10.534452,enemy_headshot
+504,tuiew,Profile2,2022-11-14 15:14:10.538452,killed an enemy
+505,tuiew,Profile2,2022-11-14 15:14:10.541453,weapon_fired 1
+506,tuiew,Profile2,2022-11-14 15:14:10.610469,enemy_headshot
+507,tuiew,Profile2,2022-11-14 15:14:10.613471,killed an enemy
+508,tuiew,Profile2,2022-11-14 15:14:10.617471,weapon_fired 1
+509,tuiew,Profile2,2022-11-14 15:14:10.685486,weapon_fired 0
+510,tuiew,Profile2,2022-11-14 15:14:10.750501,weapon_fired 0
+511,tuiew,Profile2,2022-11-14 15:14:10.823517,weapon_fired 0
+512,tuiew,Profile2,2022-11-14 15:14:10.895534,weapon_fired 0
+513,tuiew,Profile2,2022-11-14 15:14:11.030564,stance_crouched 0
+514,tuiew,Profile2,2022-11-14 15:14:12.610922,stance_crouched 1
+515,tuiew,Profile2,2022-11-14 15:14:14.061230,stance_crouched 0
+516,tuiew,Profile2,2022-11-14 15:14:14.673368,stance_crouched 1
+517,tuiew,Profile2,2022-11-14 15:14:14.719379,stance_crouched 1
+518,tuiew,Profile2,2022-11-14 15:14:14.927426,killed an enemy
+519,tuiew,Profile2,2022-11-14 15:14:14.931427,weapon_fired 1
+520,tuiew,Profile2,2022-11-14 15:14:15.009444,weapon_fired 0
+521,tuiew,Profile2,2022-11-14 15:14:15.082461,weapon_fired 0
+522,tuiew,Profile2,2022-11-14 15:14:15.158484,weapon_fired 0
+523,tuiew,Profile2,2022-11-14 15:14:15.232501,weapon_fired 0
+524,tuiew,Profile2,2022-11-14 15:14:15.298516,weapon_fired 1
+525,tuiew,Profile2,2022-11-14 15:14:15.365532,killed an enemy
+526,tuiew,Profile2,2022-11-14 15:14:15.369532,weapon_fired 1
+527,tuiew,Profile2,2022-11-14 15:14:15.443549,weapon_fired 0
+528,tuiew,Profile2,2022-11-14 15:14:15.503562,weapon_fired 0
+529,tuiew,Profile2,2022-11-14 15:14:15.545572,hp 460
+530,tuiew,Profile2,2022-11-14 15:14:15.548573,armor 117
+531,tuiew,Profile2,2022-11-14 15:14:15.552573,shielded hit
+532,tuiew,Profile2,2022-11-14 15:14:15.557574,hp 460
+533,tuiew,Profile2,2022-11-14 15:14:15.559575,armor 117
+534,tuiew,Profile2,2022-11-14 15:14:15.563576,hp 460
+535,tuiew,Profile2,2022-11-14 15:14:15.566576,armor 117
+536,tuiew,Profile2,2022-11-14 15:14:15.569577,health_subtracted 0
+537,tuiew,Profile2,2022-11-14 15:14:15.603585,weapon_fired 0
+538,tuiew,Profile2,2022-11-14 15:14:15.671601,weapon_fired 0
+539,tuiew,Profile2,2022-11-14 15:14:15.998674,hp 460
+540,tuiew,Profile2,2022-11-14 15:14:16.001676,armor 113
+541,tuiew,Profile2,2022-11-14 15:14:16.005676,shielded hit
+542,tuiew,Profile2,2022-11-14 15:14:16.010678,hp 460
+543,tuiew,Profile2,2022-11-14 15:14:16.013678,armor 113
+544,tuiew,Profile2,2022-11-14 15:14:16.016679,hp 460
+545,tuiew,Profile2,2022-11-14 15:14:16.019679,armor 113
+546,tuiew,Profile2,2022-11-14 15:14:16.022680,health_subtracted 0
+547,tuiew,Profile2,2022-11-14 15:14:16.036683,weapon_fired 0
+548,tuiew,Profile2,2022-11-14 15:14:16.109025,weapon_fired 0
+549,tuiew,Profile2,2022-11-14 15:14:16.170039,weapon_fired 0
+550,tuiew,Profile2,2022-11-14 15:14:16.251057,hp 460
+551,tuiew,Profile2,2022-11-14 15:14:16.254058,armor 109
+552,tuiew,Profile2,2022-11-14 15:14:16.258059,enemy_headshot
+553,tuiew,Profile2,2022-11-14 15:14:16.262059,killed an enemy
+554,tuiew,Profile2,2022-11-14 15:14:16.265060,weapon_fired 1
+555,tuiew,Profile2,2022-11-14 15:14:16.407092,stance_crouched 1
+556,tuiew,Profile2,2022-11-14 15:14:16.488806,stance_crouched 0
+557,tuiew,Profile2,2022-11-14 15:14:17.194857,stance_crouched 1
+558,tuiew,Profile2,2022-11-14 15:14:18.488074,hp 460
+559,tuiew,Profile2,2022-11-14 15:14:18.490074,armor 117
+560,tuiew,Profile2,2022-11-14 15:14:18.494076,auto regenerate armor
+561,tuiew,Profile2,2022-11-14 15:14:18.808147,stance_crouched 0
+562,tuiew,Profile2,2022-11-14 15:14:19.339640,stance_crouched 0
+563,tuiew,Profile2,2022-11-14 15:14:19.987787,weapon_fired 0
+564,tuiew,Profile2,2022-11-14 15:14:20.069730,weapon_fired 0
+565,tuiew,Profile2,2022-11-14 15:14:20.458819,weapon_fired 0
+566,tuiew,Profile2,2022-11-14 15:14:20.540838,hp 460
+567,tuiew,Profile2,2022-11-14 15:14:20.542837,armor 117
+568,tuiew,Profile2,2022-11-14 15:14:20.546838,enemy_headshot
+569,tuiew,Profile2,2022-11-14 15:14:20.549839,killed an enemy
+570,tuiew,Profile2,2022-11-14 15:14:20.553840,weapon_fired 1
+571,tuiew,Profile2,2022-11-14 15:14:20.618855,weapon_fired 1
+572,tuiew,Profile2,2022-11-14 15:14:20.625857,killed an enemy
+573,tuiew,Profile2,2022-11-14 15:14:20.692872,weapon_fired 0
+574,tuiew,Profile2,2022-11-14 15:14:20.759887,weapon_fired 0
+575,tuiew,Profile2,2022-11-14 15:14:21.950264,stance_crouched 0
+576,tuiew,Profile2,2022-11-14 15:14:22.722780,stance_crouched 0
+577,tuiew,Profile2,2022-11-14 15:14:23.424446,killed an enemy
+578,tuiew,Profile2,2022-11-14 15:14:23.428448,weapon_fired 1
+579,tuiew,Profile2,2022-11-14 15:14:23.505464,weapon_fired 0
+580,tuiew,Profile2,2022-11-14 15:14:23.796564,hp 460
+581,tuiew,Profile2,2022-11-14 15:14:23.798566,armor 117
+582,tuiew,Profile2,2022-11-14 15:14:23.802565,auto regenerate armor
+583,tuiew,Profile2,2022-11-14 15:14:24.755820,weapon_fired 0
+584,tuiew,Profile2,2022-11-14 15:14:24.830837,weapon_fired 0
+585,tuiew,Profile2,2022-11-14 15:14:24.902854,hp 460
+586,tuiew,Profile2,2022-11-14 15:14:24.904854,armor 117
+587,tuiew,Profile2,2022-11-14 15:14:24.908855,shielded hit
+588,tuiew,Profile2,2022-11-14 15:14:24.912856,hp 460
+589,tuiew,Profile2,2022-11-14 15:14:24.915856,armor 117
+590,tuiew,Profile2,2022-11-14 15:14:24.918857,hp 460
+591,tuiew,Profile2,2022-11-14 15:14:24.921858,armor 117
+592,tuiew,Profile2,2022-11-14 15:14:24.924858,health_subtracted 0
+593,tuiew,Profile2,2022-11-14 15:14:25.044886,hp 460
+594,tuiew,Profile2,2022-11-14 15:14:25.046887,armor 110
+595,tuiew,Profile2,2022-11-14 15:14:25.050887,enemy_headshot
+596,tuiew,Profile2,2022-11-14 15:14:25.053889,killed an enemy
+597,tuiew,Profile2,2022-11-14 15:14:25.056888,weapon_fired 1
+598,tuiew,Profile2,2022-11-14 15:14:25.405967,hp 460
+599,tuiew,Profile2,2022-11-14 15:14:25.407968,armor 117
+600,tuiew,Profile2,2022-11-14 15:14:25.411968,shielded hit
+601,tuiew,Profile2,2022-11-14 15:14:25.416970,hp 460
+602,tuiew,Profile2,2022-11-14 15:14:25.419972,armor 117
+603,tuiew,Profile2,2022-11-14 15:14:25.422971,hp 460
+604,tuiew,Profile2,2022-11-14 15:14:25.424972,armor 117
+605,tuiew,Profile2,2022-11-14 15:14:25.428973,health_subtracted 0
+606,tuiew,Profile2,2022-11-14 15:14:25.529996,hp 460
+607,tuiew,Profile2,2022-11-14 15:14:25.531996,armor 110
+608,tuiew,Profile2,2022-11-14 15:14:25.534997,shielded hit
+609,tuiew,Profile2,2022-11-14 15:14:25.540998,hp 460
+610,tuiew,Profile2,2022-11-14 15:14:25.542999,armor 110
+611,tuiew,Profile2,2022-11-14 15:14:25.548000,hp 460
+612,tuiew,Profile2,2022-11-14 15:14:25.550000,armor 110
+613,tuiew,Profile2,2022-11-14 15:14:25.553001,health_subtracted 0
+614,tuiew,Profile2,2022-11-14 15:14:25.732833,killed an enemy
+615,tuiew,Profile2,2022-11-14 15:14:25.736834,weapon_fired 1
+616,tuiew,Profile2,2022-11-14 15:14:25.966887,hp 460
+617,tuiew,Profile2,2022-11-14 15:14:25.968887,armor 87
+618,tuiew,Profile2,2022-11-14 15:14:25.971888,shielded hit
+619,tuiew,Profile2,2022-11-14 15:14:25.977889,hp 460
+620,tuiew,Profile2,2022-11-14 15:14:25.980890,armor 87
+621,tuiew,Profile2,2022-11-14 15:14:25.983890,hp 460
+622,tuiew,Profile2,2022-11-14 15:14:25.986891,armor 87
+623,tuiew,Profile2,2022-11-14 15:14:25.989892,health_subtracted 0
+624,tuiew,Profile2,2022-11-14 15:14:25.993893,stance_crouched 0
+625,tuiew,Profile2,2022-11-14 15:14:26.295961,stance_crouched 1
+626,tuiew,Profile2,2022-11-14 15:14:28.384106,stance_crouched 0
+627,tuiew,Profile2,2022-11-14 15:14:28.929180,stance_crouched 1
+628,tuiew,Profile2,2022-11-14 15:14:29.359178,hp 460
+629,tuiew,Profile2,2022-11-14 15:14:29.361178,armor 83
+630,tuiew,Profile2,2022-11-14 15:14:29.365179,auto regenerate armor
+631,tuiew,Profile2,2022-11-14 15:14:33.547334,stance_crouched 0
+632,tuiew,Profile2,2022-11-14 15:14:34.047448,stance_crouched 0
+633,tuiew,Profile2,2022-11-14 15:14:34.400915,killed an enemy
+634,tuiew,Profile2,2022-11-14 15:14:34.404915,weapon_fired 1
+635,tuiew,Profile2,2022-11-14 15:14:34.479933,weapon_fired 0
+636,tuiew,Profile2,2022-11-14 15:14:34.488935,stance_crouched 0
+637,tuiew,Profile2,2022-11-14 15:14:35.457398,stance_crouched 1
+638,tuiew,Profile2,2022-11-14 15:14:37.448630,hp 460
+639,tuiew,Profile2,2022-11-14 15:14:37.451630,armor 117
+640,tuiew,Profile2,2022-11-14 15:14:37.454631,auto regenerate armor
+641,tuiew,Profile2,2022-11-14 15:14:37.642674,hp 460
+642,tuiew,Profile2,2022-11-14 15:14:37.644674,armor 117
+643,tuiew,Profile2,2022-11-14 15:14:37.648675,shielded hit
+644,tuiew,Profile2,2022-11-14 15:14:37.653676,hp 460
+645,tuiew,Profile2,2022-11-14 15:14:37.655676,armor 117
+646,tuiew,Profile2,2022-11-14 15:14:37.659678,hp 460
+647,tuiew,Profile2,2022-11-14 15:14:37.661677,armor 117
+648,tuiew,Profile2,2022-11-14 15:14:37.664678,health_subtracted 0
+649,tuiew,Profile2,2022-11-14 15:14:37.886728,stance_crouched 1
+650,tuiew,Profile2,2022-11-14 15:14:37.990753,killed an enemy
+651,tuiew,Profile2,2022-11-14 15:14:37.994753,weapon_fired 1
+652,tuiew,Profile2,2022-11-14 15:14:38.074771,weapon_fired 0
+653,tuiew,Profile2,2022-11-14 15:14:38.137786,weapon_fired 0
+654,tuiew,Profile2,2022-11-14 15:14:38.205801,weapon_fired 0
+655,tuiew,Profile2,2022-11-14 15:14:38.281818,weapon_fired 0
+656,tuiew,Profile2,2022-11-14 15:14:38.300823,stance_crouched 1
+657,tuiew,Profile2,2022-11-14 15:14:40.123212,hp 460
+658,tuiew,Profile2,2022-11-14 15:14:40.125212,armor 97
+659,tuiew,Profile2,2022-11-14 15:14:40.129218,auto regenerate armor
+660,tuiew,Profile2,2022-11-14 15:14:44.879561,stance_crouched 1
+661,tuiew,Profile2,2022-11-14 15:14:44.973582,stance_crouched 1
+662,tuiew,Profile2,2022-11-14 15:14:45.391677,stance_crouched 0
+663,tuiew,Profile2,2022-11-14 15:14:45.924798,hp 460
+664,tuiew,Profile2,2022-11-14 15:14:45.927798,armor 117
+665,tuiew,Profile2,2022-11-14 15:14:45.930800,auto regenerate armor
+666,tuiew,Profile2,2022-11-14 15:14:46.148849,stance_crouched 0
+667,tuiew,Profile2,2022-11-14 15:14:46.312886,killed an enemy
+668,tuiew,Profile2,2022-11-14 15:14:46.315886,weapon_fired 1
+669,tuiew,Profile2,2022-11-14 15:14:46.384902,weapon_fired 0
+670,tuiew,Profile2,2022-11-14 15:14:46.454918,weapon_fired 0
+671,tuiew,Profile2,2022-11-14 15:14:46.524934,weapon_fired 0
+672,tuiew,Profile2,2022-11-14 15:14:46.606952,stance_crouched 0
+673,tuiew,Profile2,2022-11-14 15:14:49.001523,stance_crouched 1
+674,tuiew,Profile2,2022-11-14 15:14:52.853039,stance_crouched 1
+675,tuiew,Profile2,2022-11-14 15:14:53.264132,stance_crouched 0
+676,tuiew,Profile2,2022-11-14 15:14:55.484917,stance_crouched 1
+677,tuiew,Profile2,2022-11-14 15:14:59.246615,stance_crouched 1
+678,tuiew,Profile2,2022-11-14 15:15:01.102714,stance_crouched 1
+679,tuiew,Profile2,2022-11-14 15:15:06.568956,stance_crouched 1
+680,tuiew,Profile2,2022-11-14 15:15:07.275116,stance_crouched 1
+681,tuiew,Profile2,2022-11-14 15:15:08.166774,stance_crouched 1
+682,tuiew,Profile2,2022-11-14 15:15:10.163336,stance_crouched 1
+683,tuiew,Profile2,2022-11-14 15:15:10.857331,stance_crouched 0
+684,tuiew,Profile2,2022-11-14 15:15:13.459390,stance_crouched 0
+685,tuiew,Profile2,2022-11-14 15:15:14.447709,weapon_fired 0
+686,tuiew,Profile2,2022-11-14 15:15:14.535729,hp 460
+687,tuiew,Profile2,2022-11-14 15:15:14.538729,armor 117
+688,tuiew,Profile2,2022-11-14 15:15:14.542731,enemy_headshot
+689,tuiew,Profile2,2022-11-14 15:15:14.545731,killed an enemy
+690,tuiew,Profile2,2022-11-14 15:15:14.550733,weapon_fired 1
+691,tuiew,Profile2,2022-11-14 15:15:14.707768,weapon_fired 0
+692,tuiew,Profile2,2022-11-14 15:15:14.780785,weapon_fired 0
+693,tuiew,Profile2,2022-11-14 15:15:15.524129,weapon_fired 0
+694,tuiew,Profile2,2022-11-14 15:15:15.604146,weapon_fired 0
+695,tuiew,Profile2,2022-11-14 15:15:15.897213,weapon_fired 0
+696,tuiew,Profile2,2022-11-14 15:15:15.981233,weapon_fired 0
+697,tuiew,Profile2,2022-11-14 15:15:16.115263,weapon_fired 0
+698,tuiew,Profile2,2022-11-14 15:15:16.206283,weapon_fired 0
+699,tuiew,Profile2,2022-11-14 15:15:16.300305,hp 460
+700,tuiew,Profile2,2022-11-14 15:15:16.302304,armor 117
+701,tuiew,Profile2,2022-11-14 15:15:16.306306,shielded hit
+702,tuiew,Profile2,2022-11-14 15:15:16.312308,hp 460
+703,tuiew,Profile2,2022-11-14 15:15:16.314308,armor 117
+704,tuiew,Profile2,2022-11-14 15:15:16.318309,hp 460
+705,tuiew,Profile2,2022-11-14 15:15:16.321309,armor 117
+706,tuiew,Profile2,2022-11-14 15:15:16.324310,health_subtracted 0
+707,tuiew,Profile2,2022-11-14 15:15:16.528356,weapon_fired 0
+708,tuiew,Profile2,2022-11-14 15:15:16.596371,weapon_fired 0
+709,tuiew,Profile2,2022-11-14 15:15:16.841428,stance_crouched 0
+710,tuiew,Profile2,2022-11-14 15:15:16.963455,stance_crouched 1
+711,tuiew,Profile2,2022-11-14 15:15:18.044001,stance_crouched 0
+712,tuiew,Profile2,2022-11-14 15:15:18.784072,hp 460
+713,tuiew,Profile2,2022-11-14 15:15:18.786073,armor 113
+714,tuiew,Profile2,2022-11-14 15:15:18.789074,auto regenerate armor
+715,tuiew,Profile2,2022-11-14 15:15:20.658558,stance_crouched 0
+716,tuiew,Profile2,2022-11-14 15:15:23.418412,stance_crouched 0
+717,tuiew,Profile2,2022-11-14 15:15:23.938530,stance_crouched 1
+718,tuiew,Profile2,2022-11-14 15:15:25.672217,stance_crouched 1
+719,tuiew,Profile2,2022-11-14 15:15:27.445234,stance_crouched 1
+720,tuiew,Profile2,2022-11-14 15:15:28.086532,stance_crouched 0
+721,tuiew,Profile2,2022-11-14 15:15:28.908717,stance_crouched 0
+722,tuiew,Profile2,2022-11-14 15:15:30.873923,stance_crouched 0
+723,tuiew,Profile2,2022-11-14 15:15:31.071969,stance_crouched 1
+724,tuiew,Profile2,2022-11-14 15:15:32.293636,stance_crouched 1
+725,tuiew,Profile2,2022-11-14 15:15:32.645716,killed an enemy
+726,tuiew,Profile2,2022-11-14 15:15:32.648716,weapon_fired 1
+727,tuiew,Profile2,2022-11-14 15:15:32.727734,weapon_fired 0
+728,tuiew,Profile2,2022-11-14 15:15:32.837759,weapon_fired 0
+729,tuiew,Profile2,2022-11-14 15:15:32.913776,weapon_fired 0
+730,tuiew,Profile2,2022-11-14 15:15:33.383883,killed an enemy
+731,tuiew,Profile2,2022-11-14 15:15:33.387884,weapon_fired 1
+732,tuiew,Profile2,2022-11-14 15:15:33.469902,weapon_fired 0
+733,tuiew,Profile2,2022-11-14 15:15:34.195116,stance_crouched 1
+734,tuiew,Profile2,2022-11-14 15:15:35.064795,stance_crouched 1
+735,tuiew,Profile2,2022-11-14 15:15:35.319730,hp 460
+736,tuiew,Profile2,2022-11-14 15:15:35.321731,armor 117
+737,tuiew,Profile2,2022-11-14 15:15:35.325732,auto regenerate armor
+738,tuiew,Profile2,2022-11-14 15:15:36.640685,weapon_fired 0
+739,tuiew,Profile2,2022-11-14 15:15:36.713701,weapon_fired 0
+740,tuiew,Profile2,2022-11-14 15:15:36.963659,weapon_fired 1
+741,tuiew,Profile2,2022-11-14 15:15:37.042678,killed an enemy
+742,tuiew,Profile2,2022-11-14 15:15:37.047678,weapon_fired 1
+743,tuiew,Profile2,2022-11-14 15:15:37.749041,stance_crouched 1
+744,tuiew,Profile2,2022-11-14 15:15:37.914079,hp 460
+745,tuiew,Profile2,2022-11-14 15:15:37.917079,armor 117
+746,tuiew,Profile2,2022-11-14 15:15:37.921080,auto regenerate armor
+747,tuiew,Profile2,2022-11-14 15:15:38.102121,stance_crouched 1
+748,tuiew,Profile2,2022-11-14 15:15:38.442725,weapon_fired 0
+749,tuiew,Profile2,2022-11-14 15:15:38.886145,weapon_fired 0
+750,tuiew,Profile2,2022-11-14 15:15:38.952160,weapon_fired 0
+751,tuiew,Profile2,2022-11-14 15:15:39.086190,stance_crouched 1
+752,tuiew,Profile2,2022-11-14 15:15:41.088091,hp 460
+753,tuiew,Profile2,2022-11-14 15:15:41.090091,armor 117
+754,tuiew,Profile2,2022-11-14 15:15:41.094092,auto regenerate armor
+755,tuiew,Profile2,2022-11-14 15:15:42.327046,stance_crouched 0
+756,tuiew,Profile2,2022-11-14 15:15:47.352554,stance_crouched 1
+757,tuiew,Profile2,2022-11-14 15:15:47.624616,stance_crouched 1
+758,tuiew,Profile2,2022-11-14 15:15:48.111727,weapon_fired 0
+759,tuiew,Profile2,2022-11-14 15:15:48.184743,weapon_fired 0
+760,tuiew,Profile2,2022-11-14 15:15:48.521983,weapon_fired 0
+761,tuiew,Profile2,2022-11-14 15:15:48.883064,weapon_fired 0
+762,tuiew,Profile2,2022-11-14 15:15:49.346170,killed an enemy
+763,tuiew,Profile2,2022-11-14 15:15:49.349170,weapon_fired 1
+764,tuiew,Profile2,2022-11-14 15:15:49.889515,stance_crouched 1
+765,tuiew,Profile2,2022-11-14 15:15:51.322840,stance_crouched 0
+766,tuiew,Profile2,2022-11-14 15:15:55.986598,stance_crouched 1
+767,tuiew,Profile2,2022-11-14 15:15:56.728766,stance_crouched 0
+768,tuiew,Profile2,2022-11-14 15:16:06.673525,stance_crouched 0
+769,tuiew,Profile2,2022-11-14 15:16:16.014951,stance_crouched 1
+770,tuiew,Profile2,2022-11-14 15:16:18.044411,stance_crouched 1
+771,tuiew,Profile2,2022-11-14 15:16:18.986624,stance_crouched 0
+772,tuiew,Profile2,2022-11-14 15:16:29.234411,stance_crouched 0
+773,tuiew,Profile2,2022-11-14 15:16:29.352438,weapon_fired 0
+774,tuiew,Profile2,2022-11-14 15:16:29.425454,weapon_fired 0
+775,tuiew,Profile2,2022-11-14 15:16:29.495470,weapon_fired 0
+776,tuiew,Profile2,2022-11-14 15:16:29.564486,weapon_fired 0
+777,tuiew,Profile2,2022-11-14 15:16:29.633502,killed an enemy
+778,tuiew,Profile2,2022-11-14 15:16:29.637502,weapon_fired 1
+779,tuiew,Profile2,2022-11-14 15:16:29.707519,weapon_fired 0
+780,tuiew,Profile2,2022-11-14 15:16:29.718521,stance_crouched 0
+781,tuiew,Profile2,2022-11-14 15:16:31.475937,stance_crouched 0
+782,tuiew,Profile2,2022-11-14 15:16:32.288358,stance_crouched 0
+783,tuiew,Profile2,2022-11-14 15:16:32.820529,weapon_fired 0
+784,tuiew,Profile2,2022-11-14 15:16:32.901547,weapon_fired 0
+785,tuiew,Profile2,2022-11-14 15:16:32.964562,weapon_fired 0
+786,tuiew,Profile2,2022-11-14 15:16:33.039579,weapon_fired 0
+787,tuiew,Profile2,2022-11-14 15:16:33.116596,weapon_fired 0
+788,tuiew,Profile2,2022-11-14 15:16:33.185612,weapon_fired 0
+789,tuiew,Profile2,2022-11-14 15:16:33.258629,stance_crouched 0
+790,tuiew,Profile2,2022-11-14 15:16:35.672682,stance_crouched 0
+791,tuiew,Profile2,2022-11-14 15:16:35.895732,weapon_fired 0
+792,tuiew,Profile2,2022-11-14 15:16:35.970749,weapon_fired 0
+793,tuiew,Profile2,2022-11-14 15:16:36.069771,stance_crouched 0
+794,tuiew,Profile2,2022-11-14 15:16:36.533767,hp 460
+795,tuiew,Profile2,2022-11-14 15:16:36.535767,armor 117
+796,tuiew,Profile2,2022-11-14 15:16:36.539768,auto regenerate armor
+797,tuiew,Profile2,2022-11-14 15:16:36.611784,stance_crouched 0
+798,tuiew,Profile2,2022-11-14 15:16:37.586737,weapon_fired 0
+799,tuiew,Profile2,2022-11-14 15:16:37.666756,weapon_fired 0
+800,tuiew,Profile2,2022-11-14 15:16:37.842795,stance_crouched 0
+801,tuiew,Profile2,2022-11-14 15:16:38.633975,stance_crouched 0
+802,tuiew,Profile2,2022-11-14 15:16:38.855025,weapon_fired 1
+803,tuiew,Profile2,2022-11-14 15:16:38.932043,weapon_fired 0
+804,tuiew,Profile2,2022-11-14 15:16:39.002058,weapon_fired 0
+805,tuiew,Profile2,2022-11-14 15:16:39.070074,weapon_fired 0
+806,tuiew,Profile2,2022-11-14 15:16:39.140090,weapon_fired 0
+807,tuiew,Profile2,2022-11-14 15:16:39.213106,hp 460
+808,tuiew,Profile2,2022-11-14 15:16:39.215106,armor 117
+809,tuiew,Profile2,2022-11-14 15:16:39.219107,enemy_headshot
+810,tuiew,Profile2,2022-11-14 15:16:39.223108,killed an enemy
+811,tuiew,Profile2,2022-11-14 15:16:39.226109,weapon_fired 1
+812,tuiew,Profile2,2022-11-14 15:16:39.254115,stance_crouched 0
+813,tuiew,Profile2,2022-11-14 15:16:40.905309,stance_crouched 0
+814,tuiew,Profile2,2022-11-14 15:16:41.210378,weapon_fired 0
+815,tuiew,Profile2,2022-11-14 15:16:41.290396,weapon_fired 0
+816,tuiew,Profile2,2022-11-14 15:16:41.345409,stance_crouched 0
+817,tuiew,Profile2,2022-11-14 15:16:42.047426,stance_crouched 0
+818,tuiew,Profile2,2022-11-14 15:16:42.277478,stance_crouched 0
+819,tuiew,Profile2,2022-11-14 15:16:43.004374,stance_crouched 0
+820,tuiew,Profile2,2022-11-14 15:16:43.337449,weapon_fired 0
+821,tuiew,Profile2,2022-11-14 15:16:43.414467,weapon_fired 0
+822,tuiew,Profile2,2022-11-14 15:16:43.483482,weapon_fired 0
+823,tuiew,Profile2,2022-11-14 15:16:43.554632,weapon_fired 0
+824,tuiew,Profile2,2022-11-14 15:16:43.626648,weapon_fired 0
+825,tuiew,Profile2,2022-11-14 15:16:43.699664,weapon_fired 1
+826,tuiew,Profile2,2022-11-14 15:16:44.121760,stance_crouched 0
+827,tuiew,Profile2,2022-11-14 15:16:45.657046,stance_crouched 0
+828,tuiew,Profile2,2022-11-14 15:16:46.115149,weapon_fired 0
+829,tuiew,Profile2,2022-11-14 15:16:46.193167,weapon_fired 0
+830,tuiew,Profile2,2022-11-14 15:16:46.271186,killed an enemy
+831,tuiew,Profile2,2022-11-14 15:16:46.274186,weapon_fired 1
+832,tuiew,Profile2,2022-11-14 15:16:46.350203,weapon_fired 0
+833,tuiew,Profile2,2022-11-14 15:16:46.422219,weapon_fired 0
+834,tuiew,Profile2,2022-11-14 15:16:46.451226,stance_crouched 0
+835,tuiew,Profile2,2022-11-14 15:16:46.643270,hp 460
+836,tuiew,Profile2,2022-11-14 15:16:46.646269,armor 117
+837,tuiew,Profile2,2022-11-14 15:16:46.650272,shielded hit
+838,tuiew,Profile2,2022-11-14 15:16:46.656272,hp 460
+839,tuiew,Profile2,2022-11-14 15:16:46.658272,armor 117
+840,tuiew,Profile2,2022-11-14 15:16:46.662274,hp 460
+841,tuiew,Profile2,2022-11-14 15:16:46.664274,armor 117
+842,tuiew,Profile2,2022-11-14 15:16:46.667275,health_subtracted 0
+843,tuiew,Profile2,2022-11-14 15:16:46.791853,stance_crouched 0
+844,tuiew,Profile2,2022-11-14 15:16:48.673110,hp 460
+845,tuiew,Profile2,2022-11-14 15:16:48.676111,armor 113
+846,tuiew,Profile2,2022-11-14 15:16:48.679112,auto regenerate armor
+847,tuiew,Profile2,2022-11-14 15:16:55.394455,stance_crouched 0
+848,tuiew,Profile2,2022-11-14 15:16:57.502529,stance_crouched 1
+849,tuiew,Profile2,2022-11-14 15:16:57.644561,stance_crouched 1
+850,tuiew,Profile2,2022-11-14 15:16:57.882701,weapon_fired 0
+851,tuiew,Profile2,2022-11-14 15:16:57.962720,killed an enemy
+852,tuiew,Profile2,2022-11-14 15:16:57.966720,weapon_fired 1
+853,tuiew,Profile2,2022-11-14 15:16:58.033735,weapon_fired 0
+854,tuiew,Profile2,2022-11-14 15:16:58.102752,weapon_fired 0
+855,tuiew,Profile2,2022-11-14 15:16:58.177768,stance_crouched 1
+856,tuiew,Profile2,2022-11-14 15:16:58.305797,stance_crouched 0
+857,tuiew,Profile2,2022-11-14 15:16:59.612938,stance_crouched 0
+858,tuiew,Profile2,2022-11-14 15:16:59.743968,killed an enemy
+859,tuiew,Profile2,2022-11-14 15:16:59.747969,weapon_fired 1
+860,tuiew,Profile2,2022-11-14 15:16:59.820985,weapon_fired 0
+861,tuiew,Profile2,2022-11-14 15:16:59.883999,weapon_fired 0
+862,tuiew,Profile2,2022-11-14 15:16:59.951015,weapon_fired 0
+863,tuiew,Profile2,2022-11-14 15:17:00.018030,weapon_fired 0
+864,tuiew,Profile2,2022-11-14 15:17:00.088045,weapon_fired 0
+865,tuiew,Profile2,2022-11-14 15:17:00.103049,hp 460
+866,tuiew,Profile2,2022-11-14 15:17:00.105049,armor 117
+867,tuiew,Profile2,2022-11-14 15:17:00.109050,auto regenerate armor
+868,tuiew,Profile2,2022-11-14 15:17:00.145059,stance_crouched 0
+869,tuiew,Profile2,2022-11-14 15:17:00.665681,stance_crouched 1
+870,tuiew,Profile2,2022-11-14 15:17:00.822716,stance_crouched 1
+871,tuiew,Profile2,2022-11-14 15:17:00.974751,killed an enemy
+872,tuiew,Profile2,2022-11-14 15:17:00.978752,weapon_fired 1
+873,tuiew,Profile2,2022-11-14 15:17:01.053612,weapon_fired 0
+874,tuiew,Profile2,2022-11-14 15:17:01.115626,weapon_fired 0
+875,tuiew,Profile2,2022-11-14 15:17:01.180822,killed an enemy
+876,tuiew,Profile2,2022-11-14 15:17:01.193824,weapon_fired 1
+877,tuiew,Profile2,2022-11-14 15:17:01.268841,weapon_fired 0
+878,tuiew,Profile2,2022-11-14 15:17:01.334856,weapon_fired 0
+879,tuiew,Profile2,2022-11-14 15:17:01.344858,stance_crouched 1
+880,tuiew,Profile2,2022-11-14 15:17:03.352025,hp 460
+881,tuiew,Profile2,2022-11-14 15:17:03.354026,armor 117
+882,tuiew,Profile2,2022-11-14 15:17:03.358026,auto regenerate armor
+883,tuiew,Profile2,2022-11-14 15:17:03.832134,stance_crouched 1
+884,tuiew,Profile2,2022-11-14 15:17:04.240301,weapon_fired 0
+885,tuiew,Profile2,2022-11-14 15:17:04.254305,hp 460
+886,tuiew,Profile2,2022-11-14 15:17:04.256305,armor 117
+887,tuiew,Profile2,2022-11-14 15:17:04.260306,shielded hit
+888,tuiew,Profile2,2022-11-14 15:17:04.266307,hp 460
+889,tuiew,Profile2,2022-11-14 15:17:04.269307,armor 117
+890,tuiew,Profile2,2022-11-14 15:17:04.272308,hp 460
+891,tuiew,Profile2,2022-11-14 15:17:04.274310,armor 117
+892,tuiew,Profile2,2022-11-14 15:17:04.278310,health_subtracted 0
+893,tuiew,Profile2,2022-11-14 15:17:04.336323,killed an enemy
+894,tuiew,Profile2,2022-11-14 15:17:04.340324,weapon_fired 1
+895,tuiew,Profile2,2022-11-14 15:17:04.784387,weapon_fired 1
+896,tuiew,Profile2,2022-11-14 15:17:04.791389,killed an enemy
+897,tuiew,Profile2,2022-11-14 15:17:04.863406,weapon_fired 0
+898,tuiew,Profile2,2022-11-14 15:17:04.936421,weapon_fired 0
+899,tuiew,Profile2,2022-11-14 15:17:05.280500,killed an enemy
+900,tuiew,Profile2,2022-11-14 15:17:05.283501,weapon_fired 1
+901,tuiew,Profile2,2022-11-14 15:17:05.355402,weapon_fired 0
+902,tuiew,Profile2,2022-11-14 15:17:05.426417,weapon_fired 0
+903,tuiew,Profile2,2022-11-14 15:17:05.631464,stance_crouched 1
+904,tuiew,Profile2,2022-11-14 15:17:05.865517,stance_crouched 1
+905,tuiew,Profile2,2022-11-14 15:17:05.971541,weapon_fired 0
+906,tuiew,Profile2,2022-11-14 15:17:06.057560,weapon_fired 0
+907,tuiew,Profile2,2022-11-14 15:17:06.121864,weapon_fired 0
+908,tuiew,Profile2,2022-11-14 15:17:06.221738,stance_crouched 1
+909,tuiew,Profile2,2022-11-14 15:17:06.426789,stance_crouched 1
+910,tuiew,Profile2,2022-11-14 15:17:06.487256,weapon_fired 0
+911,tuiew,Profile2,2022-11-14 15:17:06.558272,weapon_fired 0
+912,tuiew,Profile2,2022-11-14 15:17:06.580277,hp 460
+913,tuiew,Profile2,2022-11-14 15:17:06.583277,armor 113
+914,tuiew,Profile2,2022-11-14 15:17:06.587278,auto regenerate armor
+915,tuiew,Profile2,2022-11-14 15:17:06.643261,weapon_fired 0
+916,tuiew,Profile2,2022-11-14 15:17:06.709276,weapon_fired 0
+917,tuiew,Profile2,2022-11-14 15:17:06.945219,weapon_fired 0
+918,tuiew,Profile2,2022-11-14 15:17:07.028238,weapon_fired 0
+919,tuiew,Profile2,2022-11-14 15:17:07.070247,stance_crouched 1
+920,tuiew,Profile2,2022-11-14 15:17:08.289788,stance_crouched 0
+921,tuiew,Profile2,2022-11-14 15:17:10.324256,stance_crouched 0
+922,tuiew,Profile2,2022-11-14 15:17:10.929393,weapon_fired 0
+923,tuiew,Profile2,2022-11-14 15:17:11.014413,weapon_fired 0
+924,tuiew,Profile2,2022-11-14 15:17:11.072429,weapon_fired 0
+925,tuiew,Profile2,2022-11-14 15:17:11.140300,weapon_fired 0
+926,tuiew,Profile2,2022-11-14 15:17:11.361350,weapon_fired 1
+927,tuiew,Profile2,2022-11-14 15:17:11.437368,killed an enemy
+928,tuiew,Profile2,2022-11-14 15:17:11.441368,weapon_fired 1
+929,tuiew,Profile2,2022-11-14 15:17:11.755439,stance_crouched 0
+930,tuiew,Profile2,2022-11-14 15:17:15.830655,complete_objective Retrieve_the_equipment
+931,tuiew,Profile2,2022-11-14 15:17:16.832355,activate_objective Place_the_thermite_on_the_vault
+932,tuiew,Profile2,2022-11-14 15:17:17.760245,hp 460
+933,tuiew,Profile2,2022-11-14 15:17:17.762245,armor 117
+934,tuiew,Profile2,2022-11-14 15:17:17.766246,auto regenerate armor
+935,tuiew,Profile2,2022-11-14 15:17:24.959202,stance_crouched 1
+936,tuiew,Profile2,2022-11-14 15:17:25.351241,stance_crouched 1
+937,tuiew,Profile2,2022-11-14 15:17:25.838102,stance_crouched 1
+938,tuiew,Profile2,2022-11-14 15:17:27.464221,stance_crouched 0
+939,tuiew,Profile2,2022-11-14 15:17:29.104122,stance_crouched 0
+940,tuiew,Profile2,2022-11-14 15:17:29.463278,weapon_fired 0
+941,tuiew,Profile2,2022-11-14 15:17:29.538296,killed an enemy
+942,tuiew,Profile2,2022-11-14 15:17:29.541297,weapon_fired 1
+943,tuiew,Profile2,2022-11-14 15:17:29.611312,weapon_fired 0
+944,tuiew,Profile2,2022-11-14 15:17:29.682328,weapon_fired 0
+945,tuiew,Profile2,2022-11-14 15:17:30.550525,weapon_fired 0
+946,tuiew,Profile2,2022-11-14 15:17:30.623542,weapon_fired 0
+947,tuiew,Profile2,2022-11-14 15:17:31.805813,weapon_fired 0
+948,tuiew,Profile2,2022-11-14 15:17:31.883830,weapon_fired 0
+949,tuiew,Profile2,2022-11-14 15:17:31.943844,weapon_fired 0
+950,tuiew,Profile2,2022-11-14 15:17:32.005461,weapon_fired 1
+951,tuiew,Profile2,2022-11-14 15:17:32.079478,killed an enemy
+952,tuiew,Profile2,2022-11-14 15:17:32.082478,weapon_fired 1
+953,tuiew,Profile2,2022-11-14 15:17:32.155495,weapon_fired 0
+954,tuiew,Profile2,2022-11-14 15:17:32.298527,stance_crouched 0
+955,tuiew,Profile2,2022-11-14 15:17:33.216197,hp 460
+956,tuiew,Profile2,2022-11-14 15:17:33.218198,armor 117
+957,tuiew,Profile2,2022-11-14 15:17:33.222198,shielded hit
+958,tuiew,Profile2,2022-11-14 15:17:33.227200,hp 460
+959,tuiew,Profile2,2022-11-14 15:17:33.229200,armor 117
+960,tuiew,Profile2,2022-11-14 15:17:33.233201,hp 460
+961,tuiew,Profile2,2022-11-14 15:17:33.235202,armor 117
+962,tuiew,Profile2,2022-11-14 15:17:33.238202,health_subtracted 0
+963,tuiew,Profile2,2022-11-14 15:17:33.254206,stance_crouched 0
+964,tuiew,Profile2,2022-11-14 15:17:33.438248,weapon_fired 1
+965,tuiew,Profile2,2022-11-14 15:17:33.530268,weapon_fired 1
+966,tuiew,Profile2,2022-11-14 15:17:33.592283,killed an enemy
+967,tuiew,Profile2,2022-11-14 15:17:33.597285,weapon_fired 1
+968,tuiew,Profile2,2022-11-14 15:17:33.657297,weapon_fired 0
+969,tuiew,Profile2,2022-11-14 15:17:33.975176,stance_crouched 1
+970,tuiew,Profile2,2022-11-14 15:17:34.102205,weapon_fired 0
+971,tuiew,Profile2,2022-11-14 15:17:34.175221,hp 460
+972,tuiew,Profile2,2022-11-14 15:17:34.177221,armor 107
+973,tuiew,Profile2,2022-11-14 15:17:34.181212,enemy_headshot
+974,tuiew,Profile2,2022-11-14 15:17:34.184187,killed an enemy
+975,tuiew,Profile2,2022-11-14 15:17:34.187168,weapon_fired 1
+976,tuiew,Profile2,2022-11-14 15:17:34.437225,stance_crouched 1
+977,tuiew,Profile2,2022-11-14 15:17:34.706285,hp 460
+978,tuiew,Profile2,2022-11-14 15:17:34.708286,armor 117
+979,tuiew,Profile2,2022-11-14 15:17:34.712286,shielded hit
+980,tuiew,Profile2,2022-11-14 15:17:34.716288,hp 460
+981,tuiew,Profile2,2022-11-14 15:17:34.719289,armor 117
+982,tuiew,Profile2,2022-11-14 15:17:34.723289,hp 460
+983,tuiew,Profile2,2022-11-14 15:17:34.725290,armor 117
+984,tuiew,Profile2,2022-11-14 15:17:34.728290,health_subtracted 0
+985,tuiew,Profile2,2022-11-14 15:17:34.878324,hp 460
+986,tuiew,Profile2,2022-11-14 15:17:34.881325,armor 114
+987,tuiew,Profile2,2022-11-14 15:17:34.884326,hp 460
+988,tuiew,Profile2,2022-11-14 15:17:34.886326,armor 114
+989,tuiew,Profile2,2022-11-14 15:17:34.889327,shielded hit
+990,tuiew,Profile2,2022-11-14 15:17:34.893328,hp 460
+991,tuiew,Profile2,2022-11-14 15:17:34.895328,armor 114
+992,tuiew,Profile2,2022-11-14 15:17:34.898329,health_subtracted 0
+993,tuiew,Profile2,2022-11-14 15:17:35.192598,hp 460
+994,tuiew,Profile2,2022-11-14 15:17:35.194599,armor 103
+995,tuiew,Profile2,2022-11-14 15:17:35.198599,shielded hit
+996,tuiew,Profile2,2022-11-14 15:17:35.202601,hp 460
+997,tuiew,Profile2,2022-11-14 15:17:35.205600,armor 103
+998,tuiew,Profile2,2022-11-14 15:17:35.209602,hp 460
+999,tuiew,Profile2,2022-11-14 15:17:35.211602,armor 103
+1000,tuiew,Profile2,2022-11-14 15:17:35.219604,health_subtracted 0
+1001,tuiew,Profile2,2022-11-14 15:17:35.223606,stance_crouched 1
+1002,tuiew,Profile2,2022-11-14 15:17:35.574685,stance_crouched 1
+1003,tuiew,Profile2,2022-11-14 15:17:35.688710,stance_crouched 0
+1004,tuiew,Profile2,2022-11-14 15:17:36.114666,stance_crouched 0
+1005,tuiew,Profile2,2022-11-14 15:17:36.182682,weapon_fired 0
+1006,tuiew,Profile2,2022-11-14 15:17:36.251697,weapon_fired 0
+1007,tuiew,Profile2,2022-11-14 15:17:36.320712,weapon_fired 0
+1008,tuiew,Profile2,2022-11-14 15:17:36.389728,weapon_fired 0
+1009,tuiew,Profile2,2022-11-14 15:17:36.404732,stance_crouched 0
+1010,tuiew,Profile2,2022-11-14 15:17:36.938853,hp 460
+1011,tuiew,Profile2,2022-11-14 15:17:36.940854,armor 83
+1012,tuiew,Profile2,2022-11-14 15:17:36.944855,shielded hit
+1013,tuiew,Profile2,2022-11-14 15:17:36.950856,hp 460
+1014,tuiew,Profile2,2022-11-14 15:17:36.953857,armor 83
+1015,tuiew,Profile2,2022-11-14 15:17:36.956857,hp 460
+1016,tuiew,Profile2,2022-11-14 15:17:36.958857,armor 83
+1017,tuiew,Profile2,2022-11-14 15:17:36.962858,health_subtracted 0
+1018,tuiew,Profile2,2022-11-14 15:17:37.229919,stance_crouched 0
+1019,tuiew,Profile2,2022-11-14 15:17:37.474843,killed an enemy
+1020,tuiew,Profile2,2022-11-14 15:17:37.704896,stance_crouched 0
+1021,tuiew,Profile2,2022-11-14 15:17:38.309090,stance_crouched 1
+1022,tuiew,Profile2,2022-11-14 15:17:38.795093,stance_crouched 1
+1023,tuiew,Profile2,2022-11-14 15:17:40.877069,hp 460
+1024,tuiew,Profile2,2022-11-14 15:17:40.879070,armor 63
+1025,tuiew,Profile2,2022-11-14 15:17:40.883071,auto regenerate armor
+1026,tuiew,Profile2,2022-11-14 15:17:40.924080,stance_crouched 1
+1027,tuiew,Profile2,2022-11-14 15:17:41.406286,weapon_fired 0
+1028,tuiew,Profile2,2022-11-14 15:17:41.489305,weapon_fired 0
+1029,tuiew,Profile2,2022-11-14 15:17:41.567323,stance_crouched 1
+1030,tuiew,Profile2,2022-11-14 15:17:43.098674,stance_crouched 1
+1031,tuiew,Profile2,2022-11-14 15:17:43.761729,stance_crouched 1
+1032,tuiew,Profile2,2022-11-14 15:17:44.020787,stance_crouched 1
+1033,tuiew,Profile2,2022-11-14 15:17:44.232835,stance_crouched 1
+1034,tuiew,Profile2,2022-11-14 15:17:44.499896,stance_crouched 0
+1035,tuiew,Profile2,2022-11-14 15:17:54.151069,stance_crouched 1
+1036,tuiew,Profile2,2022-11-14 15:17:54.416295,stance_crouched 1
+1037,tuiew,Profile2,2022-11-14 15:17:55.180365,hp 460
+1038,tuiew,Profile2,2022-11-14 15:17:55.182365,armor 117
+1039,tuiew,Profile2,2022-11-14 15:17:55.186366,enemy_headshot
+1040,tuiew,Profile2,2022-11-14 15:17:55.189367,killed an enemy
+1041,tuiew,Profile2,2022-11-14 15:17:55.193368,weapon_fired 1
+1042,tuiew,Profile2,2022-11-14 15:17:55.262383,weapon_fired 0
+1043,tuiew,Profile2,2022-11-14 15:17:55.336400,weapon_fired 0
+1044,tuiew,Profile2,2022-11-14 15:17:55.398414,weapon_fired 1
+1045,tuiew,Profile2,2022-11-14 15:17:55.471689,killed an enemy
+1046,tuiew,Profile2,2022-11-14 15:17:55.475689,weapon_fired 1
+1047,tuiew,Profile2,2022-11-14 15:17:55.536703,weapon_fired 0
+1048,tuiew,Profile2,2022-11-14 15:17:55.800763,weapon_fired 0
+1049,tuiew,Profile2,2022-11-14 15:17:55.871779,weapon_fired 0
+1050,tuiew,Profile2,2022-11-14 15:17:55.950797,weapon_fired 0
+1051,tuiew,Profile2,2022-11-14 15:17:56.010811,weapon_fired 0
+1052,tuiew,Profile2,2022-11-14 15:17:56.626950,weapon_fired 0
+1053,tuiew,Profile2,2022-11-14 15:17:56.701967,enemy_headshot
+1054,tuiew,Profile2,2022-11-14 15:17:56.704968,killed an enemy
+1055,tuiew,Profile2,2022-11-14 15:17:56.707969,weapon_fired 1
+1056,tuiew,Profile2,2022-11-14 15:17:56.780985,weapon_fired 0
+1057,tuiew,Profile2,2022-11-14 15:17:57.390124,weapon_fired 0
+1058,tuiew,Profile2,2022-11-14 15:17:57.467141,weapon_fired 0
+1059,tuiew,Profile2,2022-11-14 15:17:57.533156,weapon_fired 0
+1060,tuiew,Profile2,2022-11-14 15:17:58.046272,killed an enemy
+1061,tuiew,Profile2,2022-11-14 15:17:58.049273,weapon_fired 1
+1062,tuiew,Profile2,2022-11-14 15:17:58.127290,weapon_fired 0
+1063,tuiew,Profile2,2022-11-14 15:17:58.195306,weapon_fired 0
+1064,tuiew,Profile2,2022-11-14 15:17:58.264322,weapon_fired 0
+1065,tuiew,Profile2,2022-11-14 15:17:59.126517,stance_crouched 1
+1066,tuiew,Profile2,2022-11-14 15:17:59.627643,stance_crouched 0
+1067,tuiew,Profile2,2022-11-14 15:18:00.426825,stance_crouched 0
+1068,tuiew,Profile2,2022-11-14 15:18:00.953179,weapon_fired 0
+1069,tuiew,Profile2,2022-11-14 15:18:01.118218,stance_crouched 0
+1070,tuiew,Profile2,2022-11-14 15:18:01.959739,stance_crouched 1
+1071,tuiew,Profile2,2022-11-14 15:18:03.075533,stance_crouched 1
+1072,tuiew,Profile2,2022-11-14 15:18:03.182557,weapon_fired 0
+1073,tuiew,Profile2,2022-11-14 15:18:03.239570,hp 460
+1074,tuiew,Profile2,2022-11-14 15:18:03.241571,armor 117
+1075,tuiew,Profile2,2022-11-14 15:18:03.245572,shielded hit
+1076,tuiew,Profile2,2022-11-14 15:18:03.251573,hp 460
+1077,tuiew,Profile2,2022-11-14 15:18:03.253573,armor 117
+1078,tuiew,Profile2,2022-11-14 15:18:03.257575,hp 460
+1079,tuiew,Profile2,2022-11-14 15:18:03.259575,armor 117
+1080,tuiew,Profile2,2022-11-14 15:18:03.263576,health_subtracted 0
+1081,tuiew,Profile2,2022-11-14 15:18:03.285580,weapon_fired 0
+1082,tuiew,Profile2,2022-11-14 15:18:03.288582,stance_crouched 1
+1083,tuiew,Profile2,2022-11-14 15:18:03.607654,stance_crouched 0
+1084,tuiew,Profile2,2022-11-14 15:18:04.932497,stance_crouched 0
+1085,tuiew,Profile2,2022-11-14 15:18:05.724676,hp 460
+1086,tuiew,Profile2,2022-11-14 15:18:05.727677,armor 87
+1087,tuiew,Profile2,2022-11-14 15:18:05.730678,auto regenerate armor
+1088,tuiew,Profile2,2022-11-14 15:18:05.942725,stance_crouched 0
+1089,tuiew,Profile2,2022-11-14 15:18:06.508242,stance_crouched 0
+1090,tuiew,Profile2,2022-11-14 15:18:11.854538,stance_crouched 0
+1091,tuiew,Profile2,2022-11-14 15:18:12.043581,shielded hit
+1092,tuiew,Profile2,2022-11-14 15:18:12.050621,hp 460
+1093,tuiew,Profile2,2022-11-14 15:18:12.053621,armor 117
+1094,tuiew,Profile2,2022-11-14 15:18:12.056623,hp 460
+1095,tuiew,Profile2,2022-11-14 15:18:12.059623,armor 117
+1096,tuiew,Profile2,2022-11-14 15:18:12.062624,hp 460
+1097,tuiew,Profile2,2022-11-14 15:18:12.064624,armor 117
+1098,tuiew,Profile2,2022-11-14 15:18:12.067625,health_subtracted 0
+1099,tuiew,Profile2,2022-11-14 15:18:12.186653,weapon_fired 0
+1100,tuiew,Profile2,2022-11-14 15:18:12.303678,hp 460
+1101,tuiew,Profile2,2022-11-14 15:18:12.305679,armor 89
+1102,tuiew,Profile2,2022-11-14 15:18:12.309680,hp 460
+1103,tuiew,Profile2,2022-11-14 15:18:12.311680,armor 89
+1104,tuiew,Profile2,2022-11-14 15:18:12.315682,health_subtracted 0
+1105,tuiew,Profile2,2022-11-14 15:18:12.319682,killed an enemy
+1106,tuiew,Profile2,2022-11-14 15:18:12.323683,weapon_fired 1
+1107,tuiew,Profile2,2022-11-14 15:18:12.668761,stance_crouched 0
+1108,tuiew,Profile2,2022-11-14 15:18:14.528389,hp 460
+1109,tuiew,Profile2,2022-11-14 15:18:14.531390,armor 79
+1110,tuiew,Profile2,2022-11-14 15:18:14.534391,auto regenerate armor
+1111,tuiew,Profile2,2022-11-14 15:18:14.540392,stance_crouched 0
+1112,tuiew,Profile2,2022-11-14 15:18:15.293143,stance_crouched 1
+1113,tuiew,Profile2,2022-11-14 15:18:15.793109,stance_crouched 0
+1114,tuiew,Profile2,2022-11-14 15:18:16.363238,stance_crouched 1
+1115,tuiew,Profile2,2022-11-14 15:18:19.131357,hp 460
+1116,tuiew,Profile2,2022-11-14 15:18:19.134358,armor 117
+1117,tuiew,Profile2,2022-11-14 15:18:19.138359,shielded hit
+1118,tuiew,Profile2,2022-11-14 15:18:19.145361,hp 460
+1119,tuiew,Profile2,2022-11-14 15:18:19.148361,armor 117
+1120,tuiew,Profile2,2022-11-14 15:18:19.152362,hp 460
+1121,tuiew,Profile2,2022-11-14 15:18:19.155362,armor 117
+1122,tuiew,Profile2,2022-11-14 15:18:19.159364,health_subtracted 0
+1123,tuiew,Profile2,2022-11-14 15:18:20.107206,stance_crouched 0
+1124,tuiew,Profile2,2022-11-14 15:18:21.617094,hp 460
+1125,tuiew,Profile2,2022-11-14 15:18:21.620095,armor 97
+1126,tuiew,Profile2,2022-11-14 15:18:21.624095,auto regenerate armor
+1127,tuiew,Profile2,2022-11-14 15:18:23.396381,stance_crouched 0
+1128,tuiew,Profile2,2022-11-14 15:18:23.610483,weapon_fired 0
+1129,tuiew,Profile2,2022-11-14 15:18:23.685498,weapon_fired 0
+1130,tuiew,Profile2,2022-11-14 15:18:23.755515,weapon_fired 0
+1131,tuiew,Profile2,2022-11-14 15:18:23.821530,weapon_fired 0
+1132,tuiew,Profile2,2022-11-14 15:18:23.893546,weapon_fired 0
+1133,tuiew,Profile2,2022-11-14 15:18:23.964562,weapon_fired 0
+1134,tuiew,Profile2,2022-11-14 15:18:24.013573,hp 460
+1135,tuiew,Profile2,2022-11-14 15:18:24.016574,armor 117
+1136,tuiew,Profile2,2022-11-14 15:18:24.019575,shielded hit
+1137,tuiew,Profile2,2022-11-14 15:18:24.024576,hp 460
+1138,tuiew,Profile2,2022-11-14 15:18:24.027577,armor 117
+1139,tuiew,Profile2,2022-11-14 15:18:24.030577,hp 460
+1140,tuiew,Profile2,2022-11-14 15:18:24.032578,armor 117
+1141,tuiew,Profile2,2022-11-14 15:18:24.036579,health_subtracted 0
+1142,tuiew,Profile2,2022-11-14 15:18:24.056583,weapon_fired 0
+1143,tuiew,Profile2,2022-11-14 15:18:24.125599,weapon_fired 0
+1144,tuiew,Profile2,2022-11-14 15:18:24.186612,weapon_fired 0
+1145,tuiew,Profile2,2022-11-14 15:18:24.258628,weapon_fired 0
+1146,tuiew,Profile2,2022-11-14 15:18:24.321643,weapon_fired 0
+1147,tuiew,Profile2,2022-11-14 15:18:24.391659,weapon_fired 0
+1148,tuiew,Profile2,2022-11-14 15:18:24.454673,weapon_fired 0
+1149,tuiew,Profile2,2022-11-14 15:18:24.523689,weapon_fired 0
+1150,tuiew,Profile2,2022-11-14 15:18:24.595705,weapon_fired 0
+1151,tuiew,Profile2,2022-11-14 15:18:24.665721,weapon_fired 0
+1152,tuiew,Profile2,2022-11-14 15:18:24.725734,stance_crouched 0
+1153,tuiew,Profile2,2022-11-14 15:18:24.764744,hp 460
+1154,tuiew,Profile2,2022-11-14 15:18:24.766744,armor 87
+1155,tuiew,Profile2,2022-11-14 15:18:24.770745,shielded hit
+1156,tuiew,Profile2,2022-11-14 15:18:24.775746,hp 460
+1157,tuiew,Profile2,2022-11-14 15:18:24.779747,armor 87
+1158,tuiew,Profile2,2022-11-14 15:18:24.783747,hp 460
+1159,tuiew,Profile2,2022-11-14 15:18:24.786749,armor 87
+1160,tuiew,Profile2,2022-11-14 15:18:24.789749,health_subtracted 0
+1161,tuiew,Profile2,2022-11-14 15:18:24.940783,hp 460
+1162,tuiew,Profile2,2022-11-14 15:18:24.942784,armor 71
+1163,tuiew,Profile2,2022-11-14 15:18:24.946785,shielded hit
+1164,tuiew,Profile2,2022-11-14 15:18:24.952786,hp 460
+1165,tuiew,Profile2,2022-11-14 15:18:24.954787,armor 71
+1166,tuiew,Profile2,2022-11-14 15:18:24.958788,hp 460
+1167,tuiew,Profile2,2022-11-14 15:18:24.961788,armor 71
+1168,tuiew,Profile2,2022-11-14 15:18:24.964789,health_subtracted 0
+1169,tuiew,Profile2,2022-11-14 15:18:27.940956,stance_crouched 1
+1170,tuiew,Profile2,2022-11-14 15:18:28.972427,hp 460
+1171,tuiew,Profile2,2022-11-14 15:18:28.975429,armor 37
+1172,tuiew,Profile2,2022-11-14 15:18:28.979429,auto regenerate armor
+1173,tuiew,Profile2,2022-11-14 15:18:30.835850,stance_crouched 0
+1174,tuiew,Profile2,2022-11-14 15:18:31.664038,stance_crouched 1
+1175,tuiew,Profile2,2022-11-14 15:18:32.539237,stance_crouched 1
+1176,tuiew,Profile2,2022-11-14 15:18:32.785293,weapon_fired 0
+1177,tuiew,Profile2,2022-11-14 15:18:32.861674,weapon_fired 0
+1178,tuiew,Profile2,2022-11-14 15:18:32.925689,weapon_fired 0
+1179,tuiew,Profile2,2022-11-14 15:18:33.015709,stance_crouched 1
+1180,tuiew,Profile2,2022-11-14 15:18:33.190749,stance_crouched 0
+1181,tuiew,Profile2,2022-11-14 15:18:34.202980,stance_crouched 1
+1182,tuiew,Profile2,2022-11-14 15:18:35.382096,hp 460
+1183,tuiew,Profile2,2022-11-14 15:18:35.384097,armor 117
+1184,tuiew,Profile2,2022-11-14 15:18:35.387098,auto regenerate armor
+1185,tuiew,Profile2,2022-11-14 15:18:36.300301,stance_crouched 1
+1186,tuiew,Profile2,2022-11-14 15:18:36.612372,weapon_fired 0
+1187,tuiew,Profile2,2022-11-14 15:18:36.690390,weapon_fired 0
+1188,tuiew,Profile2,2022-11-14 15:18:36.759405,weapon_fired 0
+1189,tuiew,Profile2,2022-11-14 15:18:36.830422,weapon_fired 0
+1190,tuiew,Profile2,2022-11-14 15:18:36.903438,weapon_fired 0
+1191,tuiew,Profile2,2022-11-14 15:18:37.437770,stance_crouched 1
+1192,tuiew,Profile2,2022-11-14 15:18:38.052912,stance_crouched 1
+1193,tuiew,Profile2,2022-11-14 15:18:38.130931,weapon_fired 0
+1194,tuiew,Profile2,2022-11-14 15:18:38.206947,weapon_fired 0
+1195,tuiew,Profile2,2022-11-14 15:18:38.271962,killed an enemy
+1196,tuiew,Profile2,2022-11-14 15:18:38.275963,weapon_fired 1
+1197,tuiew,Profile2,2022-11-14 15:18:38.336230,weapon_fired 0
+1198,tuiew,Profile2,2022-11-14 15:18:38.400245,weapon_fired 0
+1199,tuiew,Profile2,2022-11-14 15:18:38.474262,weapon_fired 0
+1200,tuiew,Profile2,2022-11-14 15:18:38.536276,stance_crouched 1
+1201,tuiew,Profile2,2022-11-14 15:18:39.925799,stance_crouched 0
+1202,tuiew,Profile2,2022-11-14 15:18:40.624946,stance_crouched 1
+1203,tuiew,Profile2,2022-11-14 15:18:41.150065,stance_crouched 0
+1204,tuiew,Profile2,2022-11-14 15:18:41.621376,stance_crouched 1
+1205,tuiew,Profile2,2022-11-14 15:18:43.555564,stance_crouched 1
+1206,tuiew,Profile2,2022-11-14 15:18:43.910121,weapon_fired 0
+1207,tuiew,Profile2,2022-11-14 15:18:43.983138,weapon_fired 0
+1208,tuiew,Profile2,2022-11-14 15:18:44.045152,weapon_fired 0
+1209,tuiew,Profile2,2022-11-14 15:18:44.125173,weapon_fired 0
+1210,tuiew,Profile2,2022-11-14 15:18:44.174017,stance_crouched 1
+1211,tuiew,Profile2,2022-11-14 15:20:52.647620,stance_crouched 1
+1212,tuiew,Profile2,2022-11-14 15:21:06.156536,stance_crouched 1
+1213,tuiew,Profile2,2022-11-14 15:21:06.603638,stance_crouched 1
+1214,tuiew,Profile2,2022-11-14 15:21:08.778440,stance_crouched 1
+1215,tuiew,Profile2,2022-11-14 15:21:08.988487,weapon_fired 0
+1216,tuiew,Profile2,2022-11-14 15:21:09.280889,weapon_fired 1
+1217,tuiew,Profile2,2022-11-14 15:21:09.284890,killed an enemy
+1218,tuiew,Profile2,2022-11-14 15:21:09.813010,stance_crouched 1
+1219,tuiew,Profile2,2022-11-14 15:21:23.687993,stance_crouched 1
+1220,tuiew,Profile2,2022-11-14 15:21:24.939565,stance_crouched 1
+1221,tuiew,Profile2,2022-11-14 15:21:26.333991,stance_crouched 1
+1222,tuiew,Profile2,2022-11-14 15:21:27.072159,weapon_fired 0
+1223,tuiew,Profile2,2022-11-14 15:21:27.314214,stance_crouched 1
+1224,tuiew,Profile2,2022-11-14 15:22:22.759700,stance_crouched 1
+1225,tuiew,Profile2,2022-11-14 15:22:23.281674,stance_crouched 1
+1226,tuiew,Profile2,2022-11-14 15:23:01.128325,stance_crouched 1
+1227,tuiew,Profile2,2022-11-14 15:23:03.375465,hp 460
+1228,tuiew,Profile2,2022-11-14 15:23:03.377465,armor 117
+1229,tuiew,Profile2,2022-11-14 15:23:03.381466,shielded hit
+1230,tuiew,Profile2,2022-11-14 15:23:03.386468,hp 460
+1231,tuiew,Profile2,2022-11-14 15:23:03.389469,armor 117
+1232,tuiew,Profile2,2022-11-14 15:23:03.393469,hp 460
+1233,tuiew,Profile2,2022-11-14 15:23:03.396469,armor 117
+1234,tuiew,Profile2,2022-11-14 15:23:03.400472,health_subtracted 0
+1235,tuiew,Profile2,2022-11-14 15:23:03.607517,stance_crouched 1
+1236,tuiew,Profile2,2022-11-14 15:23:03.937592,hp 460
+1237,tuiew,Profile2,2022-11-14 15:23:03.940593,armor 107
+1238,tuiew,Profile2,2022-11-14 15:23:03.944594,enemy_headshot
+1239,tuiew,Profile2,2022-11-14 15:23:03.947596,killed an enemy
+1240,tuiew,Profile2,2022-11-14 15:23:03.950595,weapon_fired 1
+1241,tuiew,Profile2,2022-11-14 15:23:04.018611,enemy_headshot
+1242,tuiew,Profile2,2022-11-14 15:23:04.021612,killed an enemy
+1243,tuiew,Profile2,2022-11-14 15:23:04.025612,weapon_fired 1
+1244,tuiew,Profile2,2022-11-14 15:23:04.092627,weapon_fired 0
+1245,tuiew,Profile2,2022-11-14 15:23:04.162643,weapon_fired 0
+1246,tuiew,Profile2,2022-11-14 15:23:04.232659,weapon_fired 0
+1247,tuiew,Profile2,2022-11-14 15:23:04.302675,weapon_fired 0
+1248,tuiew,Profile2,2022-11-14 15:23:04.943035,stance_crouched 1
+1249,tuiew,Profile2,2022-11-14 15:23:05.856029,auto regenerate armor
+1250,tuiew,Profile2,2022-11-14 15:23:05.864031,hp 460
+1251,tuiew,Profile2,2022-11-14 15:23:05.867032,armor 117
+1252,tuiew,Profile2,2022-11-14 15:23:07.277439,stance_crouched 1
+1253,tuiew,Profile2,2022-11-14 15:23:07.985196,weapon_fired 1
+1254,tuiew,Profile2,2022-11-14 15:23:08.062214,killed an enemy
+1255,tuiew,Profile2,2022-11-14 15:23:08.066215,weapon_fired 1
+1256,tuiew,Profile2,2022-11-14 15:23:08.419295,stance_crouched 1
+1257,tuiew,Profile2,2022-11-14 15:23:09.188942,stance_crouched 0
+1258,tuiew,Profile2,2022-11-14 15:23:09.526979,stance_crouched 0
+1259,tuiew,Profile2,2022-11-14 15:23:09.760918,weapon_fired 0
+1260,tuiew,Profile2,2022-11-14 15:23:09.833935,weapon_fired 0
+1261,tuiew,Profile2,2022-11-14 15:23:09.906951,weapon_fired 1
+1262,tuiew,Profile2,2022-11-14 15:23:09.971966,killed an enemy
+1263,tuiew,Profile2,2022-11-14 15:23:09.976967,weapon_fired 1
+1264,tuiew,Profile2,2022-11-14 15:23:10.049984,weapon_fired 0
+1265,tuiew,Profile2,2022-11-14 15:23:10.116999,weapon_fired 0
+1266,tuiew,Profile2,2022-11-14 15:23:10.194922,weapon_fired 0
+1267,tuiew,Profile2,2022-11-14 15:23:10.267939,weapon_fired 0
+1268,tuiew,Profile2,2022-11-14 15:23:10.338954,weapon_fired 0
+1269,tuiew,Profile2,2022-11-14 15:23:10.397968,weapon_fired 0
+1270,tuiew,Profile2,2022-11-14 15:23:10.464983,weapon_fired 0
+1271,tuiew,Profile2,2022-11-14 15:23:10.536999,weapon_fired 0
+1272,tuiew,Profile2,2022-11-14 15:23:10.611017,weapon_fired 0
+1273,tuiew,Profile2,2022-11-14 15:23:10.656026,hp 460
+1274,tuiew,Profile2,2022-11-14 15:23:10.658027,armor 117
+1275,tuiew,Profile2,2022-11-14 15:23:10.662028,shielded hit
+1276,tuiew,Profile2,2022-11-14 15:23:10.667029,hp 460
+1277,tuiew,Profile2,2022-11-14 15:23:10.669031,armor 117
+1278,tuiew,Profile2,2022-11-14 15:23:10.673031,hp 460
+1279,tuiew,Profile2,2022-11-14 15:23:10.675030,armor 117
+1280,tuiew,Profile2,2022-11-14 15:23:10.679031,health_subtracted 0
+1281,tuiew,Profile2,2022-11-14 15:23:10.703037,weapon_fired 0
+1282,tuiew,Profile2,2022-11-14 15:23:10.763050,weapon_fired 0
+1283,tuiew,Profile2,2022-11-14 15:23:10.833066,killed an enemy
+1284,tuiew,Profile2,2022-11-14 15:23:10.837067,weapon_fired 1
+1285,tuiew,Profile2,2022-11-14 15:23:10.902363,weapon_fired 0
+1286,tuiew,Profile2,2022-11-14 15:23:10.973379,weapon_fired 0
+1287,tuiew,Profile2,2022-11-14 15:23:11.039394,weapon_fired 0
+1288,tuiew,Profile2,2022-11-14 15:23:11.105409,weapon_fired 0
+1289,tuiew,Profile2,2022-11-14 15:23:11.172424,weapon_fired 0
+1290,tuiew,Profile2,2022-11-14 15:23:11.227353,stance_crouched 0
+1291,tuiew,Profile2,2022-11-14 15:23:11.284178,stance_crouched 1
+1292,tuiew,Profile2,2022-11-14 15:23:11.704307,hp 460
+1293,tuiew,Profile2,2022-11-14 15:23:11.706307,armor 92
+1294,tuiew,Profile2,2022-11-14 15:23:11.710310,shielded hit
+1295,tuiew,Profile2,2022-11-14 15:23:11.715310,hp 460
+1296,tuiew,Profile2,2022-11-14 15:23:11.717310,armor 92
+1297,tuiew,Profile2,2022-11-14 15:23:11.721312,hp 460
+1298,tuiew,Profile2,2022-11-14 15:23:11.724312,armor 92
+1299,tuiew,Profile2,2022-11-14 15:23:11.728313,health_subtracted 0
+1300,tuiew,Profile2,2022-11-14 15:23:12.284747,hp 460
+1301,tuiew,Profile2,2022-11-14 15:23:12.286747,armor 62
+1302,tuiew,Profile2,2022-11-14 15:23:12.289748,shielded hit
+1303,tuiew,Profile2,2022-11-14 15:23:12.296749,hp 460
+1304,tuiew,Profile2,2022-11-14 15:23:12.299750,armor 62
+1305,tuiew,Profile2,2022-11-14 15:23:12.302752,hp 460
+1306,tuiew,Profile2,2022-11-14 15:23:12.305752,armor 62
+1307,tuiew,Profile2,2022-11-14 15:23:12.308752,health_subtracted 0
+1308,tuiew,Profile2,2022-11-14 15:23:12.633058,stance_crouched 0
+1309,tuiew,Profile2,2022-11-14 15:23:12.716077,stance_crouched 0
+1310,tuiew,Profile2,2022-11-14 15:23:14.765740,hp 460
+1311,tuiew,Profile2,2022-11-14 15:23:14.767741,armor 32
+1312,tuiew,Profile2,2022-11-14 15:23:14.771742,auto regenerate armor
+1313,tuiew,Profile2,2022-11-14 15:23:15.103817,stance_crouched 1
+1314,tuiew,Profile2,2022-11-14 15:23:15.475842,stance_crouched 1
+1315,tuiew,Profile2,2022-11-14 15:23:16.285026,stance_crouched 1
+1316,tuiew,Profile2,2022-11-14 15:23:17.913756,stance_crouched 1
+1317,tuiew,Profile2,2022-11-14 15:23:18.475884,stance_crouched 1
+1318,tuiew,Profile2,2022-11-14 15:23:18.944936,stance_crouched 1
+1319,tuiew,Profile2,2022-11-14 15:23:19.079967,weapon_fired 0
+1320,tuiew,Profile2,2022-11-14 15:23:19.318021,killed an enemy
+1321,tuiew,Profile2,2022-11-14 15:23:19.321021,weapon_fired 1
+1322,tuiew,Profile2,2022-11-14 15:23:19.325022,killed an enemy
+1323,tuiew,Profile2,2022-11-14 15:23:19.328022,weapon_fired 1
+1324,tuiew,Profile2,2022-11-14 15:23:20.167213,stance_crouched 1
+1325,tuiew,Profile2,2022-11-14 15:23:21.441884,hp 460
+1326,tuiew,Profile2,2022-11-14 15:23:21.443884,armor 117
+1327,tuiew,Profile2,2022-11-14 15:23:21.447886,auto regenerate armor
+1328,tuiew,Profile2,2022-11-14 15:23:22.093087,stance_crouched 1
+1329,tuiew,Profile2,2022-11-14 15:23:22.834372,weapon_fired 0
+1330,tuiew,Profile2,2022-11-14 15:23:23.131367,killed an enemy
+1331,tuiew,Profile2,2022-11-14 15:23:23.134368,weapon_fired 1
+1332,tuiew,Profile2,2022-11-14 15:23:23.945553,stance_crouched 1
+1333,tuiew,Profile2,2022-11-14 15:23:28.896949,stance_crouched 1
+1334,tuiew,Profile2,2022-11-14 15:23:29.206019,stance_crouched 1
+1335,tuiew,Profile2,2022-11-14 15:23:34.320411,stance_crouched 1
+1336,tuiew,Profile2,2022-11-14 15:23:34.685497,weapon_fired 0
+1337,tuiew,Profile2,2022-11-14 15:23:35.249624,killed an enemy
+1338,tuiew,Profile2,2022-11-14 15:23:35.253625,weapon_fired 1
+1339,tuiew,Profile2,2022-11-14 15:23:37.177244,stance_crouched 1
+1340,tuiew,Profile2,2022-11-14 15:23:37.442305,stance_crouched 1
+1341,tuiew,Profile2,2022-11-14 15:23:37.583337,weapon_fired 0
+1342,tuiew,Profile2,2022-11-14 15:23:37.827391,killed an enemy
+1343,tuiew,Profile2,2022-11-14 15:23:37.837394,weapon_fired 1
+1344,tuiew,Profile2,2022-11-14 15:23:38.454436,stance_crouched 1
+1345,tuiew,Profile2,2022-11-14 15:23:43.202110,stance_crouched 1
+1346,tuiew,Profile2,2022-11-14 15:23:44.172330,stance_crouched 1
+1347,tuiew,Profile2,2022-11-14 15:23:44.316362,weapon_fired 0
+1348,tuiew,Profile2,2022-11-14 15:23:44.394380,weapon_fired 0
+1349,tuiew,Profile2,2022-11-14 15:23:44.458395,hp 460
+1350,tuiew,Profile2,2022-11-14 15:23:44.460395,armor 117
+1351,tuiew,Profile2,2022-11-14 15:23:44.464396,enemy_headshot
+1352,tuiew,Profile2,2022-11-14 15:23:44.467397,killed an enemy
+1353,tuiew,Profile2,2022-11-14 15:23:44.470397,weapon_fired 1
+1354,tuiew,Profile2,2022-11-14 15:23:44.543414,weapon_fired 0
+1355,tuiew,Profile2,2022-11-14 15:23:44.604429,weapon_fired 0
+1356,tuiew,Profile2,2022-11-14 15:23:44.665442,weapon_fired 0
+1357,tuiew,Profile2,2022-11-14 15:23:44.737457,weapon_fired 0
+1358,tuiew,Profile2,2022-11-14 15:23:45.617647,weapon_fired 0
+1359,tuiew,Profile2,2022-11-14 15:23:45.691664,weapon_fired 0
+1360,tuiew,Profile2,2022-11-14 15:23:45.766681,weapon_fired 0
+1361,tuiew,Profile2,2022-11-14 15:23:45.829696,weapon_fired 0
+1362,tuiew,Profile2,2022-11-14 15:23:46.052746,weapon_fired 0
+1363,tuiew,Profile2,2022-11-14 15:23:46.124762,weapon_fired 0
+1364,tuiew,Profile2,2022-11-14 15:23:46.206781,stance_crouched 1
+1365,tuiew,Profile2,2022-11-14 15:23:49.109578,stance_crouched 0
+1366,tuiew,Profile2,2022-11-14 15:23:49.403516,stance_crouched 0
+1367,tuiew,Profile2,2022-11-14 15:23:49.617564,weapon_fired 0
+1368,tuiew,Profile2,2022-11-14 15:23:49.691582,weapon_fired 0
+1369,tuiew,Profile2,2022-11-14 15:23:49.764597,weapon_fired 0
+1370,tuiew,Profile2,2022-11-14 15:23:49.786602,stance_crouched 0
+1371,tuiew,Profile2,2022-11-14 15:23:50.053858,hp 460
+1372,tuiew,Profile2,2022-11-14 15:23:50.055859,armor 117
+1373,tuiew,Profile2,2022-11-14 15:23:50.058860,shielded hit
+1374,tuiew,Profile2,2022-11-14 15:23:50.065861,hp 460
+1375,tuiew,Profile2,2022-11-14 15:23:50.067862,armor 117
+1376,tuiew,Profile2,2022-11-14 15:23:50.071863,hp 460
+1377,tuiew,Profile2,2022-11-14 15:23:50.073863,armor 117
+1378,tuiew,Profile2,2022-11-14 15:23:50.077864,health_subtracted 0
+1379,tuiew,Profile2,2022-11-14 15:23:50.294913,hp 460
+1380,tuiew,Profile2,2022-11-14 15:23:50.296914,armor 108
+1381,tuiew,Profile2,2022-11-14 15:23:50.300914,shielded hit
+1382,tuiew,Profile2,2022-11-14 15:23:50.307917,hp 460
+1383,tuiew,Profile2,2022-11-14 15:23:50.309916,armor 108
+1384,tuiew,Profile2,2022-11-14 15:23:50.313917,hp 460
+1385,tuiew,Profile2,2022-11-14 15:23:50.315918,armor 108
+1386,tuiew,Profile2,2022-11-14 15:23:50.318919,health_subtracted 0
+1387,tuiew,Profile2,2022-11-14 15:23:50.572976,stance_crouched 1
+1388,tuiew,Profile2,2022-11-14 15:23:50.962102,hp 460
+1389,tuiew,Profile2,2022-11-14 15:23:50.965104,armor 87
+1390,tuiew,Profile2,2022-11-14 15:23:50.968104,shielded hit
+1391,tuiew,Profile2,2022-11-14 15:23:50.975106,hp 460
+1392,tuiew,Profile2,2022-11-14 15:23:50.977106,armor 87
+1393,tuiew,Profile2,2022-11-14 15:23:50.981107,hp 460
+1394,tuiew,Profile2,2022-11-14 15:23:50.984108,armor 87
+1395,tuiew,Profile2,2022-11-14 15:23:50.987108,health_subtracted 0
+1396,tuiew,Profile2,2022-11-14 15:23:52.441439,stance_crouched 1
+1397,tuiew,Profile2,2022-11-14 15:23:53.106122,weapon_fired 0
+1398,tuiew,Profile2,2022-11-14 15:23:53.178138,weapon_fired 0
+1399,tuiew,Profile2,2022-11-14 15:23:53.414191,hp 460
+1400,tuiew,Profile2,2022-11-14 15:23:53.416193,armor 67
+1401,tuiew,Profile2,2022-11-14 15:23:53.420194,enemy_headshot
+1402,tuiew,Profile2,2022-11-14 15:23:53.423194,killed an enemy
+1403,tuiew,Profile2,2022-11-14 15:23:53.427195,weapon_fired 1
+1404,tuiew,Profile2,2022-11-14 15:23:53.497210,weapon_fired 0
+1405,tuiew,Profile2,2022-11-14 15:23:53.948313,hp 460
+1406,tuiew,Profile2,2022-11-14 15:23:53.950313,armor 92
+1407,tuiew,Profile2,2022-11-14 15:23:53.954314,auto regenerate armor
+1408,tuiew,Profile2,2022-11-14 15:23:54.771499,killed an enemy
+1409,tuiew,Profile2,2022-11-14 15:23:54.775500,weapon_fired 1
+1410,tuiew,Profile2,2022-11-14 15:23:54.850518,weapon_fired 0
+1411,tuiew,Profile2,2022-11-14 15:23:54.927535,weapon_fired 0
+1412,tuiew,Profile2,2022-11-14 15:23:55.329626,weapon_fired 0
+1413,tuiew,Profile2,2022-11-14 15:23:55.408644,weapon_fired 0
+1414,tuiew,Profile2,2022-11-14 15:23:55.479660,killed an enemy
+1415,tuiew,Profile2,2022-11-14 15:23:55.482661,weapon_fired 1
+1416,tuiew,Profile2,2022-11-14 15:23:55.562679,weapon_fired 0
+1417,tuiew,Profile2,2022-11-14 15:23:55.633696,weapon_fired 0
+1418,tuiew,Profile2,2022-11-14 15:23:55.862747,stance_crouched 1
+1419,tuiew,Profile2,2022-11-14 15:23:56.643924,stance_crouched 1
+1420,tuiew,Profile2,2022-11-14 15:23:57.348084,weapon_fired 1
+1421,tuiew,Profile2,2022-11-14 15:23:57.421100,killed an enemy
+1422,tuiew,Profile2,2022-11-14 15:23:57.425101,weapon_fired 1
+1423,tuiew,Profile2,2022-11-14 15:23:57.501118,weapon_fired 0
+1424,tuiew,Profile2,2022-11-14 15:23:57.724169,weapon_fired 0
+1425,tuiew,Profile2,2022-11-14 15:23:57.802186,weapon_fired 0
+1426,tuiew,Profile2,2022-11-14 15:23:59.073158,weapon_fired 1
+1427,tuiew,Profile2,2022-11-14 15:23:59.153175,killed an enemy
+1428,tuiew,Profile2,2022-11-14 15:23:59.157176,weapon_fired 1
+1429,tuiew,Profile2,2022-11-14 15:23:59.584273,shielded hit
+1430,tuiew,Profile2,2022-11-14 15:23:59.591275,hp 460
+1431,tuiew,Profile2,2022-11-14 15:23:59.594275,armor 117
+1432,tuiew,Profile2,2022-11-14 15:23:59.597276,hp 460
+1433,tuiew,Profile2,2022-11-14 15:23:59.600277,armor 117
+1434,tuiew,Profile2,2022-11-14 15:23:59.604278,hp 460
+1435,tuiew,Profile2,2022-11-14 15:23:59.607279,armor 117
+1436,tuiew,Profile2,2022-11-14 15:23:59.610279,health_subtracted 0
+1437,tuiew,Profile2,2022-11-14 15:23:59.934353,killed an enemy
+1438,tuiew,Profile2,2022-11-14 15:23:59.937354,weapon_fired 1
+1439,tuiew,Profile2,2022-11-14 15:24:00.011370,weapon_fired 0
+1440,tuiew,Profile2,2022-11-14 15:24:00.711529,weapon_fired 0
+1441,tuiew,Profile2,2022-11-14 15:24:00.789577,weapon_fired 0
+1442,tuiew,Profile2,2022-11-14 15:24:01.913651,weapon_fired 0
+1443,tuiew,Profile2,2022-11-14 15:24:01.993669,weapon_fired 0
+1444,tuiew,Profile2,2022-11-14 15:24:02.273733,weapon_fired 0
+1445,tuiew,Profile2,2022-11-14 15:24:02.346749,weapon_fired 0
+1446,tuiew,Profile2,2022-11-14 15:24:02.656820,hp 460
+1447,tuiew,Profile2,2022-11-14 15:24:02.658820,armor 107
+1448,tuiew,Profile2,2022-11-14 15:24:02.662820,auto regenerate armor
+1449,tuiew,Profile2,2022-11-14 15:24:02.874173,stance_crouched 1
+1450,tuiew,Profile2,2022-11-14 15:24:03.843398,stance_crouched 1
+1451,tuiew,Profile2,2022-11-14 15:24:04.486497,hp 460
+1452,tuiew,Profile2,2022-11-14 15:24:04.488497,armor 117
+1453,tuiew,Profile2,2022-11-14 15:24:04.492498,shielded hit
+1454,tuiew,Profile2,2022-11-14 15:24:04.497499,hp 460
+1455,tuiew,Profile2,2022-11-14 15:24:04.499215,armor 117
+1456,tuiew,Profile2,2022-11-14 15:24:04.503216,hp 460
+1457,tuiew,Profile2,2022-11-14 15:24:04.505216,armor 117
+1458,tuiew,Profile2,2022-11-14 15:24:04.508217,health_subtracted 0
+1459,tuiew,Profile2,2022-11-14 15:24:04.856296,stance_crouched 1
+1460,tuiew,Profile2,2022-11-14 15:24:05.417801,hp 460
+1461,tuiew,Profile2,2022-11-14 15:24:05.419802,armor 113
+1462,tuiew,Profile2,2022-11-14 15:24:05.423803,shielded hit
+1463,tuiew,Profile2,2022-11-14 15:24:05.429805,hp 460
+1464,tuiew,Profile2,2022-11-14 15:24:05.432806,armor 113
+1465,tuiew,Profile2,2022-11-14 15:24:05.435805,hp 460
+1466,tuiew,Profile2,2022-11-14 15:24:05.438806,armor 113
+1467,tuiew,Profile2,2022-11-14 15:24:05.441808,health_subtracted 0
+1468,tuiew,Profile2,2022-11-14 15:24:05.800888,weapon_fired 0
+1469,tuiew,Profile2,2022-11-14 15:24:06.131963,stance_crouched 1
+1470,tuiew,Profile2,2022-11-14 15:24:06.218983,killed an enemy
+1471,tuiew,Profile2,2022-11-14 15:24:06.222985,weapon_fired 1
+1472,tuiew,Profile2,2022-11-14 15:24:07.913428,hp 460
+1473,tuiew,Profile2,2022-11-14 15:24:07.915428,armor 109
+1474,tuiew,Profile2,2022-11-14 15:24:07.919428,auto regenerate armor
+1475,tuiew,Profile2,2022-11-14 15:24:08.076463,stance_crouched 1
+1476,tuiew,Profile2,2022-11-14 15:24:08.632230,stance_crouched 0
+1477,tuiew,Profile2,2022-11-14 15:24:10.318856,stance_crouched 1
+1478,tuiew,Profile2,2022-11-14 15:24:12.920579,stance_crouched 0
+1479,tuiew,Profile2,2022-11-14 15:24:20.560952,stance_crouched 1
+1480,tuiew,Profile2,2022-11-14 15:24:26.266376,complete_objective Place_the_thermite_on_the_vault
+1481,tuiew,Profile2,2022-11-14 15:24:27.260615,activate_objective Defend_the_vault
+1482,tuiew,Profile2,2022-11-14 15:24:28.531687,stance_crouched 1
+1483,tuiew,Profile2,2022-11-14 15:24:28.704726,stance_crouched 1
+1484,tuiew,Profile2,2022-11-14 15:24:29.364288,stance_crouched 0
+1485,tuiew,Profile2,2022-11-14 15:24:31.583026,stance_crouched 1
+1486,tuiew,Profile2,2022-11-14 15:24:32.189591,stance_crouched 1
+1487,tuiew,Profile2,2022-11-14 15:24:32.660696,weapon_fired 0
+1488,tuiew,Profile2,2022-11-14 15:24:32.741715,weapon_fired 1
+1489,tuiew,Profile2,2022-11-14 15:24:33.074749,stance_crouched 1
+1490,tuiew,Profile2,2022-11-14 15:24:33.361866,stance_crouched 0
+1491,tuiew,Profile2,2022-11-14 15:24:33.978787,stance_crouched 0
+1492,tuiew,Profile2,2022-11-14 15:24:34.257644,weapon_fired 0
+1493,tuiew,Profile2,2022-11-14 15:24:34.334662,weapon_fired 0
+1494,tuiew,Profile2,2022-11-14 15:24:34.405678,killed an enemy
+1495,tuiew,Profile2,2022-11-14 15:24:34.409679,weapon_fired 1
+1496,tuiew,Profile2,2022-11-14 15:24:34.477695,weapon_fired 0
+1497,tuiew,Profile2,2022-11-14 15:24:34.542711,weapon_fired 0
+1498,tuiew,Profile2,2022-11-14 15:24:34.616583,weapon_fired 0
+1499,tuiew,Profile2,2022-11-14 15:24:34.686599,killed an enemy
+1500,tuiew,Profile2,2022-11-14 15:24:34.690601,weapon_fired 1
+1501,tuiew,Profile2,2022-11-14 15:24:34.765617,weapon_fired 0
+1502,tuiew,Profile2,2022-11-14 15:24:35.353059,stance_crouched 0
+1503,tuiew,Profile2,2022-11-14 15:24:36.580349,stance_crouched 1
+1504,tuiew,Profile2,2022-11-14 15:24:36.611356,hp 460
+1505,tuiew,Profile2,2022-11-14 15:24:36.613356,armor 117
+1506,tuiew,Profile2,2022-11-14 15:24:36.617358,auto regenerate armor
+1507,tuiew,Profile2,2022-11-14 15:24:36.800399,stance_crouched 1
+1508,tuiew,Profile2,2022-11-14 15:24:37.397751,weapon_fired 0
+1509,tuiew,Profile2,2022-11-14 15:24:37.475768,weapon_fired 0
+1510,tuiew,Profile2,2022-11-14 15:24:37.839850,hp 460
+1511,tuiew,Profile2,2022-11-14 15:24:37.841850,armor 117
+1512,tuiew,Profile2,2022-11-14 15:24:37.845851,enemy_headshot
+1513,tuiew,Profile2,2022-11-14 15:24:37.848853,killed an enemy
+1514,tuiew,Profile2,2022-11-14 15:24:37.852853,weapon_fired 1
+1515,tuiew,Profile2,2022-11-14 15:24:37.921869,weapon_fired 0
+1516,tuiew,Profile2,2022-11-14 15:24:38.833075,weapon_fired 0
+1517,tuiew,Profile2,2022-11-14 15:24:38.908093,weapon_fired 0
+1518,tuiew,Profile2,2022-11-14 15:24:38.987110,weapon_fired 0
+1519,tuiew,Profile2,2022-11-14 15:24:39.058127,weapon_fired 0
+1520,tuiew,Profile2,2022-11-14 15:24:39.071130,stance_crouched 1
+1521,tuiew,Profile2,2022-11-14 15:24:40.083359,stance_crouched 0
+1522,tuiew,Profile2,2022-11-14 15:24:41.714543,stance_crouched 1
+1523,tuiew,Profile2,2022-11-14 15:24:42.139640,hp 460
+1524,tuiew,Profile2,2022-11-14 15:24:42.141641,armor 117
+1525,tuiew,Profile2,2022-11-14 15:24:42.145641,auto regenerate armor
+1526,tuiew,Profile2,2022-11-14 15:24:42.514725,stance_crouched 1
+1527,tuiew,Profile2,2022-11-14 15:24:43.071771,stance_crouched 1
+1528,tuiew,Profile2,2022-11-14 15:24:43.712916,stance_crouched 1
+1529,tuiew,Profile2,2022-11-14 15:24:44.358063,stance_crouched 1
+1530,tuiew,Profile2,2022-11-14 15:24:45.075225,stance_crouched 1
+1531,tuiew,Profile2,2022-11-14 15:24:45.871405,weapon_fired 0
+1532,tuiew,Profile2,2022-11-14 15:24:45.946422,weapon_fired 1
+1533,tuiew,Profile2,2022-11-14 15:24:46.216326,weapon_fired 0
+1534,tuiew,Profile2,2022-11-14 15:24:46.307347,weapon_fired 1
+1535,tuiew,Profile2,2022-11-14 15:24:47.110697,killed an enemy
+1536,tuiew,Profile2,2022-11-14 15:24:47.114697,weapon_fired 1
+1537,tuiew,Profile2,2022-11-14 15:24:47.190714,weapon_fired 0
+1538,tuiew,Profile2,2022-11-14 15:24:47.809855,killed an enemy
+1539,tuiew,Profile2,2022-11-14 15:24:47.813856,weapon_fired 1
+1540,tuiew,Profile2,2022-11-14 15:24:48.380439,stance_crouched 1
+1541,tuiew,Profile2,2022-11-14 15:24:49.594575,stance_crouched 1
+1542,tuiew,Profile2,2022-11-14 15:24:50.166016,killed an enemy
+1543,tuiew,Profile2,2022-11-14 15:24:50.170017,weapon_fired 1
+1544,tuiew,Profile2,2022-11-14 15:24:50.254036,killed an enemy
+1545,tuiew,Profile2,2022-11-14 15:24:50.258037,weapon_fired 1
+1546,tuiew,Profile2,2022-11-14 15:24:50.502092,weapon_fired 0
+1547,tuiew,Profile2,2022-11-14 15:24:50.719142,hp 460
+1548,tuiew,Profile2,2022-11-14 15:24:50.721142,armor 117
+1549,tuiew,Profile2,2022-11-14 15:24:50.724143,shielded hit
+1550,tuiew,Profile2,2022-11-14 15:24:50.730144,hp 460
+1551,tuiew,Profile2,2022-11-14 15:24:50.732144,armor 117
+1552,tuiew,Profile2,2022-11-14 15:24:50.736145,hp 457
+1553,tuiew,Profile2,2022-11-14 15:24:50.738146,armor 117
+1554,tuiew,Profile2,2022-11-14 15:24:50.741147,health_subtracted 0.3
+1555,tuiew,Profile2,2022-11-14 15:24:50.747148,hp 460
+1556,tuiew,Profile2,2022-11-14 15:24:50.750148,armor 107
+1557,tuiew,Profile2,2022-11-14 15:24:50.754149,hp 460
+1558,tuiew,Profile2,2022-11-14 15:24:50.756150,armor 107
+1559,tuiew,Profile2,2022-11-14 15:24:50.760150,hp 460
+1560,tuiew,Profile2,2022-11-14 15:24:50.762151,armor 107
+1561,tuiew,Profile2,2022-11-14 15:24:50.766152,hp 460
+1562,tuiew,Profile2,2022-11-14 15:24:50.768153,armor 107
+1563,tuiew,Profile2,2022-11-14 15:24:51.115231,weapon_fired 0
+1564,tuiew,Profile2,2022-11-14 15:24:51.191248,weapon_fired 0
+1565,tuiew,Profile2,2022-11-14 15:24:51.495317,weapon_fired 0
+1566,tuiew,Profile2,2022-11-14 15:24:51.568334,killed an enemy
+1567,tuiew,Profile2,2022-11-14 15:24:51.572334,weapon_fired 1
+1568,tuiew,Profile2,2022-11-14 15:24:53.368630,killed an enemy
+1569,tuiew,Profile2,2022-11-14 15:24:53.372632,weapon_fired 1
+1570,tuiew,Profile2,2022-11-14 15:24:53.453649,weapon_fired 0
+1571,tuiew,Profile2,2022-11-14 15:24:54.135804,hp 460
+1572,tuiew,Profile2,2022-11-14 15:24:54.138804,armor 0
+1573,tuiew,Profile2,2022-11-14 15:24:54.143805,unshielded hit
+1574,tuiew,Profile2,2022-11-14 15:24:54.147807,hp 456
+1575,tuiew,Profile2,2022-11-14 15:24:54.149807,armor 0
+1576,tuiew,Profile2,2022-11-14 15:24:54.152808,health_subtracted 0.4
+1577,tuiew,Profile2,2022-11-14 15:24:54.347852,killed an enemy
+1578,tuiew,Profile2,2022-11-14 15:24:54.353853,weapon_fired 1
+1579,tuiew,Profile2,2022-11-14 15:24:54.425870,weapon_fired 0
+1580,tuiew,Profile2,2022-11-14 15:24:54.823841,weapon_fired 0
+1581,tuiew,Profile2,2022-11-14 15:24:54.897859,stance_crouched 1
+1582,tuiew,Profile2,2022-11-14 15:24:55.739048,hp 460
+1583,tuiew,Profile2,2022-11-14 15:24:55.742049,armor 0
+1584,tuiew,Profile2,2022-11-14 15:24:55.747051,hp 460
+1585,tuiew,Profile2,2022-11-14 15:24:55.750051,armor 0
+1586,tuiew,Profile2,2022-11-14 15:24:55.754052,hp 460
+1587,tuiew,Profile2,2022-11-14 15:24:55.757053,armor 0
+1588,tuiew,Profile2,2022-11-14 15:24:55.762054,hp 460
+1589,tuiew,Profile2,2022-11-14 15:24:55.765054,armor 0
+1590,tuiew,Profile2,2022-11-14 15:24:58.341889,hp 460
+1591,tuiew,Profile2,2022-11-14 15:24:58.343889,armor 0
+1592,tuiew,Profile2,2022-11-14 15:24:58.347890,hp 460
+1593,tuiew,Profile2,2022-11-14 15:24:58.349890,armor 0
+1594,tuiew,Profile2,2022-11-14 15:24:58.352891,auto regenerate armor
+1595,tuiew,Profile2,2022-11-14 15:24:59.462458,stance_crouched 0
+1596,tuiew,Profile2,2022-11-14 15:25:00.433678,stance_crouched 1
+1597,tuiew,Profile2,2022-11-14 15:25:00.692736,stance_crouched 1
+1598,tuiew,Profile2,2022-11-14 15:25:00.954889,weapon_fired 0
+1599,tuiew,Profile2,2022-11-14 15:25:01.028907,killed an enemy
+1600,tuiew,Profile2,2022-11-14 15:25:01.032907,weapon_fired 1
+1601,tuiew,Profile2,2022-11-14 15:25:01.103924,weapon_fired 0
+1602,tuiew,Profile2,2022-11-14 15:25:01.166937,weapon_fired 0
+1603,tuiew,Profile2,2022-11-14 15:25:01.296967,stance_crouched 1
+1604,tuiew,Profile2,2022-11-14 15:25:02.098658,stance_crouched 1
+1605,tuiew,Profile2,2022-11-14 15:25:02.390724,weapon_fired 1
+1606,tuiew,Profile2,2022-11-14 15:25:02.466741,weapon_fired 1
+1607,tuiew,Profile2,2022-11-14 15:25:02.528755,weapon_fired 0
+1608,tuiew,Profile2,2022-11-14 15:25:02.605773,weapon_fired 0
+1609,tuiew,Profile2,2022-11-14 15:25:02.680790,weapon_fired 0
+1610,tuiew,Profile2,2022-11-14 15:25:02.757807,weapon_fired 0
+1611,tuiew,Profile2,2022-11-14 15:25:02.831824,weapon_fired 0
+1612,tuiew,Profile2,2022-11-14 15:25:02.896838,weapon_fired 0
+1613,tuiew,Profile2,2022-11-14 15:25:02.971856,killed an enemy
+1614,tuiew,Profile2,2022-11-14 15:25:02.976857,weapon_fired 1
+1615,tuiew,Profile2,2022-11-14 15:25:03.052871,weapon_fired 0
+1616,tuiew,Profile2,2022-11-14 15:25:03.116890,killed an enemy
+1617,tuiew,Profile2,2022-11-14 15:25:03.119891,weapon_fired 1
+1618,tuiew,Profile2,2022-11-14 15:25:03.188908,killed an enemy
+1619,tuiew,Profile2,2022-11-14 15:25:03.192908,weapon_fired 1
+1620,tuiew,Profile2,2022-11-14 15:25:03.263924,weapon_fired 0
+1621,tuiew,Profile2,2022-11-14 15:25:03.336941,weapon_fired 0
+1622,tuiew,Profile2,2022-11-14 15:25:03.405957,weapon_fired 0
+1623,tuiew,Profile2,2022-11-14 15:25:03.453966,hp 460
+1624,tuiew,Profile2,2022-11-14 15:25:03.455968,armor 117
+1625,tuiew,Profile2,2022-11-14 15:25:03.459968,shielded hit
+1626,tuiew,Profile2,2022-11-14 15:25:03.463970,hp 460
+1627,tuiew,Profile2,2022-11-14 15:25:03.466972,armor 117
+1628,tuiew,Profile2,2022-11-14 15:25:03.470971,hp 460
+1629,tuiew,Profile2,2022-11-14 15:25:03.472971,armor 117
+1630,tuiew,Profile2,2022-11-14 15:25:03.475972,health_subtracted 0
+1631,tuiew,Profile2,2022-11-14 15:25:03.494977,weapon_fired 0
+1632,tuiew,Profile2,2022-11-14 15:25:03.560991,weapon_fired 0
+1633,tuiew,Profile2,2022-11-14 15:25:03.629007,weapon_fired 0
+1634,tuiew,Profile2,2022-11-14 15:25:03.695022,weapon_fired 0
+1635,tuiew,Profile2,2022-11-14 15:25:03.753035,weapon_fired 0
+1636,tuiew,Profile2,2022-11-14 15:25:03.829052,weapon_fired 0
+1637,tuiew,Profile2,2022-11-14 15:25:03.885065,weapon_fired 0
+1638,tuiew,Profile2,2022-11-14 15:25:03.899146,stance_crouched 1
+1639,tuiew,Profile2,2022-11-14 15:25:05.922873,hp 460
+1640,tuiew,Profile2,2022-11-14 15:25:05.924874,armor 113
+1641,tuiew,Profile2,2022-11-14 15:25:05.928875,auto regenerate armor
+1642,tuiew,Profile2,2022-11-14 15:25:06.639036,stance_crouched 1
+1643,tuiew,Profile2,2022-11-14 15:25:07.022122,stance_crouched 1
+1644,tuiew,Profile2,2022-11-14 15:25:07.241176,stance_crouched 0
+1645,tuiew,Profile2,2022-11-14 15:25:10.614182,stance_crouched 1
+1646,tuiew,Profile2,2022-11-14 15:25:13.519551,hp 460
+1647,tuiew,Profile2,2022-11-14 15:25:13.523553,armor 117
+1648,tuiew,Profile2,2022-11-14 15:25:13.527552,shielded hit
+1649,tuiew,Profile2,2022-11-14 15:25:13.533554,hp 460
+1650,tuiew,Profile2,2022-11-14 15:25:13.536554,armor 117
+1651,tuiew,Profile2,2022-11-14 15:25:13.540555,hp 460
+1652,tuiew,Profile2,2022-11-14 15:25:13.543556,armor 117
+1653,tuiew,Profile2,2022-11-14 15:25:13.546557,health_subtracted 0
+1654,tuiew,Profile2,2022-11-14 15:25:14.115982,stance_crouched 1
+1655,tuiew,Profile2,2022-11-14 15:25:14.206004,hp 460
+1656,tuiew,Profile2,2022-11-14 15:25:14.209004,armor 104
+1657,tuiew,Profile2,2022-11-14 15:25:14.213005,shielded hit
+1658,tuiew,Profile2,2022-11-14 15:25:14.218005,hp 460
+1659,tuiew,Profile2,2022-11-14 15:25:14.221006,armor 104
+1660,tuiew,Profile2,2022-11-14 15:25:14.225008,hp 460
+1661,tuiew,Profile2,2022-11-14 15:25:14.227008,armor 104
+1662,tuiew,Profile2,2022-11-14 15:25:14.231008,health_subtracted 0
+1663,tuiew,Profile2,2022-11-14 15:25:14.596264,hp 460
+1664,tuiew,Profile2,2022-11-14 15:25:14.599264,armor 96
+1665,tuiew,Profile2,2022-11-14 15:25:14.603264,enemy_headshot
+1666,tuiew,Profile2,2022-11-14 15:25:14.606266,killed an enemy
+1667,tuiew,Profile2,2022-11-14 15:25:14.609266,weapon_fired 1
+1668,tuiew,Profile2,2022-11-14 15:25:14.673492,weapon_fired 0
+1669,tuiew,Profile2,2022-11-14 15:25:14.737297,weapon_fired 0
+1670,tuiew,Profile2,2022-11-14 15:25:14.779307,hp 460
+1671,tuiew,Profile2,2022-11-14 15:25:14.781307,armor 114
+1672,tuiew,Profile2,2022-11-14 15:25:14.785308,shielded hit
+1673,tuiew,Profile2,2022-11-14 15:25:14.791310,hp 460
+1674,tuiew,Profile2,2022-11-14 15:25:14.793310,armor 114
+1675,tuiew,Profile2,2022-11-14 15:25:14.798311,hp 460
+1676,tuiew,Profile2,2022-11-14 15:25:14.800311,armor 114
+1677,tuiew,Profile2,2022-11-14 15:25:14.803312,health_subtracted 0
+1678,tuiew,Profile2,2022-11-14 15:25:14.838320,weapon_fired 0
+1679,tuiew,Profile2,2022-11-14 15:25:14.903336,weapon_fired 0
+1680,tuiew,Profile2,2022-11-14 15:25:14.962348,killed an enemy
+1681,tuiew,Profile2,2022-11-14 15:25:14.965350,weapon_fired 1
+1682,tuiew,Profile2,2022-11-14 15:25:15.038743,weapon_fired 0
+1683,tuiew,Profile2,2022-11-14 15:25:15.111759,enemy_headshot
+1684,tuiew,Profile2,2022-11-14 15:25:15.114760,killed an enemy
+1685,tuiew,Profile2,2022-11-14 15:25:15.118760,weapon_fired 1
+1686,tuiew,Profile2,2022-11-14 15:25:15.175774,weapon_fired 0
+1687,tuiew,Profile2,2022-11-14 15:25:15.246790,weapon_fired 0
+1688,tuiew,Profile2,2022-11-14 15:25:15.307804,weapon_fired 0
+1689,tuiew,Profile2,2022-11-14 15:25:15.376823,weapon_fired 0
+1690,tuiew,Profile2,2022-11-14 15:25:15.447704,weapon_fired 0
+1691,tuiew,Profile2,2022-11-14 15:25:15.462707,hp 460
+1692,tuiew,Profile2,2022-11-14 15:25:15.465708,armor 113
+1693,tuiew,Profile2,2022-11-14 15:25:15.469709,shielded hit
+1694,tuiew,Profile2,2022-11-14 15:25:15.474710,hp 460
+1695,tuiew,Profile2,2022-11-14 15:25:15.477711,armor 113
+1696,tuiew,Profile2,2022-11-14 15:25:15.482712,hp 460
+1697,tuiew,Profile2,2022-11-14 15:25:15.484712,armor 113
+1698,tuiew,Profile2,2022-11-14 15:25:15.487713,health_subtracted 0
+1699,tuiew,Profile2,2022-11-14 15:25:15.534724,weapon_fired 0
+1700,tuiew,Profile2,2022-11-14 15:25:15.602739,weapon_fired 0
+1701,tuiew,Profile2,2022-11-14 15:25:15.660753,weapon_fired 0
+1702,tuiew,Profile2,2022-11-14 15:25:15.726767,weapon_fired 0
+1703,tuiew,Profile2,2022-11-14 15:25:15.986403,hp 460
+1704,tuiew,Profile2,2022-11-14 15:25:15.988404,armor 103
+1705,tuiew,Profile2,2022-11-14 15:25:15.992404,shielded hit
+1706,tuiew,Profile2,2022-11-14 15:25:15.997405,hp 460
+1707,tuiew,Profile2,2022-11-14 15:25:15.999405,armor 103
+1708,tuiew,Profile2,2022-11-14 15:25:16.003407,hp 460
+1709,tuiew,Profile2,2022-11-14 15:25:16.005408,armor 103
+1710,tuiew,Profile2,2022-11-14 15:25:16.014409,health_subtracted 0
+1711,tuiew,Profile2,2022-11-14 15:25:16.490517,weapon_fired 0
+1712,tuiew,Profile2,2022-11-14 15:25:16.560533,weapon_fired 0
+1713,tuiew,Profile2,2022-11-14 15:25:16.630549,weapon_fired 0
+1714,tuiew,Profile2,2022-11-14 15:25:16.702925,killed an enemy
+1715,tuiew,Profile2,2022-11-14 15:25:16.716928,weapon_fired 1
+1716,tuiew,Profile2,2022-11-14 15:25:16.785944,weapon_fired 0
+1717,tuiew,Profile2,2022-11-14 15:25:16.849959,weapon_fired 0
+1718,tuiew,Profile2,2022-11-14 15:25:16.927976,weapon_fired 0
+1719,tuiew,Profile2,2022-11-14 15:25:16.986990,weapon_fired 0
+1720,tuiew,Profile2,2022-11-14 15:25:17.048003,weapon_fired 0
+1721,tuiew,Profile2,2022-11-14 15:25:17.119020,weapon_fired 0
+1722,tuiew,Profile2,2022-11-14 15:25:17.188035,weapon_fired 0
+1723,tuiew,Profile2,2022-11-14 15:25:17.258051,weapon_fired 0
+1724,tuiew,Profile2,2022-11-14 15:25:17.329067,weapon_fired 0
+1725,tuiew,Profile2,2022-11-14 15:25:17.397083,weapon_fired 0
+1726,tuiew,Profile2,2022-11-14 15:25:17.432090,stance_crouched 1
+1727,tuiew,Profile2,2022-11-14 15:25:17.879304,stance_crouched 1
+1728,tuiew,Profile2,2022-11-14 15:25:18.122359,killed an enemy
+1729,tuiew,Profile2,2022-11-14 15:25:18.126360,weapon_fired 1
+1730,tuiew,Profile2,2022-11-14 15:25:18.202376,weapon_fired 0
+1731,tuiew,Profile2,2022-11-14 15:25:18.268525,weapon_fired 0
+1732,tuiew,Profile2,2022-11-14 15:25:18.333540,weapon_fired 0
+1733,tuiew,Profile2,2022-11-14 15:25:18.363547,hp 460
+1734,tuiew,Profile2,2022-11-14 15:25:18.365548,armor 93
+1735,tuiew,Profile2,2022-11-14 15:25:18.368548,auto regenerate armor
+1736,tuiew,Profile2,2022-11-14 15:25:18.416559,weapon_fired 0
+1737,tuiew,Profile2,2022-11-14 15:25:18.478573,weapon_fired 0
+1738,tuiew,Profile2,2022-11-14 15:25:18.540587,weapon_fired 0
+1739,tuiew,Profile2,2022-11-14 15:25:18.837654,stance_crouched 1
+1740,tuiew,Profile2,2022-11-14 15:25:21.374663,stance_crouched 1
+1741,tuiew,Profile2,2022-11-14 15:25:21.746747,weapon_fired 0
+1742,tuiew,Profile2,2022-11-14 15:25:21.824767,weapon_fired 0
+1743,tuiew,Profile2,2022-11-14 15:25:21.901783,weapon_fired 0
+1744,tuiew,Profile2,2022-11-14 15:25:21.966798,weapon_fired 1
+1745,tuiew,Profile2,2022-11-14 15:25:22.038814,killed an enemy
+1746,tuiew,Profile2,2022-11-14 15:25:22.042815,weapon_fired 1
+1747,tuiew,Profile2,2022-11-14 15:25:22.108829,weapon_fired 0
+1748,tuiew,Profile2,2022-11-14 15:25:22.187888,weapon_fired 0
+1749,tuiew,Profile2,2022-11-14 15:25:22.250903,stance_crouched 1
+1750,tuiew,Profile2,2022-11-14 15:25:24.374384,auto regenerate armor
+1751,tuiew,Profile2,2022-11-14 15:25:24.382385,hp 460
+1752,tuiew,Profile2,2022-11-14 15:25:24.385386,armor 117
+1753,tuiew,Profile2,2022-11-14 15:25:24.662524,complete_objective Defend_the_vault
+1754,tuiew,Profile2,2022-11-14 15:25:25.122628,stance_crouched 1
+1755,tuiew,Profile2,2022-11-14 15:25:25.588650,weapon_fired 0
+1756,tuiew,Profile2,2022-11-14 15:25:25.648663,activate_objective Set_up_the_winch
+1757,tuiew,Profile2,2022-11-14 15:25:25.674670,weapon_fired 0
+1758,tuiew,Profile2,2022-11-14 15:25:25.747686,weapon_fired 0
+1759,tuiew,Profile2,2022-11-14 15:25:25.817701,killed an enemy
+1760,tuiew,Profile2,2022-11-14 15:25:25.821703,weapon_fired 1
+1761,tuiew,Profile2,2022-11-14 15:25:25.902721,weapon_fired 0
+1762,tuiew,Profile2,2022-11-14 15:25:25.968736,weapon_fired 0
+1763,tuiew,Profile2,2022-11-14 15:25:26.035751,weapon_fired 0
+1764,tuiew,Profile2,2022-11-14 15:25:26.163780,stance_crouched 1
+1765,tuiew,Profile2,2022-11-14 15:25:26.565631,stance_crouched 0
+1766,tuiew,Profile2,2022-11-14 15:25:28.357044,stance_crouched 0
+1767,tuiew,Profile2,2022-11-14 15:25:29.126391,stance_crouched 0
+1768,tuiew,Profile2,2022-11-14 15:25:31.157851,stance_crouched 0
+1769,tuiew,Profile2,2022-11-14 15:25:32.016263,hp 460
+1770,tuiew,Profile2,2022-11-14 15:25:32.018263,armor 117
+1771,tuiew,Profile2,2022-11-14 15:25:32.022264,auto regenerate armor
+1772,tuiew,Profile2,2022-11-14 15:25:32.140291,stance_crouched 0
+1773,tuiew,Profile2,2022-11-14 15:25:33.782664,stance_crouched 0
+1774,tuiew,Profile2,2022-11-14 15:25:34.613852,stance_crouched 0
+1775,tuiew,Profile2,2022-11-14 15:25:34.767887,complete_objective Set_up_the_winch
+1776,tuiew,Profile2,2022-11-14 15:25:35.759112,activate_objective Secure_the_winch
+1777,tuiew,Profile2,2022-11-14 15:25:36.204213,stance_crouched 1
+1778,tuiew,Profile2,2022-11-14 15:25:38.647595,hp 460
+1779,tuiew,Profile2,2022-11-14 15:25:38.650595,armor 117
+1780,tuiew,Profile2,2022-11-14 15:25:38.653595,auto regenerate armor
+1781,tuiew,Profile2,2022-11-14 15:25:40.654769,hp 460
+1782,tuiew,Profile2,2022-11-14 15:25:40.656770,armor 117
+1783,tuiew,Profile2,2022-11-14 15:25:40.660770,shielded hit
+1784,tuiew,Profile2,2022-11-14 15:25:40.666773,hp 460
+1785,tuiew,Profile2,2022-11-14 15:25:40.668772,armor 117
+1786,tuiew,Profile2,2022-11-14 15:25:40.672774,hp 460
+1787,tuiew,Profile2,2022-11-14 15:25:40.674773,armor 117
+1788,tuiew,Profile2,2022-11-14 15:25:40.677774,health_subtracted 0
+1789,tuiew,Profile2,2022-11-14 15:25:41.892950,stance_crouched 1
+1790,tuiew,Profile2,2022-11-14 15:25:42.665908,weapon_fired 0
+1791,tuiew,Profile2,2022-11-14 15:25:42.746927,weapon_fired 0
+1792,tuiew,Profile2,2022-11-14 15:25:42.992870,hp 460
+1793,tuiew,Profile2,2022-11-14 15:25:42.994870,armor 112
+1794,tuiew,Profile2,2022-11-14 15:25:42.998871,enemy_headshot
+1795,tuiew,Profile2,2022-11-14 15:25:43.001872,killed an enemy
+1796,tuiew,Profile2,2022-11-14 15:25:43.004873,weapon_fired 1
+1797,tuiew,Profile2,2022-11-14 15:25:43.055957,hp 460
+1798,tuiew,Profile2,2022-11-14 15:25:43.057957,armor 114
+1799,tuiew,Profile2,2022-11-14 15:25:43.061958,auto regenerate armor
+1800,tuiew,Profile2,2022-11-14 15:25:43.408018,enemy_headshot
+1801,tuiew,Profile2,2022-11-14 15:25:43.411019,killed an enemy
+1802,tuiew,Profile2,2022-11-14 15:25:43.415019,weapon_fired 1
+1803,tuiew,Profile2,2022-11-14 15:25:43.499038,weapon_fired 0
+1804,tuiew,Profile2,2022-11-14 15:25:43.568059,weapon_fired 0
+1805,tuiew,Profile2,2022-11-14 15:25:43.648078,weapon_fired 0
+1806,tuiew,Profile2,2022-11-14 15:25:44.233326,weapon_fired 0
+1807,tuiew,Profile2,2022-11-14 15:25:44.311344,weapon_fired 0
+1808,tuiew,Profile2,2022-11-14 15:25:44.389361,weapon_fired 1
+1809,tuiew,Profile2,2022-11-14 15:25:44.455376,killed an enemy
+1810,tuiew,Profile2,2022-11-14 15:25:44.458377,weapon_fired 1
+1811,tuiew,Profile2,2022-11-14 15:25:44.527393,weapon_fired 0
+1812,tuiew,Profile2,2022-11-14 15:25:44.591408,weapon_fired 0
+1813,tuiew,Profile2,2022-11-14 15:25:45.200546,weapon_fired 1
+1814,tuiew,Profile2,2022-11-14 15:25:45.273562,killed an enemy
+1815,tuiew,Profile2,2022-11-14 15:25:45.277564,weapon_fired 1
+1816,tuiew,Profile2,2022-11-14 15:25:45.351580,weapon_fired 0
+1817,tuiew,Profile2,2022-11-14 15:25:45.420595,weapon_fired 0
+1818,tuiew,Profile2,2022-11-14 15:25:45.499614,weapon_fired 0
+1819,tuiew,Profile2,2022-11-14 15:25:46.918935,stance_crouched 1
+1820,tuiew,Profile2,2022-11-14 15:25:52.001088,hp 460
+1821,tuiew,Profile2,2022-11-14 15:25:52.004088,armor 117
+1822,tuiew,Profile2,2022-11-14 15:25:52.008089,auto regenerate armor
+1823,tuiew,Profile2,2022-11-14 15:25:53.892518,stance_crouched 1
+1824,tuiew,Profile2,2022-11-14 15:25:54.341618,stance_crouched 1
+1825,tuiew,Profile2,2022-11-14 15:25:54.599676,stance_crouched 1
+1826,tuiew,Profile2,2022-11-14 15:25:54.860737,weapon_fired 0
+1827,tuiew,Profile2,2022-11-14 15:25:54.941754,weapon_fired 0
+1828,tuiew,Profile2,2022-11-14 15:25:55.018771,weapon_fired 0
+1829,tuiew,Profile2,2022-11-14 15:25:55.077785,weapon_fired 0
+1830,tuiew,Profile2,2022-11-14 15:25:55.143800,killed an enemy
+1831,tuiew,Profile2,2022-11-14 15:25:55.146801,weapon_fired 1
+1832,tuiew,Profile2,2022-11-14 15:25:55.984991,hp 460
+1833,tuiew,Profile2,2022-11-14 15:25:55.986991,armor 117
+1834,tuiew,Profile2,2022-11-14 15:25:55.990992,shielded hit
+1835,tuiew,Profile2,2022-11-14 15:25:55.995993,hp 460
+1836,tuiew,Profile2,2022-11-14 15:25:55.999995,armor 117
+1837,tuiew,Profile2,2022-11-14 15:25:56.004995,hp 460
+1838,tuiew,Profile2,2022-11-14 15:25:56.006996,armor 117
+1839,tuiew,Profile2,2022-11-14 15:25:56.010996,health_subtracted 0
+1840,tuiew,Profile2,2022-11-14 15:25:56.227045,hp 460
+1841,tuiew,Profile2,2022-11-14 15:25:56.229046,armor 108
+1842,tuiew,Profile2,2022-11-14 15:25:56.233047,enemy_headshot
+1843,tuiew,Profile2,2022-11-14 15:25:56.236048,killed an enemy
+1844,tuiew,Profile2,2022-11-14 15:25:56.246051,weapon_fired 1
+1845,tuiew,Profile2,2022-11-14 15:25:56.328070,weapon_fired 0
+1846,tuiew,Profile2,2022-11-14 15:25:56.373079,weapon_fired 0
+1847,tuiew,Profile2,2022-11-14 15:25:56.814179,weapon_fired 0
+1848,tuiew,Profile2,2022-11-14 15:25:56.896198,weapon_fired 0
+1849,tuiew,Profile2,2022-11-14 15:25:57.135252,enemy_headshot
+1850,tuiew,Profile2,2022-11-14 15:25:57.139253,killed an enemy
+1851,tuiew,Profile2,2022-11-14 15:25:57.142253,weapon_fired 1
+1852,tuiew,Profile2,2022-11-14 15:25:57.212270,hp 460
+1853,tuiew,Profile2,2022-11-14 15:25:57.215270,armor 117
+1854,tuiew,Profile2,2022-11-14 15:25:57.219271,shielded hit
+1855,tuiew,Profile2,2022-11-14 15:25:57.224272,hp 460
+1856,tuiew,Profile2,2022-11-14 15:25:57.226272,armor 117
+1857,tuiew,Profile2,2022-11-14 15:25:57.229273,hp 460
+1858,tuiew,Profile2,2022-11-14 15:25:57.231273,armor 117
+1859,tuiew,Profile2,2022-11-14 15:25:57.234273,health_subtracted 0
+1860,tuiew,Profile2,2022-11-14 15:25:57.238274,weapon_fired 0
+1861,tuiew,Profile2,2022-11-14 15:25:57.409313,killed an enemy
+1862,tuiew,Profile2,2022-11-14 15:25:57.413315,weapon_fired 1
+1863,tuiew,Profile2,2022-11-14 15:25:57.429319,stance_crouched 1
+1864,tuiew,Profile2,2022-11-14 15:25:59.644821,stance_crouched 1
+1865,tuiew,Profile2,2022-11-14 15:25:59.701834,hp 460
+1866,tuiew,Profile2,2022-11-14 15:25:59.703834,armor 113
+1867,tuiew,Profile2,2022-11-14 15:25:59.707835,auto regenerate armor
+1868,tuiew,Profile2,2022-11-14 15:26:00.015906,weapon_fired 0
+1869,tuiew,Profile2,2022-11-14 15:26:00.088921,weapon_fired 0
+1870,tuiew,Profile2,2022-11-14 15:26:00.155936,weapon_fired 0
+1871,tuiew,Profile2,2022-11-14 15:26:00.231953,weapon_fired 0
+1872,tuiew,Profile2,2022-11-14 15:26:00.497014,weapon_fired 0
+1873,tuiew,Profile2,2022-11-14 15:26:00.501015,hp 460
+1874,tuiew,Profile2,2022-11-14 15:26:00.504015,armor 117
+1875,tuiew,Profile2,2022-11-14 15:26:00.508017,shielded hit
+1876,tuiew,Profile2,2022-11-14 15:26:00.512018,hp 460
+1877,tuiew,Profile2,2022-11-14 15:26:00.515018,armor 117
+1878,tuiew,Profile2,2022-11-14 15:26:00.518019,hp 460
+1879,tuiew,Profile2,2022-11-14 15:26:00.521019,armor 117
+1880,tuiew,Profile2,2022-11-14 15:26:00.524020,health_subtracted 0
+1881,tuiew,Profile2,2022-11-14 15:26:00.551026,hp 460
+1882,tuiew,Profile2,2022-11-14 15:26:00.553027,armor 115
+1883,tuiew,Profile2,2022-11-14 15:26:00.557027,shielded hit
+1884,tuiew,Profile2,2022-11-14 15:26:00.563029,hp 460
+1885,tuiew,Profile2,2022-11-14 15:26:00.566029,armor 115
+1886,tuiew,Profile2,2022-11-14 15:26:00.570031,hp 460
+1887,tuiew,Profile2,2022-11-14 15:26:00.573030,armor 115
+1888,tuiew,Profile2,2022-11-14 15:26:00.576033,health_subtracted 0
+1889,tuiew,Profile2,2022-11-14 15:26:00.613040,weapon_fired 0
+1890,tuiew,Profile2,2022-11-14 15:26:00.681056,killed an enemy
+1891,tuiew,Profile2,2022-11-14 15:26:00.685057,weapon_fired 1
+1892,tuiew,Profile2,2022-11-14 15:26:00.753071,weapon_fired 0
+1893,tuiew,Profile2,2022-11-14 15:26:00.810085,weapon_fired 0
+1894,tuiew,Profile2,2022-11-14 15:26:00.878100,killed an enemy
+1895,tuiew,Profile2,2022-11-14 15:26:00.881101,weapon_fired 1
+1896,tuiew,Profile2,2022-11-14 15:26:00.944115,weapon_fired 0
+1897,tuiew,Profile2,2022-11-14 15:26:01.009130,weapon_fired 0
+1898,tuiew,Profile2,2022-11-14 15:26:01.954344,weapon_fired 0
+1899,tuiew,Profile2,2022-11-14 15:26:02.033362,hp 460
+1900,tuiew,Profile2,2022-11-14 15:26:02.036363,armor 99
+1901,tuiew,Profile2,2022-11-14 15:26:02.039363,enemy_headshot
+1902,tuiew,Profile2,2022-11-14 15:26:02.043364,killed an enemy
+1903,tuiew,Profile2,2022-11-14 15:26:02.047366,weapon_fired 1
+1904,tuiew,Profile2,2022-11-14 15:26:02.113380,weapon_fired 0
+1905,tuiew,Profile2,2022-11-14 15:26:02.323428,weapon_fired 0
+1906,tuiew,Profile2,2022-11-14 15:26:02.399445,weapon_fired 0
+1907,tuiew,Profile2,2022-11-14 15:26:02.891557,hp 460
+1908,tuiew,Profile2,2022-11-14 15:26:02.893557,armor 117
+1909,tuiew,Profile2,2022-11-14 15:26:02.897558,auto regenerate armor
+1910,tuiew,Profile2,2022-11-14 15:26:03.433679,weapon_fired 0
+1911,tuiew,Profile2,2022-11-14 15:26:03.512697,weapon_fired 0
+1912,tuiew,Profile2,2022-11-14 15:26:03.936793,weapon_fired 0
+1913,tuiew,Profile2,2022-11-14 15:26:04.022813,weapon_fired 0
+1914,tuiew,Profile2,2022-11-14 15:26:06.756433,stance_crouched 1
+1915,tuiew,Profile2,2022-11-14 15:26:09.432039,stance_crouched 1
+1916,tuiew,Profile2,2022-11-14 15:26:09.508057,hp 460
+1917,tuiew,Profile2,2022-11-14 15:26:09.511057,armor 117
+1918,tuiew,Profile2,2022-11-14 15:26:09.515058,shielded hit
+1919,tuiew,Profile2,2022-11-14 15:26:09.522060,hp 460
+1920,tuiew,Profile2,2022-11-14 15:26:09.525061,armor 117
+1921,tuiew,Profile2,2022-11-14 15:26:09.529062,hp 460
+1922,tuiew,Profile2,2022-11-14 15:26:09.531062,armor 117
+1923,tuiew,Profile2,2022-11-14 15:26:09.534062,health_subtracted 0
+1924,tuiew,Profile2,2022-11-14 15:26:09.828129,weapon_fired 0
+1925,tuiew,Profile2,2022-11-14 15:26:09.900146,hp 460
+1926,tuiew,Profile2,2022-11-14 15:26:09.903146,armor 92
+1927,tuiew,Profile2,2022-11-14 15:26:09.907147,shielded hit
+1928,tuiew,Profile2,2022-11-14 15:26:09.912149,hp 460
+1929,tuiew,Profile2,2022-11-14 15:26:09.915149,armor 92
+1930,tuiew,Profile2,2022-11-14 15:26:09.918151,hp 460
+1931,tuiew,Profile2,2022-11-14 15:26:09.921151,armor 92
+1932,tuiew,Profile2,2022-11-14 15:26:09.924151,health_subtracted 0
+1933,tuiew,Profile2,2022-11-14 15:26:09.930153,weapon_fired 0
+1934,tuiew,Profile2,2022-11-14 15:26:10.001168,weapon_fired 0
+1935,tuiew,Profile2,2022-11-14 15:26:10.295235,weapon_fired 0
+1936,tuiew,Profile2,2022-11-14 15:26:10.380255,weapon_fired 0
+1937,tuiew,Profile2,2022-11-14 15:26:10.447269,stance_crouched 1
+1938,tuiew,Profile2,2022-11-14 15:26:10.702328,hp 460
+1939,tuiew,Profile2,2022-11-14 15:26:10.704328,armor 62
+1940,tuiew,Profile2,2022-11-14 15:26:10.708329,shielded hit
+1941,tuiew,Profile2,2022-11-14 15:26:10.714331,hp 460
+1942,tuiew,Profile2,2022-11-14 15:26:10.717331,armor 62
+1943,tuiew,Profile2,2022-11-14 15:26:10.720331,hp 460
+1944,tuiew,Profile2,2022-11-14 15:26:10.723332,armor 62
+1945,tuiew,Profile2,2022-11-14 15:26:10.727334,health_subtracted 0
+1946,tuiew,Profile2,2022-11-14 15:26:11.088415,stance_crouched 1
+1947,tuiew,Profile2,2022-11-14 15:26:11.163433,weapon_fired 0
+1948,tuiew,Profile2,2022-11-14 15:26:11.235449,weapon_fired 0
+1949,tuiew,Profile2,2022-11-14 15:26:11.293461,weapon_fired 0
+1950,tuiew,Profile2,2022-11-14 15:26:11.361477,weapon_fired 0
+1951,tuiew,Profile2,2022-11-14 15:26:11.468501,stance_crouched 1
+1952,tuiew,Profile2,2022-11-14 15:26:12.750296,hp 460
+1953,tuiew,Profile2,2022-11-14 15:26:12.753297,armor 32
+1954,tuiew,Profile2,2022-11-14 15:26:12.757298,auto regenerate armor
+1955,tuiew,Profile2,2022-11-14 15:26:12.837316,stance_crouched 1
+1956,tuiew,Profile2,2022-11-14 15:26:13.057366,stance_crouched 1
+1957,tuiew,Profile2,2022-11-14 15:26:14.008348,stance_crouched 1
+1958,tuiew,Profile2,2022-11-14 15:26:15.023715,stance_crouched 1
+1959,tuiew,Profile2,2022-11-14 15:26:15.331374,weapon_fired 0
+1960,tuiew,Profile2,2022-11-14 15:26:15.575430,killed an enemy
+1961,tuiew,Profile2,2022-11-14 15:26:15.579431,weapon_fired 1
+1962,tuiew,Profile2,2022-11-14 15:26:15.584432,killed an enemy
+1963,tuiew,Profile2,2022-11-14 15:26:15.587432,weapon_fired 1
+1964,tuiew,Profile2,2022-11-14 15:26:15.939513,stance_crouched 1
+1965,tuiew,Profile2,2022-11-14 15:26:17.187796,stance_crouched 1
+1966,tuiew,Profile2,2022-11-14 15:26:17.794933,stance_crouched 0
+1967,tuiew,Profile2,2022-11-14 15:26:21.251848,stance_crouched 1
+1968,tuiew,Profile2,2022-11-14 15:26:23.754812,complete_objective Secure_the_winch
+1969,tuiew,Profile2,2022-11-14 15:26:24.747037,activate_objective Connect_the_winch_to_the_vault
+1970,tuiew,Profile2,2022-11-14 15:26:26.047332,stance_crouched 0
+1971,tuiew,Profile2,2022-11-14 15:26:32.122279,complete_objective Connect_the_winch_to_the_vault
+1972,tuiew,Profile2,2022-11-14 15:26:33.152481,activate_objective Start_the_winch
+1973,tuiew,Profile2,2022-11-14 15:26:34.009636,stance_crouched 1
+1974,tuiew,Profile2,2022-11-14 15:26:37.720592,complete_objective Start_the_winch
+1975,tuiew,Profile2,2022-11-14 15:26:37.743596,hp 460
+1976,tuiew,Profile2,2022-11-14 15:26:37.745597,armor 117
+1977,tuiew,Profile2,2022-11-14 15:26:37.749598,shielded hit
+1978,tuiew,Profile2,2022-11-14 15:26:37.755599,hp 460
+1979,tuiew,Profile2,2022-11-14 15:26:37.757599,armor 117
+1980,tuiew,Profile2,2022-11-14 15:26:37.762601,hp 460
+1981,tuiew,Profile2,2022-11-14 15:26:37.765601,armor 117
+1982,tuiew,Profile2,2022-11-14 15:26:37.768602,health_subtracted 0
+1983,tuiew,Profile2,2022-11-14 15:26:38.266715,hp 460
+1984,tuiew,Profile2,2022-11-14 15:26:38.268715,armor 109
+1985,tuiew,Profile2,2022-11-14 15:26:38.272717,shielded hit
+1986,tuiew,Profile2,2022-11-14 15:26:38.277718,hp 460
+1987,tuiew,Profile2,2022-11-14 15:26:38.279719,armor 109
+1988,tuiew,Profile2,2022-11-14 15:26:38.283718,hp 460
+1989,tuiew,Profile2,2022-11-14 15:26:38.285719,armor 109
+1990,tuiew,Profile2,2022-11-14 15:26:38.288720,health_subtracted 0
+1991,tuiew,Profile2,2022-11-14 15:26:38.427751,stance_crouched 0
+1992,tuiew,Profile2,2022-11-14 15:26:38.736660,activate_objective Defend_the_winch
+1993,tuiew,Profile2,2022-11-14 15:26:39.004720,stance_crouched 1
+1994,tuiew,Profile2,2022-11-14 15:26:39.566848,stance_crouched 1
+1995,tuiew,Profile2,2022-11-14 15:26:39.848910,weapon_fired 0
+1996,tuiew,Profile2,2022-11-14 15:26:39.929928,weapon_fired 0
+1997,tuiew,Profile2,2022-11-14 15:26:39.996944,weapon_fired 0
+1998,tuiew,Profile2,2022-11-14 15:26:40.223995,weapon_fired 0
+1999,tuiew,Profile2,2022-11-14 15:26:40.305013,weapon_fired 0
+2000,tuiew,Profile2,2022-11-14 15:26:40.377030,weapon_fired 0
+2001,tuiew,Profile2,2022-11-14 15:26:40.760956,hp 460
+2002,tuiew,Profile2,2022-11-14 15:26:40.763956,armor 101
+2003,tuiew,Profile2,2022-11-14 15:26:40.766957,auto regenerate armor
+2004,tuiew,Profile2,2022-11-14 15:26:40.836973,weapon_fired 0
+2005,tuiew,Profile2,2022-11-14 15:26:40.910990,weapon_fired 0
+2006,tuiew,Profile2,2022-11-14 15:26:41.144043,stance_crouched 1
+2007,tuiew,Profile2,2022-11-14 15:26:43.593762,stance_crouched 1
+2008,tuiew,Profile2,2022-11-14 15:26:43.935198,stance_crouched 1
+2009,tuiew,Profile2,2022-11-14 15:26:45.346316,stance_crouched 1
+2010,tuiew,Profile2,2022-11-14 15:26:45.641383,stance_crouched 1
+2011,tuiew,Profile2,2022-11-14 15:26:46.755377,stance_crouched 0
+2012,tuiew,Profile2,2022-11-14 15:26:47.616477,stance_crouched 1
+2013,tuiew,Profile2,2022-11-14 15:26:49.579203,stance_crouched 0
+2014,tuiew,Profile2,2022-11-14 15:26:51.802570,stance_crouched 1
+2015,tuiew,Profile2,2022-11-14 15:26:55.081086,stance_crouched 0
+2016,tuiew,Profile2,2022-11-14 15:26:55.563196,stance_crouched 1
+2017,tuiew,Profile2,2022-11-14 15:26:55.683223,stance_crouched 1
+2018,tuiew,Profile2,2022-11-14 15:26:56.251589,weapon_fired 0
+2019,tuiew,Profile2,2022-11-14 15:26:56.336608,weapon_fired 0
+2020,tuiew,Profile2,2022-11-14 15:26:56.409624,weapon_fired 0
+2021,tuiew,Profile2,2022-11-14 15:26:56.477640,weapon_fired 0
+2022,tuiew,Profile2,2022-11-14 15:26:56.783709,stance_crouched 1
+2023,tuiew,Profile2,2022-11-14 15:26:57.339251,stance_crouched 1
+2024,tuiew,Profile2,2022-11-14 15:26:57.572304,killed an enemy
+2025,tuiew,Profile2,2022-11-14 15:26:57.576305,weapon_fired 1
+2026,tuiew,Profile2,2022-11-14 15:26:57.648321,weapon_fired 0
+2027,tuiew,Profile2,2022-11-14 15:26:57.709336,weapon_fired 0
+2028,tuiew,Profile2,2022-11-14 15:26:57.722338,stance_crouched 1
+2029,tuiew,Profile2,2022-11-14 15:26:58.769997,stance_crouched 0
+2030,tuiew,Profile2,2022-11-14 15:26:59.319293,stance_crouched 1
+2031,tuiew,Profile2,2022-11-14 15:27:02.911633,stance_crouched 1
+2032,tuiew,Profile2,2022-11-14 15:27:03.045680,killed an enemy
+2033,tuiew,Profile2,2022-11-14 15:27:03.049680,weapon_fired 1
+2034,tuiew,Profile2,2022-11-14 15:27:03.125697,weapon_fired 0
+2035,tuiew,Profile2,2022-11-14 15:27:03.188711,weapon_fired 0
+2036,tuiew,Profile2,2022-11-14 15:27:03.301737,stance_crouched 1
+2037,tuiew,Profile2,2022-11-14 15:27:04.241457,stance_crouched 1
+2038,tuiew,Profile2,2022-11-14 15:27:04.635417,weapon_fired 0
+2039,tuiew,Profile2,2022-11-14 15:27:04.705432,weapon_fired 0
+2040,tuiew,Profile2,2022-11-14 15:27:05.226551,weapon_fired 0
+2041,tuiew,Profile2,2022-11-14 15:27:05.309569,weapon_fired 0
+2042,tuiew,Profile2,2022-11-14 15:27:05.390588,weapon_fired 0
+2043,tuiew,Profile2,2022-11-14 15:27:05.457603,killed an enemy
+2044,tuiew,Profile2,2022-11-14 15:27:05.461604,weapon_fired 1
+2045,tuiew,Profile2,2022-11-14 15:27:05.503613,auto regenerate armor
+2046,tuiew,Profile2,2022-11-14 15:27:05.506614,hp 460
+2047,tuiew,Profile2,2022-11-14 15:27:05.509614,armor 117
+2048,tuiew,Profile2,2022-11-14 15:27:05.530619,weapon_fired 0
+2049,tuiew,Profile2,2022-11-14 15:27:05.599635,weapon_fired 0
+2050,tuiew,Profile2,2022-11-14 15:27:05.671652,weapon_fired 0
+2051,tuiew,Profile2,2022-11-14 15:27:05.769674,stance_crouched 1
+2052,tuiew,Profile2,2022-11-14 15:27:06.684882,stance_crouched 1
+2053,tuiew,Profile2,2022-11-14 15:27:07.459057,weapon_fired 0
+2054,tuiew,Profile2,2022-11-14 15:27:07.533073,killed an enemy
+2055,tuiew,Profile2,2022-11-14 15:27:07.537075,weapon_fired 1
+2056,tuiew,Profile2,2022-11-14 15:27:07.621093,weapon_fired 0
+2057,tuiew,Profile2,2022-11-14 15:27:07.802135,weapon_fired 0
+2058,tuiew,Profile2,2022-11-14 15:27:07.874151,weapon_fired 0
+2059,tuiew,Profile2,2022-11-14 15:27:08.005494,weapon_fired 0
+2060,tuiew,Profile2,2022-11-14 15:27:08.079262,weapon_fired 0
+2061,tuiew,Profile2,2022-11-14 15:27:08.326317,hp 460
+2062,tuiew,Profile2,2022-11-14 15:27:08.328318,armor 117
+2063,tuiew,Profile2,2022-11-14 15:27:08.332319,enemy_headshot
+2064,tuiew,Profile2,2022-11-14 15:27:08.335320,killed an enemy
+2065,tuiew,Profile2,2022-11-14 15:27:08.338321,weapon_fired 1
+2066,tuiew,Profile2,2022-11-14 15:27:08.411232,weapon_fired 1
+2067,tuiew,Profile2,2022-11-14 15:27:08.482248,weapon_fired 0
+2068,tuiew,Profile2,2022-11-14 15:27:08.554264,killed an enemy
+2069,tuiew,Profile2,2022-11-14 15:27:08.558265,weapon_fired 1
+2070,tuiew,Profile2,2022-11-14 15:27:08.628281,enemy_headshot
+2071,tuiew,Profile2,2022-11-14 15:27:08.631282,killed an enemy
+2072,tuiew,Profile2,2022-11-14 15:27:08.636283,weapon_fired 1
+2073,tuiew,Profile2,2022-11-14 15:27:08.805321,killed an enemy
+2074,tuiew,Profile2,2022-11-14 15:27:08.809323,weapon_fired 1
+2075,tuiew,Profile2,2022-11-14 15:27:08.879708,weapon_fired 0
+2076,tuiew,Profile2,2022-11-14 15:27:08.945723,weapon_fired 0
+2077,tuiew,Profile2,2022-11-14 15:27:09.969055,stance_crouched 1
+2078,tuiew,Profile2,2022-11-14 15:27:10.878037,stance_crouched 1
+2079,tuiew,Profile2,2022-11-14 15:27:11.080083,killed an enemy
+2080,tuiew,Profile2,2022-11-14 15:27:11.085084,weapon_fired 1
+2081,tuiew,Profile2,2022-11-14 15:27:11.160486,weapon_fired 0
+2082,tuiew,Profile2,2022-11-14 15:27:11.218499,weapon_fired 0
+2083,tuiew,Profile2,2022-11-14 15:27:11.244505,hp 460
+2084,tuiew,Profile2,2022-11-14 15:27:11.247505,armor 117
+2085,tuiew,Profile2,2022-11-14 15:27:11.250506,auto regenerate armor
+2086,tuiew,Profile2,2022-11-14 15:27:11.291515,weapon_fired 0
+2087,tuiew,Profile2,2022-11-14 15:27:11.350529,stance_crouched 1
+2088,tuiew,Profile2,2022-11-14 15:27:11.585582,stance_crouched 1
+2089,tuiew,Profile2,2022-11-14 15:27:11.685605,weapon_fired 0
+2090,tuiew,Profile2,2022-11-14 15:27:11.771624,weapon_fired 0
+2091,tuiew,Profile2,2022-11-14 15:27:11.836639,weapon_fired 0
+2092,tuiew,Profile2,2022-11-14 15:27:11.909656,weapon_fired 0
+2093,tuiew,Profile2,2022-11-14 15:27:11.984673,stance_crouched 1
+2094,tuiew,Profile2,2022-11-14 15:27:14.530356,stance_crouched 1
+2095,tuiew,Profile2,2022-11-14 15:27:14.875434,weapon_fired 0
+2096,tuiew,Profile2,2022-11-14 15:27:14.940449,weapon_fired 0
+2097,tuiew,Profile2,2022-11-14 15:27:15.025469,weapon_fired 0
+2098,tuiew,Profile2,2022-11-14 15:27:15.241517,stance_crouched 1
+2099,tuiew,Profile2,2022-11-14 15:27:15.859657,stance_crouched 1
+2100,tuiew,Profile2,2022-11-14 15:27:16.031696,killed an enemy
+2101,tuiew,Profile2,2022-11-14 15:27:16.035697,weapon_fired 1
+2102,tuiew,Profile2,2022-11-14 15:27:16.109714,weapon_fired 0
+2103,tuiew,Profile2,2022-11-14 15:27:16.169727,weapon_fired 0
+2104,tuiew,Profile2,2022-11-14 15:27:16.242744,weapon_fired 0
+2105,tuiew,Profile2,2022-11-14 15:27:16.317761,killed an enemy
+2106,tuiew,Profile2,2022-11-14 15:27:16.320762,weapon_fired 1
+2107,tuiew,Profile2,2022-11-14 15:27:16.382776,weapon_fired 0
+2108,tuiew,Profile2,2022-11-14 15:27:16.451791,weapon_fired 0
+2109,tuiew,Profile2,2022-11-14 15:27:16.508805,weapon_fired 0
+2110,tuiew,Profile2,2022-11-14 15:27:16.583822,weapon_fired 0
+2111,tuiew,Profile2,2022-11-14 15:27:16.663840,weapon_fired 0
+2112,tuiew,Profile2,2022-11-14 15:27:16.714035,hp 460
+2113,tuiew,Profile2,2022-11-14 15:27:16.716035,armor 117
+2114,tuiew,Profile2,2022-11-14 15:27:16.719036,shielded hit
+2115,tuiew,Profile2,2022-11-14 15:27:16.725039,hp 460
+2116,tuiew,Profile2,2022-11-14 15:27:16.727038,armor 117
+2117,tuiew,Profile2,2022-11-14 15:27:16.731038,hp 460
+2118,tuiew,Profile2,2022-11-14 15:27:16.733039,armor 117
+2119,tuiew,Profile2,2022-11-14 15:27:16.736039,health_subtracted 0
+2120,tuiew,Profile2,2022-11-14 15:27:16.745042,weapon_fired 0
+2121,tuiew,Profile2,2022-11-14 15:27:16.816058,weapon_fired 0
+2122,tuiew,Profile2,2022-11-14 15:27:16.877072,weapon_fired 0
+2123,tuiew,Profile2,2022-11-14 15:27:17.156135,weapon_fired 0
+2124,tuiew,Profile2,2022-11-14 15:27:17.226151,weapon_fired 0
+2125,tuiew,Profile2,2022-11-14 15:27:17.294166,weapon_fired 0
+2126,tuiew,Profile2,2022-11-14 15:27:17.635243,weapon_fired 0
+2127,tuiew,Profile2,2022-11-14 15:27:17.708885,killed an enemy
+2128,tuiew,Profile2,2022-11-14 15:27:17.713887,weapon_fired 1
+2129,tuiew,Profile2,2022-11-14 15:27:17.784903,weapon_fired 0
+2130,tuiew,Profile2,2022-11-14 15:27:17.853918,weapon_fired 0
+2131,tuiew,Profile2,2022-11-14 15:27:17.981947,stance_crouched 1
+2132,tuiew,Profile2,2022-11-14 15:27:19.061153,stance_crouched 1
+2133,tuiew,Profile2,2022-11-14 15:27:19.203186,hp 460
+2134,tuiew,Profile2,2022-11-14 15:27:19.205186,armor 112
+2135,tuiew,Profile2,2022-11-14 15:27:19.209186,auto regenerate armor
+2136,tuiew,Profile2,2022-11-14 15:27:19.847342,hp 460
+2137,tuiew,Profile2,2022-11-14 15:27:19.850342,armor 117
+2138,tuiew,Profile2,2022-11-14 15:27:19.853343,enemy_headshot
+2139,tuiew,Profile2,2022-11-14 15:27:19.858344,killed an enemy
+2140,tuiew,Profile2,2022-11-14 15:27:19.862345,weapon_fired 1
+2141,tuiew,Profile2,2022-11-14 15:27:19.930361,weapon_fired 0
+2142,tuiew,Profile2,2022-11-14 15:27:20.267437,weapon_fired 0
+2143,tuiew,Profile2,2022-11-14 15:27:20.350456,weapon_fired 0
+2144,tuiew,Profile2,2022-11-14 15:27:21.228655,stance_crouched 1
+2145,tuiew,Profile2,2022-11-14 15:27:22.161645,stance_crouched 1
+2146,tuiew,Profile2,2022-11-14 15:27:22.273671,weapon_fired 1
+2147,tuiew,Profile2,2022-11-14 15:27:22.346687,killed an enemy
+2148,tuiew,Profile2,2022-11-14 15:27:22.350688,weapon_fired 1
+2149,tuiew,Profile2,2022-11-14 15:27:22.419703,weapon_fired 0
+2150,tuiew,Profile2,2022-11-14 15:27:22.486719,weapon_fired 0
+2151,tuiew,Profile2,2022-11-14 15:27:22.541731,stance_crouched 1
+2152,tuiew,Profile2,2022-11-14 15:27:26.092476,stance_crouched 1
+2153,tuiew,Profile2,2022-11-14 15:27:26.472562,stance_crouched 1
+2154,tuiew,Profile2,2022-11-14 15:27:26.974714,stance_crouched 1
+2155,tuiew,Profile2,2022-11-14 15:27:27.073400,weapon_fired 0
+2156,tuiew,Profile2,2022-11-14 15:27:27.145416,weapon_fired 1
+2157,tuiew,Profile2,2022-11-14 15:27:27.209431,killed an enemy
+2158,tuiew,Profile2,2022-11-14 15:27:27.213432,weapon_fired 1
+2159,tuiew,Profile2,2022-11-14 15:27:27.279447,weapon_fired 0
+2160,tuiew,Profile2,2022-11-14 15:27:27.346461,weapon_fired 0
+2161,tuiew,Profile2,2022-11-14 15:27:27.422479,weapon_fired 0
+2162,tuiew,Profile2,2022-11-14 15:27:27.488201,weapon_fired 0
+2163,tuiew,Profile2,2022-11-14 15:27:27.613229,stance_crouched 1
+2164,tuiew,Profile2,2022-11-14 15:27:31.234990,stance_crouched 0
+2165,tuiew,Profile2,2022-11-14 15:27:33.033928,stance_crouched 1
+2166,tuiew,Profile2,2022-11-14 15:27:40.609171,stance_crouched 0
+2167,tuiew,Profile2,2022-11-14 15:27:41.512488,stance_crouched 1
+2168,tuiew,Profile2,2022-11-14 15:27:44.057398,stance_crouched 1
+2169,tuiew,Profile2,2022-11-14 15:27:44.316456,weapon_fired 0
+2170,tuiew,Profile2,2022-11-14 15:27:44.394474,weapon_fired 0
+2171,tuiew,Profile2,2022-11-14 15:27:44.464490,weapon_fired 0
+2172,tuiew,Profile2,2022-11-14 15:27:44.758556,weapon_fired 0
+2173,tuiew,Profile2,2022-11-14 15:27:44.835574,weapon_fired 0
+2174,tuiew,Profile2,2022-11-14 15:27:44.908590,weapon_fired 0
+2175,tuiew,Profile2,2022-11-14 15:27:44.981607,killed an enemy
+2176,tuiew,Profile2,2022-11-14 15:27:44.985608,weapon_fired 1
+2177,tuiew,Profile2,2022-11-14 15:27:45.058624,weapon_fired 0
+2178,tuiew,Profile2,2022-11-14 15:27:45.486181,weapon_fired 0
+2179,tuiew,Profile2,2022-11-14 15:27:45.568200,weapon_fired 0
+2180,tuiew,Profile2,2022-11-14 15:27:45.639216,weapon_fired 0
+2181,tuiew,Profile2,2022-11-14 15:27:45.711232,weapon_fired 0
+2182,tuiew,Profile2,2022-11-14 15:27:45.988295,killed an enemy
+2183,tuiew,Profile2,2022-11-14 15:27:45.992296,weapon_fired 1
+2184,tuiew,Profile2,2022-11-14 15:27:46.063312,weapon_fired 0
+2185,tuiew,Profile2,2022-11-14 15:27:46.695211,weapon_fired 0
+2186,tuiew,Profile2,2022-11-14 15:27:46.769228,weapon_fired 0
+2187,tuiew,Profile2,2022-11-14 15:27:46.844244,weapon_fired 0
+2188,tuiew,Profile2,2022-11-14 15:27:47.130310,weapon_fired 0
+2189,tuiew,Profile2,2022-11-14 15:27:47.208327,hp 460
+2190,tuiew,Profile2,2022-11-14 15:27:47.211328,armor 117
+2191,tuiew,Profile2,2022-11-14 15:27:47.216329,enemy_headshot
+2192,tuiew,Profile2,2022-11-14 15:27:47.219330,killed an enemy
+2193,tuiew,Profile2,2022-11-14 15:27:47.223331,weapon_fired 1
+2194,tuiew,Profile2,2022-11-14 15:27:47.289346,weapon_fired 0
+2195,tuiew,Profile2,2022-11-14 15:27:47.366363,weapon_fired 0
+2196,tuiew,Profile2,2022-11-14 15:27:47.582412,stance_crouched 1
+2197,tuiew,Profile2,2022-11-14 15:27:57.224965,stance_crouched 1
+2198,tuiew,Profile2,2022-11-14 15:27:57.566046,stance_crouched 1
+2199,tuiew,Profile2,2022-11-14 15:27:57.989248,stance_crouched 1
+2200,tuiew,Profile2,2022-11-14 15:27:58.420346,weapon_fired 0
+2201,tuiew,Profile2,2022-11-14 15:27:58.497364,weapon_fired 0
+2202,tuiew,Profile2,2022-11-14 15:27:58.623392,weapon_fired 0
+2203,tuiew,Profile2,2022-11-14 15:27:58.701409,hp 460
+2204,tuiew,Profile2,2022-11-14 15:27:58.703410,armor 117
+2205,tuiew,Profile2,2022-11-14 15:27:58.708411,enemy_headshot
+2206,tuiew,Profile2,2022-11-14 15:27:58.713413,weapon_fired 1
+2207,tuiew,Profile2,2022-11-14 15:27:58.771425,weapon_fired 0
+2208,tuiew,Profile2,2022-11-14 15:27:59.019482,stance_crouched 1
+2209,tuiew,Profile2,2022-11-14 15:27:59.820664,stance_crouched 1
+2210,tuiew,Profile2,2022-11-14 15:27:59.932754,weapon_fired 0
+2211,tuiew,Profile2,2022-11-14 15:28:00.018773,weapon_fired 1
+2212,tuiew,Profile2,2022-11-14 15:28:00.074786,weapon_fired 0
+2213,tuiew,Profile2,2022-11-14 15:28:00.140801,weapon_fired 0
+2214,tuiew,Profile2,2022-11-14 15:28:00.208816,weapon_fired 0
+2215,tuiew,Profile2,2022-11-14 15:28:00.314840,stance_crouched 1
+2216,tuiew,Profile2,2022-11-14 15:28:02.335015,hp 460
+2217,tuiew,Profile2,2022-11-14 15:28:02.337015,armor 117
+2218,tuiew,Profile2,2022-11-14 15:28:02.341016,auto regenerate armor
+2219,tuiew,Profile2,2022-11-14 15:28:02.433037,stance_crouched 1
+2220,tuiew,Profile2,2022-11-14 15:28:02.575069,weapon_fired 0
+2221,tuiew,Profile2,2022-11-14 15:28:02.656088,weapon_fired 0
+2222,tuiew,Profile2,2022-11-14 15:28:02.728104,weapon_fired 0
+2223,tuiew,Profile2,2022-11-14 15:28:02.782116,weapon_fired 0
+2224,tuiew,Profile2,2022-11-14 15:28:02.855132,weapon_fired 0
+2225,tuiew,Profile2,2022-11-14 15:28:02.924148,killed an enemy
+2226,tuiew,Profile2,2022-11-14 15:28:02.927148,weapon_fired 1
+2227,tuiew,Profile2,2022-11-14 15:28:03.000165,weapon_fired 0
+2228,tuiew,Profile2,2022-11-14 15:28:03.067266,hp 460
+2229,tuiew,Profile2,2022-11-14 15:28:03.069267,armor 117
+2230,tuiew,Profile2,2022-11-14 15:28:03.074268,enemy_headshot
+2231,tuiew,Profile2,2022-11-14 15:28:03.079268,killed an enemy
+2232,tuiew,Profile2,2022-11-14 15:28:03.083269,weapon_fired 1
+2233,tuiew,Profile2,2022-11-14 15:28:03.144283,weapon_fired 0
+2234,tuiew,Profile2,2022-11-14 15:28:03.210298,weapon_fired 0
+2235,tuiew,Profile2,2022-11-14 15:28:03.282315,weapon_fired 0
+2236,tuiew,Profile2,2022-11-14 15:28:03.353331,weapon_fired 0
+2237,tuiew,Profile2,2022-11-14 15:28:03.470357,stance_crouched 1
+2238,tuiew,Profile2,2022-11-14 15:28:08.626612,stance_crouched 1
+2239,tuiew,Profile2,2022-11-14 15:28:08.938584,weapon_fired 0
+2240,tuiew,Profile2,2022-11-14 15:28:09.010601,killed an enemy
+2241,tuiew,Profile2,2022-11-14 15:28:09.014601,weapon_fired 1
+2242,tuiew,Profile2,2022-11-14 15:28:09.028604,stance_crouched 1
+2243,tuiew,Profile2,2022-11-14 15:28:12.955783,stance_crouched 1
+2244,tuiew,Profile2,2022-11-14 15:28:13.359874,weapon_fired 0
+2245,tuiew,Profile2,2022-11-14 15:28:13.437891,weapon_fired 0
+2246,tuiew,Profile2,2022-11-14 15:28:13.874173,weapon_fired 0
+2247,tuiew,Profile2,2022-11-14 15:28:13.955192,weapon_fired 0
+2248,tuiew,Profile2,2022-11-14 15:28:14.467912,weapon_fired 1
+2249,tuiew,Profile2,2022-11-14 15:28:14.544930,killed an enemy
+2250,tuiew,Profile2,2022-11-14 15:28:14.547930,weapon_fired 1
+2251,tuiew,Profile2,2022-11-14 15:28:14.717969,stance_crouched 1
+2252,tuiew,Profile2,2022-11-14 15:28:16.749050,hp 460
+2253,tuiew,Profile2,2022-11-14 15:28:16.751051,armor 117
+2254,tuiew,Profile2,2022-11-14 15:28:16.755052,auto regenerate armor
+2255,tuiew,Profile2,2022-11-14 15:28:17.869795,stance_crouched 1
+2256,tuiew,Profile2,2022-11-14 15:28:17.997824,killed an enemy
+2257,tuiew,Profile2,2022-11-14 15:28:18.000825,weapon_fired 1
+2258,tuiew,Profile2,2022-11-14 15:28:18.075842,weapon_fired 0
+2259,tuiew,Profile2,2022-11-14 15:28:18.143857,weapon_fired 0
+2260,tuiew,Profile2,2022-11-14 15:28:18.238878,stance_crouched 1
+2261,tuiew,Profile2,2022-11-14 15:28:20.404425,hp 460
+2262,tuiew,Profile2,2022-11-14 15:28:20.406425,armor 117
+2263,tuiew,Profile2,2022-11-14 15:28:20.411426,auto regenerate armor
+2264,tuiew,Profile2,2022-11-14 15:28:25.119345,hp 460
+2265,tuiew,Profile2,2022-11-14 15:28:25.122346,armor 117
+2266,tuiew,Profile2,2022-11-14 15:28:25.127347,shielded hit
+2267,tuiew,Profile2,2022-11-14 15:28:25.132349,hp 460
+2268,tuiew,Profile2,2022-11-14 15:28:25.135349,armor 117
+2269,tuiew,Profile2,2022-11-14 15:28:25.138349,hp 460
+2270,tuiew,Profile2,2022-11-14 15:28:25.140352,armor 117
+2271,tuiew,Profile2,2022-11-14 15:28:25.143350,health_subtracted 0
+2272,tuiew,Profile2,2022-11-14 15:28:25.250375,stance_crouched 1
+2273,tuiew,Profile2,2022-11-14 15:28:25.427415,weapon_fired 0
+2274,tuiew,Profile2,2022-11-14 15:28:25.500432,hp 460
+2275,tuiew,Profile2,2022-11-14 15:28:25.503432,armor 107
+2276,tuiew,Profile2,2022-11-14 15:28:25.507433,enemy_headshot
+2277,tuiew,Profile2,2022-11-14 15:28:25.510433,killed an enemy
+2278,tuiew,Profile2,2022-11-14 15:28:25.514434,weapon_fired 1
+2279,tuiew,Profile2,2022-11-14 15:28:25.570448,weapon_fired 0
+2280,tuiew,Profile2,2022-11-14 15:28:25.639463,weapon_fired 0
+2281,tuiew,Profile2,2022-11-14 15:28:25.687474,stance_crouched 1
+2282,tuiew,Profile2,2022-11-14 15:28:27.607080,hp 460
+2283,tuiew,Profile2,2022-11-14 15:28:27.610081,armor 117
+2284,tuiew,Profile2,2022-11-14 15:28:27.614082,auto regenerate armor
+2285,tuiew,Profile2,2022-11-14 15:28:29.578329,stance_crouched 1
+2286,tuiew,Profile2,2022-11-14 15:28:29.702357,weapon_fired 1
+2287,tuiew,Profile2,2022-11-14 15:28:29.780374,killed an enemy
+2288,tuiew,Profile2,2022-11-14 15:28:29.784375,weapon_fired 1
+2289,tuiew,Profile2,2022-11-14 15:28:29.851391,weapon_fired 0
+2290,tuiew,Profile2,2022-11-14 15:28:29.928408,weapon_fired 0
+2291,tuiew,Profile2,2022-11-14 15:28:30.130453,weapon_fired 0
+2292,tuiew,Profile2,2022-11-14 15:28:30.206471,weapon_fired 0
+2293,tuiew,Profile2,2022-11-14 15:28:30.271485,weapon_fired 0
+2294,tuiew,Profile2,2022-11-14 15:28:30.348503,weapon_fired 0
+2295,tuiew,Profile2,2022-11-14 15:28:30.978647,stance_crouched 1
+2296,tuiew,Profile2,2022-11-14 15:28:32.355705,hp 460
+2297,tuiew,Profile2,2022-11-14 15:28:32.357706,armor 117
+2298,tuiew,Profile2,2022-11-14 15:28:32.361706,auto regenerate armor
+2299,tuiew,Profile2,2022-11-14 15:28:33.430399,stance_crouched 0
+2300,tuiew,Profile2,2022-11-14 15:28:34.248701,stance_crouched 1
+2301,tuiew,Profile2,2022-11-14 15:28:37.692414,stance_crouched 1
+2302,tuiew,Profile2,2022-11-14 15:28:37.716419,complete_objective Defend_the_winch
+2303,tuiew,Profile2,2022-11-14 15:28:38.102507,weapon_fired 1
+2304,tuiew,Profile2,2022-11-14 15:28:38.183525,killed an enemy
+2305,tuiew,Profile2,2022-11-14 15:28:38.186526,weapon_fired 1
+2306,tuiew,Profile2,2022-11-14 15:28:38.338561,stance_crouched 1
+2307,tuiew,Profile2,2022-11-14 15:28:38.743676,activate_objective Inspect_the_vault
+2308,tuiew,Profile2,2022-11-14 15:28:40.316540,stance_crouched 0
+2309,tuiew,Profile2,2022-11-14 15:28:42.690125,stance_crouched 0
+2310,tuiew,Profile2,2022-11-14 15:28:42.907244,weapon_fired 0
+2311,tuiew,Profile2,2022-11-14 15:28:42.985262,weapon_fired 1
+2312,tuiew,Profile2,2022-11-14 15:28:43.051277,killed an enemy
+2313,tuiew,Profile2,2022-11-14 15:28:43.055278,weapon_fired 1
+2314,tuiew,Profile2,2022-11-14 15:28:43.122293,weapon_fired 0
+2315,tuiew,Profile2,2022-11-14 15:28:43.201311,weapon_fired 0
+2316,tuiew,Profile2,2022-11-14 15:28:43.432363,weapon_fired 1
+2317,tuiew,Profile2,2022-11-14 15:28:43.503379,killed an enemy
+2318,tuiew,Profile2,2022-11-14 15:28:43.507381,weapon_fired 1
+2319,tuiew,Profile2,2022-11-14 15:28:43.575396,weapon_fired 0
+2320,tuiew,Profile2,2022-11-14 15:28:43.647412,weapon_fired 0
+2321,tuiew,Profile2,2022-11-14 15:28:43.720429,weapon_fired 0
+2322,tuiew,Profile2,2022-11-14 15:28:44.370631,shielded hit
+2323,tuiew,Profile2,2022-11-14 15:28:44.378632,hp 460
+2324,tuiew,Profile2,2022-11-14 15:28:44.381632,armor 117
+2325,tuiew,Profile2,2022-11-14 15:28:44.384633,hp 460
+2326,tuiew,Profile2,2022-11-14 15:28:44.387634,armor 117
+2327,tuiew,Profile2,2022-11-14 15:28:44.390635,hp 460
+2328,tuiew,Profile2,2022-11-14 15:28:44.392636,armor 117
+2329,tuiew,Profile2,2022-11-14 15:28:44.396637,health_subtracted 0
+2330,tuiew,Profile2,2022-11-14 15:28:44.401637,hp 460
+2331,tuiew,Profile2,2022-11-14 15:28:44.404638,armor 115
+2332,tuiew,Profile2,2022-11-14 15:28:44.408638,enemy_headshot
+2333,tuiew,Profile2,2022-11-14 15:28:44.412641,killed an enemy
+2334,tuiew,Profile2,2022-11-14 15:28:44.416640,weapon_fired 1
+2335,tuiew,Profile2,2022-11-14 15:28:44.488657,weapon_fired 0
+2336,tuiew,Profile2,2022-11-14 15:28:44.562092,killed an enemy
+2337,tuiew,Profile2,2022-11-14 15:28:44.566093,weapon_fired 1
+2338,tuiew,Profile2,2022-11-14 15:28:44.640110,weapon_fired 0
+2339,tuiew,Profile2,2022-11-14 15:28:44.665115,hp 460
+2340,tuiew,Profile2,2022-11-14 15:28:44.667116,armor 117
+2341,tuiew,Profile2,2022-11-14 15:28:44.671117,shielded hit
+2342,tuiew,Profile2,2022-11-14 15:28:44.676118,hp 460
+2343,tuiew,Profile2,2022-11-14 15:28:44.678119,armor 117
+2344,tuiew,Profile2,2022-11-14 15:28:44.682120,hp 460
+2345,tuiew,Profile2,2022-11-14 15:28:44.685121,armor 117
+2346,tuiew,Profile2,2022-11-14 15:28:44.689121,health_subtracted 0
+2347,tuiew,Profile2,2022-11-14 15:28:44.726129,weapon_fired 0
+2348,tuiew,Profile2,2022-11-14 15:28:45.051243,weapon_fired 0
+2349,tuiew,Profile2,2022-11-14 15:28:45.140193,weapon_fired 0
+2350,tuiew,Profile2,2022-11-14 15:28:45.200206,weapon_fired 0
+2351,tuiew,Profile2,2022-11-14 15:28:45.271222,weapon_fired 0
+2352,tuiew,Profile2,2022-11-14 15:28:45.283298,hp 460
+2353,tuiew,Profile2,2022-11-14 15:28:45.285298,armor 92
+2354,tuiew,Profile2,2022-11-14 15:28:45.289300,shielded hit
+2355,tuiew,Profile2,2022-11-14 15:28:45.295301,hp 460
+2356,tuiew,Profile2,2022-11-14 15:28:45.298301,armor 92
+2357,tuiew,Profile2,2022-11-14 15:28:45.301302,hp 460
+2358,tuiew,Profile2,2022-11-14 15:28:45.304302,armor 92
+2359,tuiew,Profile2,2022-11-14 15:28:45.307303,health_subtracted 0
+2360,tuiew,Profile2,2022-11-14 15:28:45.360315,weapon_fired 0
+2361,tuiew,Profile2,2022-11-14 15:28:45.771420,weapon_fired 0
+2362,tuiew,Profile2,2022-11-14 15:28:45.851438,weapon_fired 0
+2363,tuiew,Profile2,2022-11-14 15:28:45.861440,stance_crouched 0
+2364,tuiew,Profile2,2022-11-14 15:28:47.747154,hp 460
+2365,tuiew,Profile2,2022-11-14 15:28:47.750155,armor 67
+2366,tuiew,Profile2,2022-11-14 15:28:47.753155,auto regenerate armor
+2367,tuiew,Profile2,2022-11-14 15:28:48.604700,complete_objective Inspect_the_vault
+2368,tuiew,Profile2,2022-11-14 15:28:49.236844,stance_crouched 1
+2369,tuiew,Profile2,2022-11-14 15:28:49.605927,activate_objective Blow_up_the_floor
+2370,tuiew,Profile2,2022-11-14 15:28:54.982417,stance_crouched 0
+2371,tuiew,Profile2,2022-11-14 15:28:55.622562,stance_crouched 1
+2372,tuiew,Profile2,2022-11-14 15:28:58.576209,complete_objective Blow_up_the_floor
+2373,tuiew,Profile2,2022-11-14 15:28:59.565719,activate_objective Take_the_medallion
+2374,tuiew,Profile2,2022-11-14 15:29:00.044881,stance_crouched 0
+2375,tuiew,Profile2,2022-11-14 15:29:00.919815,stance_crouched 1
+2376,tuiew,Profile2,2022-11-14 15:29:24.915391,complete_objective Take_the_medallion
+2377,tuiew,Profile2,2022-11-14 15:29:25.968816,activate_objective Wait_for_the_van
+2378,tuiew,Profile2,2022-11-14 15:29:26.134854,stance_crouched 0
+2379,tuiew,Profile2,2022-11-14 15:29:26.904329,stance_crouched 1
+2380,tuiew,Profile2,2022-11-14 15:29:27.123378,stance_crouched 1
+2381,tuiew,Profile2,2022-11-14 15:29:27.505465,hp 460
+2382,tuiew,Profile2,2022-11-14 15:29:27.507465,armor 117
+2383,tuiew,Profile2,2022-11-14 15:29:27.512467,enemy_headshot
+2384,tuiew,Profile2,2022-11-14 15:29:27.516468,killed an enemy
+2385,tuiew,Profile2,2022-11-14 15:29:27.520468,weapon_fired 1
+2386,tuiew,Profile2,2022-11-14 15:29:27.590484,weapon_fired 0
+2387,tuiew,Profile2,2022-11-14 15:29:27.664501,weapon_fired 0
+2388,tuiew,Profile2,2022-11-14 15:29:27.733517,weapon_fired 0
+2389,tuiew,Profile2,2022-11-14 15:29:27.882636,stance_crouched 1
+2390,tuiew,Profile2,2022-11-14 15:29:30.290998,stance_crouched 1
+2391,tuiew,Profile2,2022-11-14 15:29:30.604069,weapon_fired 0
+2392,tuiew,Profile2,2022-11-14 15:29:30.680086,weapon_fired 0
+2393,tuiew,Profile2,2022-11-14 15:29:30.749102,killed an enemy
+2394,tuiew,Profile2,2022-11-14 15:29:30.752102,weapon_fired 1
+2395,tuiew,Profile2,2022-11-14 15:29:30.820118,weapon_fired 0
+2396,tuiew,Profile2,2022-11-14 15:29:30.891737,weapon_fired 0
+2397,tuiew,Profile2,2022-11-14 15:29:31.246818,stance_crouched 1
+2398,tuiew,Profile2,2022-11-14 15:29:32.750100,stance_crouched 1
+2399,tuiew,Profile2,2022-11-14 15:29:32.907135,hp 460
+2400,tuiew,Profile2,2022-11-14 15:29:32.910136,armor 117
+2401,tuiew,Profile2,2022-11-14 15:29:32.915138,auto regenerate armor
+2402,tuiew,Profile2,2022-11-14 15:29:33.076331,weapon_fired 0
+2403,tuiew,Profile2,2022-11-14 15:29:33.156350,killed an enemy
+2404,tuiew,Profile2,2022-11-14 15:29:33.160350,weapon_fired 1
+2405,tuiew,Profile2,2022-11-14 15:29:33.229366,weapon_fired 0
+2406,tuiew,Profile2,2022-11-14 15:29:33.417408,stance_crouched 1
+2407,tuiew,Profile2,2022-11-14 15:29:38.352622,stance_crouched 1
+2408,tuiew,Profile2,2022-11-14 15:29:38.529662,killed an enemy
+2409,tuiew,Profile2,2022-11-14 15:29:38.534664,weapon_fired 1
+2410,tuiew,Profile2,2022-11-14 15:29:38.606680,weapon_fired 0
+2411,tuiew,Profile2,2022-11-14 15:29:38.675696,weapon_fired 0
+2412,tuiew,Profile2,2022-11-14 15:29:38.873741,stance_crouched 1
+2413,tuiew,Profile2,2022-11-14 15:29:40.525115,stance_crouched 0
+2414,tuiew,Profile2,2022-11-14 15:29:40.761314,hp 460
+2415,tuiew,Profile2,2022-11-14 15:29:40.764315,armor 117
+2416,tuiew,Profile2,2022-11-14 15:29:40.768316,shielded hit
+2417,tuiew,Profile2,2022-11-14 15:29:40.771316,hp 460
+2418,tuiew,Profile2,2022-11-14 15:29:40.773316,armor 117
+2419,tuiew,Profile2,2022-11-14 15:29:40.779318,hp 460
+2420,tuiew,Profile2,2022-11-14 15:29:40.781318,armor 117
+2421,tuiew,Profile2,2022-11-14 15:29:40.785319,health_subtracted 0
+2422,tuiew,Profile2,2022-11-14 15:29:40.838331,stance_crouched 0
+2423,tuiew,Profile2,2022-11-14 15:29:40.958358,weapon_fired 0
+2424,tuiew,Profile2,2022-11-14 15:29:41.027374,killed an enemy
+2425,tuiew,Profile2,2022-11-14 15:29:41.031376,weapon_fired 1
+2426,tuiew,Profile2,2022-11-14 15:29:41.088388,weapon_fired 0
+2427,tuiew,Profile2,2022-11-14 15:29:41.147401,weapon_fired 0
+2428,tuiew,Profile2,2022-11-14 15:29:41.208415,weapon_fired 0
+2429,tuiew,Profile2,2022-11-14 15:29:41.288434,stance_crouched 0
+2430,tuiew,Profile2,2022-11-14 15:29:41.327442,stance_crouched 1
+2431,tuiew,Profile2,2022-11-14 15:29:41.604505,stance_crouched 1
+2432,tuiew,Profile2,2022-11-14 15:29:41.721971,weapon_fired 0
+2433,tuiew,Profile2,2022-11-14 15:29:41.798989,weapon_fired 0
+2434,tuiew,Profile2,2022-11-14 15:29:41.871006,killed an enemy
+2435,tuiew,Profile2,2022-11-14 15:29:41.876007,weapon_fired 1
+2436,tuiew,Profile2,2022-11-14 15:29:41.942021,killed an enemy
+2437,tuiew,Profile2,2022-11-14 15:29:41.946022,weapon_fired 1
+2438,tuiew,Profile2,2022-11-14 15:29:42.013037,weapon_fired 0
+2439,tuiew,Profile2,2022-11-14 15:29:42.291101,weapon_fired 0
+2440,tuiew,Profile2,2022-11-14 15:29:42.366118,weapon_fired 0
+2441,tuiew,Profile2,2022-11-14 15:29:42.439134,weapon_fired 0
+2442,tuiew,Profile2,2022-11-14 15:29:42.512151,weapon_fired 0
+2443,tuiew,Profile2,2022-11-14 15:29:42.568164,stance_crouched 1
+2444,tuiew,Profile2,2022-11-14 15:29:43.634896,stance_crouched 1
+2445,tuiew,Profile2,2022-11-14 15:29:44.069089,stance_crouched 1
+2446,tuiew,Profile2,2022-11-14 15:29:44.829299,hp 460
+2447,tuiew,Profile2,2022-11-14 15:29:44.831299,armor 107
+2448,tuiew,Profile2,2022-11-14 15:29:44.835300,auto regenerate armor
+2449,tuiew,Profile2,2022-11-14 15:29:44.924320,complete_objective Wait_for_the_van
+2450,tuiew,Profile2,2022-11-14 15:29:45.371423,stance_crouched 0
+2451,tuiew,Profile2,2022-11-14 15:29:45.936549,activate_objective Loot_more_or_escape
+2452,tuiew,Profile2,2022-11-14 15:29:47.098144,stance_crouched 1
+2453,tuiew,Profile2,2022-11-14 15:29:47.209170,stance_crouched 1
+2454,tuiew,Profile2,2022-11-14 15:29:47.509237,hp 460
+2455,tuiew,Profile2,2022-11-14 15:29:47.511238,armor 117
+2456,tuiew,Profile2,2022-11-14 15:29:47.515240,enemy_headshot
+2457,tuiew,Profile2,2022-11-14 15:29:47.518239,weapon_fired 1
+2458,tuiew,Profile2,2022-11-14 15:29:47.587255,enemy_headshot
+2459,tuiew,Profile2,2022-11-14 15:29:47.591256,killed an enemy
+2460,tuiew,Profile2,2022-11-14 15:29:47.595258,weapon_fired 1
+2461,tuiew,Profile2,2022-11-14 15:29:47.668273,weapon_fired 0
+2462,tuiew,Profile2,2022-11-14 15:29:47.737290,weapon_fired 0
+2463,tuiew,Profile2,2022-11-14 15:29:47.804305,weapon_fired 0
+2464,tuiew,Profile2,2022-11-14 15:29:48.875467,hp 460
+2465,tuiew,Profile2,2022-11-14 15:29:48.878468,armor 117
+2466,tuiew,Profile2,2022-11-14 15:29:48.881469,shielded hit
+2467,tuiew,Profile2,2022-11-14 15:29:48.886470,hp 460
+2468,tuiew,Profile2,2022-11-14 15:29:48.889470,armor 117
+2469,tuiew,Profile2,2022-11-14 15:29:48.893472,hp 460
+2470,tuiew,Profile2,2022-11-14 15:29:48.895472,armor 117
+2471,tuiew,Profile2,2022-11-14 15:29:48.899472,health_subtracted 0
+2472,tuiew,Profile2,2022-11-14 15:29:49.114956,killed an enemy
+2473,tuiew,Profile2,2022-11-14 15:29:49.118957,weapon_fired 1
+2474,tuiew,Profile2,2022-11-14 15:29:49.192973,weapon_fired 0
+2475,tuiew,Profile2,2022-11-14 15:29:49.566058,stance_crouched 1
+2476,tuiew,Profile2,2022-11-14 15:29:51.226800,stance_crouched 1
+2477,tuiew,Profile2,2022-11-14 15:29:51.378835,auto regenerate armor
+2478,tuiew,Profile2,2022-11-14 15:29:51.384836,hp 460
+2479,tuiew,Profile2,2022-11-14 15:29:51.388837,armor 97
+2480,tuiew,Profile2,2022-11-14 15:29:51.628891,stance_crouched 1
+2481,tuiew,Profile2,2022-11-14 15:29:55.429973,stance_crouched 1
+2482,tuiew,Profile2,2022-11-14 15:29:55.760303,stance_crouched 1
+2483,tuiew,Profile2,2022-11-14 15:29:56.464891,stance_crouched 0
+2484,tuiew,Profile2,2022-11-14 15:29:56.696944,hp 460
+2485,tuiew,Profile2,2022-11-14 15:29:56.699944,armor 117
+2486,tuiew,Profile2,2022-11-14 15:29:56.704946,shielded hit
+2487,tuiew,Profile2,2022-11-14 15:29:56.709946,hp 460
+2488,tuiew,Profile2,2022-11-14 15:29:56.712948,armor 117
+2489,tuiew,Profile2,2022-11-14 15:29:56.717949,hp 460
+2490,tuiew,Profile2,2022-11-14 15:29:56.720949,armor 117
+2491,tuiew,Profile2,2022-11-14 15:29:56.723950,health_subtracted 0
+2492,tuiew,Profile2,2022-11-14 15:29:56.846586,hp 460
+2493,tuiew,Profile2,2022-11-14 15:29:56.848586,armor 110
+2494,tuiew,Profile2,2022-11-14 15:29:56.852587,shielded hit
+2495,tuiew,Profile2,2022-11-14 15:29:56.858589,hp 460
+2496,tuiew,Profile2,2022-11-14 15:29:56.860589,armor 110
+2497,tuiew,Profile2,2022-11-14 15:29:56.864591,hp 460
+2498,tuiew,Profile2,2022-11-14 15:29:56.867591,armor 110
+2499,tuiew,Profile2,2022-11-14 15:29:56.870592,health_subtracted 0
+2500,tuiew,Profile2,2022-11-14 15:29:57.115647,stance_crouched 1
+2501,tuiew,Profile2,2022-11-14 15:29:57.582753,stance_crouched 1
+2502,tuiew,Profile2,2022-11-14 15:29:57.814807,stance_crouched 1
+2503,tuiew,Profile2,2022-11-14 15:29:57.884821,stance_crouched 0
+2504,tuiew,Profile2,2022-11-14 15:29:58.286913,stance_crouched 0
+2505,tuiew,Profile2,2022-11-14 15:29:58.437947,weapon_fired 0
+2506,tuiew,Profile2,2022-11-14 15:29:58.515964,weapon_fired 0
+2507,tuiew,Profile2,2022-11-14 15:29:58.575978,weapon_fired 0
+2508,tuiew,Profile2,2022-11-14 15:29:58.640993,weapon_fired 0
+2509,tuiew,Profile2,2022-11-14 15:29:58.644994,tased
+2510,tuiew,Profile2,2022-11-14 15:29:58.649996,hp 460
+2511,tuiew,Profile2,2022-11-14 15:29:58.652995,armor 94
+2512,tuiew,Profile2,2022-11-14 15:29:58.656996,tased
+2513,tuiew,Profile2,2022-11-14 15:29:58.659997,stance_crouched 0
+2514,tuiew,Profile2,2022-11-14 15:29:58.662998,stance_crouched 0
+2515,tuiew,Profile2,2022-11-14 15:29:58.665999,stance_crouched 0
+2516,tuiew,Profile2,2022-11-14 15:29:58.735014,weapon_fired 0
+2517,tuiew,Profile2,2022-11-14 15:29:58.802029,weapon_fired 0
+2518,tuiew,Profile2,2022-11-14 15:29:58.867044,weapon_fired 0
+2519,tuiew,Profile2,2022-11-14 15:29:58.936060,weapon_fired 0
+2520,tuiew,Profile2,2022-11-14 15:29:59.000074,weapon_fired 0
+2521,tuiew,Profile2,2022-11-14 15:29:59.066089,weapon_fired 0
+2522,tuiew,Profile2,2022-11-14 15:29:59.134105,weapon_fired 0
+2523,tuiew,Profile2,2022-11-14 15:29:59.188117,weapon_fired 0
+2524,tuiew,Profile2,2022-11-14 15:29:59.932286,weapon_fired 0
+2525,tuiew,Profile2,2022-11-14 15:30:00.011303,weapon_fired 0
+2526,tuiew,Profile2,2022-11-14 15:30:00.075318,weapon_fired 0
+2527,tuiew,Profile2,2022-11-14 15:30:00.144333,weapon_fired 0
+2528,tuiew,Profile2,2022-11-14 15:30:00.216352,weapon_fired 0
+2529,tuiew,Profile2,2022-11-14 15:30:00.270362,weapon_fired 0
+2530,tuiew,Profile2,2022-11-14 15:30:00.341378,weapon_fired 0
+2531,tuiew,Profile2,2022-11-14 15:30:00.435400,weapon_fired 0
+2532,tuiew,Profile2,2022-11-14 15:30:00.507416,weapon_fired 0
+2533,tuiew,Profile2,2022-11-14 15:30:00.550426,weapon_fired 0
+2534,tuiew,Profile2,2022-11-14 15:30:00.606439,weapon_fired 0
+2535,tuiew,Profile2,2022-11-14 15:30:00.656450,weapon_fired 0
+2536,tuiew,Profile2,2022-11-14 15:30:00.713463,weapon_fired 0
+2537,tuiew,Profile2,2022-11-14 15:30:00.773476,weapon_fired 0
+2538,tuiew,Profile2,2022-11-14 15:30:00.817487,weapon_fired 0
+2539,tuiew,Profile2,2022-11-14 15:30:00.876500,weapon_fired 0
+2540,tuiew,Profile2,2022-11-14 15:30:00.945516,weapon_fired 0
+2541,tuiew,Profile2,2022-11-14 15:30:01.006529,weapon_fired 0
+2542,tuiew,Profile2,2022-11-14 15:30:01.077546,weapon_fired 0
+2543,tuiew,Profile2,2022-11-14 15:30:01.151562,weapon_fired 0
+2544,tuiew,Profile2,2022-11-14 15:30:01.228579,weapon_fired 0
+2545,tuiew,Profile2,2022-11-14 15:30:01.311598,weapon_fired 0
+2546,tuiew,Profile2,2022-11-14 15:30:01.388616,weapon_fired 0
+2547,tuiew,Profile2,2022-11-14 15:30:01.471635,weapon_fired 0
+2548,tuiew,Profile2,2022-11-14 15:30:01.546652,weapon_fired 0
+2549,tuiew,Profile2,2022-11-14 15:30:01.618668,weapon_fired 0
+2550,tuiew,Profile2,2022-11-14 15:30:01.692685,weapon_fired 0
+2551,tuiew,Profile2,2022-11-14 15:30:01.768702,weapon_fired 0
+2552,tuiew,Profile2,2022-11-14 15:30:01.840719,weapon_fired 0
+2553,tuiew,Profile2,2022-11-14 15:30:01.892731,hp 460
+2554,tuiew,Profile2,2022-11-14 15:30:01.895731,armor 94
+2555,tuiew,Profile2,2022-11-14 15:30:01.899732,auto regenerate armor
+2556,tuiew,Profile2,2022-11-14 15:30:01.967747,weapon_fired 0
+2557,tuiew,Profile2,2022-11-14 15:30:02.044765,weapon_fired 0
+2558,tuiew,Profile2,2022-11-14 15:30:02.115781,weapon_fired 0
+2559,tuiew,Profile2,2022-11-14 15:30:02.180795,weapon_fired 0
+2560,tuiew,Profile2,2022-11-14 15:30:02.248811,weapon_fired 0
+2561,tuiew,Profile2,2022-11-14 15:30:02.310825,weapon_fired 0
+2562,tuiew,Profile2,2022-11-14 15:30:02.386842,weapon_fired 0
+2563,tuiew,Profile2,2022-11-14 15:30:02.452857,weapon_fired 0
+2564,tuiew,Profile2,2022-11-14 15:30:03.207028,stance_crouched 0
+2565,tuiew,Profile2,2022-11-14 15:30:03.413075,hp 460
+2566,tuiew,Profile2,2022-11-14 15:30:03.415075,armor 117
+2567,tuiew,Profile2,2022-11-14 15:30:03.419076,shielded hit
+2568,tuiew,Profile2,2022-11-14 15:30:03.424078,hp 460
+2569,tuiew,Profile2,2022-11-14 15:30:03.427078,armor 117
+2570,tuiew,Profile2,2022-11-14 15:30:03.430079,hp 460
+2571,tuiew,Profile2,2022-11-14 15:30:03.433080,armor 117
+2572,tuiew,Profile2,2022-11-14 15:30:03.437081,health_subtracted 0
+2573,tuiew,Profile2,2022-11-14 15:30:09.211390,hp 460
+2574,tuiew,Profile2,2022-11-14 15:30:09.216391,armor 107
+2575,tuiew,Profile2,2022-11-14 15:30:09.220391,auto regenerate armor

@@ -1,0 +1,73 @@
+,Player,Profile,Time,Event
+0,tuiew,Profile2,2022-11-03 19:16:20.309925,hp 460
+1,tuiew,Profile2,2022-11-03 19:16:20.312925,armor 32
+2,tuiew,Profile2,2022-11-03 19:16:20.316926,shielded hit
+3,tuiew,Profile2,2022-11-03 19:16:20.322927,hp 460
+4,tuiew,Profile2,2022-11-03 19:16:20.325928,armor 32
+5,tuiew,Profile2,2022-11-03 19:16:20.328929,hp 460
+6,tuiew,Profile2,2022-11-03 19:16:20.331929,armor 32
+7,tuiew,Profile2,2022-11-03 19:16:20.334930,health_subtracted 0
+8,tuiew,Profile2,2022-11-03 19:16:21.160866,hp 460
+9,tuiew,Profile2,2022-11-03 19:16:21.162866,armor 7
+10,tuiew,Profile2,2022-11-03 19:16:21.168867,shielded hit
+11,tuiew,Profile2,2022-11-03 19:16:21.176869,hp 460
+12,tuiew,Profile2,2022-11-03 19:16:21.179870,armor 7
+13,tuiew,Profile2,2022-11-03 19:16:21.183871,hp 460
+14,tuiew,Profile2,2022-11-03 19:16:21.185871,armor 7
+15,tuiew,Profile2,2022-11-03 19:16:21.189872,health_subtracted 0
+16,tuiew,Profile2,2022-11-03 19:16:23.644871,hp 460
+17,tuiew,Profile2,2022-11-03 19:16:23.646871,armor 0
+18,tuiew,Profile2,2022-11-03 19:16:23.649872,hp 460
+19,tuiew,Profile2,2022-11-03 19:16:23.652873,armor 0
+20,tuiew,Profile2,2022-11-03 19:16:23.655873,auto regenerate armor
+21,tuiew,Profile2,2022-11-03 19:16:24.257008,stance_crouched 0
+22,tuiew,Profile2,2022-11-03 19:16:24.333025,hp 460
+23,tuiew,Profile2,2022-11-03 19:16:24.335026,armor 117
+24,tuiew,Profile2,2022-11-03 19:16:24.338026,shielded hit
+25,tuiew,Profile2,2022-11-03 19:16:24.342027,hp 460
+26,tuiew,Profile2,2022-11-03 19:16:24.344028,armor 117
+27,tuiew,Profile2,2022-11-03 19:16:24.347028,hp 460
+28,tuiew,Profile2,2022-11-03 19:16:24.349029,armor 117
+29,tuiew,Profile2,2022-11-03 19:16:24.352030,health_subtracted 0
+30,tuiew,Profile2,2022-11-03 19:16:24.809132,killed an enemy
+31,tuiew,Profile2,2022-11-03 19:16:24.813132,weapon_fired 1
+32,tuiew,Profile2,2022-11-03 19:16:24.888149,weapon_fired 0
+33,tuiew,Profile2,2022-11-03 19:16:25.043184,stance_crouched 0
+34,tuiew,Profile2,2022-11-03 19:16:25.192217,hp 460
+35,tuiew,Profile2,2022-11-03 19:16:25.194218,armor 87
+36,tuiew,Profile2,2022-11-03 19:16:25.198219,shielded hit
+37,tuiew,Profile2,2022-11-03 19:16:25.204220,hp 460
+38,tuiew,Profile2,2022-11-03 19:16:25.206221,armor 87
+39,tuiew,Profile2,2022-11-03 19:16:25.209221,hp 460
+40,tuiew,Profile2,2022-11-03 19:16:25.212222,armor 87
+41,tuiew,Profile2,2022-11-03 19:16:25.215222,health_subtracted 0
+42,tuiew,Profile2,2022-11-03 19:16:26.049409,hp 460
+43,tuiew,Profile2,2022-11-03 19:16:26.051410,armor 57
+44,tuiew,Profile2,2022-11-03 19:16:26.055411,shielded hit
+45,tuiew,Profile2,2022-11-03 19:16:26.059411,hp 460
+46,tuiew,Profile2,2022-11-03 19:16:26.063412,armor 57
+47,tuiew,Profile2,2022-11-03 19:16:26.067413,hp 460
+48,tuiew,Profile2,2022-11-03 19:16:26.069414,armor 57
+49,tuiew,Profile2,2022-11-03 19:16:26.072415,health_subtracted 0
+50,tuiew,Profile2,2022-11-03 19:16:26.595531,stance_crouched 0
+51,tuiew,Profile2,2022-11-03 19:16:26.765570,weapon_fired 0
+52,tuiew,Profile2,2022-11-03 19:16:26.837585,weapon_fired 0
+53,tuiew,Profile2,2022-11-03 19:16:26.908601,weapon_fired 0
+54,tuiew,Profile2,2022-11-03 19:16:26.980617,weapon_fired 0
+55,tuiew,Profile2,2022-11-03 19:16:27.046632,killed an enemy
+56,tuiew,Profile2,2022-11-03 19:16:27.050633,weapon_fired 1
+57,tuiew,Profile2,2022-11-03 19:16:27.097644,stance_crouched 0
+58,tuiew,Profile2,2022-11-03 19:16:28.539966,hp 460
+59,tuiew,Profile2,2022-11-03 19:16:28.542967,armor 27
+60,tuiew,Profile2,2022-11-03 19:16:28.545967,auto regenerate armor
+61,tuiew,Profile2,2022-11-03 19:16:30.607429,weapon_fired 0
+62,tuiew,Profile2,2022-11-03 19:16:30.687447,weapon_fired 0
+63,tuiew,Profile2,2022-11-03 19:16:30.761463,weapon_fired 0
+64,tuiew,Profile2,2022-11-03 19:16:30.831479,weapon_fired 0
+65,tuiew,Profile2,2022-11-03 19:16:30.898494,weapon_fired 0
+66,tuiew,Profile2,2022-11-03 19:16:30.969510,weapon_fired 0
+67,tuiew,Profile2,2022-11-03 19:16:31.051528,weapon_fired 0
+68,tuiew,Profile2,2022-11-03 19:16:31.103539,weapon_fired 0
+69,tuiew,Profile2,2022-11-03 19:16:33.542085,hp 460
+70,tuiew,Profile2,2022-11-03 19:16:33.544086,armor 117
+71,tuiew,Profile2,2022-11-03 19:16:33.548087,auto regenerate armor

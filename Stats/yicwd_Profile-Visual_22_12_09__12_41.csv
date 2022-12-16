@@ -1,0 +1,1798 @@
+,Player,Profile,Time,Event
+0,yicwd,Profile-Visual,2022-12-09 12:41:48.888652,stance_crouched 0
+1,yicwd,Profile-Visual,2022-12-09 12:41:52.297098,stance_crouched 0
+2,yicwd,Profile-Visual,2022-12-09 12:41:52.347961,activate_objective Enter_the_bank
+3,yicwd,Profile-Visual,2022-12-09 12:41:55.362955,killed an enemy
+4,yicwd,Profile-Visual,2022-12-09 12:41:55.366945,weapon_fired 1
+5,yicwd,Profile-Visual,2022-12-09 12:41:55.441745,weapon_fired 0
+6,yicwd,Profile-Visual,2022-12-09 12:41:55.870391,killed an enemy
+7,yicwd,Profile-Visual,2022-12-09 12:41:55.874380,enemy_headshot
+8,yicwd,Profile-Visual,2022-12-09 12:41:55.878369,hp 460
+9,yicwd,Profile-Visual,2022-12-09 12:41:55.879367,armor 91
+10,yicwd,Profile-Visual,2022-12-09 12:41:55.884353,weapon_fired 1
+11,yicwd,Profile-Visual,2022-12-09 12:41:55.949180,weapon_fired 0
+12,yicwd,Profile-Visual,2022-12-09 12:41:56.020988,weapon_fired 0
+13,yicwd,Profile-Visual,2022-12-09 12:41:56.091798,weapon_fired 0
+14,yicwd,Profile-Visual,2022-12-09 12:41:56.833323,complete_objective Enter_the_bank
+15,yicwd,Profile-Visual,2022-12-09 12:41:57.833469,activate_objective Inspect_the_second_floor
+16,yicwd,Profile-Visual,2022-12-09 12:42:09.939087,complete_objective Inspect_the_second_floor
+17,yicwd,Profile-Visual,2022-12-09 12:42:10.933459,activate_objective Cut_a_hole_in_the_floor
+18,yicwd,Profile-Visual,2022-12-09 12:42:12.574878,stance_crouched 1
+19,yicwd,Profile-Visual,2022-12-09 12:42:16.947239,complete_objective Cut_a_hole_in_the_floor
+20,yicwd,Profile-Visual,2022-12-09 12:42:17.329540,stance_crouched 0
+21,yicwd,Profile-Visual,2022-12-09 12:42:17.942878,activate_objective Defend_the_cutter
+22,yicwd,Profile-Visual,2022-12-09 12:42:24.936107,weapon_fired 0
+23,yicwd,Profile-Visual,2022-12-09 12:42:25.007916,weapon_fired 0
+24,yicwd,Profile-Visual,2022-12-09 12:42:25.244283,killed an enemy
+25,yicwd,Profile-Visual,2022-12-09 12:42:25.247275,enemy_headshot
+26,yicwd,Profile-Visual,2022-12-09 12:42:25.253260,hp 460
+27,yicwd,Profile-Visual,2022-12-09 12:42:25.257248,armor 91
+28,yicwd,Profile-Visual,2022-12-09 12:42:25.262235,weapon_fired 1
+29,yicwd,Profile-Visual,2022-12-09 12:42:25.329563,weapon_fired 0
+30,yicwd,Profile-Visual,2022-12-09 12:42:25.401371,weapon_fired 0
+31,yicwd,Profile-Visual,2022-12-09 12:42:25.470187,weapon_fired 0
+32,yicwd,Profile-Visual,2022-12-09 12:42:55.716473,stance_crouched 1
+33,yicwd,Profile-Visual,2022-12-09 12:42:56.620386,stance_crouched 0
+34,yicwd,Profile-Visual,2022-12-09 12:43:00.875908,killed an enemy
+35,yicwd,Profile-Visual,2022-12-09 12:43:00.879898,weapon_fired 1
+36,yicwd,Profile-Visual,2022-12-09 12:43:00.959684,weapon_fired 0
+37,yicwd,Profile-Visual,2022-12-09 12:43:01.029497,weapon_fired 0
+38,yicwd,Profile-Visual,2022-12-09 12:43:01.320575,weapon_fired 0
+39,yicwd,Profile-Visual,2022-12-09 12:43:01.392418,weapon_fired 0
+40,yicwd,Profile-Visual,2022-12-09 12:43:02.747331,stance_crouched 1
+41,yicwd,Profile-Visual,2022-12-09 12:43:10.222867,shielded hit
+42,yicwd,Profile-Visual,2022-12-09 12:43:10.232840,hp 460
+43,yicwd,Profile-Visual,2022-12-09 12:43:10.235832,armor 91
+44,yicwd,Profile-Visual,2022-12-09 12:43:10.239821,hp 460
+45,yicwd,Profile-Visual,2022-12-09 12:43:10.242813,armor 91
+46,yicwd,Profile-Visual,2022-12-09 12:43:10.248798,hp 460
+47,yicwd,Profile-Visual,2022-12-09 12:43:10.250792,armor 91
+48,yicwd,Profile-Visual,2022-12-09 12:43:10.254781,health_subtracted 0
+49,yicwd,Profile-Visual,2022-12-09 12:43:10.790974,hp 460
+50,yicwd,Profile-Visual,2022-12-09 12:43:10.792968,armor 86
+51,yicwd,Profile-Visual,2022-12-09 12:43:10.799951,tased
+52,yicwd,Profile-Visual,2022-12-09 12:43:10.802941,tased
+53,yicwd,Profile-Visual,2022-12-09 12:43:10.810921,stance_crouched 1
+54,yicwd,Profile-Visual,2022-12-09 12:43:10.812915,stance_crouched 1
+55,yicwd,Profile-Visual,2022-12-09 12:43:11.648147,weapon_fired 0
+56,yicwd,Profile-Visual,2022-12-09 12:43:11.723944,weapon_fired 0
+57,yicwd,Profile-Visual,2022-12-09 12:43:11.793043,weapon_fired 0
+58,yicwd,Profile-Visual,2022-12-09 12:43:11.865411,weapon_fired 0
+59,yicwd,Profile-Visual,2022-12-09 12:43:11.927246,weapon_fired 0
+60,yicwd,Profile-Visual,2022-12-09 12:43:12.008030,weapon_fired 0
+61,yicwd,Profile-Visual,2022-12-09 12:43:12.081832,weapon_fired 0
+62,yicwd,Profile-Visual,2022-12-09 12:43:12.126251,stance_crouched 1
+63,yicwd,Profile-Visual,2022-12-09 12:43:12.709689,hp 460
+64,yicwd,Profile-Visual,2022-12-09 12:43:12.711684,armor 86
+65,yicwd,Profile-Visual,2022-12-09 12:43:12.717668,auto regenerate armor
+66,yicwd,Profile-Visual,2022-12-09 12:43:12.979967,stance_crouched 0
+67,yicwd,Profile-Visual,2022-12-09 12:43:13.570081,stance_crouched 1
+68,yicwd,Profile-Visual,2022-12-09 12:43:25.275224,killed an enemy
+69,yicwd,Profile-Visual,2022-12-09 12:43:25.283203,weapon_fired 1
+70,yicwd,Profile-Visual,2022-12-09 12:43:25.364985,weapon_fired 0
+71,yicwd,Profile-Visual,2022-12-09 12:43:25.433362,weapon_fired 0
+72,yicwd,Profile-Visual,2022-12-09 12:43:25.507165,weapon_fired 0
+73,yicwd,Profile-Visual,2022-12-09 12:43:25.576622,weapon_fired 0
+74,yicwd,Profile-Visual,2022-12-09 12:43:27.995328,stance_crouched 0
+75,yicwd,Profile-Visual,2022-12-09 12:43:29.191648,hp 460
+76,yicwd,Profile-Visual,2022-12-09 12:43:29.193643,armor 91
+77,yicwd,Profile-Visual,2022-12-09 12:43:29.199626,auto regenerate armor
+78,yicwd,Profile-Visual,2022-12-09 12:43:29.490865,killed an enemy
+79,yicwd,Profile-Visual,2022-12-09 12:43:29.495852,weapon_fired 1
+80,yicwd,Profile-Visual,2022-12-09 12:43:29.576635,weapon_fired 0
+81,yicwd,Profile-Visual,2022-12-09 12:43:29.653430,weapon_fired 0
+82,yicwd,Profile-Visual,2022-12-09 12:43:31.354179,weapon_fired 0
+83,yicwd,Profile-Visual,2022-12-09 12:43:31.429976,weapon_fired 0
+84,yicwd,Profile-Visual,2022-12-09 12:43:31.511758,weapon_fired 0
+85,yicwd,Profile-Visual,2022-12-09 12:43:31.579576,hp 460
+86,yicwd,Profile-Visual,2022-12-09 12:43:31.581571,armor 91
+87,yicwd,Profile-Visual,2022-12-09 12:43:31.587555,enemy_headshot
+88,yicwd,Profile-Visual,2022-12-09 12:43:31.590546,killed an enemy
+89,yicwd,Profile-Visual,2022-12-09 12:43:31.597528,weapon_fired 1
+90,yicwd,Profile-Visual,2022-12-09 12:43:31.669337,weapon_fired 0
+91,yicwd,Profile-Visual,2022-12-09 12:43:31.746131,weapon_fired 0
+92,yicwd,Profile-Visual,2022-12-09 12:43:31.807965,weapon_fired 0
+93,yicwd,Profile-Visual,2022-12-09 12:43:32.393080,weapon_fired 0
+94,yicwd,Profile-Visual,2022-12-09 12:43:32.482840,weapon_fired 0
+95,yicwd,Profile-Visual,2022-12-09 12:43:32.545672,weapon_fired 0
+96,yicwd,Profile-Visual,2022-12-09 12:43:32.620473,weapon_fired 0
+97,yicwd,Profile-Visual,2022-12-09 12:43:32.690286,weapon_fired 0
+98,yicwd,Profile-Visual,2022-12-09 12:43:32.871800,weapon_fired 0
+99,yicwd,Profile-Visual,2022-12-09 12:43:32.945602,weapon_fired 0
+100,yicwd,Profile-Visual,2022-12-09 12:43:33.015415,weapon_fired 0
+101,yicwd,Profile-Visual,2022-12-09 12:43:33.086227,weapon_fired 0
+102,yicwd,Profile-Visual,2022-12-09 12:43:33.164019,weapon_fired 0
+103,yicwd,Profile-Visual,2022-12-09 12:43:33.711165,shielded hit
+104,yicwd,Profile-Visual,2022-12-09 12:43:33.714157,hp 460
+105,yicwd,Profile-Visual,2022-12-09 12:43:33.717150,armor 91
+106,yicwd,Profile-Visual,2022-12-09 12:43:33.722135,hp 460
+107,yicwd,Profile-Visual,2022-12-09 12:43:33.724130,armor 91
+108,yicwd,Profile-Visual,2022-12-09 12:43:33.729116,hp 460
+109,yicwd,Profile-Visual,2022-12-09 12:43:33.731111,armor 91
+110,yicwd,Profile-Visual,2022-12-09 12:43:33.735101,health_subtracted 0
+111,yicwd,Profile-Visual,2022-12-09 12:43:34.193486,hp 460
+112,yicwd,Profile-Visual,2022-12-09 12:43:34.197475,armor 81
+113,yicwd,Profile-Visual,2022-12-09 12:43:34.202461,weapon_fired 1
+114,yicwd,Profile-Visual,2022-12-09 12:43:34.206451,enemy_headshot
+115,yicwd,Profile-Visual,2022-12-09 12:43:34.280254,enemy_headshot
+116,yicwd,Profile-Visual,2022-12-09 12:43:34.285241,killed an enemy
+117,yicwd,Profile-Visual,2022-12-09 12:43:34.289230,weapon_fired 1
+118,yicwd,Profile-Visual,2022-12-09 12:43:34.352061,weapon_fired 0
+119,yicwd,Profile-Visual,2022-12-09 12:43:35.403141,shielded hit
+120,yicwd,Profile-Visual,2022-12-09 12:43:35.412118,hp 460
+121,yicwd,Profile-Visual,2022-12-09 12:43:35.414112,armor 91
+122,yicwd,Profile-Visual,2022-12-09 12:43:35.417103,hp 460
+123,yicwd,Profile-Visual,2022-12-09 12:43:35.420096,armor 91
+124,yicwd,Profile-Visual,2022-12-09 12:43:35.422091,hp 460
+125,yicwd,Profile-Visual,2022-12-09 12:43:35.425083,armor 91
+126,yicwd,Profile-Visual,2022-12-09 12:43:35.428074,health_subtracted 0
+127,yicwd,Profile-Visual,2022-12-09 12:43:35.840969,stance_crouched 1
+128,yicwd,Profile-Visual,2022-12-09 12:43:36.469172,shielded hit
+129,yicwd,Profile-Visual,2022-12-09 12:43:36.477149,hp 460
+130,yicwd,Profile-Visual,2022-12-09 12:43:36.479145,armor 83
+131,yicwd,Profile-Visual,2022-12-09 12:43:36.484131,hp 460
+132,yicwd,Profile-Visual,2022-12-09 12:43:36.486127,armor 83
+133,yicwd,Profile-Visual,2022-12-09 12:43:36.489118,health_subtracted 0
+134,yicwd,Profile-Visual,2022-12-09 12:43:36.492110,hp 460
+135,yicwd,Profile-Visual,2022-12-09 12:43:36.495101,armor 83
+136,yicwd,Profile-Visual,2022-12-09 12:43:36.934103,stance_crouched 0
+137,yicwd,Profile-Visual,2022-12-09 12:43:37.570951,stance_crouched 1
+138,yicwd,Profile-Visual,2022-12-09 12:43:38.366408,stance_crouched 0
+139,yicwd,Profile-Visual,2022-12-09 12:43:38.951181,auto regenerate armor
+140,yicwd,Profile-Visual,2022-12-09 12:43:38.954172,hp 460
+141,yicwd,Profile-Visual,2022-12-09 12:43:38.956166,armor 75
+142,yicwd,Profile-Visual,2022-12-09 12:43:39.241435,weapon_fired 0
+143,yicwd,Profile-Visual,2022-12-09 12:43:44.102855,shielded hit
+144,yicwd,Profile-Visual,2022-12-09 12:43:44.108839,hp 460
+145,yicwd,Profile-Visual,2022-12-09 12:43:44.110833,armor 91
+146,yicwd,Profile-Visual,2022-12-09 12:43:44.114823,hp 460
+147,yicwd,Profile-Visual,2022-12-09 12:43:44.117815,armor 91
+148,yicwd,Profile-Visual,2022-12-09 12:43:44.123798,hp 460
+149,yicwd,Profile-Visual,2022-12-09 12:43:44.125793,armor 91
+150,yicwd,Profile-Visual,2022-12-09 12:43:44.131777,health_subtracted 0
+151,yicwd,Profile-Visual,2022-12-09 12:43:44.571601,shielded hit
+152,yicwd,Profile-Visual,2022-12-09 12:43:44.576588,hp 460
+153,yicwd,Profile-Visual,2022-12-09 12:43:44.578582,armor 81
+154,yicwd,Profile-Visual,2022-12-09 12:43:44.583569,hp 460
+155,yicwd,Profile-Visual,2022-12-09 12:43:44.586561,armor 81
+156,yicwd,Profile-Visual,2022-12-09 12:43:44.590551,hp 460
+157,yicwd,Profile-Visual,2022-12-09 12:43:44.592545,armor 81
+158,yicwd,Profile-Visual,2022-12-09 12:43:44.596535,health_subtracted 0
+159,yicwd,Profile-Visual,2022-12-09 12:43:44.662358,hp 460
+160,yicwd,Profile-Visual,2022-12-09 12:43:44.665350,armor 68
+161,yicwd,Profile-Visual,2022-12-09 12:43:44.673329,enemy_headshot
+162,yicwd,Profile-Visual,2022-12-09 12:43:44.676321,killed an enemy
+163,yicwd,Profile-Visual,2022-12-09 12:43:44.682304,weapon_fired 1
+164,yicwd,Profile-Visual,2022-12-09 12:43:44.740015,weapon_fired 0
+165,yicwd,Profile-Visual,2022-12-09 12:43:44.801849,weapon_fired 0
+166,yicwd,Profile-Visual,2022-12-09 12:43:44.872030,weapon_fired 0
+167,yicwd,Profile-Visual,2022-12-09 12:43:44.929876,weapon_fired 0
+168,yicwd,Profile-Visual,2022-12-09 12:43:45.492880,stance_crouched 1
+169,yicwd,Profile-Visual,2022-12-09 12:43:47.039161,auto regenerate armor
+170,yicwd,Profile-Visual,2022-12-09 12:43:47.042153,hp 460
+171,yicwd,Profile-Visual,2022-12-09 12:43:47.044148,armor 86
+172,yicwd,Profile-Visual,2022-12-09 12:43:47.232644,hp 460
+173,yicwd,Profile-Visual,2022-12-09 12:43:47.235636,armor 90
+174,yicwd,Profile-Visual,2022-12-09 12:43:47.240622,shielded hit
+175,yicwd,Profile-Visual,2022-12-09 12:43:47.246606,health_subtracted 0
+176,yicwd,Profile-Visual,2022-12-09 12:43:47.249598,hp 460
+177,yicwd,Profile-Visual,2022-12-09 12:43:47.251594,armor 90
+178,yicwd,Profile-Visual,2022-12-09 12:43:47.255582,hp 460
+179,yicwd,Profile-Visual,2022-12-09 12:43:47.257577,armor 90
+180,yicwd,Profile-Visual,2022-12-09 12:43:49.702797,auto regenerate armor
+181,yicwd,Profile-Visual,2022-12-09 12:43:49.705788,hp 460
+182,yicwd,Profile-Visual,2022-12-09 12:43:49.711772,armor 71
+183,yicwd,Profile-Visual,2022-12-09 12:43:50.094259,stance_crouched 0
+184,yicwd,Profile-Visual,2022-12-09 12:43:52.914018,hp 460
+185,yicwd,Profile-Visual,2022-12-09 12:43:52.917011,armor 91
+186,yicwd,Profile-Visual,2022-12-09 12:43:52.921001,enemy_headshot
+187,yicwd,Profile-Visual,2022-12-09 12:43:52.924990,killed an enemy
+188,yicwd,Profile-Visual,2022-12-09 12:43:52.931970,weapon_fired 1
+189,yicwd,Profile-Visual,2022-12-09 12:43:53.004776,weapon_fired 0
+190,yicwd,Profile-Visual,2022-12-09 12:43:53.069602,weapon_fired 0
+191,yicwd,Profile-Visual,2022-12-09 12:43:55.778418,stance_crouched 0
+192,yicwd,Profile-Visual,2022-12-09 12:43:58.966592,tased
+193,yicwd,Profile-Visual,2022-12-09 12:43:58.971579,hp 460
+194,yicwd,Profile-Visual,2022-12-09 12:43:58.974572,armor 91
+195,yicwd,Profile-Visual,2022-12-09 12:43:58.979559,stance_crouched 0
+196,yicwd,Profile-Visual,2022-12-09 12:43:58.984544,tased
+197,yicwd,Profile-Visual,2022-12-09 12:43:58.987536,stance_crouched 0
+198,yicwd,Profile-Visual,2022-12-09 12:43:59.632443,weapon_fired 0
+199,yicwd,Profile-Visual,2022-12-09 12:44:00.440072,enemy_headshot
+200,yicwd,Profile-Visual,2022-12-09 12:44:00.449048,hp 460
+201,yicwd,Profile-Visual,2022-12-09 12:44:00.451043,armor 91
+202,yicwd,Profile-Visual,2022-12-09 12:44:00.460019,weapon_fired 1
+203,yicwd,Profile-Visual,2022-12-09 12:44:00.463011,weapon_fired 0
+204,yicwd,Profile-Visual,2022-12-09 12:44:01.428859,weapon_fired 0
+205,yicwd,Profile-Visual,2022-12-09 12:44:01.442823,stance_crouched 0
+206,yicwd,Profile-Visual,2022-12-09 12:44:03.325704,hp 460
+207,yicwd,Profile-Visual,2022-12-09 12:44:03.328696,armor 91
+208,yicwd,Profile-Visual,2022-12-09 12:44:03.338669,health_subtracted 0
+209,yicwd,Profile-Visual,2022-12-09 12:44:03.344653,hp 460
+210,yicwd,Profile-Visual,2022-12-09 12:44:03.346648,armor 91
+211,yicwd,Profile-Visual,2022-12-09 12:44:03.349640,shielded hit
+212,yicwd,Profile-Visual,2022-12-09 12:44:03.354627,hp 460
+213,yicwd,Profile-Visual,2022-12-09 12:44:03.357136,armor 91
+214,yicwd,Profile-Visual,2022-12-09 12:44:05.830854,hp 460
+215,yicwd,Profile-Visual,2022-12-09 12:44:05.833846,armor 89
+216,yicwd,Profile-Visual,2022-12-09 12:44:05.838832,auto regenerate armor
+217,yicwd,Profile-Visual,2022-12-09 12:44:10.355341,enemy_headshot
+218,yicwd,Profile-Visual,2022-12-09 12:44:10.358334,hp 460
+219,yicwd,Profile-Visual,2022-12-09 12:44:10.361325,armor 91
+220,yicwd,Profile-Visual,2022-12-09 12:44:10.366312,killed an enemy
+221,yicwd,Profile-Visual,2022-12-09 12:44:10.369303,weapon_fired 0
+222,yicwd,Profile-Visual,2022-12-09 12:44:10.373293,weapon_fired 1
+223,yicwd,Profile-Visual,2022-12-09 12:44:12.233501,weapon_fired 0
+224,yicwd,Profile-Visual,2022-12-09 12:44:12.719972,hp 460
+225,yicwd,Profile-Visual,2022-12-09 12:44:12.721966,armor 91
+226,yicwd,Profile-Visual,2022-12-09 12:44:12.726954,hp 460
+227,yicwd,Profile-Visual,2022-12-09 12:44:12.729945,armor 91
+228,yicwd,Profile-Visual,2022-12-09 12:44:12.737925,hp 460
+229,yicwd,Profile-Visual,2022-12-09 12:44:12.739920,armor 91
+230,yicwd,Profile-Visual,2022-12-09 12:44:12.741913,shielded hit
+231,yicwd,Profile-Visual,2022-12-09 12:44:12.743908,health_subtracted 0
+232,yicwd,Profile-Visual,2022-12-09 12:44:12.836660,killed an enemy
+233,yicwd,Profile-Visual,2022-12-09 12:44:12.842643,hp 460
+234,yicwd,Profile-Visual,2022-12-09 12:44:12.847630,armor 77
+235,yicwd,Profile-Visual,2022-12-09 12:44:12.851620,enemy_headshot
+236,yicwd,Profile-Visual,2022-12-09 12:44:12.855609,weapon_fired 0
+237,yicwd,Profile-Visual,2022-12-09 12:44:12.861594,weapon_fired 1
+238,yicwd,Profile-Visual,2022-12-09 12:44:13.193704,stance_crouched 1
+239,yicwd,Profile-Visual,2022-12-09 12:44:15.254492,shielded hit
+240,yicwd,Profile-Visual,2022-12-09 12:44:15.262472,hp 460
+241,yicwd,Profile-Visual,2022-12-09 12:44:15.265463,armor 91
+242,yicwd,Profile-Visual,2022-12-09 12:44:15.274439,hp 460
+243,yicwd,Profile-Visual,2022-12-09 12:44:15.277431,armor 91
+244,yicwd,Profile-Visual,2022-12-09 12:44:15.283415,hp 460
+245,yicwd,Profile-Visual,2022-12-09 12:44:15.286407,armor 91
+246,yicwd,Profile-Visual,2022-12-09 12:44:15.289398,health_subtracted 0
+247,yicwd,Profile-Visual,2022-12-09 12:44:15.934902,shielded hit
+248,yicwd,Profile-Visual,2022-12-09 12:44:15.945382,hp 460
+249,yicwd,Profile-Visual,2022-12-09 12:44:15.947379,armor 87
+250,yicwd,Profile-Visual,2022-12-09 12:44:15.953361,health_subtracted 0
+251,yicwd,Profile-Visual,2022-12-09 12:44:15.956353,hp 460
+252,yicwd,Profile-Visual,2022-12-09 12:44:15.958348,armor 87
+253,yicwd,Profile-Visual,2022-12-09 12:44:15.960343,hp 460
+254,yicwd,Profile-Visual,2022-12-09 12:44:15.962337,armor 87
+255,yicwd,Profile-Visual,2022-12-09 12:44:16.797105,shielded hit
+256,yicwd,Profile-Visual,2022-12-09 12:44:16.804086,hp 460
+257,yicwd,Profile-Visual,2022-12-09 12:44:16.807078,armor 83
+258,yicwd,Profile-Visual,2022-12-09 12:44:16.812065,hp 460
+259,yicwd,Profile-Visual,2022-12-09 12:44:16.815057,armor 83
+260,yicwd,Profile-Visual,2022-12-09 12:44:16.817053,health_subtracted 0
+261,yicwd,Profile-Visual,2022-12-09 12:44:16.820043,hp 460
+262,yicwd,Profile-Visual,2022-12-09 12:44:16.822038,armor 83
+263,yicwd,Profile-Visual,2022-12-09 12:44:17.365829,weapon_fired 0
+264,yicwd,Profile-Visual,2022-12-09 12:44:17.774736,hp 460
+265,yicwd,Profile-Visual,2022-12-09 12:44:17.777727,armor 73
+266,yicwd,Profile-Visual,2022-12-09 12:44:17.788698,enemy_headshot
+267,yicwd,Profile-Visual,2022-12-09 12:44:17.798671,killed an enemy
+268,yicwd,Profile-Visual,2022-12-09 12:44:17.802660,weapon_fired 0
+269,yicwd,Profile-Visual,2022-12-09 12:44:17.807647,weapon_fired 1
+270,yicwd,Profile-Visual,2022-12-09 12:44:19.579802,hp 460
+271,yicwd,Profile-Visual,2022-12-09 12:44:19.581797,armor 91
+272,yicwd,Profile-Visual,2022-12-09 12:44:19.588778,auto regenerate armor
+273,yicwd,Profile-Visual,2022-12-09 12:44:29.648217,stance_crouched 0
+274,yicwd,Profile-Visual,2022-12-09 12:44:32.982521,shielded hit
+275,yicwd,Profile-Visual,2022-12-09 12:44:32.986509,hp 460
+276,yicwd,Profile-Visual,2022-12-09 12:44:32.989502,armor 91
+277,yicwd,Profile-Visual,2022-12-09 12:44:32.996483,hp 460
+278,yicwd,Profile-Visual,2022-12-09 12:44:32.999476,armor 91
+279,yicwd,Profile-Visual,2022-12-09 12:44:33.003465,hp 460
+280,yicwd,Profile-Visual,2022-12-09 12:44:33.005459,armor 91
+281,yicwd,Profile-Visual,2022-12-09 12:44:33.009448,health_subtracted 0
+282,yicwd,Profile-Visual,2022-12-09 12:44:34.999646,killed an enemy
+283,yicwd,Profile-Visual,2022-12-09 12:44:35.003635,weapon_fired 1
+284,yicwd,Profile-Visual,2022-12-09 12:44:35.009619,weapon_fired 0
+285,yicwd,Profile-Visual,2022-12-09 12:44:35.246405,auto regenerate armor
+286,yicwd,Profile-Visual,2022-12-09 12:44:35.250396,hp 460
+287,yicwd,Profile-Visual,2022-12-09 12:44:35.253387,armor 83
+288,yicwd,Profile-Visual,2022-12-09 12:44:36.302850,killed an enemy
+289,yicwd,Profile-Visual,2022-12-09 12:44:36.305841,hp 460
+290,yicwd,Profile-Visual,2022-12-09 12:44:36.308834,armor 91
+291,yicwd,Profile-Visual,2022-12-09 12:44:36.312824,enemy_headshot
+292,yicwd,Profile-Visual,2022-12-09 12:44:36.316812,weapon_fired 0
+293,yicwd,Profile-Visual,2022-12-09 12:44:36.321799,weapon_fired 1
+294,yicwd,Profile-Visual,2022-12-09 12:44:37.245622,stance_crouched 1
+295,yicwd,Profile-Visual,2022-12-09 12:44:37.346353,shielded hit
+296,yicwd,Profile-Visual,2022-12-09 12:44:37.352337,hp 460
+297,yicwd,Profile-Visual,2022-12-09 12:44:37.355330,armor 91
+298,yicwd,Profile-Visual,2022-12-09 12:44:37.358321,hp 460
+299,yicwd,Profile-Visual,2022-12-09 12:44:37.360316,armor 91
+300,yicwd,Profile-Visual,2022-12-09 12:44:37.367297,hp 460
+301,yicwd,Profile-Visual,2022-12-09 12:44:37.369292,armor 91
+302,yicwd,Profile-Visual,2022-12-09 12:44:37.371287,health_subtracted 0
+303,yicwd,Profile-Visual,2022-12-09 12:44:38.592703,stance_crouched 0
+304,yicwd,Profile-Visual,2022-12-09 12:44:39.526731,shielded hit
+305,yicwd,Profile-Visual,2022-12-09 12:44:39.531718,hp 460
+306,yicwd,Profile-Visual,2022-12-09 12:44:39.533713,armor 83
+307,yicwd,Profile-Visual,2022-12-09 12:44:39.543686,health_subtracted 0
+308,yicwd,Profile-Visual,2022-12-09 12:44:39.547675,hp 460
+309,yicwd,Profile-Visual,2022-12-09 12:44:39.549670,armor 83
+310,yicwd,Profile-Visual,2022-12-09 12:44:39.554656,hp 460
+311,yicwd,Profile-Visual,2022-12-09 12:44:39.558646,armor 83
+312,yicwd,Profile-Visual,2022-12-09 12:44:39.642422,enemy_headshot
+313,yicwd,Profile-Visual,2022-12-09 12:44:39.651397,hp 460
+314,yicwd,Profile-Visual,2022-12-09 12:44:39.653393,armor 69
+315,yicwd,Profile-Visual,2022-12-09 12:44:39.661371,killed an enemy
+316,yicwd,Profile-Visual,2022-12-09 12:44:39.665361,weapon_fired 1
+317,yicwd,Profile-Visual,2022-12-09 12:44:39.672342,weapon_fired 0
+318,yicwd,Profile-Visual,2022-12-09 12:44:40.021298,complete_objective Defend_the_cutter
+319,yicwd,Profile-Visual,2022-12-09 12:44:40.041244,shielded hit
+320,yicwd,Profile-Visual,2022-12-09 12:44:40.045234,hp 460
+321,yicwd,Profile-Visual,2022-12-09 12:44:40.048225,armor 88
+322,yicwd,Profile-Visual,2022-12-09 12:44:40.053212,hp 460
+323,yicwd,Profile-Visual,2022-12-09 12:44:40.055207,armor 88
+324,yicwd,Profile-Visual,2022-12-09 12:44:40.062188,hp 460
+325,yicwd,Profile-Visual,2022-12-09 12:44:40.064183,armor 88
+326,yicwd,Profile-Visual,2022-12-09 12:44:40.069169,health_subtracted 0
+327,yicwd,Profile-Visual,2022-12-09 12:44:40.249687,stance_crouched 1
+328,yicwd,Profile-Visual,2022-12-09 12:44:41.016635,activate_objective Remove_the_cutter
+329,yicwd,Profile-Visual,2022-12-09 12:44:41.062513,hp 460
+330,yicwd,Profile-Visual,2022-12-09 12:44:41.065506,armor 68
+331,yicwd,Profile-Visual,2022-12-09 12:44:41.069494,health_subtracted 0
+332,yicwd,Profile-Visual,2022-12-09 12:44:41.075478,hp 460
+333,yicwd,Profile-Visual,2022-12-09 12:44:41.079467,armor 68
+334,yicwd,Profile-Visual,2022-12-09 12:44:41.082459,shielded hit
+335,yicwd,Profile-Visual,2022-12-09 12:44:41.084454,hp 460
+336,yicwd,Profile-Visual,2022-12-09 12:44:41.086449,armor 68
+337,yicwd,Profile-Visual,2022-12-09 12:44:41.640929,shielded hit
+338,yicwd,Profile-Visual,2022-12-09 12:44:41.643922,hp 460
+339,yicwd,Profile-Visual,2022-12-09 12:44:41.646914,armor 64
+340,yicwd,Profile-Visual,2022-12-09 12:44:41.648908,hp 460
+341,yicwd,Profile-Visual,2022-12-09 12:44:41.651900,armor 64
+342,yicwd,Profile-Visual,2022-12-09 12:44:41.656887,hp 460
+343,yicwd,Profile-Visual,2022-12-09 12:44:41.658882,armor 64
+344,yicwd,Profile-Visual,2022-12-09 12:44:41.660877,health_subtracted 0
+345,yicwd,Profile-Visual,2022-12-09 12:44:42.139597,shielded hit
+346,yicwd,Profile-Visual,2022-12-09 12:44:42.143585,hp 460
+347,yicwd,Profile-Visual,2022-12-09 12:44:42.146578,armor 44
+348,yicwd,Profile-Visual,2022-12-09 12:44:42.150567,hp 460
+349,yicwd,Profile-Visual,2022-12-09 12:44:42.153559,armor 44
+350,yicwd,Profile-Visual,2022-12-09 12:44:42.161537,health_subtracted 0
+351,yicwd,Profile-Visual,2022-12-09 12:44:42.166524,hp 460
+352,yicwd,Profile-Visual,2022-12-09 12:44:42.169516,armor 44
+353,yicwd,Profile-Visual,2022-12-09 12:44:42.608343,shielded hit
+354,yicwd,Profile-Visual,2022-12-09 12:44:42.613330,hp 460
+355,yicwd,Profile-Visual,2022-12-09 12:44:42.616321,armor 24
+356,yicwd,Profile-Visual,2022-12-09 12:44:42.619313,hp 460
+357,yicwd,Profile-Visual,2022-12-09 12:44:42.621308,armor 24
+358,yicwd,Profile-Visual,2022-12-09 12:44:42.626294,hp 460
+359,yicwd,Profile-Visual,2022-12-09 12:44:42.628290,armor 24
+360,yicwd,Profile-Visual,2022-12-09 12:44:42.632278,health_subtracted 0
+361,yicwd,Profile-Visual,2022-12-09 12:44:43.109452,hp 460
+362,yicwd,Profile-Visual,2022-12-09 12:44:43.111447,armor 4
+363,yicwd,Profile-Visual,2022-12-09 12:44:43.117939,shielded hit
+364,yicwd,Profile-Visual,2022-12-09 12:44:43.121928,hp 460
+365,yicwd,Profile-Visual,2022-12-09 12:44:43.123923,armor 4
+366,yicwd,Profile-Visual,2022-12-09 12:44:43.131902,health_subtracted 0
+367,yicwd,Profile-Visual,2022-12-09 12:44:43.135892,hp 460
+368,yicwd,Profile-Visual,2022-12-09 12:44:43.138883,armor 4
+369,yicwd,Profile-Visual,2022-12-09 12:44:43.377245,weapon_fired 0
+370,yicwd,Profile-Visual,2022-12-09 12:44:43.589677,hp 440
+371,yicwd,Profile-Visual,2022-12-09 12:44:43.591672,armor 0
+372,yicwd,Profile-Visual,2022-12-09 12:44:43.597656,hp 460
+373,yicwd,Profile-Visual,2022-12-09 12:44:43.599651,armor 0
+374,yicwd,Profile-Visual,2022-12-09 12:44:43.609625,unshielded hit
+375,yicwd,Profile-Visual,2022-12-09 12:44:43.612617,health_subtracted 2
+376,yicwd,Profile-Visual,2022-12-09 12:44:43.619597,hp 454
+377,yicwd,Profile-Visual,2022-12-09 12:44:43.621591,armor 0
+378,yicwd,Profile-Visual,2022-12-09 12:44:43.623587,hp 454
+379,yicwd,Profile-Visual,2022-12-09 12:44:43.625581,armor 0
+380,yicwd,Profile-Visual,2022-12-09 12:44:43.628572,hp 454
+381,yicwd,Profile-Visual,2022-12-09 12:44:43.630568,armor 0
+382,yicwd,Profile-Visual,2022-12-09 12:44:43.633560,hp 454
+383,yicwd,Profile-Visual,2022-12-09 12:44:43.635555,armor 0
+384,yicwd,Profile-Visual,2022-12-09 12:44:43.797123,weapon_fired 0
+385,yicwd,Profile-Visual,2022-12-09 12:44:44.082359,unshielded hit
+386,yicwd,Profile-Visual,2022-12-09 12:44:44.087346,hp 454
+387,yicwd,Profile-Visual,2022-12-09 12:44:44.090338,armor 0
+388,yicwd,Profile-Visual,2022-12-09 12:44:44.093329,hp 434
+389,yicwd,Profile-Visual,2022-12-09 12:44:44.097319,armor 0
+390,yicwd,Profile-Visual,2022-12-09 12:44:44.101309,health_subtracted 2
+391,yicwd,Profile-Visual,2022-12-09 12:44:44.183090,weapon_fired 0
+392,yicwd,Profile-Visual,2022-12-09 12:44:44.548704,weapon_fired 0
+393,yicwd,Profile-Visual,2022-12-09 12:44:44.841887,hp 434
+394,yicwd,Profile-Visual,2022-12-09 12:44:44.844880,armor 0
+395,yicwd,Profile-Visual,2022-12-09 12:44:44.850864,unshielded hit
+396,yicwd,Profile-Visual,2022-12-09 12:44:44.855851,health_subtracted 2
+397,yicwd,Profile-Visual,2022-12-09 12:44:44.860837,hp 414
+398,yicwd,Profile-Visual,2022-12-09 12:44:44.863829,armor 0
+399,yicwd,Profile-Visual,2022-12-09 12:44:46.346230,hp 414
+400,yicwd,Profile-Visual,2022-12-09 12:44:46.349222,armor 0
+401,yicwd,Profile-Visual,2022-12-09 12:44:46.353211,unshielded hit
+402,yicwd,Profile-Visual,2022-12-09 12:44:46.357201,hp 394
+403,yicwd,Profile-Visual,2022-12-09 12:44:46.359195,armor 0
+404,yicwd,Profile-Visual,2022-12-09 12:44:46.363185,health_subtracted 2
+405,yicwd,Profile-Visual,2022-12-09 12:44:48.582158,stance_crouched 0
+406,yicwd,Profile-Visual,2022-12-09 12:44:48.612076,hp 408
+407,yicwd,Profile-Visual,2022-12-09 12:44:48.614070,armor 0
+408,yicwd,Profile-Visual,2022-12-09 12:44:48.620054,hp 408
+409,yicwd,Profile-Visual,2022-12-09 12:44:48.623046,armor 0
+410,yicwd,Profile-Visual,2022-12-09 12:44:48.631024,hp 408
+411,yicwd,Profile-Visual,2022-12-09 12:44:48.633019,armor 0
+412,yicwd,Profile-Visual,2022-12-09 12:44:48.637008,hp 408
+413,yicwd,Profile-Visual,2022-12-09 12:44:48.639003,armor 0
+414,yicwd,Profile-Visual,2022-12-09 12:44:50.236097,hp 408
+415,yicwd,Profile-Visual,2022-12-09 12:44:50.238092,armor 0
+416,yicwd,Profile-Visual,2022-12-09 12:44:50.242081,hp 408
+417,yicwd,Profile-Visual,2022-12-09 12:44:50.245074,armor 0
+418,yicwd,Profile-Visual,2022-12-09 12:44:50.249062,auto regenerate armor
+419,yicwd,Profile-Visual,2022-12-09 12:44:53.606873,hp 421
+420,yicwd,Profile-Visual,2022-12-09 12:44:53.608868,armor 91
+421,yicwd,Profile-Visual,2022-12-09 12:44:53.614851,hp 421
+422,yicwd,Profile-Visual,2022-12-09 12:44:53.617844,armor 91
+423,yicwd,Profile-Visual,2022-12-09 12:44:53.624825,hp 421
+424,yicwd,Profile-Visual,2022-12-09 12:44:53.627817,armor 91
+425,yicwd,Profile-Visual,2022-12-09 12:44:53.629811,hp 421
+426,yicwd,Profile-Visual,2022-12-09 12:44:53.631807,armor 91
+427,yicwd,Profile-Visual,2022-12-09 12:44:54.264476,hp 421
+428,yicwd,Profile-Visual,2022-12-09 12:44:54.266471,armor 91
+429,yicwd,Profile-Visual,2022-12-09 12:44:54.273452,shielded hit
+430,yicwd,Profile-Visual,2022-12-09 12:44:54.279436,hp 421
+431,yicwd,Profile-Visual,2022-12-09 12:44:54.282429,armor 91
+432,yicwd,Profile-Visual,2022-12-09 12:44:54.285421,health_subtracted 0
+433,yicwd,Profile-Visual,2022-12-09 12:44:54.292402,hp 421
+434,yicwd,Profile-Visual,2022-12-09 12:44:54.295394,armor 91
+435,yicwd,Profile-Visual,2022-12-09 12:44:56.102585,stance_crouched 1
+436,yicwd,Profile-Visual,2022-12-09 12:44:56.738882,hp 421
+437,yicwd,Profile-Visual,2022-12-09 12:44:56.739881,armor 83
+438,yicwd,Profile-Visual,2022-12-09 12:44:56.743871,auto regenerate armor
+439,yicwd,Profile-Visual,2022-12-09 12:44:57.348389,complete_objective Remove_the_cutter
+440,yicwd,Profile-Visual,2022-12-09 12:44:58.344770,activate_objective Blow_open_the_floor
+441,yicwd,Profile-Visual,2022-12-09 12:44:58.629009,hp 435
+442,yicwd,Profile-Visual,2022-12-09 12:44:58.632002,armor 91
+443,yicwd,Profile-Visual,2022-12-09 12:44:58.638983,hp 435
+444,yicwd,Profile-Visual,2022-12-09 12:44:58.640977,armor 91
+445,yicwd,Profile-Visual,2022-12-09 12:44:58.648971,hp 435
+446,yicwd,Profile-Visual,2022-12-09 12:44:58.650963,armor 91
+447,yicwd,Profile-Visual,2022-12-09 12:44:58.656935,hp 435
+448,yicwd,Profile-Visual,2022-12-09 12:44:58.658930,armor 91
+449,yicwd,Profile-Visual,2022-12-09 12:44:59.765009,stance_crouched 0
+450,yicwd,Profile-Visual,2022-12-09 12:45:02.748640,hp 435
+451,yicwd,Profile-Visual,2022-12-09 12:45:02.751631,armor 91
+452,yicwd,Profile-Visual,2022-12-09 12:45:02.757616,hp 435
+453,yicwd,Profile-Visual,2022-12-09 12:45:02.759610,armor 91
+454,yicwd,Profile-Visual,2022-12-09 12:45:02.762603,hp 435
+455,yicwd,Profile-Visual,2022-12-09 12:45:02.765594,armor 91
+456,yicwd,Profile-Visual,2022-12-09 12:45:02.768586,health_subtracted 0
+457,yicwd,Profile-Visual,2022-12-09 12:45:02.771578,shielded hit
+458,yicwd,Profile-Visual,2022-12-09 12:45:03.638861,hp 449
+459,yicwd,Profile-Visual,2022-12-09 12:45:03.640855,armor 87
+460,yicwd,Profile-Visual,2022-12-09 12:45:03.644845,hp 449
+461,yicwd,Profile-Visual,2022-12-09 12:45:03.647837,armor 87
+462,yicwd,Profile-Visual,2022-12-09 12:45:03.649832,hp 449
+463,yicwd,Profile-Visual,2022-12-09 12:45:03.651825,armor 87
+464,yicwd,Profile-Visual,2022-12-09 12:45:03.657810,hp 449
+465,yicwd,Profile-Visual,2022-12-09 12:45:03.659806,armor 87
+466,yicwd,Profile-Visual,2022-12-09 12:45:05.226073,auto regenerate armor
+467,yicwd,Profile-Visual,2022-12-09 12:45:05.230061,hp 449
+468,yicwd,Profile-Visual,2022-12-09 12:45:05.232056,armor 87
+469,yicwd,Profile-Visual,2022-12-09 12:45:08.647486,hp 460
+470,yicwd,Profile-Visual,2022-12-09 12:45:08.650477,armor 91
+471,yicwd,Profile-Visual,2022-12-09 12:45:08.655465,hp 460
+472,yicwd,Profile-Visual,2022-12-09 12:45:08.659454,armor 91
+473,yicwd,Profile-Visual,2022-12-09 12:45:08.667432,hp 460
+474,yicwd,Profile-Visual,2022-12-09 12:45:08.669427,armor 91
+475,yicwd,Profile-Visual,2022-12-09 12:45:08.673417,hp 460
+476,yicwd,Profile-Visual,2022-12-09 12:45:08.676409,armor 91
+477,yicwd,Profile-Visual,2022-12-09 12:45:26.325456,stance_crouched 0
+478,yicwd,Profile-Visual,2022-12-09 12:45:31.554612,hp 460
+479,yicwd,Profile-Visual,2022-12-09 12:45:31.557604,armor 91
+480,yicwd,Profile-Visual,2022-12-09 12:45:31.563588,hp 460
+481,yicwd,Profile-Visual,2022-12-09 12:45:31.566581,armor 91
+482,yicwd,Profile-Visual,2022-12-09 12:45:31.570570,health_subtracted 0
+483,yicwd,Profile-Visual,2022-12-09 12:45:31.575556,shielded hit
+484,yicwd,Profile-Visual,2022-12-09 12:45:31.579546,hp 460
+485,yicwd,Profile-Visual,2022-12-09 12:45:31.581542,armor 91
+486,yicwd,Profile-Visual,2022-12-09 12:45:34.012978,auto regenerate armor
+487,yicwd,Profile-Visual,2022-12-09 12:45:34.017965,hp 460
+488,yicwd,Profile-Visual,2022-12-09 12:45:34.019959,armor 89
+489,yicwd,Profile-Visual,2022-12-09 12:45:35.482561,hp 460
+490,yicwd,Profile-Visual,2022-12-09 12:45:35.485553,armor 91
+491,yicwd,Profile-Visual,2022-12-09 12:45:35.488545,killed an enemy
+492,yicwd,Profile-Visual,2022-12-09 12:45:35.493532,enemy_headshot
+493,yicwd,Profile-Visual,2022-12-09 12:45:35.499515,weapon_fired 0
+494,yicwd,Profile-Visual,2022-12-09 12:45:35.505500,weapon_fired 1
+495,yicwd,Profile-Visual,2022-12-09 12:45:38.316966,shielded hit
+496,yicwd,Profile-Visual,2022-12-09 12:45:38.328934,hp 460
+497,yicwd,Profile-Visual,2022-12-09 12:45:38.330929,armor 91
+498,yicwd,Profile-Visual,2022-12-09 12:45:38.333920,hp 460
+499,yicwd,Profile-Visual,2022-12-09 12:45:38.335916,armor 91
+500,yicwd,Profile-Visual,2022-12-09 12:45:38.341899,health_subtracted 0
+501,yicwd,Profile-Visual,2022-12-09 12:45:38.344891,hp 460
+502,yicwd,Profile-Visual,2022-12-09 12:45:38.348881,armor 91
+503,yicwd,Profile-Visual,2022-12-09 12:45:38.699291,weapon_fired 0
+504,yicwd,Profile-Visual,2022-12-09 12:45:38.703280,weapon_fired 1
+505,yicwd,Profile-Visual,2022-12-09 12:45:39.118125,hp 460
+506,yicwd,Profile-Visual,2022-12-09 12:45:39.122114,armor 71
+507,yicwd,Profile-Visual,2022-12-09 12:45:39.128099,shielded hit
+508,yicwd,Profile-Visual,2022-12-09 12:45:39.135080,hp 460
+509,yicwd,Profile-Visual,2022-12-09 12:45:39.137075,armor 71
+510,yicwd,Profile-Visual,2022-12-09 12:45:39.140065,hp 460
+511,yicwd,Profile-Visual,2022-12-09 12:45:39.142061,armor 71
+512,yicwd,Profile-Visual,2022-12-09 12:45:39.144055,health_subtracted 0
+513,yicwd,Profile-Visual,2022-12-09 12:45:39.317591,weapon_fired 0
+514,yicwd,Profile-Visual,2022-12-09 12:45:39.696578,hp 460
+515,yicwd,Profile-Visual,2022-12-09 12:45:39.698573,armor 61
+516,yicwd,Profile-Visual,2022-12-09 12:45:39.704557,shielded hit
+517,yicwd,Profile-Visual,2022-12-09 12:45:39.709543,health_subtracted 0
+518,yicwd,Profile-Visual,2022-12-09 12:45:39.714530,hp 460
+519,yicwd,Profile-Visual,2022-12-09 12:45:39.718519,armor 61
+520,yicwd,Profile-Visual,2022-12-09 12:45:39.722508,hp 460
+521,yicwd,Profile-Visual,2022-12-09 12:45:39.724504,armor 61
+522,yicwd,Profile-Visual,2022-12-09 12:45:39.729490,killed an enemy
+523,yicwd,Profile-Visual,2022-12-09 12:45:39.733479,weapon_fired 0
+524,yicwd,Profile-Visual,2022-12-09 12:45:39.735473,weapon_fired 1
+525,yicwd,Profile-Visual,2022-12-09 12:45:40.166922,hp 460
+526,yicwd,Profile-Visual,2022-12-09 12:45:40.168916,armor 51
+527,yicwd,Profile-Visual,2022-12-09 12:45:40.172905,killed an enemy
+528,yicwd,Profile-Visual,2022-12-09 12:45:40.179886,enemy_headshot
+529,yicwd,Profile-Visual,2022-12-09 12:45:40.182878,killed an enemy
+530,yicwd,Profile-Visual,2022-12-09 12:45:40.185871,weapon_fired 1
+531,yicwd,Profile-Visual,2022-12-09 12:45:40.192851,weapon_fired 0
+532,yicwd,Profile-Visual,2022-12-09 12:45:40.541918,shielded hit
+533,yicwd,Profile-Visual,2022-12-09 12:45:40.545907,hp 460
+534,yicwd,Profile-Visual,2022-12-09 12:45:40.547903,armor 75
+535,yicwd,Profile-Visual,2022-12-09 12:45:40.553886,hp 460
+536,yicwd,Profile-Visual,2022-12-09 12:45:40.556878,armor 75
+537,yicwd,Profile-Visual,2022-12-09 12:45:40.559870,hp 460
+538,yicwd,Profile-Visual,2022-12-09 12:45:40.561866,armor 75
+539,yicwd,Profile-Visual,2022-12-09 12:45:40.567848,health_subtracted 0
+540,yicwd,Profile-Visual,2022-12-09 12:45:40.819196,stance_crouched 1
+541,yicwd,Profile-Visual,2022-12-09 12:45:41.341798,hp 460
+542,yicwd,Profile-Visual,2022-12-09 12:45:41.343794,armor 68
+543,yicwd,Profile-Visual,2022-12-09 12:45:41.347783,hp 460
+544,yicwd,Profile-Visual,2022-12-09 12:45:41.349778,armor 68
+545,yicwd,Profile-Visual,2022-12-09 12:45:41.353767,shielded hit
+546,yicwd,Profile-Visual,2022-12-09 12:45:41.359750,health_subtracted 0
+547,yicwd,Profile-Visual,2022-12-09 12:45:41.362742,hp 460
+548,yicwd,Profile-Visual,2022-12-09 12:45:41.365735,armor 68
+549,yicwd,Profile-Visual,2022-12-09 12:45:41.387676,weapon_fired 0
+550,yicwd,Profile-Visual,2022-12-09 12:45:41.522316,health_subtracted 0
+551,yicwd,Profile-Visual,2022-12-09 12:45:41.525307,shielded hit
+552,yicwd,Profile-Visual,2022-12-09 12:45:41.532289,hp 460
+553,yicwd,Profile-Visual,2022-12-09 12:45:41.534284,armor 61
+554,yicwd,Profile-Visual,2022-12-09 12:45:41.537276,hp 460
+555,yicwd,Profile-Visual,2022-12-09 12:45:41.539271,armor 61
+556,yicwd,Profile-Visual,2022-12-09 12:45:41.543260,hp 460
+557,yicwd,Profile-Visual,2022-12-09 12:45:41.545255,armor 61
+558,yicwd,Profile-Visual,2022-12-09 12:45:41.851166,enemy_headshot
+559,yicwd,Profile-Visual,2022-12-09 12:45:41.855155,killed an enemy
+560,yicwd,Profile-Visual,2022-12-09 12:45:41.859146,weapon_fired 0
+561,yicwd,Profile-Visual,2022-12-09 12:45:41.865128,weapon_fired 1
+562,yicwd,Profile-Visual,2022-12-09 12:45:42.253411,shielded hit
+563,yicwd,Profile-Visual,2022-12-09 12:45:42.261389,hp 460
+564,yicwd,Profile-Visual,2022-12-09 12:45:42.264381,armor 50
+565,yicwd,Profile-Visual,2022-12-09 12:45:42.269368,hp 460
+566,yicwd,Profile-Visual,2022-12-09 12:45:42.270365,armor 50
+567,yicwd,Profile-Visual,2022-12-09 12:45:42.274355,health_subtracted 0
+568,yicwd,Profile-Visual,2022-12-09 12:45:42.280339,hp 460
+569,yicwd,Profile-Visual,2022-12-09 12:45:42.282333,armor 50
+570,yicwd,Profile-Visual,2022-12-09 12:45:42.707705,weapon_fired 0
+571,yicwd,Profile-Visual,2022-12-09 12:45:43.221331,hp 460
+572,yicwd,Profile-Visual,2022-12-09 12:45:43.223326,armor 46
+573,yicwd,Profile-Visual,2022-12-09 12:45:43.226318,enemy_headshot
+574,yicwd,Profile-Visual,2022-12-09 12:45:43.230308,killed an enemy
+575,yicwd,Profile-Visual,2022-12-09 12:45:43.235294,weapon_fired 0
+576,yicwd,Profile-Visual,2022-12-09 12:45:43.237290,weapon_fired 1
+577,yicwd,Profile-Visual,2022-12-09 12:45:43.282169,shielded hit
+578,yicwd,Profile-Visual,2022-12-09 12:45:43.285161,hp 460
+579,yicwd,Profile-Visual,2022-12-09 12:45:43.287155,armor 57
+580,yicwd,Profile-Visual,2022-12-09 12:45:43.297129,hp 460
+581,yicwd,Profile-Visual,2022-12-09 12:45:43.299124,armor 57
+582,yicwd,Profile-Visual,2022-12-09 12:45:43.304110,health_subtracted 0
+583,yicwd,Profile-Visual,2022-12-09 12:45:43.307101,hp 460
+584,yicwd,Profile-Visual,2022-12-09 12:45:43.309096,armor 57
+585,yicwd,Profile-Visual,2022-12-09 12:45:44.350741,stance_crouched 0
+586,yicwd,Profile-Visual,2022-12-09 12:45:51.112798,hp 460
+587,yicwd,Profile-Visual,2022-12-09 12:45:51.114791,armor 61
+588,yicwd,Profile-Visual,2022-12-09 12:45:51.120775,auto regenerate armor
+589,yicwd,Profile-Visual,2022-12-09 12:45:51.887541,hp 460
+590,yicwd,Profile-Visual,2022-12-09 12:45:51.889536,armor 91
+591,yicwd,Profile-Visual,2022-12-09 12:45:51.893525,enemy_headshot
+592,yicwd,Profile-Visual,2022-12-09 12:45:51.898512,killed an enemy
+593,yicwd,Profile-Visual,2022-12-09 12:45:51.902501,weapon_fired 0
+594,yicwd,Profile-Visual,2022-12-09 12:45:51.905493,weapon_fired 1
+595,yicwd,Profile-Visual,2022-12-09 12:45:53.153175,weapon_fired 0
+596,yicwd,Profile-Visual,2022-12-09 12:45:53.159217,weapon_fired 1
+597,yicwd,Profile-Visual,2022-12-09 12:45:53.588992,enemy_headshot
+598,yicwd,Profile-Visual,2022-12-09 12:45:53.592982,killed an enemy
+599,yicwd,Profile-Visual,2022-12-09 12:45:53.597968,weapon_fired 0
+600,yicwd,Profile-Visual,2022-12-09 12:45:53.600961,weapon_fired 1
+601,yicwd,Profile-Visual,2022-12-09 12:45:54.043657,killed an enemy
+602,yicwd,Profile-Visual,2022-12-09 12:45:54.046650,hp 460
+603,yicwd,Profile-Visual,2022-12-09 12:45:54.048644,armor 91
+604,yicwd,Profile-Visual,2022-12-09 12:45:54.050639,enemy_headshot
+605,yicwd,Profile-Visual,2022-12-09 12:45:54.053631,weapon_fired 1
+606,yicwd,Profile-Visual,2022-12-09 12:45:54.056804,weapon_fired 0
+607,yicwd,Profile-Visual,2022-12-09 12:45:55.421135,auto regenerate armor
+608,yicwd,Profile-Visual,2022-12-09 12:45:55.425126,hp 460
+609,yicwd,Profile-Visual,2022-12-09 12:45:55.427119,armor 91
+610,yicwd,Profile-Visual,2022-12-09 12:45:55.462050,stance_crouched 1
+611,yicwd,Profile-Visual,2022-12-09 12:46:00.395926,stance_crouched 1
+612,yicwd,Profile-Visual,2022-12-09 12:46:05.998770,stance_crouched 1
+613,yicwd,Profile-Visual,2022-12-09 12:46:12.766996,stance_crouched 0
+614,yicwd,Profile-Visual,2022-12-09 12:46:13.100624,stance_crouched 0
+615,yicwd,Profile-Visual,2022-12-09 12:46:15.870324,killed an enemy
+616,yicwd,Profile-Visual,2022-12-09 12:46:15.876309,weapon_fired 0
+617,yicwd,Profile-Visual,2022-12-09 12:46:15.882293,weapon_fired 1
+618,yicwd,Profile-Visual,2022-12-09 12:46:17.193028,complete_objective Blow_open_the_floor
+619,yicwd,Profile-Visual,2022-12-09 12:46:18.208314,activate_objective Enter_the_vault_room
+620,yicwd,Profile-Visual,2022-12-09 12:46:18.232250,hp 460
+621,yicwd,Profile-Visual,2022-12-09 12:46:18.234243,armor 91
+622,yicwd,Profile-Visual,2022-12-09 12:46:18.237237,auto regenerate armor
+623,yicwd,Profile-Visual,2022-12-09 12:46:19.411065,stance_crouched 1
+624,yicwd,Profile-Visual,2022-12-09 12:46:19.923919,stance_crouched 1
+625,yicwd,Profile-Visual,2022-12-09 12:46:20.829461,complete_objective Enter_the_vault_room
+626,yicwd,Profile-Visual,2022-12-09 12:46:21.065829,stance_crouched 0
+627,yicwd,Profile-Visual,2022-12-09 12:46:21.711255,hp 460
+628,yicwd,Profile-Visual,2022-12-09 12:46:21.714247,armor 91
+629,yicwd,Profile-Visual,2022-12-09 12:46:21.722226,auto regenerate armor
+630,yicwd,Profile-Visual,2022-12-09 12:46:21.822359,activate_objective Disable_the_security_shutters
+631,yicwd,Profile-Visual,2022-12-09 12:46:22.984028,complete_objective Disable_the_security_shutters
+632,yicwd,Profile-Visual,2022-12-09 12:46:23.980947,activate_objective Place_the_drill_on_the_vault
+633,yicwd,Profile-Visual,2022-12-09 12:46:24.948895,stance_crouched 0
+634,yicwd,Profile-Visual,2022-12-09 12:46:28.830079,complete_objective Place_the_drill_on_the_vault
+635,yicwd,Profile-Visual,2022-12-09 12:46:29.825010,activate_objective Defend_the_drill
+636,yicwd,Profile-Visual,2022-12-09 12:46:31.913634,hp 460
+637,yicwd,Profile-Visual,2022-12-09 12:46:31.917623,armor 91
+638,yicwd,Profile-Visual,2022-12-09 12:46:31.919619,shielded hit
+639,yicwd,Profile-Visual,2022-12-09 12:46:31.928594,hp 460
+640,yicwd,Profile-Visual,2022-12-09 12:46:31.930589,armor 91
+641,yicwd,Profile-Visual,2022-12-09 12:46:31.934578,health_subtracted 0
+642,yicwd,Profile-Visual,2022-12-09 12:46:31.938567,hp 460
+643,yicwd,Profile-Visual,2022-12-09 12:46:31.940563,armor 91
+644,yicwd,Profile-Visual,2022-12-09 12:46:33.486714,killed an enemy
+645,yicwd,Profile-Visual,2022-12-09 12:46:33.490703,enemy_headshot
+646,yicwd,Profile-Visual,2022-12-09 12:46:33.494692,hp 460
+647,yicwd,Profile-Visual,2022-12-09 12:46:33.497684,armor 81
+648,yicwd,Profile-Visual,2022-12-09 12:46:33.502671,weapon_fired 0
+649,yicwd,Profile-Visual,2022-12-09 12:46:33.505663,weapon_fired 1
+650,yicwd,Profile-Visual,2022-12-09 12:46:33.768872,shielded hit
+651,yicwd,Profile-Visual,2022-12-09 12:46:33.772862,hp 460
+652,yicwd,Profile-Visual,2022-12-09 12:46:33.774857,armor 90
+653,yicwd,Profile-Visual,2022-12-09 12:46:33.780840,hp 460
+654,yicwd,Profile-Visual,2022-12-09 12:46:33.782835,armor 90
+655,yicwd,Profile-Visual,2022-12-09 12:46:33.791810,hp 460
+656,yicwd,Profile-Visual,2022-12-09 12:46:33.793805,armor 90
+657,yicwd,Profile-Visual,2022-12-09 12:46:33.799789,health_subtracted 0
+658,yicwd,Profile-Visual,2022-12-09 12:46:34.044074,weapon_fired 1
+659,yicwd,Profile-Visual,2022-12-09 12:46:34.046069,weapon_fired 0
+660,yicwd,Profile-Visual,2022-12-09 12:46:34.451984,shielded hit
+661,yicwd,Profile-Visual,2022-12-09 12:46:34.458964,hp 460
+662,yicwd,Profile-Visual,2022-12-09 12:46:34.460959,armor 87
+663,yicwd,Profile-Visual,2022-12-09 12:46:34.468937,hp 460
+664,yicwd,Profile-Visual,2022-12-09 12:46:34.471930,armor 87
+665,yicwd,Profile-Visual,2022-12-09 12:46:34.477914,health_subtracted 0
+666,yicwd,Profile-Visual,2022-12-09 12:46:34.480906,hp 460
+667,yicwd,Profile-Visual,2022-12-09 12:46:34.482901,armor 87
+668,yicwd,Profile-Visual,2022-12-09 12:46:34.575652,enemy_headshot
+669,yicwd,Profile-Visual,2022-12-09 12:46:34.582634,killed an enemy
+670,yicwd,Profile-Visual,2022-12-09 12:46:34.585626,weapon_fired 0
+671,yicwd,Profile-Visual,2022-12-09 12:46:34.587620,weapon_fired 1
+672,yicwd,Profile-Visual,2022-12-09 12:46:35.082297,weapon_fired 0
+673,yicwd,Profile-Visual,2022-12-09 12:46:35.774954,weapon_fired 0
+674,yicwd,Profile-Visual,2022-12-09 12:46:36.707269,weapon_fired 0
+675,yicwd,Profile-Visual,2022-12-09 12:46:37.102945,stance_crouched 0
+676,yicwd,Profile-Visual,2022-12-09 12:46:37.640507,hp 460
+677,yicwd,Profile-Visual,2022-12-09 12:46:37.642502,armor 77
+678,yicwd,Profile-Visual,2022-12-09 12:46:37.648486,enemy_headshot
+679,yicwd,Profile-Visual,2022-12-09 12:46:37.651478,killed an enemy
+680,yicwd,Profile-Visual,2022-12-09 12:46:37.659457,weapon_fired 1
+681,yicwd,Profile-Visual,2022-12-09 12:46:37.661451,weapon_fired 0
+682,yicwd,Profile-Visual,2022-12-09 12:46:38.282817,stance_crouched 0
+683,yicwd,Profile-Visual,2022-12-09 12:46:39.909937,hp 460
+684,yicwd,Profile-Visual,2022-12-09 12:46:39.911931,armor 91
+685,yicwd,Profile-Visual,2022-12-09 12:46:39.916918,auto regenerate armor
+686,yicwd,Profile-Visual,2022-12-09 12:46:42.691285,auto regenerate armor
+687,yicwd,Profile-Visual,2022-12-09 12:46:42.695264,hp 460
+688,yicwd,Profile-Visual,2022-12-09 12:46:42.698257,armor 91
+689,yicwd,Profile-Visual,2022-12-09 12:46:44.928506,shielded hit
+690,yicwd,Profile-Visual,2022-12-09 12:46:44.934491,hp 460
+691,yicwd,Profile-Visual,2022-12-09 12:46:44.938480,armor 91
+692,yicwd,Profile-Visual,2022-12-09 12:46:44.941472,hp 460
+693,yicwd,Profile-Visual,2022-12-09 12:46:44.943467,armor 91
+694,yicwd,Profile-Visual,2022-12-09 12:46:44.946459,hp 460
+695,yicwd,Profile-Visual,2022-12-09 12:46:44.949451,armor 91
+696,yicwd,Profile-Visual,2022-12-09 12:46:44.952442,health_subtracted 0
+697,yicwd,Profile-Visual,2022-12-09 12:46:53.335139,auto regenerate armor
+698,yicwd,Profile-Visual,2022-12-09 12:46:53.338138,hp 460
+699,yicwd,Profile-Visual,2022-12-09 12:46:53.340126,armor 87
+700,yicwd,Profile-Visual,2022-12-09 12:46:53.819842,stance_crouched 1
+701,yicwd,Profile-Visual,2022-12-09 12:46:56.288044,hp 460
+702,yicwd,Profile-Visual,2022-12-09 12:46:56.291037,armor 91
+703,yicwd,Profile-Visual,2022-12-09 12:46:56.295025,shielded hit
+704,yicwd,Profile-Visual,2022-12-09 12:46:56.302006,hp 460
+705,yicwd,Profile-Visual,2022-12-09 12:46:56.304001,armor 91
+706,yicwd,Profile-Visual,2022-12-09 12:46:56.309986,health_subtracted 0
+707,yicwd,Profile-Visual,2022-12-09 12:46:56.314972,hp 460
+708,yicwd,Profile-Visual,2022-12-09 12:46:56.317965,armor 91
+709,yicwd,Profile-Visual,2022-12-09 12:46:57.111835,weapon_fired 0
+710,yicwd,Profile-Visual,2022-12-09 12:46:58.298668,stance_crouched 0
+711,yicwd,Profile-Visual,2022-12-09 12:46:58.932990,auto regenerate armor
+712,yicwd,Profile-Visual,2022-12-09 12:46:58.936979,hp 460
+713,yicwd,Profile-Visual,2022-12-09 12:46:58.939971,armor 79
+714,yicwd,Profile-Visual,2022-12-09 12:47:00.110682,weapon_fired 0
+715,yicwd,Profile-Visual,2022-12-09 12:47:00.879394,enemy_headshot
+716,yicwd,Profile-Visual,2022-12-09 12:47:00.886376,hp 460
+717,yicwd,Profile-Visual,2022-12-09 12:47:00.889368,armor 91
+718,yicwd,Profile-Visual,2022-12-09 12:47:00.894354,killed an enemy
+719,yicwd,Profile-Visual,2022-12-09 12:47:00.897346,weapon_fired 0
+720,yicwd,Profile-Visual,2022-12-09 12:47:00.907320,weapon_fired 1
+721,yicwd,Profile-Visual,2022-12-09 12:47:01.619415,hp 460
+722,yicwd,Profile-Visual,2022-12-09 12:47:01.621410,armor 91
+723,yicwd,Profile-Visual,2022-12-09 12:47:01.630387,auto regenerate armor
+724,yicwd,Profile-Visual,2022-12-09 12:47:07.097857,shielded hit
+725,yicwd,Profile-Visual,2022-12-09 12:47:07.100848,hp 460
+726,yicwd,Profile-Visual,2022-12-09 12:47:07.103841,armor 91
+727,yicwd,Profile-Visual,2022-12-09 12:47:07.108828,hp 460
+728,yicwd,Profile-Visual,2022-12-09 12:47:07.110821,armor 91
+729,yicwd,Profile-Visual,2022-12-09 12:47:07.113814,health_subtracted 0
+730,yicwd,Profile-Visual,2022-12-09 12:47:07.118801,hp 460
+731,yicwd,Profile-Visual,2022-12-09 12:47:07.120795,armor 91
+732,yicwd,Profile-Visual,2022-12-09 12:47:07.813510,stance_crouched 1
+733,yicwd,Profile-Visual,2022-12-09 12:47:07.839442,shielded hit
+734,yicwd,Profile-Visual,2022-12-09 12:47:07.846422,hp 460
+735,yicwd,Profile-Visual,2022-12-09 12:47:07.849414,armor 87
+736,yicwd,Profile-Visual,2022-12-09 12:47:07.853403,health_subtracted 0
+737,yicwd,Profile-Visual,2022-12-09 12:47:07.857393,hp 460
+738,yicwd,Profile-Visual,2022-12-09 12:47:07.860385,armor 87
+739,yicwd,Profile-Visual,2022-12-09 12:47:07.863376,hp 460
+740,yicwd,Profile-Visual,2022-12-09 12:47:07.864374,armor 87
+741,yicwd,Profile-Visual,2022-12-09 12:47:08.335134,shielded hit
+742,yicwd,Profile-Visual,2022-12-09 12:47:08.341118,hp 460
+743,yicwd,Profile-Visual,2022-12-09 12:47:08.343112,armor 83
+744,yicwd,Profile-Visual,2022-12-09 12:47:08.349097,hp 460
+745,yicwd,Profile-Visual,2022-12-09 12:47:08.352088,armor 83
+746,yicwd,Profile-Visual,2022-12-09 12:47:08.357074,hp 460
+747,yicwd,Profile-Visual,2022-12-09 12:47:08.359078,armor 83
+748,yicwd,Profile-Visual,2022-12-09 12:47:08.363059,health_subtracted 0
+749,yicwd,Profile-Visual,2022-12-09 12:47:09.173761,stance_crouched 0
+750,yicwd,Profile-Visual,2022-12-09 12:47:11.293050,hp 460
+751,yicwd,Profile-Visual,2022-12-09 12:47:11.294048,armor 79
+752,yicwd,Profile-Visual,2022-12-09 12:47:11.300032,auto regenerate armor
+753,yicwd,Profile-Visual,2022-12-09 12:47:26.094661,hp 460
+754,yicwd,Profile-Visual,2022-12-09 12:47:26.098650,armor 91
+755,yicwd,Profile-Visual,2022-12-09 12:47:26.103637,shielded hit
+756,yicwd,Profile-Visual,2022-12-09 12:47:26.110618,hp 460
+757,yicwd,Profile-Visual,2022-12-09 12:47:26.112613,armor 91
+758,yicwd,Profile-Visual,2022-12-09 12:47:26.116601,hp 460
+759,yicwd,Profile-Visual,2022-12-09 12:47:26.119595,armor 91
+760,yicwd,Profile-Visual,2022-12-09 12:47:26.122586,health_subtracted 0
+761,yicwd,Profile-Visual,2022-12-09 12:47:30.021379,hp 460
+762,yicwd,Profile-Visual,2022-12-09 12:47:30.024371,armor 71
+763,yicwd,Profile-Visual,2022-12-09 12:47:30.027363,auto regenerate armor
+764,yicwd,Profile-Visual,2022-12-09 12:47:45.704113,hp 460
+765,yicwd,Profile-Visual,2022-12-09 12:47:45.707105,armor 91
+766,yicwd,Profile-Visual,2022-12-09 12:47:45.710096,shielded hit
+767,yicwd,Profile-Visual,2022-12-09 12:47:45.714086,hp 460
+768,yicwd,Profile-Visual,2022-12-09 12:47:45.716080,armor 91
+769,yicwd,Profile-Visual,2022-12-09 12:47:45.718075,hp 460
+770,yicwd,Profile-Visual,2022-12-09 12:47:45.720069,armor 91
+771,yicwd,Profile-Visual,2022-12-09 12:47:45.723061,health_subtracted 0
+772,yicwd,Profile-Visual,2022-12-09 12:47:48.177908,hp 460
+773,yicwd,Profile-Visual,2022-12-09 12:47:48.180900,armor 71
+774,yicwd,Profile-Visual,2022-12-09 12:47:48.188390,auto regenerate armor
+775,yicwd,Profile-Visual,2022-12-09 12:47:56.710112,enemy_headshot
+776,yicwd,Profile-Visual,2022-12-09 12:47:56.712107,hp 460
+777,yicwd,Profile-Visual,2022-12-09 12:47:56.714102,armor 91
+778,yicwd,Profile-Visual,2022-12-09 12:47:56.717094,killed an enemy
+779,yicwd,Profile-Visual,2022-12-09 12:47:56.721082,weapon_fired 0
+780,yicwd,Profile-Visual,2022-12-09 12:47:56.725072,weapon_fired 1
+781,yicwd,Profile-Visual,2022-12-09 12:47:58.927798,hp 460
+782,yicwd,Profile-Visual,2022-12-09 12:47:58.929792,armor 91
+783,yicwd,Profile-Visual,2022-12-09 12:47:58.933781,enemy_headshot
+784,yicwd,Profile-Visual,2022-12-09 12:47:58.936773,weapon_fired 1
+785,yicwd,Profile-Visual,2022-12-09 12:47:58.941759,weapon_fired 0
+786,yicwd,Profile-Visual,2022-12-09 12:47:59.543173,killed an enemy
+787,yicwd,Profile-Visual,2022-12-09 12:47:59.547162,weapon_fired 1
+788,yicwd,Profile-Visual,2022-12-09 12:47:59.553146,weapon_fired 0
+789,yicwd,Profile-Visual,2022-12-09 12:48:06.439086,stance_crouched 0
+790,yicwd,Profile-Visual,2022-12-09 12:48:15.983463,hp 460
+791,yicwd,Profile-Visual,2022-12-09 12:48:15.985459,armor 91
+792,yicwd,Profile-Visual,2022-12-09 12:48:15.989448,enemy_headshot
+793,yicwd,Profile-Visual,2022-12-09 12:48:15.993436,killed an enemy
+794,yicwd,Profile-Visual,2022-12-09 12:48:15.996429,weapon_fired 1
+795,yicwd,Profile-Visual,2022-12-09 12:48:16.068237,weapon_fired 0
+796,yicwd,Profile-Visual,2022-12-09 12:48:17.651515,stance_crouched 0
+797,yicwd,Profile-Visual,2022-12-09 12:48:18.497795,hp 460
+798,yicwd,Profile-Visual,2022-12-09 12:48:18.500787,armor 91
+799,yicwd,Profile-Visual,2022-12-09 12:48:18.505773,killed an enemy
+800,yicwd,Profile-Visual,2022-12-09 12:48:18.510759,enemy_headshot
+801,yicwd,Profile-Visual,2022-12-09 12:48:18.514750,weapon_fired 0
+802,yicwd,Profile-Visual,2022-12-09 12:48:19.714770,weapon_fired 0
+803,yicwd,Profile-Visual,2022-12-09 12:48:20.119764,killed an enemy
+804,yicwd,Profile-Visual,2022-12-09 12:48:20.123753,enemy_headshot
+805,yicwd,Profile-Visual,2022-12-09 12:48:20.126744,weapon_fired 1
+806,yicwd,Profile-Visual,2022-12-09 12:48:20.129736,weapon_fired 0
+807,yicwd,Profile-Visual,2022-12-09 12:48:20.261775,hp 460
+808,yicwd,Profile-Visual,2022-12-09 12:48:20.263771,armor 91
+809,yicwd,Profile-Visual,2022-12-09 12:48:20.267760,shielded hit
+810,yicwd,Profile-Visual,2022-12-09 12:48:20.272746,hp 460
+811,yicwd,Profile-Visual,2022-12-09 12:48:20.274742,armor 91
+812,yicwd,Profile-Visual,2022-12-09 12:48:20.279728,hp 460
+813,yicwd,Profile-Visual,2022-12-09 12:48:20.282719,armor 91
+814,yicwd,Profile-Visual,2022-12-09 12:48:20.285712,health_subtracted 0
+815,yicwd,Profile-Visual,2022-12-09 12:48:20.624316,weapon_fired 0
+816,yicwd,Profile-Visual,2022-12-09 12:48:20.628306,weapon_fired 1
+817,yicwd,Profile-Visual,2022-12-09 12:48:21.798212,hp 460
+818,yicwd,Profile-Visual,2022-12-09 12:48:21.801204,armor 71
+819,yicwd,Profile-Visual,2022-12-09 12:48:21.806190,enemy_headshot
+820,yicwd,Profile-Visual,2022-12-09 12:48:21.813171,killed an enemy
+821,yicwd,Profile-Visual,2022-12-09 12:48:21.818158,weapon_fired 1
+822,yicwd,Profile-Visual,2022-12-09 12:48:21.825139,weapon_fired 0
+823,yicwd,Profile-Visual,2022-12-09 12:48:22.830101,shielded hit
+824,yicwd,Profile-Visual,2022-12-09 12:48:22.838079,hp 460
+825,yicwd,Profile-Visual,2022-12-09 12:48:22.840075,armor 91
+826,yicwd,Profile-Visual,2022-12-09 12:48:22.843066,hp 460
+827,yicwd,Profile-Visual,2022-12-09 12:48:22.845062,armor 91
+828,yicwd,Profile-Visual,2022-12-09 12:48:22.851044,health_subtracted 0
+829,yicwd,Profile-Visual,2022-12-09 12:48:22.854036,hp 460
+830,yicwd,Profile-Visual,2022-12-09 12:48:22.856061,armor 91
+831,yicwd,Profile-Visual,2022-12-09 12:48:22.923021,shielded hit
+832,yicwd,Profile-Visual,2022-12-09 12:48:22.929028,hp 460
+833,yicwd,Profile-Visual,2022-12-09 12:48:22.931024,armor 88
+834,yicwd,Profile-Visual,2022-12-09 12:48:22.941022,hp 460
+835,yicwd,Profile-Visual,2022-12-09 12:48:22.943018,armor 88
+836,yicwd,Profile-Visual,2022-12-09 12:48:22.948031,health_subtracted 0
+837,yicwd,Profile-Visual,2022-12-09 12:48:22.952019,hp 460
+838,yicwd,Profile-Visual,2022-12-09 12:48:22.954014,armor 88
+839,yicwd,Profile-Visual,2022-12-09 12:48:23.488355,shielded hit
+840,yicwd,Profile-Visual,2022-12-09 12:48:23.490349,hp 460
+841,yicwd,Profile-Visual,2022-12-09 12:48:23.493341,armor 77
+842,yicwd,Profile-Visual,2022-12-09 12:48:23.497331,hp 460
+843,yicwd,Profile-Visual,2022-12-09 12:48:23.502317,armor 77
+844,yicwd,Profile-Visual,2022-12-09 12:48:23.507304,hp 460
+845,yicwd,Profile-Visual,2022-12-09 12:48:23.509300,armor 77
+846,yicwd,Profile-Visual,2022-12-09 12:48:23.514286,health_subtracted 0
+847,yicwd,Profile-Visual,2022-12-09 12:48:23.692807,enemy_headshot
+848,yicwd,Profile-Visual,2022-12-09 12:48:23.701783,killed an enemy
+849,yicwd,Profile-Visual,2022-12-09 12:48:23.705774,weapon_fired 1
+850,yicwd,Profile-Visual,2022-12-09 12:48:23.708765,weapon_fired 0
+851,yicwd,Profile-Visual,2022-12-09 12:48:24.801948,stance_crouched 1
+852,yicwd,Profile-Visual,2022-12-09 12:48:25.958080,auto regenerate armor
+853,yicwd,Profile-Visual,2022-12-09 12:48:25.963067,hp 460
+854,yicwd,Profile-Visual,2022-12-09 12:48:25.965061,armor 67
+855,yicwd,Profile-Visual,2022-12-09 12:48:27.238199,stance_crouched 0
+856,yicwd,Profile-Visual,2022-12-09 12:48:28.323332,weapon_fired 0
+857,yicwd,Profile-Visual,2022-12-09 12:48:29.020468,weapon_fired 0
+858,yicwd,Profile-Visual,2022-12-09 12:48:29.023459,weapon_fired 1
+859,yicwd,Profile-Visual,2022-12-09 12:48:29.501730,weapon_fired 0
+860,yicwd,Profile-Visual,2022-12-09 12:48:30.047015,weapon_fired 0
+861,yicwd,Profile-Visual,2022-12-09 12:48:31.361158,shielded hit
+862,yicwd,Profile-Visual,2022-12-09 12:48:31.367142,hp 460
+863,yicwd,Profile-Visual,2022-12-09 12:48:31.369137,armor 91
+864,yicwd,Profile-Visual,2022-12-09 12:48:31.378113,hp 460
+865,yicwd,Profile-Visual,2022-12-09 12:48:31.380106,armor 91
+866,yicwd,Profile-Visual,2022-12-09 12:48:31.383099,hp 460
+867,yicwd,Profile-Visual,2022-12-09 12:48:31.386092,armor 91
+868,yicwd,Profile-Visual,2022-12-09 12:48:31.390081,health_subtracted 0
+869,yicwd,Profile-Visual,2022-12-09 12:48:32.110155,weapon_fired 0
+870,yicwd,Profile-Visual,2022-12-09 12:48:34.821566,hp 460
+871,yicwd,Profile-Visual,2022-12-09 12:48:34.823560,armor 71
+872,yicwd,Profile-Visual,2022-12-09 12:48:34.828547,shielded hit
+873,yicwd,Profile-Visual,2022-12-09 12:48:34.832537,health_subtracted 0
+874,yicwd,Profile-Visual,2022-12-09 12:48:34.835528,hp 460
+875,yicwd,Profile-Visual,2022-12-09 12:48:34.837524,armor 71
+876,yicwd,Profile-Visual,2022-12-09 12:48:34.841513,hp 460
+877,yicwd,Profile-Visual,2022-12-09 12:48:34.843507,armor 71
+878,yicwd,Profile-Visual,2022-12-09 12:48:35.236456,enemy_headshot
+879,yicwd,Profile-Visual,2022-12-09 12:48:35.245432,hp 460
+880,yicwd,Profile-Visual,2022-12-09 12:48:35.251416,armor 61
+881,yicwd,Profile-Visual,2022-12-09 12:48:35.255406,killed an enemy
+882,yicwd,Profile-Visual,2022-12-09 12:48:35.260392,weapon_fired 0
+883,yicwd,Profile-Visual,2022-12-09 12:48:35.264381,weapon_fired 1
+884,yicwd,Profile-Visual,2022-12-09 12:48:35.672877,weapon_fired 1
+885,yicwd,Profile-Visual,2022-12-09 12:48:35.676868,enemy_headshot
+886,yicwd,Profile-Visual,2022-12-09 12:48:35.679858,weapon_fired 0
+887,yicwd,Profile-Visual,2022-12-09 12:48:36.346452,weapon_fired 0
+888,yicwd,Profile-Visual,2022-12-09 12:48:36.871081,killed an enemy
+889,yicwd,Profile-Visual,2022-12-09 12:48:36.876038,weapon_fired 1
+890,yicwd,Profile-Visual,2022-12-09 12:48:36.880027,weapon_fired 0
+891,yicwd,Profile-Visual,2022-12-09 12:48:37.307484,auto regenerate armor
+892,yicwd,Profile-Visual,2022-12-09 12:48:37.311473,hp 460
+893,yicwd,Profile-Visual,2022-12-09 12:48:37.313468,armor 86
+894,yicwd,Profile-Visual,2022-12-09 12:48:38.603763,stance_crouched 1
+895,yicwd,Profile-Visual,2022-12-09 12:48:48.495768,stance_crouched 0
+896,yicwd,Profile-Visual,2022-12-09 12:48:51.218009,enemy_headshot
+897,yicwd,Profile-Visual,2022-12-09 12:48:51.221998,killed an enemy
+898,yicwd,Profile-Visual,2022-12-09 12:48:51.224990,hp 460
+899,yicwd,Profile-Visual,2022-12-09 12:48:51.227982,armor 91
+900,yicwd,Profile-Visual,2022-12-09 12:48:51.230974,weapon_fired 1
+901,yicwd,Profile-Visual,2022-12-09 12:48:51.235961,weapon_fired 0
+902,yicwd,Profile-Visual,2022-12-09 12:48:57.602751,hp 460
+903,yicwd,Profile-Visual,2022-12-09 12:48:57.604746,armor 91
+904,yicwd,Profile-Visual,2022-12-09 12:48:57.609733,auto regenerate armor
+905,yicwd,Profile-Visual,2022-12-09 12:48:58.613066,weapon_fired 0
+906,yicwd,Profile-Visual,2022-12-09 12:48:58.623039,weapon_fired 1
+907,yicwd,Profile-Visual,2022-12-09 12:48:58.724609,shielded hit
+908,yicwd,Profile-Visual,2022-12-09 12:48:58.728599,hp 460
+909,yicwd,Profile-Visual,2022-12-09 12:48:58.730593,armor 91
+910,yicwd,Profile-Visual,2022-12-09 12:48:58.735580,hp 460
+911,yicwd,Profile-Visual,2022-12-09 12:48:58.738573,armor 91
+912,yicwd,Profile-Visual,2022-12-09 12:48:58.743559,hp 460
+913,yicwd,Profile-Visual,2022-12-09 12:48:58.746551,armor 91
+914,yicwd,Profile-Visual,2022-12-09 12:48:58.750541,health_subtracted 0
+915,yicwd,Profile-Visual,2022-12-09 12:48:59.196536,weapon_fired 0
+916,yicwd,Profile-Visual,2022-12-09 12:48:59.655309,weapon_fired 0
+917,yicwd,Profile-Visual,2022-12-09 12:49:00.187886,weapon_fired 0
+918,yicwd,Profile-Visual,2022-12-09 12:49:00.192872,weapon_fired 1
+919,yicwd,Profile-Visual,2022-12-09 12:49:01.204384,auto regenerate armor
+920,yicwd,Profile-Visual,2022-12-09 12:49:01.211365,hp 460
+921,yicwd,Profile-Visual,2022-12-09 12:49:01.215356,armor 71
+922,yicwd,Profile-Visual,2022-12-09 12:49:03.297294,hp 460
+923,yicwd,Profile-Visual,2022-12-09 12:49:03.300286,armor 91
+924,yicwd,Profile-Visual,2022-12-09 12:49:03.304275,shielded hit
+925,yicwd,Profile-Visual,2022-12-09 12:49:03.311256,hp 460
+926,yicwd,Profile-Visual,2022-12-09 12:49:03.313251,armor 91
+927,yicwd,Profile-Visual,2022-12-09 12:49:03.321230,health_subtracted 0
+928,yicwd,Profile-Visual,2022-12-09 12:49:03.327214,hp 460
+929,yicwd,Profile-Visual,2022-12-09 12:49:03.329208,armor 91
+930,yicwd,Profile-Visual,2022-12-09 12:49:03.528211,hp 460
+931,yicwd,Profile-Visual,2022-12-09 12:49:03.532200,armor 84
+932,yicwd,Profile-Visual,2022-12-09 12:49:03.535191,enemy_headshot
+933,yicwd,Profile-Visual,2022-12-09 12:49:03.539180,killed an enemy
+934,yicwd,Profile-Visual,2022-12-09 12:49:03.542173,weapon_fired 0
+935,yicwd,Profile-Visual,2022-12-09 12:49:03.550151,weapon_fired 1
+936,yicwd,Profile-Visual,2022-12-09 12:49:04.756103,killed an enemy
+937,yicwd,Profile-Visual,2022-12-09 12:49:04.762086,enemy_headshot
+938,yicwd,Profile-Visual,2022-12-09 12:49:04.767074,weapon_fired 1
+939,yicwd,Profile-Visual,2022-12-09 12:49:04.773057,weapon_fired 0
+940,yicwd,Profile-Visual,2022-12-09 12:49:05.714617,hp 460
+941,yicwd,Profile-Visual,2022-12-09 12:49:05.716611,armor 91
+942,yicwd,Profile-Visual,2022-12-09 12:49:05.721598,hp 460
+943,yicwd,Profile-Visual,2022-12-09 12:49:05.724589,armor 91
+944,yicwd,Profile-Visual,2022-12-09 12:49:05.734562,hp 460
+945,yicwd,Profile-Visual,2022-12-09 12:49:05.737555,armor 91
+946,yicwd,Profile-Visual,2022-12-09 12:49:05.742541,shielded hit
+947,yicwd,Profile-Visual,2022-12-09 12:49:05.745533,health_subtracted 0
+948,yicwd,Profile-Visual,2022-12-09 12:49:06.205304,stance_crouched 1
+949,yicwd,Profile-Visual,2022-12-09 12:49:06.526903,shielded hit
+950,yicwd,Profile-Visual,2022-12-09 12:49:06.529896,hp 460
+951,yicwd,Profile-Visual,2022-12-09 12:49:06.531890,armor 87
+952,yicwd,Profile-Visual,2022-12-09 12:49:06.537874,health_subtracted 0
+953,yicwd,Profile-Visual,2022-12-09 12:49:06.541863,hp 460
+954,yicwd,Profile-Visual,2022-12-09 12:49:06.543858,armor 87
+955,yicwd,Profile-Visual,2022-12-09 12:49:06.548845,hp 460
+956,yicwd,Profile-Visual,2022-12-09 12:49:06.549843,armor 87
+957,yicwd,Profile-Visual,2022-12-09 12:49:06.646583,weapon_fired 0
+958,yicwd,Profile-Visual,2022-12-09 12:49:07.098949,killed an enemy
+959,yicwd,Profile-Visual,2022-12-09 12:49:07.103936,enemy_headshot
+960,yicwd,Profile-Visual,2022-12-09 12:49:07.108924,hp 460
+961,yicwd,Profile-Visual,2022-12-09 12:49:07.110918,armor 83
+962,yicwd,Profile-Visual,2022-12-09 12:49:07.114907,weapon_fired 1
+963,yicwd,Profile-Visual,2022-12-09 12:49:07.118896,weapon_fired 0
+964,yicwd,Profile-Visual,2022-12-09 12:49:09.017870,hp 460
+965,yicwd,Profile-Visual,2022-12-09 12:49:09.020862,armor 91
+966,yicwd,Profile-Visual,2022-12-09 12:49:09.027843,auto regenerate armor
+967,yicwd,Profile-Visual,2022-12-09 12:49:10.465162,stance_crouched 0
+968,yicwd,Profile-Visual,2022-12-09 12:49:21.987024,hp 460
+969,yicwd,Profile-Visual,2022-12-09 12:49:21.989019,armor 91
+970,yicwd,Profile-Visual,2022-12-09 12:49:21.999989,shielded hit
+971,yicwd,Profile-Visual,2022-12-09 12:49:22.012955,hp 460
+972,yicwd,Profile-Visual,2022-12-09 12:49:22.015946,armor 91
+973,yicwd,Profile-Visual,2022-12-09 12:49:22.019936,health_subtracted 0
+974,yicwd,Profile-Visual,2022-12-09 12:49:22.022927,hp 460
+975,yicwd,Profile-Visual,2022-12-09 12:49:22.024922,armor 91
+976,yicwd,Profile-Visual,2022-12-09 12:49:22.549158,shielded hit
+977,yicwd,Profile-Visual,2022-12-09 12:49:22.557136,hp 460
+978,yicwd,Profile-Visual,2022-12-09 12:49:22.559131,armor 83
+979,yicwd,Profile-Visual,2022-12-09 12:49:22.563120,health_subtracted 0
+980,yicwd,Profile-Visual,2022-12-09 12:49:22.566112,hp 460
+981,yicwd,Profile-Visual,2022-12-09 12:49:22.569104,armor 83
+982,yicwd,Profile-Visual,2022-12-09 12:49:22.572096,hp 460
+983,yicwd,Profile-Visual,2022-12-09 12:49:22.574091,armor 83
+984,yicwd,Profile-Visual,2022-12-09 12:49:22.644126,killed an enemy
+985,yicwd,Profile-Visual,2022-12-09 12:49:22.649113,weapon_fired 0
+986,yicwd,Profile-Visual,2022-12-09 12:49:22.653103,weapon_fired 1
+987,yicwd,Profile-Visual,2022-12-09 12:49:23.206112,weapon_fired 0
+988,yicwd,Profile-Visual,2022-12-09 12:49:23.209105,weapon_fired 1
+989,yicwd,Profile-Visual,2022-12-09 12:49:25.055048,hp 460
+990,yicwd,Profile-Visual,2022-12-09 12:49:25.057042,armor 75
+991,yicwd,Profile-Visual,2022-12-09 12:49:25.060035,auto regenerate armor
+992,yicwd,Profile-Visual,2022-12-09 12:49:26.392555,hp 460
+993,yicwd,Profile-Visual,2022-12-09 12:49:26.394550,armor 91
+994,yicwd,Profile-Visual,2022-12-09 12:49:26.401532,enemy_headshot
+995,yicwd,Profile-Visual,2022-12-09 12:49:26.404524,killed an enemy
+996,yicwd,Profile-Visual,2022-12-09 12:49:26.411506,weapon_fired 1
+997,yicwd,Profile-Visual,2022-12-09 12:49:26.415494,weapon_fired 0
+998,yicwd,Profile-Visual,2022-12-09 12:49:26.886236,weapon_fired 0
+999,yicwd,Profile-Visual,2022-12-09 12:49:27.317939,enemy_headshot
+1000,yicwd,Profile-Visual,2022-12-09 12:49:27.322925,killed an enemy
+1001,yicwd,Profile-Visual,2022-12-09 12:49:27.329906,enemy_headshot
+1002,yicwd,Profile-Visual,2022-12-09 12:49:27.333896,killed an enemy
+1003,yicwd,Profile-Visual,2022-12-09 12:49:27.338884,weapon_fired 1
+1004,yicwd,Profile-Visual,2022-12-09 12:49:27.344867,weapon_fired 0
+1005,yicwd,Profile-Visual,2022-12-09 12:49:27.980298,enemy_headshot
+1006,yicwd,Profile-Visual,2022-12-09 12:49:27.983290,killed an enemy
+1007,yicwd,Profile-Visual,2022-12-09 12:49:27.990271,weapon_fired 0
+1008,yicwd,Profile-Visual,2022-12-09 12:49:28.723315,hp 460
+1009,yicwd,Profile-Visual,2022-12-09 12:49:28.725309,armor 91
+1010,yicwd,Profile-Visual,2022-12-09 12:49:28.730296,auto regenerate armor
+1011,yicwd,Profile-Visual,2022-12-09 12:49:29.181828,hp 460
+1012,yicwd,Profile-Visual,2022-12-09 12:49:29.183823,armor 91
+1013,yicwd,Profile-Visual,2022-12-09 12:49:29.190804,enemy_headshot
+1014,yicwd,Profile-Visual,2022-12-09 12:49:29.197786,killed an enemy
+1015,yicwd,Profile-Visual,2022-12-09 12:49:29.203769,weapon_fired 0
+1016,yicwd,Profile-Visual,2022-12-09 12:49:33.584535,enemy_headshot
+1017,yicwd,Profile-Visual,2022-12-09 12:49:33.589521,hp 460
+1018,yicwd,Profile-Visual,2022-12-09 12:49:33.591517,armor 91
+1019,yicwd,Profile-Visual,2022-12-09 12:49:33.596503,killed an enemy
+1020,yicwd,Profile-Visual,2022-12-09 12:49:33.599495,weapon_fired 0
+1021,yicwd,Profile-Visual,2022-12-09 12:49:33.605479,weapon_fired 1
+1022,yicwd,Profile-Visual,2022-12-09 12:49:42.053184,shielded hit
+1023,yicwd,Profile-Visual,2022-12-09 12:49:42.057174,hp 460
+1024,yicwd,Profile-Visual,2022-12-09 12:49:42.060165,armor 91
+1025,yicwd,Profile-Visual,2022-12-09 12:49:42.063158,hp 460
+1026,yicwd,Profile-Visual,2022-12-09 12:49:42.065152,armor 91
+1027,yicwd,Profile-Visual,2022-12-09 12:49:42.068145,health_subtracted 0
+1028,yicwd,Profile-Visual,2022-12-09 12:49:42.071137,hp 460
+1029,yicwd,Profile-Visual,2022-12-09 12:49:42.073131,armor 91
+1030,yicwd,Profile-Visual,2022-12-09 12:49:42.180843,weapon_fired 0
+1031,yicwd,Profile-Visual,2022-12-09 12:49:42.429180,hp 460
+1032,yicwd,Profile-Visual,2022-12-09 12:49:42.431174,armor 87
+1033,yicwd,Profile-Visual,2022-12-09 12:49:42.437157,shielded hit
+1034,yicwd,Profile-Visual,2022-12-09 12:49:42.444139,hp 460
+1035,yicwd,Profile-Visual,2022-12-09 12:49:42.448128,armor 87
+1036,yicwd,Profile-Visual,2022-12-09 12:49:42.451122,health_subtracted 0
+1037,yicwd,Profile-Visual,2022-12-09 12:49:42.456108,hp 460
+1038,yicwd,Profile-Visual,2022-12-09 12:49:42.458102,armor 87
+1039,yicwd,Profile-Visual,2022-12-09 12:49:42.917625,hp 460
+1040,yicwd,Profile-Visual,2022-12-09 12:49:42.920616,armor 79
+1041,yicwd,Profile-Visual,2022-12-09 12:49:42.924607,enemy_headshot
+1042,yicwd,Profile-Visual,2022-12-09 12:49:42.930590,killed an enemy
+1043,yicwd,Profile-Visual,2022-12-09 12:49:42.933582,weapon_fired 0
+1044,yicwd,Profile-Visual,2022-12-09 12:49:42.936575,weapon_fired 1
+1045,yicwd,Profile-Visual,2022-12-09 12:49:43.882174,shielded hit
+1046,yicwd,Profile-Visual,2022-12-09 12:49:43.893144,hp 460
+1047,yicwd,Profile-Visual,2022-12-09 12:49:43.895139,armor 91
+1048,yicwd,Profile-Visual,2022-12-09 12:49:43.901123,hp 460
+1049,yicwd,Profile-Visual,2022-12-09 12:49:43.903118,armor 91
+1050,yicwd,Profile-Visual,2022-12-09 12:49:43.906110,hp 460
+1051,yicwd,Profile-Visual,2022-12-09 12:49:43.909103,armor 91
+1052,yicwd,Profile-Visual,2022-12-09 12:49:43.913092,health_subtracted 0
+1053,yicwd,Profile-Visual,2022-12-09 12:49:45.205320,weapon_fired 0
+1054,yicwd,Profile-Visual,2022-12-09 12:49:45.643330,weapon_fired 0
+1055,yicwd,Profile-Visual,2022-12-09 12:49:45.647319,weapon_fired 1
+1056,yicwd,Profile-Visual,2022-12-09 12:49:46.660184,killed an enemy
+1057,yicwd,Profile-Visual,2022-12-09 12:49:46.663178,hp 460
+1058,yicwd,Profile-Visual,2022-12-09 12:49:46.665171,armor 81
+1059,yicwd,Profile-Visual,2022-12-09 12:49:46.667166,enemy_headshot
+1060,yicwd,Profile-Visual,2022-12-09 12:49:46.670158,weapon_fired 0
+1061,yicwd,Profile-Visual,2022-12-09 12:49:46.674147,weapon_fired 1
+1062,yicwd,Profile-Visual,2022-12-09 12:49:48.247320,hp 460
+1063,yicwd,Profile-Visual,2022-12-09 12:49:48.249316,armor 91
+1064,yicwd,Profile-Visual,2022-12-09 12:49:48.253304,hp 460
+1065,yicwd,Profile-Visual,2022-12-09 12:49:48.257293,armor 91
+1066,yicwd,Profile-Visual,2022-12-09 12:49:48.261284,hp 460
+1067,yicwd,Profile-Visual,2022-12-09 12:49:48.263279,armor 91
+1068,yicwd,Profile-Visual,2022-12-09 12:49:48.269261,shielded hit
+1069,yicwd,Profile-Visual,2022-12-09 12:49:48.276243,health_subtracted 0
+1070,yicwd,Profile-Visual,2022-12-09 12:49:49.782151,hp 460
+1071,yicwd,Profile-Visual,2022-12-09 12:49:49.784146,armor 81
+1072,yicwd,Profile-Visual,2022-12-09 12:49:49.789133,hp 460
+1073,yicwd,Profile-Visual,2022-12-09 12:49:49.791127,armor 81
+1074,yicwd,Profile-Visual,2022-12-09 12:49:49.794119,health_subtracted 0
+1075,yicwd,Profile-Visual,2022-12-09 12:49:49.798108,hp 460
+1076,yicwd,Profile-Visual,2022-12-09 12:49:49.800106,armor 81
+1077,yicwd,Profile-Visual,2022-12-09 12:49:49.808081,shielded hit
+1078,yicwd,Profile-Visual,2022-12-09 12:49:50.384323,shielded hit
+1079,yicwd,Profile-Visual,2022-12-09 12:49:50.396291,hp 460
+1080,yicwd,Profile-Visual,2022-12-09 12:49:50.399284,armor 71
+1081,yicwd,Profile-Visual,2022-12-09 12:49:50.403273,hp 460
+1082,yicwd,Profile-Visual,2022-12-09 12:49:50.407262,armor 71
+1083,yicwd,Profile-Visual,2022-12-09 12:49:50.413245,hp 460
+1084,yicwd,Profile-Visual,2022-12-09 12:49:50.415242,armor 71
+1085,yicwd,Profile-Visual,2022-12-09 12:49:50.420227,health_subtracted 0
+1086,yicwd,Profile-Visual,2022-12-09 12:49:50.676024,hp 460
+1087,yicwd,Profile-Visual,2022-12-09 12:49:50.680014,armor 52
+1088,yicwd,Profile-Visual,2022-12-09 12:49:50.684002,enemy_headshot
+1089,yicwd,Profile-Visual,2022-12-09 12:49:50.688989,killed an enemy
+1090,yicwd,Profile-Visual,2022-12-09 12:49:50.691981,weapon_fired 1
+1091,yicwd,Profile-Visual,2022-12-09 12:49:50.696968,weapon_fired 0
+1092,yicwd,Profile-Visual,2022-12-09 12:49:51.705371,killed an enemy
+1093,yicwd,Profile-Visual,2022-12-09 12:49:51.712351,enemy_headshot
+1094,yicwd,Profile-Visual,2022-12-09 12:49:51.716340,weapon_fired 0
+1095,yicwd,Profile-Visual,2022-12-09 12:49:51.722324,weapon_fired 1
+1096,yicwd,Profile-Visual,2022-12-09 12:49:53.590783,shielded hit
+1097,yicwd,Profile-Visual,2022-12-09 12:49:53.595770,hp 460
+1098,yicwd,Profile-Visual,2022-12-09 12:49:53.597764,armor 76
+1099,yicwd,Profile-Visual,2022-12-09 12:49:53.608735,hp 460
+1100,yicwd,Profile-Visual,2022-12-09 12:49:53.611727,armor 76
+1101,yicwd,Profile-Visual,2022-12-09 12:49:53.616714,health_subtracted 0
+1102,yicwd,Profile-Visual,2022-12-09 12:49:53.620703,hp 460
+1103,yicwd,Profile-Visual,2022-12-09 12:49:53.622698,armor 76
+1104,yicwd,Profile-Visual,2022-12-09 12:49:53.986724,weapon_fired 0
+1105,yicwd,Profile-Visual,2022-12-09 12:49:54.293909,hp 460
+1106,yicwd,Profile-Visual,2022-12-09 12:49:54.295905,armor 56
+1107,yicwd,Profile-Visual,2022-12-09 12:49:54.300884,shielded hit
+1108,yicwd,Profile-Visual,2022-12-09 12:49:54.303876,hp 460
+1109,yicwd,Profile-Visual,2022-12-09 12:49:54.305872,armor 56
+1110,yicwd,Profile-Visual,2022-12-09 12:49:54.309861,health_subtracted 0
+1111,yicwd,Profile-Visual,2022-12-09 12:49:54.314847,hp 460
+1112,yicwd,Profile-Visual,2022-12-09 12:49:54.316841,armor 56
+1113,yicwd,Profile-Visual,2022-12-09 12:49:54.760164,enemy_headshot
+1114,yicwd,Profile-Visual,2022-12-09 12:49:54.766149,killed an enemy
+1115,yicwd,Profile-Visual,2022-12-09 12:49:54.770138,hp 460
+1116,yicwd,Profile-Visual,2022-12-09 12:49:54.772133,armor 36
+1117,yicwd,Profile-Visual,2022-12-09 12:49:54.777119,weapon_fired 0
+1118,yicwd,Profile-Visual,2022-12-09 12:49:54.780111,weapon_fired 1
+1119,yicwd,Profile-Visual,2022-12-09 12:49:56.303624,stance_crouched 1
+1120,yicwd,Profile-Visual,2022-12-09 12:49:56.690757,auto regenerate armor
+1121,yicwd,Profile-Visual,2022-12-09 12:49:56.697740,hp 460
+1122,yicwd,Profile-Visual,2022-12-09 12:49:56.699733,armor 61
+1123,yicwd,Profile-Visual,2022-12-09 12:50:05.610575,stance_crouched 0
+1124,yicwd,Profile-Visual,2022-12-09 12:50:12.869039,enemy_headshot
+1125,yicwd,Profile-Visual,2022-12-09 12:50:12.875024,killed an enemy
+1126,yicwd,Profile-Visual,2022-12-09 12:50:12.880010,hp 460
+1127,yicwd,Profile-Visual,2022-12-09 12:50:12.882005,armor 91
+1128,yicwd,Profile-Visual,2022-12-09 12:50:12.886991,killed an enemy
+1129,yicwd,Profile-Visual,2022-12-09 12:50:12.894970,weapon_fired 0
+1130,yicwd,Profile-Visual,2022-12-09 12:50:13.611055,weapon_fired 0
+1131,yicwd,Profile-Visual,2022-12-09 12:50:14.120446,hp 460
+1132,yicwd,Profile-Visual,2022-12-09 12:50:14.122441,armor 91
+1133,yicwd,Profile-Visual,2022-12-09 12:50:14.126431,health_subtracted 0
+1134,yicwd,Profile-Visual,2022-12-09 12:50:14.131417,shielded hit
+1135,yicwd,Profile-Visual,2022-12-09 12:50:14.135407,hp 460
+1136,yicwd,Profile-Visual,2022-12-09 12:50:14.137401,armor 91
+1137,yicwd,Profile-Visual,2022-12-09 12:50:14.142388,hp 460
+1138,yicwd,Profile-Visual,2022-12-09 12:50:14.144382,armor 91
+1139,yicwd,Profile-Visual,2022-12-09 12:50:14.955740,hp 460
+1140,yicwd,Profile-Visual,2022-12-09 12:50:14.958732,armor 83
+1141,yicwd,Profile-Visual,2022-12-09 12:50:14.962721,health_subtracted 0
+1142,yicwd,Profile-Visual,2022-12-09 12:50:14.969703,hp 460
+1143,yicwd,Profile-Visual,2022-12-09 12:50:14.971697,armor 83
+1144,yicwd,Profile-Visual,2022-12-09 12:50:14.978679,hp 460
+1145,yicwd,Profile-Visual,2022-12-09 12:50:14.981671,armor 83
+1146,yicwd,Profile-Visual,2022-12-09 12:50:14.984662,shielded hit
+1147,yicwd,Profile-Visual,2022-12-09 12:50:15.917857,hp 460
+1148,yicwd,Profile-Visual,2022-12-09 12:50:15.920850,armor 75
+1149,yicwd,Profile-Visual,2022-12-09 12:50:15.926833,hp 460
+1150,yicwd,Profile-Visual,2022-12-09 12:50:15.928829,armor 75
+1151,yicwd,Profile-Visual,2022-12-09 12:50:15.933814,hp 460
+1152,yicwd,Profile-Visual,2022-12-09 12:50:15.937805,armor 75
+1153,yicwd,Profile-Visual,2022-12-09 12:50:15.940797,shielded hit
+1154,yicwd,Profile-Visual,2022-12-09 12:50:15.945783,health_subtracted 0
+1155,yicwd,Profile-Visual,2022-12-09 12:50:16.031554,hp 460
+1156,yicwd,Profile-Visual,2022-12-09 12:50:16.033547,armor 69
+1157,yicwd,Profile-Visual,2022-12-09 12:50:16.040530,enemy_headshot
+1158,yicwd,Profile-Visual,2022-12-09 12:50:16.043521,killed an enemy
+1159,yicwd,Profile-Visual,2022-12-09 12:50:16.048509,weapon_fired 0
+1160,yicwd,Profile-Visual,2022-12-09 12:50:16.052498,weapon_fired 1
+1161,yicwd,Profile-Visual,2022-12-09 12:50:17.283870,stance_crouched 1
+1162,yicwd,Profile-Visual,2022-12-09 12:50:17.938437,stance_crouched 0
+1163,yicwd,Profile-Visual,2022-12-09 12:50:18.387240,hp 460
+1164,yicwd,Profile-Visual,2022-12-09 12:50:18.390233,armor 91
+1165,yicwd,Profile-Visual,2022-12-09 12:50:18.395219,auto regenerate armor
+1166,yicwd,Profile-Visual,2022-12-09 12:50:20.044492,enemy_headshot
+1167,yicwd,Profile-Visual,2022-12-09 12:50:20.048481,hp 460
+1168,yicwd,Profile-Visual,2022-12-09 12:50:20.050476,armor 91
+1169,yicwd,Profile-Visual,2022-12-09 12:50:20.056460,killed an enemy
+1170,yicwd,Profile-Visual,2022-12-09 12:50:20.059452,weapon_fired 0
+1171,yicwd,Profile-Visual,2022-12-09 12:50:22.146415,hp 460
+1172,yicwd,Profile-Visual,2022-12-09 12:50:22.149407,armor 91
+1173,yicwd,Profile-Visual,2022-12-09 12:50:22.152400,weapon_fired 0
+1174,yicwd,Profile-Visual,2022-12-09 12:50:22.158383,enemy_headshot
+1175,yicwd,Profile-Visual,2022-12-09 12:50:22.160393,weapon_fired 1
+1176,yicwd,Profile-Visual,2022-12-09 12:50:22.721759,killed an enemy
+1177,yicwd,Profile-Visual,2022-12-09 12:50:22.726745,enemy_headshot
+1178,yicwd,Profile-Visual,2022-12-09 12:50:22.729738,weapon_fired 0
+1179,yicwd,Profile-Visual,2022-12-09 12:50:22.736718,weapon_fired 1
+1180,yicwd,Profile-Visual,2022-12-09 12:50:23.339282,enemy_headshot
+1181,yicwd,Profile-Visual,2022-12-09 12:50:23.343271,killed an enemy
+1182,yicwd,Profile-Visual,2022-12-09 12:50:23.348257,weapon_fired 1
+1183,yicwd,Profile-Visual,2022-12-09 12:50:23.351250,weapon_fired 0
+1184,yicwd,Profile-Visual,2022-12-09 12:50:23.745544,hp 460
+1185,yicwd,Profile-Visual,2022-12-09 12:50:23.748536,armor 91
+1186,yicwd,Profile-Visual,2022-12-09 12:50:23.750530,shielded hit
+1187,yicwd,Profile-Visual,2022-12-09 12:50:23.754520,hp 460
+1188,yicwd,Profile-Visual,2022-12-09 12:50:23.756516,armor 91
+1189,yicwd,Profile-Visual,2022-12-09 12:50:23.760505,health_subtracted 0
+1190,yicwd,Profile-Visual,2022-12-09 12:50:23.764494,hp 460
+1191,yicwd,Profile-Visual,2022-12-09 12:50:23.766488,armor 91
+1192,yicwd,Profile-Visual,2022-12-09 12:50:23.854254,shielded hit
+1193,yicwd,Profile-Visual,2022-12-09 12:50:23.860237,hp 460
+1194,yicwd,Profile-Visual,2022-12-09 12:50:23.862233,armor 84
+1195,yicwd,Profile-Visual,2022-12-09 12:50:23.868216,hp 460
+1196,yicwd,Profile-Visual,2022-12-09 12:50:23.869214,armor 84
+1197,yicwd,Profile-Visual,2022-12-09 12:50:23.872205,health_subtracted 0
+1198,yicwd,Profile-Visual,2022-12-09 12:50:23.876195,hp 460
+1199,yicwd,Profile-Visual,2022-12-09 12:50:23.878190,armor 84
+1200,yicwd,Profile-Visual,2022-12-09 12:50:24.384993,shielded hit
+1201,yicwd,Profile-Visual,2022-12-09 12:50:24.393970,hp 460
+1202,yicwd,Profile-Visual,2022-12-09 12:50:24.395964,armor 61
+1203,yicwd,Profile-Visual,2022-12-09 12:50:24.404940,health_subtracted 0
+1204,yicwd,Profile-Visual,2022-12-09 12:50:24.408929,hp 460
+1205,yicwd,Profile-Visual,2022-12-09 12:50:24.410924,armor 61
+1206,yicwd,Profile-Visual,2022-12-09 12:50:24.414913,hp 460
+1207,yicwd,Profile-Visual,2022-12-09 12:50:24.417905,armor 61
+1208,yicwd,Profile-Visual,2022-12-09 12:50:24.479740,weapon_fired 0
+1209,yicwd,Profile-Visual,2022-12-09 12:50:25.047223,weapon_fired 0
+1210,yicwd,Profile-Visual,2022-12-09 12:50:25.210784,shielded hit
+1211,yicwd,Profile-Visual,2022-12-09 12:50:25.222753,hp 460
+1212,yicwd,Profile-Visual,2022-12-09 12:50:25.225745,armor 41
+1213,yicwd,Profile-Visual,2022-12-09 12:50:25.232726,hp 460
+1214,yicwd,Profile-Visual,2022-12-09 12:50:25.234721,armor 41
+1215,yicwd,Profile-Visual,2022-12-09 12:50:25.240705,health_subtracted 0
+1216,yicwd,Profile-Visual,2022-12-09 12:50:25.243696,hp 460
+1217,yicwd,Profile-Visual,2022-12-09 12:50:25.245692,armor 41
+1218,yicwd,Profile-Visual,2022-12-09 12:50:25.540522,weapon_fired 0
+1219,yicwd,Profile-Visual,2022-12-09 12:50:25.932979,shielded hit
+1220,yicwd,Profile-Visual,2022-12-09 12:50:25.938963,hp 460
+1221,yicwd,Profile-Visual,2022-12-09 12:50:25.941955,armor 31
+1222,yicwd,Profile-Visual,2022-12-09 12:50:25.946942,hp 460
+1223,yicwd,Profile-Visual,2022-12-09 12:50:25.949934,armor 31
+1224,yicwd,Profile-Visual,2022-12-09 12:50:25.956915,health_subtracted 0
+1225,yicwd,Profile-Visual,2022-12-09 12:50:25.961902,hp 460
+1226,yicwd,Profile-Visual,2022-12-09 12:50:25.964894,armor 31
+1227,yicwd,Profile-Visual,2022-12-09 12:50:26.043684,hp 460
+1228,yicwd,Profile-Visual,2022-12-09 12:50:26.046675,armor 24
+1229,yicwd,Profile-Visual,2022-12-09 12:50:26.049667,killed an enemy
+1230,yicwd,Profile-Visual,2022-12-09 12:50:26.059641,enemy_headshot
+1231,yicwd,Profile-Visual,2022-12-09 12:50:26.067620,weapon_fired 0
+1232,yicwd,Profile-Visual,2022-12-09 12:50:26.070611,weapon_fired 1
+1233,yicwd,Profile-Visual,2022-12-09 12:50:28.420761,hp 460
+1234,yicwd,Profile-Visual,2022-12-09 12:50:28.422754,armor 46
+1235,yicwd,Profile-Visual,2022-12-09 12:50:28.428737,auto regenerate armor
+1236,yicwd,Profile-Visual,2022-12-09 12:50:37.846269,weapon_fired 0
+1237,yicwd,Profile-Visual,2022-12-09 12:50:38.253824,weapon_fired 0
+1238,yicwd,Profile-Visual,2022-12-09 12:50:38.262801,weapon_fired 1
+1239,yicwd,Profile-Visual,2022-12-09 12:50:38.805349,killed an enemy
+1240,yicwd,Profile-Visual,2022-12-09 12:50:38.813329,weapon_fired 1
+1241,yicwd,Profile-Visual,2022-12-09 12:50:38.817317,weapon_fired 0
+1242,yicwd,Profile-Visual,2022-12-09 12:50:49.828027,weapon_fired 0
+1243,yicwd,Profile-Visual,2022-12-09 12:50:50.230896,weapon_fired 0
+1244,yicwd,Profile-Visual,2022-12-09 12:50:50.788005,weapon_fired 0
+1245,yicwd,Profile-Visual,2022-12-09 12:50:51.446244,weapon_fired 0
+1246,yicwd,Profile-Visual,2022-12-09 12:50:51.449236,weapon_fired 1
+1247,yicwd,Profile-Visual,2022-12-09 12:50:52.091992,killed an enemy
+1248,yicwd,Profile-Visual,2022-12-09 12:50:52.095981,weapon_fired 1
+1249,yicwd,Profile-Visual,2022-12-09 12:50:52.099970,weapon_fired 0
+1250,yicwd,Profile-Visual,2022-12-09 12:50:52.818080,weapon_fired 0
+1251,yicwd,Profile-Visual,2022-12-09 12:50:53.214014,killed an enemy
+1252,yicwd,Profile-Visual,2022-12-09 12:50:53.219975,weapon_fired 0
+1253,yicwd,Profile-Visual,2022-12-09 12:50:53.223964,weapon_fired 1
+1254,yicwd,Profile-Visual,2022-12-09 12:50:56.318278,hp 460
+1255,yicwd,Profile-Visual,2022-12-09 12:50:56.320273,armor 91
+1256,yicwd,Profile-Visual,2022-12-09 12:50:56.326257,shielded hit
+1257,yicwd,Profile-Visual,2022-12-09 12:50:56.330246,hp 460
+1258,yicwd,Profile-Visual,2022-12-09 12:50:56.333238,armor 91
+1259,yicwd,Profile-Visual,2022-12-09 12:50:56.338225,hp 460
+1260,yicwd,Profile-Visual,2022-12-09 12:50:56.341217,armor 91
+1261,yicwd,Profile-Visual,2022-12-09 12:50:56.343211,health_subtracted 0
+1262,yicwd,Profile-Visual,2022-12-09 12:50:58.774727,hp 460
+1263,yicwd,Profile-Visual,2022-12-09 12:50:58.776722,armor 83
+1264,yicwd,Profile-Visual,2022-12-09 12:50:58.780711,auto regenerate armor
+1265,yicwd,Profile-Visual,2022-12-09 12:51:11.780775,hp 460
+1266,yicwd,Profile-Visual,2022-12-09 12:51:11.782770,armor 91
+1267,yicwd,Profile-Visual,2022-12-09 12:51:11.786760,enemy_headshot
+1268,yicwd,Profile-Visual,2022-12-09 12:51:11.794737,killed an enemy
+1269,yicwd,Profile-Visual,2022-12-09 12:51:11.798727,weapon_fired 0
+1270,yicwd,Profile-Visual,2022-12-09 12:51:12.500931,weapon_fired 0
+1271,yicwd,Profile-Visual,2022-12-09 12:51:12.693418,shielded hit
+1272,yicwd,Profile-Visual,2022-12-09 12:51:12.697407,hp 460
+1273,yicwd,Profile-Visual,2022-12-09 12:51:12.699402,armor 91
+1274,yicwd,Profile-Visual,2022-12-09 12:51:12.705386,hp 460
+1275,yicwd,Profile-Visual,2022-12-09 12:51:12.708378,armor 91
+1276,yicwd,Profile-Visual,2022-12-09 12:51:12.715358,hp 460
+1277,yicwd,Profile-Visual,2022-12-09 12:51:12.717354,armor 91
+1278,yicwd,Profile-Visual,2022-12-09 12:51:12.722340,health_subtracted 0
+1279,yicwd,Profile-Visual,2022-12-09 12:51:13.026527,enemy_headshot
+1280,yicwd,Profile-Visual,2022-12-09 12:51:13.033508,killed an enemy
+1281,yicwd,Profile-Visual,2022-12-09 12:51:13.042484,weapon_fired 0
+1282,yicwd,Profile-Visual,2022-12-09 12:51:15.164199,auto regenerate armor
+1283,yicwd,Profile-Visual,2022-12-09 12:51:15.167190,hp 460
+1284,yicwd,Profile-Visual,2022-12-09 12:51:15.170182,armor 61
+1285,yicwd,Profile-Visual,2022-12-09 12:51:17.796896,weapon_fired 0
+1286,yicwd,Profile-Visual,2022-12-09 12:51:18.181867,hp 460
+1287,yicwd,Profile-Visual,2022-12-09 12:51:18.184859,armor 91
+1288,yicwd,Profile-Visual,2022-12-09 12:51:18.191840,shielded hit
+1289,yicwd,Profile-Visual,2022-12-09 12:51:18.197823,hp 460
+1290,yicwd,Profile-Visual,2022-12-09 12:51:18.200816,armor 91
+1291,yicwd,Profile-Visual,2022-12-09 12:51:18.205802,hp 460
+1292,yicwd,Profile-Visual,2022-12-09 12:51:18.208795,armor 91
+1293,yicwd,Profile-Visual,2022-12-09 12:51:18.213782,health_subtracted 0
+1294,yicwd,Profile-Visual,2022-12-09 12:51:20.648997,auto regenerate armor
+1295,yicwd,Profile-Visual,2022-12-09 12:51:20.652987,hp 460
+1296,yicwd,Profile-Visual,2022-12-09 12:51:20.654981,armor 78
+1297,yicwd,Profile-Visual,2022-12-09 12:51:21.543389,stance_crouched 0
+1298,yicwd,Profile-Visual,2022-12-09 12:51:31.416938,hp 460
+1299,yicwd,Profile-Visual,2022-12-09 12:51:31.419930,armor 91
+1300,yicwd,Profile-Visual,2022-12-09 12:51:31.424918,auto regenerate armor
+1301,yicwd,Profile-Visual,2022-12-09 12:51:51.096185,weapon_fired 0
+1302,yicwd,Profile-Visual,2022-12-09 12:51:51.165999,weapon_fired 0
+1303,yicwd,Profile-Visual,2022-12-09 12:51:51.546985,weapon_fired 0
+1304,yicwd,Profile-Visual,2022-12-09 12:51:51.623780,killed an enemy
+1305,yicwd,Profile-Visual,2022-12-09 12:51:51.628768,enemy_headshot
+1306,yicwd,Profile-Visual,2022-12-09 12:51:51.633754,hp 460
+1307,yicwd,Profile-Visual,2022-12-09 12:51:51.635747,armor 91
+1308,yicwd,Profile-Visual,2022-12-09 12:51:51.637743,weapon_fired 1
+1309,yicwd,Profile-Visual,2022-12-09 12:51:52.267059,weapon_fired 1
+1310,yicwd,Profile-Visual,2022-12-09 12:51:52.355859,weapon_fired 0
+1311,yicwd,Profile-Visual,2022-12-09 12:51:52.922683,enemy_headshot
+1312,yicwd,Profile-Visual,2022-12-09 12:51:52.926674,killed an enemy
+1313,yicwd,Profile-Visual,2022-12-09 12:51:52.930661,weapon_fired 1
+1314,yicwd,Profile-Visual,2022-12-09 12:51:53.013949,weapon_fired 0
+1315,yicwd,Profile-Visual,2022-12-09 12:51:53.313149,weapon_fired 0
+1316,yicwd,Profile-Visual,2022-12-09 12:52:09.833537,weapon_fired 0
+1317,yicwd,Profile-Visual,2022-12-09 12:52:09.909862,enemy_headshot
+1318,yicwd,Profile-Visual,2022-12-09 12:52:09.918838,hp 460
+1319,yicwd,Profile-Visual,2022-12-09 12:52:09.920832,armor 91
+1320,yicwd,Profile-Visual,2022-12-09 12:52:09.923824,killed an enemy
+1321,yicwd,Profile-Visual,2022-12-09 12:52:09.928811,weapon_fired 1
+1322,yicwd,Profile-Visual,2022-12-09 12:52:10.002378,weapon_fired 0
+1323,yicwd,Profile-Visual,2022-12-09 12:52:10.273162,shielded hit
+1324,yicwd,Profile-Visual,2022-12-09 12:52:10.278149,hp 460
+1325,yicwd,Profile-Visual,2022-12-09 12:52:10.280143,armor 91
+1326,yicwd,Profile-Visual,2022-12-09 12:52:10.291115,hp 460
+1327,yicwd,Profile-Visual,2022-12-09 12:52:10.294107,armor 91
+1328,yicwd,Profile-Visual,2022-12-09 12:52:10.300091,hp 460
+1329,yicwd,Profile-Visual,2022-12-09 12:52:10.303084,armor 91
+1330,yicwd,Profile-Visual,2022-12-09 12:52:10.307072,health_subtracted 0
+1331,yicwd,Profile-Visual,2022-12-09 12:52:10.732933,weapon_fired 0
+1332,yicwd,Profile-Visual,2022-12-09 12:52:10.813717,weapon_fired 0
+1333,yicwd,Profile-Visual,2022-12-09 12:52:10.897494,weapon_fired 0
+1334,yicwd,Profile-Visual,2022-12-09 12:52:10.965312,weapon_fired 0
+1335,yicwd,Profile-Visual,2022-12-09 12:52:11.031137,weapon_fired 0
+1336,yicwd,Profile-Visual,2022-12-09 12:52:11.412555,weapon_fired 1
+1337,yicwd,Profile-Visual,2022-12-09 12:52:11.485360,killed an enemy
+1338,yicwd,Profile-Visual,2022-12-09 12:52:11.491345,weapon_fired 1
+1339,yicwd,Profile-Visual,2022-12-09 12:52:11.559687,weapon_fired 0
+1340,yicwd,Profile-Visual,2022-12-09 12:52:11.630502,weapon_fired 0
+1341,yicwd,Profile-Visual,2022-12-09 12:52:11.709289,weapon_fired 0
+1342,yicwd,Profile-Visual,2022-12-09 12:52:12.252836,weapon_fired 0
+1343,yicwd,Profile-Visual,2022-12-09 12:52:12.324645,weapon_fired 0
+1344,yicwd,Profile-Visual,2022-12-09 12:52:12.383509,weapon_fired 0
+1345,yicwd,Profile-Visual,2022-12-09 12:52:13.418508,hp 460
+1346,yicwd,Profile-Visual,2022-12-09 12:52:13.421501,armor 71
+1347,yicwd,Profile-Visual,2022-12-09 12:52:13.424507,auto regenerate armor
+1348,yicwd,Profile-Visual,2022-12-09 12:52:34.914104,hp 460
+1349,yicwd,Profile-Visual,2022-12-09 12:52:34.916100,armor 91
+1350,yicwd,Profile-Visual,2022-12-09 12:52:34.920088,weapon_fired 1
+1351,yicwd,Profile-Visual,2022-12-09 12:52:34.925075,enemy_headshot
+1352,yicwd,Profile-Visual,2022-12-09 12:52:34.995885,weapon_fired 0
+1353,yicwd,Profile-Visual,2022-12-09 12:52:35.066697,weapon_fired 0
+1354,yicwd,Profile-Visual,2022-12-09 12:52:35.140499,weapon_fired 0
+1355,yicwd,Profile-Visual,2022-12-09 12:52:35.474624,killed an enemy
+1356,yicwd,Profile-Visual,2022-12-09 12:52:35.478614,weapon_fired 1
+1357,yicwd,Profile-Visual,2022-12-09 12:52:35.550422,weapon_fired 0
+1358,yicwd,Profile-Visual,2022-12-09 12:52:35.633200,weapon_fired 0
+1359,yicwd,Profile-Visual,2022-12-09 12:52:35.702258,weapon_fired 0
+1360,yicwd,Profile-Visual,2022-12-09 12:52:35.770501,weapon_fired 0
+1361,yicwd,Profile-Visual,2022-12-09 12:52:38.445989,auto regenerate armor
+1362,yicwd,Profile-Visual,2022-12-09 12:52:38.451973,hp 460
+1363,yicwd,Profile-Visual,2022-12-09 12:52:38.453968,armor 91
+1364,yicwd,Profile-Visual,2022-12-09 12:52:45.617284,shielded hit
+1365,yicwd,Profile-Visual,2022-12-09 12:52:45.622270,hp 460
+1366,yicwd,Profile-Visual,2022-12-09 12:52:45.624265,armor 91
+1367,yicwd,Profile-Visual,2022-12-09 12:52:45.628254,hp 460
+1368,yicwd,Profile-Visual,2022-12-09 12:52:45.630250,armor 91
+1369,yicwd,Profile-Visual,2022-12-09 12:52:45.634239,hp 460
+1370,yicwd,Profile-Visual,2022-12-09 12:52:45.638228,armor 91
+1371,yicwd,Profile-Visual,2022-12-09 12:52:45.641220,health_subtracted 0
+1372,yicwd,Profile-Visual,2022-12-09 12:52:46.095006,hp 460
+1373,yicwd,Profile-Visual,2022-12-09 12:52:46.097000,armor 56
+1374,yicwd,Profile-Visual,2022-12-09 12:52:46.102985,shielded hit
+1375,yicwd,Profile-Visual,2022-12-09 12:52:46.107971,hp 460
+1376,yicwd,Profile-Visual,2022-12-09 12:52:46.109966,armor 56
+1377,yicwd,Profile-Visual,2022-12-09 12:52:46.118941,hp 460
+1378,yicwd,Profile-Visual,2022-12-09 12:52:46.121934,armor 56
+1379,yicwd,Profile-Visual,2022-12-09 12:52:46.124926,health_subtracted 0
+1380,yicwd,Profile-Visual,2022-12-09 12:52:46.188755,stance_crouched 0
+1381,yicwd,Profile-Visual,2022-12-09 12:52:46.607877,shielded hit
+1382,yicwd,Profile-Visual,2022-12-09 12:52:46.614858,hp 460
+1383,yicwd,Profile-Visual,2022-12-09 12:52:46.617850,armor 21
+1384,yicwd,Profile-Visual,2022-12-09 12:52:46.621839,hp 460
+1385,yicwd,Profile-Visual,2022-12-09 12:52:46.623835,armor 21
+1386,yicwd,Profile-Visual,2022-12-09 12:52:46.627824,hp 460
+1387,yicwd,Profile-Visual,2022-12-09 12:52:46.629818,armor 21
+1388,yicwd,Profile-Visual,2022-12-09 12:52:46.637796,health_subtracted 0
+1389,yicwd,Profile-Visual,2022-12-09 12:52:46.879151,hp 460
+1390,yicwd,Profile-Visual,2022-12-09 12:52:46.881147,armor 1
+1391,yicwd,Profile-Visual,2022-12-09 12:52:46.888127,hp 460
+1392,yicwd,Profile-Visual,2022-12-09 12:52:46.890122,armor 1
+1393,yicwd,Profile-Visual,2022-12-09 12:52:46.893114,enemy_headshot
+1394,yicwd,Profile-Visual,2022-12-09 12:52:46.896106,killed an enemy
+1395,yicwd,Profile-Visual,2022-12-09 12:52:46.899098,weapon_fired 0
+1396,yicwd,Profile-Visual,2022-12-09 12:52:47.281077,shielded hit
+1397,yicwd,Profile-Visual,2022-12-09 12:52:47.291050,hp 460
+1398,yicwd,Profile-Visual,2022-12-09 12:52:47.294042,armor 25
+1399,yicwd,Profile-Visual,2022-12-09 12:52:47.301023,hp 460
+1400,yicwd,Profile-Visual,2022-12-09 12:52:47.303018,armor 25
+1401,yicwd,Profile-Visual,2022-12-09 12:52:47.308004,hp 460
+1402,yicwd,Profile-Visual,2022-12-09 12:52:47.311995,armor 25
+1403,yicwd,Profile-Visual,2022-12-09 12:52:47.314987,health_subtracted 0
+1404,yicwd,Profile-Visual,2022-12-09 12:52:47.613189,enemy_headshot
+1405,yicwd,Profile-Visual,2022-12-09 12:52:47.618175,killed an enemy
+1406,yicwd,Profile-Visual,2022-12-09 12:52:47.622165,weapon_fired 0
+1407,yicwd,Profile-Visual,2022-12-09 12:52:50.271050,hp 460
+1408,yicwd,Profile-Visual,2022-12-09 12:52:50.274042,armor 0
+1409,yicwd,Profile-Visual,2022-12-09 12:52:50.283018,hp 460
+1410,yicwd,Profile-Visual,2022-12-09 12:52:50.286010,armor 0
+1411,yicwd,Profile-Visual,2022-12-09 12:52:50.290996,auto regenerate armor
+1412,yicwd,Profile-Visual,2022-12-09 12:52:52.419882,hp 460
+1413,yicwd,Profile-Visual,2022-12-09 12:52:52.421878,armor 91
+1414,yicwd,Profile-Visual,2022-12-09 12:52:52.427861,killed an enemy
+1415,yicwd,Profile-Visual,2022-12-09 12:52:52.430852,enemy_headshot
+1416,yicwd,Profile-Visual,2022-12-09 12:52:52.434842,weapon_fired 1
+1417,yicwd,Profile-Visual,2022-12-09 12:52:52.439829,weapon_fired 0
+1418,yicwd,Profile-Visual,2022-12-09 12:52:53.430293,hp 460
+1419,yicwd,Profile-Visual,2022-12-09 12:52:53.432288,armor 91
+1420,yicwd,Profile-Visual,2022-12-09 12:52:53.436277,hp 460
+1421,yicwd,Profile-Visual,2022-12-09 12:52:53.439268,armor 91
+1422,yicwd,Profile-Visual,2022-12-09 12:52:53.446250,shielded hit
+1423,yicwd,Profile-Visual,2022-12-09 12:52:53.450239,health_subtracted 0
+1424,yicwd,Profile-Visual,2022-12-09 12:52:53.461210,hp 460
+1425,yicwd,Profile-Visual,2022-12-09 12:52:53.464202,armor 91
+1426,yicwd,Profile-Visual,2022-12-09 12:52:53.836896,hp 460
+1427,yicwd,Profile-Visual,2022-12-09 12:52:53.839889,armor 87
+1428,yicwd,Profile-Visual,2022-12-09 12:52:53.845872,hp 460
+1429,yicwd,Profile-Visual,2022-12-09 12:52:53.847866,armor 87
+1430,yicwd,Profile-Visual,2022-12-09 12:52:53.851856,health_subtracted 0
+1431,yicwd,Profile-Visual,2022-12-09 12:52:53.857839,shielded hit
+1432,yicwd,Profile-Visual,2022-12-09 12:52:53.861829,hp 460
+1433,yicwd,Profile-Visual,2022-12-09 12:52:53.864823,armor 87
+1434,yicwd,Profile-Visual,2022-12-09 12:52:53.984501,enemy_headshot
+1435,yicwd,Profile-Visual,2022-12-09 12:52:53.987493,killed an enemy
+1436,yicwd,Profile-Visual,2022-12-09 12:52:53.997467,weapon_fired 0
+1437,yicwd,Profile-Visual,2022-12-09 12:52:54.001457,weapon_fired 1
+1438,yicwd,Profile-Visual,2022-12-09 12:52:54.648725,weapon_fired 0
+1439,yicwd,Profile-Visual,2022-12-09 12:52:55.087070,hp 460
+1440,yicwd,Profile-Visual,2022-12-09 12:52:55.091060,armor 79
+1441,yicwd,Profile-Visual,2022-12-09 12:52:55.095049,killed an enemy
+1442,yicwd,Profile-Visual,2022-12-09 12:52:55.100035,enemy_headshot
+1443,yicwd,Profile-Visual,2022-12-09 12:52:55.107017,weapon_fired 0
+1444,yicwd,Profile-Visual,2022-12-09 12:52:55.111005,weapon_fired 1
+1445,yicwd,Profile-Visual,2022-12-09 12:52:55.451889,shielded hit
+1446,yicwd,Profile-Visual,2022-12-09 12:52:55.458869,hp 460
+1447,yicwd,Profile-Visual,2022-12-09 12:52:55.460864,armor 91
+1448,yicwd,Profile-Visual,2022-12-09 12:52:55.467845,hp 460
+1449,yicwd,Profile-Visual,2022-12-09 12:52:55.469840,armor 91
+1450,yicwd,Profile-Visual,2022-12-09 12:52:55.472832,health_subtracted 0
+1451,yicwd,Profile-Visual,2022-12-09 12:52:55.475825,hp 460
+1452,yicwd,Profile-Visual,2022-12-09 12:52:55.479324,armor 91
+1453,yicwd,Profile-Visual,2022-12-09 12:52:57.930227,auto regenerate armor
+1454,yicwd,Profile-Visual,2022-12-09 12:52:57.937209,hp 460
+1455,yicwd,Profile-Visual,2022-12-09 12:52:57.939203,armor 87
+1456,yicwd,Profile-Visual,2022-12-09 12:52:59.272744,hp 460
+1457,yicwd,Profile-Visual,2022-12-09 12:52:59.275736,armor 91
+1458,yicwd,Profile-Visual,2022-12-09 12:52:59.281721,shielded hit
+1459,yicwd,Profile-Visual,2022-12-09 12:52:59.286707,hp 460
+1460,yicwd,Profile-Visual,2022-12-09 12:52:59.289699,armor 91
+1461,yicwd,Profile-Visual,2022-12-09 12:52:59.293688,hp 460
+1462,yicwd,Profile-Visual,2022-12-09 12:52:59.296681,armor 91
+1463,yicwd,Profile-Visual,2022-12-09 12:52:59.299672,health_subtracted 0
+1464,yicwd,Profile-Visual,2022-12-09 12:53:00.127651,shielded hit
+1465,yicwd,Profile-Visual,2022-12-09 12:53:00.131639,hp 460
+1466,yicwd,Profile-Visual,2022-12-09 12:53:00.133635,armor 87
+1467,yicwd,Profile-Visual,2022-12-09 12:53:00.136627,health_subtracted 0
+1468,yicwd,Profile-Visual,2022-12-09 12:53:00.138621,hp 460
+1469,yicwd,Profile-Visual,2022-12-09 12:53:00.140616,armor 87
+1470,yicwd,Profile-Visual,2022-12-09 12:53:00.143608,hp 460
+1471,yicwd,Profile-Visual,2022-12-09 12:53:00.145603,armor 87
+1472,yicwd,Profile-Visual,2022-12-09 12:53:00.317144,enemy_headshot
+1473,yicwd,Profile-Visual,2022-12-09 12:53:00.320136,hp 460
+1474,yicwd,Profile-Visual,2022-12-09 12:53:00.322131,armor 69
+1475,yicwd,Profile-Visual,2022-12-09 12:53:00.328114,killed an enemy
+1476,yicwd,Profile-Visual,2022-12-09 12:53:00.333101,weapon_fired 0
+1477,yicwd,Profile-Visual,2022-12-09 12:53:00.337090,weapon_fired 1
+1478,yicwd,Profile-Visual,2022-12-09 12:53:00.635556,hp 460
+1479,yicwd,Profile-Visual,2022-12-09 12:53:00.638548,armor 90
+1480,yicwd,Profile-Visual,2022-12-09 12:53:00.646527,hp 460
+1481,yicwd,Profile-Visual,2022-12-09 12:53:00.648522,armor 90
+1482,yicwd,Profile-Visual,2022-12-09 12:53:00.650517,shielded hit
+1483,yicwd,Profile-Visual,2022-12-09 12:53:00.658495,health_subtracted 0
+1484,yicwd,Profile-Visual,2022-12-09 12:53:00.661487,hp 460
+1485,yicwd,Profile-Visual,2022-12-09 12:53:00.663483,armor 90
+1486,yicwd,Profile-Visual,2022-12-09 12:53:00.986618,enemy_headshot
+1487,yicwd,Profile-Visual,2022-12-09 12:53:00.992602,killed an enemy
+1488,yicwd,Profile-Visual,2022-12-09 12:53:00.996591,weapon_fired 1
+1489,yicwd,Profile-Visual,2022-12-09 12:53:00.999583,weapon_fired 0
+1490,yicwd,Profile-Visual,2022-12-09 12:53:03.110649,hp 460
+1491,yicwd,Profile-Visual,2022-12-09 12:53:03.113641,armor 87
+1492,yicwd,Profile-Visual,2022-12-09 12:53:03.118626,auto regenerate armor
+1493,yicwd,Profile-Visual,2022-12-09 12:53:04.180393,killed an enemy
+1494,yicwd,Profile-Visual,2022-12-09 12:53:04.185379,weapon_fired 1
+1495,yicwd,Profile-Visual,2022-12-09 12:53:04.187374,weapon_fired 0
+1496,yicwd,Profile-Visual,2022-12-09 12:53:07.762233,complete_objective Defend_the_drill
+1497,yicwd,Profile-Visual,2022-12-09 12:53:08.765549,activate_objective Inspect_the_vault
+1498,yicwd,Profile-Visual,2022-12-09 12:53:12.100958,hp 460
+1499,yicwd,Profile-Visual,2022-12-09 12:53:12.102953,armor 91
+1500,yicwd,Profile-Visual,2022-12-09 12:53:12.108937,auto regenerate armor
+1501,yicwd,Profile-Visual,2022-12-09 12:53:20.827817,complete_objective Inspect_the_vault
+1502,yicwd,Profile-Visual,2022-12-09 12:53:21.199823,stance_crouched 1
+1503,yicwd,Profile-Visual,2022-12-09 12:53:21.846425,activate_objective Blow_up_the_floor
+1504,yicwd,Profile-Visual,2022-12-09 12:53:25.921192,stance_crouched 0
+1505,yicwd,Profile-Visual,2022-12-09 12:53:26.692664,stance_crouched 0
+1506,yicwd,Profile-Visual,2022-12-09 12:53:27.336791,stance_crouched 0
+1507,yicwd,Profile-Visual,2022-12-09 12:53:29.108102,stance_crouched 0
+1508,yicwd,Profile-Visual,2022-12-09 12:53:30.088189,stance_crouched 0
+1509,yicwd,Profile-Visual,2022-12-09 12:53:30.603810,complete_objective Blow_up_the_floor
+1510,yicwd,Profile-Visual,2022-12-09 12:53:31.591135,activate_objective Take_the_medallion
+1511,yicwd,Profile-Visual,2022-12-09 12:53:31.844456,stance_crouched 0
+1512,yicwd,Profile-Visual,2022-12-09 12:53:32.809668,stance_crouched 0
+1513,yicwd,Profile-Visual,2022-12-09 12:53:34.211774,stance_crouched 1
+1514,yicwd,Profile-Visual,2022-12-09 12:53:36.618789,auto regenerate armor
+1515,yicwd,Profile-Visual,2022-12-09 12:53:36.622778,hp 460
+1516,yicwd,Profile-Visual,2022-12-09 12:53:36.624774,armor 91
+1517,yicwd,Profile-Visual,2022-12-09 12:53:43.434073,shielded hit
+1518,yicwd,Profile-Visual,2022-12-09 12:53:43.438062,hp 460
+1519,yicwd,Profile-Visual,2022-12-09 12:53:43.441056,armor 91
+1520,yicwd,Profile-Visual,2022-12-09 12:53:43.447039,hp 460
+1521,yicwd,Profile-Visual,2022-12-09 12:53:43.450031,armor 91
+1522,yicwd,Profile-Visual,2022-12-09 12:53:43.454020,health_subtracted 0
+1523,yicwd,Profile-Visual,2022-12-09 12:53:43.457012,hp 460
+1524,yicwd,Profile-Visual,2022-12-09 12:53:43.460004,armor 91
+1525,yicwd,Profile-Visual,2022-12-09 12:53:46.812150,hp 460
+1526,yicwd,Profile-Visual,2022-12-09 12:53:46.815141,armor 86
+1527,yicwd,Profile-Visual,2022-12-09 12:53:46.818135,auto regenerate armor
+1528,yicwd,Profile-Visual,2022-12-09 12:53:46.899918,hp 460
+1529,yicwd,Profile-Visual,2022-12-09 12:53:46.902907,armor 89
+1530,yicwd,Profile-Visual,2022-12-09 12:53:46.907895,hp 460
+1531,yicwd,Profile-Visual,2022-12-09 12:53:46.910886,armor 89
+1532,yicwd,Profile-Visual,2022-12-09 12:53:46.914875,shielded hit
+1533,yicwd,Profile-Visual,2022-12-09 12:53:46.918865,hp 460
+1534,yicwd,Profile-Visual,2022-12-09 12:53:46.920859,armor 89
+1535,yicwd,Profile-Visual,2022-12-09 12:53:46.923850,health_subtracted 0
+1536,yicwd,Profile-Visual,2022-12-09 12:53:49.391755,hp 460
+1537,yicwd,Profile-Visual,2022-12-09 12:53:49.393746,armor 86
+1538,yicwd,Profile-Visual,2022-12-09 12:53:49.397735,auto regenerate armor
+1539,yicwd,Profile-Visual,2022-12-09 12:53:58.412784,complete_objective Take_the_medallion
+1540,yicwd,Profile-Visual,2022-12-09 12:53:59.224614,stance_crouched 0
+1541,yicwd,Profile-Visual,2022-12-09 12:53:59.427073,activate_objective Open_the_sewers
+1542,yicwd,Profile-Visual,2022-12-09 12:54:00.578159,stance_crouched 0
+1543,yicwd,Profile-Visual,2022-12-09 12:54:04.223542,killed an enemy
+1544,yicwd,Profile-Visual,2022-12-09 12:54:04.228528,weapon_fired 0
+1545,yicwd,Profile-Visual,2022-12-09 12:54:04.530720,shielded hit
+1546,yicwd,Profile-Visual,2022-12-09 12:54:04.543687,hp 460
+1547,yicwd,Profile-Visual,2022-12-09 12:54:04.545681,armor 91
+1548,yicwd,Profile-Visual,2022-12-09 12:54:04.548672,hp 460
+1549,yicwd,Profile-Visual,2022-12-09 12:54:04.550667,armor 91
+1550,yicwd,Profile-Visual,2022-12-09 12:54:04.553660,hp 460
+1551,yicwd,Profile-Visual,2022-12-09 12:54:04.556652,armor 91
+1552,yicwd,Profile-Visual,2022-12-09 12:54:04.560641,health_subtracted 0
+1553,yicwd,Profile-Visual,2022-12-09 12:54:04.767089,hp 460
+1554,yicwd,Profile-Visual,2022-12-09 12:54:04.769083,armor 64
+1555,yicwd,Profile-Visual,2022-12-09 12:54:04.772077,killed an enemy
+1556,yicwd,Profile-Visual,2022-12-09 12:54:04.775069,enemy_headshot
+1557,yicwd,Profile-Visual,2022-12-09 12:54:04.778059,weapon_fired 0
+1558,yicwd,Profile-Visual,2022-12-09 12:54:05.378454,killed an enemy
+1559,yicwd,Profile-Visual,2022-12-09 12:54:05.381445,enemy_headshot
+1560,yicwd,Profile-Visual,2022-12-09 12:54:05.388427,weapon_fired 0
+1561,yicwd,Profile-Visual,2022-12-09 12:54:06.745949,hp 460
+1562,yicwd,Profile-Visual,2022-12-09 12:54:06.747944,armor 86
+1563,yicwd,Profile-Visual,2022-12-09 12:54:06.751933,shielded hit
+1564,yicwd,Profile-Visual,2022-12-09 12:54:06.758915,hp 460
+1565,yicwd,Profile-Visual,2022-12-09 12:54:06.760909,armor 86
+1566,yicwd,Profile-Visual,2022-12-09 12:54:06.763901,health_subtracted 0
+1567,yicwd,Profile-Visual,2022-12-09 12:54:06.769885,hp 460
+1568,yicwd,Profile-Visual,2022-12-09 12:54:06.772878,armor 86
+1569,yicwd,Profile-Visual,2022-12-09 12:54:09.269112,killed an enemy
+1570,yicwd,Profile-Visual,2022-12-09 12:54:09.274100,weapon_fired 0
+1571,yicwd,Profile-Visual,2022-12-09 12:54:09.277091,weapon_fired 1
+1572,yicwd,Profile-Visual,2022-12-09 12:54:11.493306,hp 460
+1573,yicwd,Profile-Visual,2022-12-09 12:54:11.496298,armor 76
+1574,yicwd,Profile-Visual,2022-12-09 12:54:11.502282,auto regenerate armor
+1575,yicwd,Profile-Visual,2022-12-09 12:54:11.983438,weapon_fired 0
+1576,yicwd,Profile-Visual,2022-12-09 12:54:11.988418,weapon_fired 1
+1577,yicwd,Profile-Visual,2022-12-09 12:54:13.172087,hp 460
+1578,yicwd,Profile-Visual,2022-12-09 12:54:13.175080,armor 91
+1579,yicwd,Profile-Visual,2022-12-09 12:54:13.179069,shielded hit
+1580,yicwd,Profile-Visual,2022-12-09 12:54:13.182061,hp 460
+1581,yicwd,Profile-Visual,2022-12-09 12:54:13.185052,armor 91
+1582,yicwd,Profile-Visual,2022-12-09 12:54:13.188044,health_subtracted 0
+1583,yicwd,Profile-Visual,2022-12-09 12:54:13.192034,hp 460
+1584,yicwd,Profile-Visual,2022-12-09 12:54:13.194028,armor 91
+1585,yicwd,Profile-Visual,2022-12-09 12:54:13.342631,shielded hit
+1586,yicwd,Profile-Visual,2022-12-09 12:54:13.348616,hp 460
+1587,yicwd,Profile-Visual,2022-12-09 12:54:13.351607,armor 88
+1588,yicwd,Profile-Visual,2022-12-09 12:54:13.355597,hp 460
+1589,yicwd,Profile-Visual,2022-12-09 12:54:13.357590,armor 88
+1590,yicwd,Profile-Visual,2022-12-09 12:54:13.362578,hp 460
+1591,yicwd,Profile-Visual,2022-12-09 12:54:13.364573,armor 88
+1592,yicwd,Profile-Visual,2022-12-09 12:54:13.369782,health_subtracted 0
+1593,yicwd,Profile-Visual,2022-12-09 12:54:13.858859,hp 460
+1594,yicwd,Profile-Visual,2022-12-09 12:54:13.860854,armor 74
+1595,yicwd,Profile-Visual,2022-12-09 12:54:13.869830,shielded hit
+1596,yicwd,Profile-Visual,2022-12-09 12:54:13.872822,hp 460
+1597,yicwd,Profile-Visual,2022-12-09 12:54:13.874818,armor 74
+1598,yicwd,Profile-Visual,2022-12-09 12:54:13.881798,hp 460
+1599,yicwd,Profile-Visual,2022-12-09 12:54:13.883794,armor 74
+1600,yicwd,Profile-Visual,2022-12-09 12:54:13.886784,health_subtracted 0
+1601,yicwd,Profile-Visual,2022-12-09 12:54:14.322620,shielded hit
+1602,yicwd,Profile-Visual,2022-12-09 12:54:14.328603,hp 460
+1603,yicwd,Profile-Visual,2022-12-09 12:54:14.330609,armor 64
+1604,yicwd,Profile-Visual,2022-12-09 12:54:14.337579,hp 460
+1605,yicwd,Profile-Visual,2022-12-09 12:54:14.339574,armor 64
+1606,yicwd,Profile-Visual,2022-12-09 12:54:14.343563,health_subtracted 0
+1607,yicwd,Profile-Visual,2022-12-09 12:54:14.349547,hp 460
+1608,yicwd,Profile-Visual,2022-12-09 12:54:14.351542,armor 64
+1609,yicwd,Profile-Visual,2022-12-09 12:54:14.559807,stance_crouched 1
+1610,yicwd,Profile-Visual,2022-12-09 12:54:17.067263,weapon_fired 0
+1611,yicwd,Profile-Visual,2022-12-09 12:54:17.774371,killed an enemy
+1612,yicwd,Profile-Visual,2022-12-09 12:54:17.780355,weapon_fired 0
+1613,yicwd,Profile-Visual,2022-12-09 12:54:19.157934,shielded hit
+1614,yicwd,Profile-Visual,2022-12-09 12:54:19.164917,hp 460
+1615,yicwd,Profile-Visual,2022-12-09 12:54:19.166912,armor 60
+1616,yicwd,Profile-Visual,2022-12-09 12:54:19.175887,health_subtracted 0
+1617,yicwd,Profile-Visual,2022-12-09 12:54:19.178878,hp 460
+1618,yicwd,Profile-Visual,2022-12-09 12:54:19.180874,armor 60
+1619,yicwd,Profile-Visual,2022-12-09 12:54:19.185860,hp 460
+1620,yicwd,Profile-Visual,2022-12-09 12:54:19.187857,armor 60
+1621,yicwd,Profile-Visual,2022-12-09 12:54:19.204809,weapon_fired 0
+1622,yicwd,Profile-Visual,2022-12-09 12:54:19.716790,weapon_fired 0
+1623,yicwd,Profile-Visual,2022-12-09 12:54:20.884683,shielded hit
+1624,yicwd,Profile-Visual,2022-12-09 12:54:20.893659,hp 460
+1625,yicwd,Profile-Visual,2022-12-09 12:54:20.895657,armor 52
+1626,yicwd,Profile-Visual,2022-12-09 12:54:20.900641,health_subtracted 0
+1627,yicwd,Profile-Visual,2022-12-09 12:54:20.906624,hp 460
+1628,yicwd,Profile-Visual,2022-12-09 12:54:20.908622,armor 52
+1629,yicwd,Profile-Visual,2022-12-09 12:54:20.911611,hp 460
+1630,yicwd,Profile-Visual,2022-12-09 12:54:20.914603,armor 52
+1631,yicwd,Profile-Visual,2022-12-09 12:54:20.927570,weapon_fired 0
+1632,yicwd,Profile-Visual,2022-12-09 12:54:21.414806,hp 460
+1633,yicwd,Profile-Visual,2022-12-09 12:54:21.419303,armor 48
+1634,yicwd,Profile-Visual,2022-12-09 12:54:21.424290,enemy_headshot
+1635,yicwd,Profile-Visual,2022-12-09 12:54:21.430274,killed an enemy
+1636,yicwd,Profile-Visual,2022-12-09 12:54:21.437256,weapon_fired 1
+1637,yicwd,Profile-Visual,2022-12-09 12:54:21.440247,weapon_fired 0
+1638,yicwd,Profile-Visual,2022-12-09 12:54:21.782333,hp 460
+1639,yicwd,Profile-Visual,2022-12-09 12:54:21.784327,armor 72
+1640,yicwd,Profile-Visual,2022-12-09 12:54:21.790311,shielded hit
+1641,yicwd,Profile-Visual,2022-12-09 12:54:21.796295,hp 460
+1642,yicwd,Profile-Visual,2022-12-09 12:54:21.798291,armor 72
+1643,yicwd,Profile-Visual,2022-12-09 12:54:21.801283,hp 460
+1644,yicwd,Profile-Visual,2022-12-09 12:54:21.804274,armor 72
+1645,yicwd,Profile-Visual,2022-12-09 12:54:21.811255,health_subtracted 0
+1646,yicwd,Profile-Visual,2022-12-09 12:54:22.205201,weapon_fired 1
+1647,yicwd,Profile-Visual,2022-12-09 12:54:22.210188,weapon_fired 0
+1648,yicwd,Profile-Visual,2022-12-09 12:54:22.943707,shielded hit
+1649,yicwd,Profile-Visual,2022-12-09 12:54:22.953680,hp 460
+1650,yicwd,Profile-Visual,2022-12-09 12:54:22.955674,armor 69
+1651,yicwd,Profile-Visual,2022-12-09 12:54:22.958666,hp 460
+1652,yicwd,Profile-Visual,2022-12-09 12:54:22.960663,armor 69
+1653,yicwd,Profile-Visual,2022-12-09 12:54:22.966645,hp 460
+1654,yicwd,Profile-Visual,2022-12-09 12:54:22.969637,armor 69
+1655,yicwd,Profile-Visual,2022-12-09 12:54:22.972630,health_subtracted 0
+1656,yicwd,Profile-Visual,2022-12-09 12:54:25.856771,shielded hit
+1657,yicwd,Profile-Visual,2022-12-09 12:54:25.859764,health_subtracted 0
+1658,yicwd,Profile-Visual,2022-12-09 12:54:25.867742,hp 460
+1659,yicwd,Profile-Visual,2022-12-09 12:54:25.870734,armor 65
+1660,yicwd,Profile-Visual,2022-12-09 12:54:25.880708,hp 460
+1661,yicwd,Profile-Visual,2022-12-09 12:54:25.882702,armor 65
+1662,yicwd,Profile-Visual,2022-12-09 12:54:25.887689,hp 460
+1663,yicwd,Profile-Visual,2022-12-09 12:54:25.889683,armor 65
+1664,yicwd,Profile-Visual,2022-12-09 12:54:27.387828,stance_crouched 0
+1665,yicwd,Profile-Visual,2022-12-09 12:54:28.200982,auto regenerate armor
+1666,yicwd,Profile-Visual,2022-12-09 12:54:28.203973,hp 460
+1667,yicwd,Profile-Visual,2022-12-09 12:54:28.206966,armor 61
+1668,yicwd,Profile-Visual,2022-12-09 12:54:32.615499,weapon_fired 0
+1669,yicwd,Profile-Visual,2022-12-09 12:54:32.620487,weapon_fired 1
+1670,yicwd,Profile-Visual,2022-12-09 12:54:33.362501,hp 460
+1671,yicwd,Profile-Visual,2022-12-09 12:54:33.366490,armor 91
+1672,yicwd,Profile-Visual,2022-12-09 12:54:33.374470,health_subtracted 0
+1673,yicwd,Profile-Visual,2022-12-09 12:54:33.381450,hp 460
+1674,yicwd,Profile-Visual,2022-12-09 12:54:33.383445,armor 91
+1675,yicwd,Profile-Visual,2022-12-09 12:54:33.387434,hp 460
+1676,yicwd,Profile-Visual,2022-12-09 12:54:33.389429,armor 91
+1677,yicwd,Profile-Visual,2022-12-09 12:54:33.395921,shielded hit
+1678,yicwd,Profile-Visual,2022-12-09 12:54:33.695627,weapon_fired 0
+1679,yicwd,Profile-Visual,2022-12-09 12:54:33.841239,hp 460
+1680,yicwd,Profile-Visual,2022-12-09 12:54:33.844231,armor 78
+1681,yicwd,Profile-Visual,2022-12-09 12:54:33.850214,shielded hit
+1682,yicwd,Profile-Visual,2022-12-09 12:54:33.857196,hp 460
+1683,yicwd,Profile-Visual,2022-12-09 12:54:33.859190,armor 78
+1684,yicwd,Profile-Visual,2022-12-09 12:54:33.862182,health_subtracted 0
+1685,yicwd,Profile-Visual,2022-12-09 12:54:33.865174,hp 460
+1686,yicwd,Profile-Visual,2022-12-09 12:54:33.868167,armor 78
+1687,yicwd,Profile-Visual,2022-12-09 12:54:34.210270,weapon_fired 1
+1688,yicwd,Profile-Visual,2022-12-09 12:54:34.214260,weapon_fired 0
+1689,yicwd,Profile-Visual,2022-12-09 12:54:34.291054,hp 460
+1690,yicwd,Profile-Visual,2022-12-09 12:54:34.294045,armor 58
+1691,yicwd,Profile-Visual,2022-12-09 12:54:34.297038,shielded hit
+1692,yicwd,Profile-Visual,2022-12-09 12:54:34.304020,hp 460
+1693,yicwd,Profile-Visual,2022-12-09 12:54:34.309007,armor 58
+1694,yicwd,Profile-Visual,2022-12-09 12:54:34.311998,hp 457
+1695,yicwd,Profile-Visual,2022-12-09 12:54:34.314990,armor 58
+1696,yicwd,Profile-Visual,2022-12-09 12:54:34.318979,health_subtracted 0.25
+1697,yicwd,Profile-Visual,2022-12-09 12:54:34.336931,hp 460
+1698,yicwd,Profile-Visual,2022-12-09 12:54:34.339924,armor 50
+1699,yicwd,Profile-Visual,2022-12-09 12:54:34.348900,hp 460
+1700,yicwd,Profile-Visual,2022-12-09 12:54:34.350894,armor 50
+1701,yicwd,Profile-Visual,2022-12-09 12:54:34.353886,hp 460
+1702,yicwd,Profile-Visual,2022-12-09 12:54:34.355881,armor 50
+1703,yicwd,Profile-Visual,2022-12-09 12:54:34.359871,hp 460
+1704,yicwd,Profile-Visual,2022-12-09 12:54:34.362863,armor 50
+1705,yicwd,Profile-Visual,2022-12-09 12:54:34.891449,unshielded hit
+1706,yicwd,Profile-Visual,2022-12-09 12:54:34.894441,hp 460
+1707,yicwd,Profile-Visual,2022-12-09 12:54:34.897433,armor 0
+1708,yicwd,Profile-Visual,2022-12-09 12:54:34.900425,health_subtracted 0.8
+1709,yicwd,Profile-Visual,2022-12-09 12:54:34.904414,hp 452
+1710,yicwd,Profile-Visual,2022-12-09 12:54:34.909401,armor 0
+1711,yicwd,Profile-Visual,2022-12-09 12:54:34.914388,hp 452
+1712,yicwd,Profile-Visual,2022-12-09 12:54:34.916383,armor 0
+1713,yicwd,Profile-Visual,2022-12-09 12:54:34.918377,unshielded hit
+1714,yicwd,Profile-Visual,2022-12-09 12:54:34.922366,hp 442
+1715,yicwd,Profile-Visual,2022-12-09 12:54:34.924361,armor 0
+1716,yicwd,Profile-Visual,2022-12-09 12:54:34.927352,health_subtracted 1
+1717,yicwd,Profile-Visual,2022-12-09 12:54:35.104878,weapon_fired 0
+1718,yicwd,Profile-Visual,2022-12-09 12:54:35.107870,weapon_fired 1
+1719,yicwd,Profile-Visual,2022-12-09 12:54:35.421933,unshielded hit
+1720,yicwd,Profile-Visual,2022-12-09 12:54:35.426920,hp 442
+1721,yicwd,Profile-Visual,2022-12-09 12:54:35.429911,armor 0
+1722,yicwd,Profile-Visual,2022-12-09 12:54:35.433900,health_subtracted 0.40000000000001
+1723,yicwd,Profile-Visual,2022-12-09 12:54:35.437890,hp 438
+1724,yicwd,Profile-Visual,2022-12-09 12:54:35.440882,armor 0
+1725,yicwd,Profile-Visual,2022-12-09 12:54:35.924472,unshielded hit
+1726,yicwd,Profile-Visual,2022-12-09 12:54:35.927469,hp 438
+1727,yicwd,Profile-Visual,2022-12-09 12:54:35.930456,armor 0
+1728,yicwd,Profile-Visual,2022-12-09 12:54:35.936439,hp 418
+1729,yicwd,Profile-Visual,2022-12-09 12:54:35.938435,armor 0
+1730,yicwd,Profile-Visual,2022-12-09 12:54:35.943421,health_subtracted 2
+1731,yicwd,Profile-Visual,2022-12-09 12:54:39.304505,hp 432
+1732,yicwd,Profile-Visual,2022-12-09 12:54:39.308495,armor 0
+1733,yicwd,Profile-Visual,2022-12-09 12:54:39.312484,hp 432
+1734,yicwd,Profile-Visual,2022-12-09 12:54:39.314480,armor 0
+1735,yicwd,Profile-Visual,2022-12-09 12:54:39.318469,hp 432
+1736,yicwd,Profile-Visual,2022-12-09 12:54:39.320464,armor 0
+1737,yicwd,Profile-Visual,2022-12-09 12:54:39.323455,hp 432
+1738,yicwd,Profile-Visual,2022-12-09 12:54:39.325449,armor 0
+1739,yicwd,Profile-Visual,2022-12-09 12:54:39.364345,hp 432
+1740,yicwd,Profile-Visual,2022-12-09 12:54:39.366340,armor 0
+1741,yicwd,Profile-Visual,2022-12-09 12:54:39.371327,health_subtracted 0.675
+1742,yicwd,Profile-Visual,2022-12-09 12:54:39.374319,unshielded hit
+1743,yicwd,Profile-Visual,2022-12-09 12:54:39.377311,hp 425
+1744,yicwd,Profile-Visual,2022-12-09 12:54:39.380302,armor 0
+1745,yicwd,Profile-Visual,2022-12-09 12:54:42.426938,hp 425
+1746,yicwd,Profile-Visual,2022-12-09 12:54:42.429899,armor 0
+1747,yicwd,Profile-Visual,2022-12-09 12:54:42.438875,unshielded hit
+1748,yicwd,Profile-Visual,2022-12-09 12:54:42.444858,health_subtracted 1.35
+1749,yicwd,Profile-Visual,2022-12-09 12:54:42.448848,hp 412
+1750,yicwd,Profile-Visual,2022-12-09 12:54:42.450843,armor 0
+1751,yicwd,Profile-Visual,2022-12-09 12:54:44.301707,hp 425
+1752,yicwd,Profile-Visual,2022-12-09 12:54:44.303700,armor 0
+1753,yicwd,Profile-Visual,2022-12-09 12:54:44.306692,hp 425
+1754,yicwd,Profile-Visual,2022-12-09 12:54:44.307690,armor 0
+1755,yicwd,Profile-Visual,2022-12-09 12:54:44.311679,hp 425
+1756,yicwd,Profile-Visual,2022-12-09 12:54:44.315669,armor 0
+1757,yicwd,Profile-Visual,2022-12-09 12:54:44.321653,hp 425
+1758,yicwd,Profile-Visual,2022-12-09 12:54:44.323648,armor 0
+1759,yicwd,Profile-Visual,2022-12-09 12:54:44.777531,stance_crouched 0
+1760,yicwd,Profile-Visual,2022-12-09 12:54:44.901200,hp 425
+1761,yicwd,Profile-Visual,2022-12-09 12:54:44.903195,armor 0
+1762,yicwd,Profile-Visual,2022-12-09 12:54:44.907184,auto regenerate armor
+1763,yicwd,Profile-Visual,2022-12-09 12:54:44.909192,hp 425
+1764,yicwd,Profile-Visual,2022-12-09 12:54:44.912171,armor 0
+1765,yicwd,Profile-Visual,2022-12-09 12:54:49.310294,hp 439
+1766,yicwd,Profile-Visual,2022-12-09 12:54:49.313287,armor 91
+1767,yicwd,Profile-Visual,2022-12-09 12:54:49.319271,hp 439
+1768,yicwd,Profile-Visual,2022-12-09 12:54:49.322263,armor 91
+1769,yicwd,Profile-Visual,2022-12-09 12:54:49.327250,hp 439
+1770,yicwd,Profile-Visual,2022-12-09 12:54:49.329243,armor 91
+1771,yicwd,Profile-Visual,2022-12-09 12:54:49.333233,hp 439
+1772,yicwd,Profile-Visual,2022-12-09 12:54:49.336225,armor 91
+1773,yicwd,Profile-Visual,2022-12-09 12:54:50.186525,complete_objective Open_the_sewers
+1774,yicwd,Profile-Visual,2022-12-09 12:54:50.735083,stance_crouched 0
+1775,yicwd,Profile-Visual,2022-12-09 12:54:51.204669,activate_objective Loot_more_or_escape
+1776,yicwd,Profile-Visual,2022-12-09 12:54:51.930290,weapon_fired 0
+1777,yicwd,Profile-Visual,2022-12-09 12:54:53.539223,stance_crouched 0
+1778,yicwd,Profile-Visual,2022-12-09 12:54:54.316524,hp 453
+1779,yicwd,Profile-Visual,2022-12-09 12:54:54.319514,armor 91
+1780,yicwd,Profile-Visual,2022-12-09 12:54:54.322507,hp 453
+1781,yicwd,Profile-Visual,2022-12-09 12:54:54.324502,armor 91
+1782,yicwd,Profile-Visual,2022-12-09 12:54:54.328491,hp 453
+1783,yicwd,Profile-Visual,2022-12-09 12:54:54.330485,armor 91
+1784,yicwd,Profile-Visual,2022-12-09 12:54:54.337467,hp 453
+1785,yicwd,Profile-Visual,2022-12-09 12:54:54.340459,armor 91
+1786,yicwd,Profile-Visual,2022-12-09 12:54:54.654622,hp 453
+1787,yicwd,Profile-Visual,2022-12-09 12:54:54.656613,armor 91
+1788,yicwd,Profile-Visual,2022-12-09 12:54:54.660604,auto regenerate armor
+1789,yicwd,Profile-Visual,2022-12-09 12:54:59.462245,hp 460
+1790,yicwd,Profile-Visual,2022-12-09 12:54:59.465238,armor 91
+1791,yicwd,Profile-Visual,2022-12-09 12:54:59.470224,hp 460
+1792,yicwd,Profile-Visual,2022-12-09 12:54:59.473216,armor 91
+1793,yicwd,Profile-Visual,2022-12-09 12:54:59.477206,hp 460
+1794,yicwd,Profile-Visual,2022-12-09 12:54:59.479201,armor 91
+1795,yicwd,Profile-Visual,2022-12-09 12:54:59.484187,hp 460
+1796,yicwd,Profile-Visual,2022-12-09 12:54:59.486181,armor 91

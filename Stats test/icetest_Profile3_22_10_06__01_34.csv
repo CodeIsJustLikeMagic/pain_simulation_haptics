@@ -1,0 +1,484 @@
+,Player,Profile,Time,Event
+0,icetest,Profile3,2022-10-06 01:34:23.122889,Session_Accuracy 0
+1,icetest,Profile3,2022-10-06 01:34:23.125889,Session_total_downed 0
+2,icetest,Profile3,2022-10-06 01:34:23.128889,Session_total_kills 0
+3,icetest,Profile3,2022-10-06 01:34:23.131890,Session_total_heads_shots 0
+4,icetest,Profile3,2022-10-06 01:34:23.134892,Session_total_specials_kills 0
+5,icetest,Profile3,2022-10-06 01:34:23.136892,Session_civilians_killed 0
+6,icetest,Profile3,2022-10-06 01:34:23.288926,hp 138
+7,icetest,Profile3,2022-10-06 01:34:23.290926,armor 16
+8,icetest,Profile3,2022-10-06 01:34:23.296928,hp 138
+9,icetest,Profile3,2022-10-06 01:34:23.298928,armor 16
+10,icetest,Profile3,2022-10-06 01:34:23.302929,hp 138
+11,icetest,Profile3,2022-10-06 01:34:23.304930,armor 16
+12,icetest,Profile3,2022-10-06 01:34:23.308931,hp 138
+13,icetest,Profile3,2022-10-06 01:34:23.310931,armor 16
+14,icetest,Profile3,2022-10-06 01:34:25.545956,activate_objective Locate_Charon
+15,icetest,Profile3,2022-10-06 01:34:27.368464,hp 138
+16,icetest,Profile3,2022-10-06 01:34:27.370464,armor 221
+17,icetest,Profile3,2022-10-06 01:34:27.373466,hp 138
+18,icetest,Profile3,2022-10-06 01:34:27.376718,armor 221
+19,icetest,Profile3,2022-10-06 01:34:28.491829,hp 138
+20,icetest,Profile3,2022-10-06 01:34:28.494880,armor 197
+21,icetest,Profile3,2022-10-06 01:34:28.498881,hp 138
+22,icetest,Profile3,2022-10-06 01:34:28.501883,armor 197
+23,icetest,Profile3,2022-10-06 01:34:28.513079,hp 138
+24,icetest,Profile3,2022-10-06 01:34:28.515080,armor 197
+25,icetest,Profile3,2022-10-06 01:34:28.518081,hp 138
+26,icetest,Profile3,2022-10-06 01:34:28.521082,armor 197
+27,icetest,Profile3,2022-10-06 01:34:28.854993,auto regenerate armor
+28,icetest,Profile3,2022-10-06 01:34:28.862994,hp 138
+29,icetest,Profile3,2022-10-06 01:34:28.865995,armor 197
+30,icetest,Profile3,2022-10-06 01:34:33.502330,hp 138
+31,icetest,Profile3,2022-10-06 01:34:33.504330,armor 221
+32,icetest,Profile3,2022-10-06 01:34:33.508331,hp 138
+33,icetest,Profile3,2022-10-06 01:34:33.511331,armor 221
+34,icetest,Profile3,2022-10-06 01:34:33.515332,hp 138
+35,icetest,Profile3,2022-10-06 01:34:33.518332,armor 221
+36,icetest,Profile3,2022-10-06 01:34:33.522334,hp 138
+37,icetest,Profile3,2022-10-06 01:34:33.526334,armor 221
+38,icetest,Profile3,2022-10-06 01:34:36.443410,complete_objective Locate_Charon
+39,icetest,Profile3,2022-10-06 01:34:37.439087,activate_objective Overlook_the_courtyard
+40,icetest,Profile3,2022-10-06 01:34:38.512410,hp 138
+41,icetest,Profile3,2022-10-06 01:34:38.514402,armor 221
+42,icetest,Profile3,2022-10-06 01:34:38.519403,hp 138
+43,icetest,Profile3,2022-10-06 01:34:38.522404,armor 221
+44,icetest,Profile3,2022-10-06 01:34:38.526405,hp 138
+45,icetest,Profile3,2022-10-06 01:34:38.529406,armor 221
+46,icetest,Profile3,2022-10-06 01:34:38.533407,hp 138
+47,icetest,Profile3,2022-10-06 01:34:38.536407,armor 221
+48,icetest,Profile3,2022-10-06 01:34:39.936936,complete_objective Overlook_the_courtyard
+49,icetest,Profile3,2022-10-06 01:34:40.838369,enemy_hit
+50,icetest,Profile3,2022-10-06 01:34:40.841369,killed an enemy
+51,icetest,Profile3,2022-10-06 01:34:40.945486,activate_objective Eliminate_the_Sniper
+52,icetest,Profile3,2022-10-06 01:34:41.675159,enemy_hit
+53,icetest,Profile3,2022-10-06 01:34:41.678504,killed an enemy
+54,icetest,Profile3,2022-10-06 01:34:43.514709,hp 138
+55,icetest,Profile3,2022-10-06 01:34:43.516709,armor 221
+56,icetest,Profile3,2022-10-06 01:34:43.522709,hp 138
+57,icetest,Profile3,2022-10-06 01:34:43.525710,armor 221
+58,icetest,Profile3,2022-10-06 01:34:43.529710,hp 138
+59,icetest,Profile3,2022-10-06 01:34:43.532712,armor 221
+60,icetest,Profile3,2022-10-06 01:34:43.536713,hp 138
+61,icetest,Profile3,2022-10-06 01:34:43.539714,armor 221
+62,icetest,Profile3,2022-10-06 01:34:44.851256,enemy_hit
+63,icetest,Profile3,2022-10-06 01:34:44.856257,complete_objective Eliminate_the_Sniper
+64,icetest,Profile3,2022-10-06 01:34:44.860258,killed an enemy
+65,icetest,Profile3,2022-10-06 01:34:45.857624,activate_objective Clear_out_the_courtyard
+66,icetest,Profile3,2022-10-06 01:34:48.519388,hp 138
+67,icetest,Profile3,2022-10-06 01:34:48.521388,armor 221
+68,icetest,Profile3,2022-10-06 01:34:48.526389,hp 138
+69,icetest,Profile3,2022-10-06 01:34:48.529390,armor 221
+70,icetest,Profile3,2022-10-06 01:34:48.532391,hp 138
+71,icetest,Profile3,2022-10-06 01:34:48.535391,armor 221
+72,icetest,Profile3,2022-10-06 01:34:48.540392,hp 138
+73,icetest,Profile3,2022-10-06 01:34:48.543127,armor 221
+74,icetest,Profile3,2022-10-06 01:34:51.263887,enemy_hit
+75,icetest,Profile3,2022-10-06 01:34:51.266887,killed an enemy
+76,icetest,Profile3,2022-10-06 01:34:53.297624,enemy_hit
+77,icetest,Profile3,2022-10-06 01:34:53.301624,killed an enemy
+78,icetest,Profile3,2022-10-06 01:34:53.521506,hp 138
+79,icetest,Profile3,2022-10-06 01:34:53.524506,armor 221
+80,icetest,Profile3,2022-10-06 01:34:53.529508,hp 138
+81,icetest,Profile3,2022-10-06 01:34:53.532508,armor 221
+82,icetest,Profile3,2022-10-06 01:34:53.535509,hp 138
+83,icetest,Profile3,2022-10-06 01:34:53.538510,armor 221
+84,icetest,Profile3,2022-10-06 01:34:53.543510,hp 138
+85,icetest,Profile3,2022-10-06 01:34:53.546512,armor 221
+86,icetest,Profile3,2022-10-06 01:34:54.277119,killed an enemy
+87,icetest,Profile3,2022-10-06 01:34:54.283123,enemy_hit
+88,icetest,Profile3,2022-10-06 01:34:56.170700,enemy_hit
+89,icetest,Profile3,2022-10-06 01:34:56.173700,killed an enemy
+90,icetest,Profile3,2022-10-06 01:34:56.570014,enemy_hit
+91,icetest,Profile3,2022-10-06 01:34:56.573015,killed an enemy
+92,icetest,Profile3,2022-10-06 01:34:57.596887,enemy_hit
+93,icetest,Profile3,2022-10-06 01:34:57.600889,killed an enemy
+94,icetest,Profile3,2022-10-06 01:34:58.519018,hp 138
+95,icetest,Profile3,2022-10-06 01:34:58.521019,armor 221
+96,icetest,Profile3,2022-10-06 01:34:58.527021,hp 138
+97,icetest,Profile3,2022-10-06 01:34:58.529021,armor 221
+98,icetest,Profile3,2022-10-06 01:34:58.533022,hp 138
+99,icetest,Profile3,2022-10-06 01:34:58.536022,armor 221
+100,icetest,Profile3,2022-10-06 01:34:58.549025,hp 138
+101,icetest,Profile3,2022-10-06 01:34:58.552025,armor 221
+102,icetest,Profile3,2022-10-06 01:34:59.544439,enemy_hit
+103,icetest,Profile3,2022-10-06 01:34:59.548441,killed an enemy
+104,icetest,Profile3,2022-10-06 01:35:00.112128,enemy_hit
+105,icetest,Profile3,2022-10-06 01:35:00.116118,killed an enemy
+106,icetest,Profile3,2022-10-06 01:35:01.095282,enemy_hit
+107,icetest,Profile3,2022-10-06 01:35:01.100284,complete_objective Clear_out_the_courtyard
+108,icetest,Profile3,2022-10-06 01:35:01.104285,killed an enemy
+109,icetest,Profile3,2022-10-06 01:35:02.099607,activate_objective Cover_Charon
+110,icetest,Profile3,2022-10-06 01:35:03.522128,hp 138
+111,icetest,Profile3,2022-10-06 01:35:03.524128,armor 221
+112,icetest,Profile3,2022-10-06 01:35:03.529130,hp 138
+113,icetest,Profile3,2022-10-06 01:35:03.532130,armor 221
+114,icetest,Profile3,2022-10-06 01:35:03.535132,hp 138
+115,icetest,Profile3,2022-10-06 01:35:03.538133,armor 221
+116,icetest,Profile3,2022-10-06 01:35:03.542132,hp 138
+117,icetest,Profile3,2022-10-06 01:35:03.544133,armor 221
+118,icetest,Profile3,2022-10-06 01:35:08.526057,hp 138
+119,icetest,Profile3,2022-10-06 01:35:08.528058,armor 221
+120,icetest,Profile3,2022-10-06 01:35:08.532059,hp 138
+121,icetest,Profile3,2022-10-06 01:35:08.535059,armor 221
+122,icetest,Profile3,2022-10-06 01:35:08.541061,hp 138
+123,icetest,Profile3,2022-10-06 01:35:08.544061,armor 221
+124,icetest,Profile3,2022-10-06 01:35:08.548063,hp 138
+125,icetest,Profile3,2022-10-06 01:35:08.551063,armor 221
+126,icetest,Profile3,2022-10-06 01:35:13.530078,hp 138
+127,icetest,Profile3,2022-10-06 01:35:13.532079,armor 221
+128,icetest,Profile3,2022-10-06 01:35:13.538081,hp 138
+129,icetest,Profile3,2022-10-06 01:35:13.541082,armor 221
+130,icetest,Profile3,2022-10-06 01:35:13.545082,hp 138
+131,icetest,Profile3,2022-10-06 01:35:13.547082,armor 221
+132,icetest,Profile3,2022-10-06 01:35:13.552083,hp 138
+133,icetest,Profile3,2022-10-06 01:35:13.555083,armor 221
+134,icetest,Profile3,2022-10-06 01:35:18.541282,hp 138
+135,icetest,Profile3,2022-10-06 01:35:18.543283,armor 221
+136,icetest,Profile3,2022-10-06 01:35:18.548282,hp 138
+137,icetest,Profile3,2022-10-06 01:35:18.551283,armor 221
+138,icetest,Profile3,2022-10-06 01:35:18.555285,hp 138
+139,icetest,Profile3,2022-10-06 01:35:18.558285,armor 221
+140,icetest,Profile3,2022-10-06 01:35:18.562286,hp 138
+141,icetest,Profile3,2022-10-06 01:35:18.565287,armor 221
+142,icetest,Profile3,2022-10-06 01:35:23.545324,hp 138
+143,icetest,Profile3,2022-10-06 01:35:23.548323,armor 221
+144,icetest,Profile3,2022-10-06 01:35:23.552325,hp 138
+145,icetest,Profile3,2022-10-06 01:35:23.554325,armor 221
+146,icetest,Profile3,2022-10-06 01:35:23.558327,hp 138
+147,icetest,Profile3,2022-10-06 01:35:23.560331,armor 221
+148,icetest,Profile3,2022-10-06 01:35:23.565332,hp 138
+149,icetest,Profile3,2022-10-06 01:35:23.569333,armor 221
+150,icetest,Profile3,2022-10-06 01:35:28.554335,hp 138
+151,icetest,Profile3,2022-10-06 01:35:28.556336,armor 221
+152,icetest,Profile3,2022-10-06 01:35:28.559337,hp 138
+153,icetest,Profile3,2022-10-06 01:35:28.563356,armor 221
+154,icetest,Profile3,2022-10-06 01:35:28.567342,hp 138
+155,icetest,Profile3,2022-10-06 01:35:28.570344,armor 221
+156,icetest,Profile3,2022-10-06 01:35:28.574344,hp 138
+157,icetest,Profile3,2022-10-06 01:35:28.577346,armor 221
+158,icetest,Profile3,2022-10-06 01:35:33.548590,hp 138
+159,icetest,Profile3,2022-10-06 01:35:33.551589,armor 221
+160,icetest,Profile3,2022-10-06 01:35:33.555591,hp 138
+161,icetest,Profile3,2022-10-06 01:35:33.557591,armor 221
+162,icetest,Profile3,2022-10-06 01:35:33.561592,hp 138
+163,icetest,Profile3,2022-10-06 01:35:33.563594,armor 221
+164,icetest,Profile3,2022-10-06 01:35:33.567593,hp 138
+165,icetest,Profile3,2022-10-06 01:35:33.570595,armor 221
+166,icetest,Profile3,2022-10-06 01:35:38.552273,hp 138
+167,icetest,Profile3,2022-10-06 01:35:38.554275,armor 221
+168,icetest,Profile3,2022-10-06 01:35:38.559275,hp 138
+169,icetest,Profile3,2022-10-06 01:35:38.562276,armor 221
+170,icetest,Profile3,2022-10-06 01:35:38.566276,hp 138
+171,icetest,Profile3,2022-10-06 01:35:38.568277,armor 221
+172,icetest,Profile3,2022-10-06 01:35:38.573277,hp 138
+173,icetest,Profile3,2022-10-06 01:35:38.576279,armor 221
+174,icetest,Profile3,2022-10-06 01:35:43.557223,hp 138
+175,icetest,Profile3,2022-10-06 01:35:43.560223,armor 221
+176,icetest,Profile3,2022-10-06 01:35:43.566225,hp 138
+177,icetest,Profile3,2022-10-06 01:35:43.569226,armor 221
+178,icetest,Profile3,2022-10-06 01:35:43.574227,hp 138
+179,icetest,Profile3,2022-10-06 01:35:43.577228,armor 221
+180,icetest,Profile3,2022-10-06 01:35:43.582228,hp 138
+181,icetest,Profile3,2022-10-06 01:35:43.585230,armor 221
+182,icetest,Profile3,2022-10-06 01:35:48.443870,enemy_hit
+183,icetest,Profile3,2022-10-06 01:35:48.446870,killed an enemy
+184,icetest,Profile3,2022-10-06 01:35:48.564902,hp 138
+185,icetest,Profile3,2022-10-06 01:35:48.566902,armor 221
+186,icetest,Profile3,2022-10-06 01:35:48.571903,hp 138
+187,icetest,Profile3,2022-10-06 01:35:48.574903,armor 221
+188,icetest,Profile3,2022-10-06 01:35:48.579905,hp 138
+189,icetest,Profile3,2022-10-06 01:35:48.581906,armor 221
+190,icetest,Profile3,2022-10-06 01:35:48.585907,hp 138
+191,icetest,Profile3,2022-10-06 01:35:48.587906,armor 221
+192,icetest,Profile3,2022-10-06 01:35:49.777581,enemy_hit
+193,icetest,Profile3,2022-10-06 01:35:49.781581,killed an enemy
+194,icetest,Profile3,2022-10-06 01:35:51.974898,hp 138
+195,icetest,Profile3,2022-10-06 01:35:51.977898,armor 221
+196,icetest,Profile3,2022-10-06 01:35:51.987900,shielded hit
+197,icetest,Profile3,2022-10-06 01:35:51.996902,hp 138
+198,icetest,Profile3,2022-10-06 01:35:51.998903,armor 221
+199,icetest,Profile3,2022-10-06 01:35:52.002903,hp 138
+200,icetest,Profile3,2022-10-06 01:35:52.004904,armor 221
+201,icetest,Profile3,2022-10-06 01:35:52.075878,enemy_hit
+202,icetest,Profile3,2022-10-06 01:35:52.079879,killed an enemy
+203,icetest,Profile3,2022-10-06 01:35:53.569169,hp 138
+204,icetest,Profile3,2022-10-06 01:35:53.571169,armor 206
+205,icetest,Profile3,2022-10-06 01:35:53.575170,hp 138
+206,icetest,Profile3,2022-10-06 01:35:53.578171,armor 206
+207,icetest,Profile3,2022-10-06 01:35:53.582172,hp 138
+208,icetest,Profile3,2022-10-06 01:35:53.585173,armor 206
+209,icetest,Profile3,2022-10-06 01:35:53.590174,hp 138
+210,icetest,Profile3,2022-10-06 01:35:53.593373,armor 206
+211,icetest,Profile3,2022-10-06 01:35:55.419150,enemy_hit
+212,icetest,Profile3,2022-10-06 01:35:55.422151,killed an enemy
+213,icetest,Profile3,2022-10-06 01:35:56.473214,hp 138
+214,icetest,Profile3,2022-10-06 01:35:56.476215,armor 206
+215,icetest,Profile3,2022-10-06 01:35:56.480215,auto regenerate armor
+216,icetest,Profile3,2022-10-06 01:35:56.484216,hp 138
+217,icetest,Profile3,2022-10-06 01:35:56.487217,armor 207
+218,icetest,Profile3,2022-10-06 01:35:56.496219,shielded hit
+219,icetest,Profile3,2022-10-06 01:35:56.504221,hp 138
+220,icetest,Profile3,2022-10-06 01:35:56.506220,armor 207
+221,icetest,Profile3,2022-10-06 01:35:56.511222,hp 138
+222,icetest,Profile3,2022-10-06 01:35:56.513222,armor 207
+223,icetest,Profile3,2022-10-06 01:35:58.571849,hp 138
+224,icetest,Profile3,2022-10-06 01:35:58.573851,armor 210
+225,icetest,Profile3,2022-10-06 01:35:58.583576,hp 138
+226,icetest,Profile3,2022-10-06 01:35:58.586577,armor 210
+227,icetest,Profile3,2022-10-06 01:35:58.590578,hp 138
+228,icetest,Profile3,2022-10-06 01:35:58.593579,armor 210
+229,icetest,Profile3,2022-10-06 01:35:58.600581,hp 138
+230,icetest,Profile3,2022-10-06 01:35:58.603581,armor 210
+231,icetest,Profile3,2022-10-06 01:35:58.956439,hp 138
+232,icetest,Profile3,2022-10-06 01:35:58.958440,armor 210
+233,icetest,Profile3,2022-10-06 01:35:58.962441,auto regenerate armor
+234,icetest,Profile3,2022-10-06 01:36:03.576367,hp 138
+235,icetest,Profile3,2022-10-06 01:36:03.578369,armor 221
+236,icetest,Profile3,2022-10-06 01:36:03.582370,hp 138
+237,icetest,Profile3,2022-10-06 01:36:03.586371,armor 221
+238,icetest,Profile3,2022-10-06 01:36:03.598378,hp 138
+239,icetest,Profile3,2022-10-06 01:36:03.601379,armor 221
+240,icetest,Profile3,2022-10-06 01:36:03.604380,hp 138
+241,icetest,Profile3,2022-10-06 01:36:03.607381,armor 221
+242,icetest,Profile3,2022-10-06 01:36:07.511896,hp 138
+243,icetest,Profile3,2022-10-06 01:36:07.513897,armor 221
+244,icetest,Profile3,2022-10-06 01:36:07.517896,auto regenerate armor
+245,icetest,Profile3,2022-10-06 01:36:07.917733,enemy_hit
+246,icetest,Profile3,2022-10-06 01:36:07.921733,killed an enemy
+247,icetest,Profile3,2022-10-06 01:36:08.360182,enemy_hit
+248,icetest,Profile3,2022-10-06 01:36:08.579236,hp 138
+249,icetest,Profile3,2022-10-06 01:36:08.581235,armor 221
+250,icetest,Profile3,2022-10-06 01:36:08.586237,hp 138
+251,icetest,Profile3,2022-10-06 01:36:08.589237,armor 221
+252,icetest,Profile3,2022-10-06 01:36:08.593238,hp 138
+253,icetest,Profile3,2022-10-06 01:36:08.596239,armor 221
+254,icetest,Profile3,2022-10-06 01:36:08.600240,hp 138
+255,icetest,Profile3,2022-10-06 01:36:08.603241,armor 221
+256,icetest,Profile3,2022-10-06 01:36:08.815541,enemy_hit
+257,icetest,Profile3,2022-10-06 01:36:08.887069,enemy_hit
+258,icetest,Profile3,2022-10-06 01:36:09.098770,hp 138
+259,icetest,Profile3,2022-10-06 01:36:09.100770,armor 221
+260,icetest,Profile3,2022-10-06 01:36:09.108772,shielded hit
+261,icetest,Profile3,2022-10-06 01:36:09.115774,hp 138
+262,icetest,Profile3,2022-10-06 01:36:09.118775,armor 221
+263,icetest,Profile3,2022-10-06 01:36:09.123809,hp 138
+264,icetest,Profile3,2022-10-06 01:36:09.125786,armor 221
+265,icetest,Profile3,2022-10-06 01:36:09.136783,enemy_hit
+266,icetest,Profile3,2022-10-06 01:36:09.206798,enemy_hit
+267,icetest,Profile3,2022-10-06 01:36:09.349129,hp 138
+268,icetest,Profile3,2022-10-06 01:36:09.352129,armor 212
+269,icetest,Profile3,2022-10-06 01:36:09.359131,shielded hit
+270,icetest,Profile3,2022-10-06 01:36:09.365133,hp 138
+271,icetest,Profile3,2022-10-06 01:36:09.368133,armor 212
+272,icetest,Profile3,2022-10-06 01:36:09.372134,hp 138
+273,icetest,Profile3,2022-10-06 01:36:09.375136,armor 212
+274,icetest,Profile3,2022-10-06 01:36:09.440149,enemy_hit
+275,icetest,Profile3,2022-10-06 01:36:10.271191,enemy_hit
+276,icetest,Profile3,2022-10-06 01:36:10.276192,hp 138
+277,icetest,Profile3,2022-10-06 01:36:10.278193,armor 137
+278,icetest,Profile3,2022-10-06 01:36:10.281193,killed an enemy
+279,icetest,Profile3,2022-10-06 01:36:10.806726,killed an enemy
+280,icetest,Profile3,2022-10-06 01:36:10.815724,enemy_hit
+281,icetest,Profile3,2022-10-06 01:36:11.152166,hp 138
+282,icetest,Profile3,2022-10-06 01:36:11.154167,armor 162
+283,icetest,Profile3,2022-10-06 01:36:11.164170,shielded hit
+284,icetest,Profile3,2022-10-06 01:36:11.169170,hp 138
+285,icetest,Profile3,2022-10-06 01:36:11.172172,armor 162
+286,icetest,Profile3,2022-10-06 01:36:11.176172,hp 138
+287,icetest,Profile3,2022-10-06 01:36:11.179173,armor 162
+288,icetest,Profile3,2022-10-06 01:36:12.004087,enemy_hit
+289,icetest,Profile3,2022-10-06 01:36:12.528815,hp 138
+290,icetest,Profile3,2022-10-06 01:36:12.532816,armor 87
+291,icetest,Profile3,2022-10-06 01:36:12.548825,hp 138
+292,icetest,Profile3,2022-10-06 01:36:12.550826,armor 87
+293,icetest,Profile3,2022-10-06 01:36:12.554826,shielded hit
+294,icetest,Profile3,2022-10-06 01:36:12.557827,hp 138
+295,icetest,Profile3,2022-10-06 01:36:12.561053,armor 87
+296,icetest,Profile3,2022-10-06 01:36:13.108166,enemy_hit
+297,icetest,Profile3,2022-10-06 01:36:13.111167,hp 138
+298,icetest,Profile3,2022-10-06 01:36:13.113167,armor 75
+299,icetest,Profile3,2022-10-06 01:36:13.117168,killed an enemy
+300,icetest,Profile3,2022-10-06 01:36:13.189187,hp 138
+301,icetest,Profile3,2022-10-06 01:36:13.191187,armor 87
+302,icetest,Profile3,2022-10-06 01:36:13.199190,shielded hit
+303,icetest,Profile3,2022-10-06 01:36:13.208191,hp 138
+304,icetest,Profile3,2022-10-06 01:36:13.210192,armor 87
+305,icetest,Profile3,2022-10-06 01:36:13.215193,hp 138
+306,icetest,Profile3,2022-10-06 01:36:13.218193,armor 87
+307,icetest,Profile3,2022-10-06 01:36:13.584243,hp 138
+308,icetest,Profile3,2022-10-06 01:36:13.587244,armor 89
+309,icetest,Profile3,2022-10-06 01:36:13.592246,hp 138
+310,icetest,Profile3,2022-10-06 01:36:13.595247,armor 89
+311,icetest,Profile3,2022-10-06 01:36:13.598247,hp 138
+312,icetest,Profile3,2022-10-06 01:36:13.601247,armor 89
+313,icetest,Profile3,2022-10-06 01:36:13.605249,hp 138
+314,icetest,Profile3,2022-10-06 01:36:13.608249,armor 89
+315,icetest,Profile3,2022-10-06 01:36:13.988352,hp 138
+316,icetest,Profile3,2022-10-06 01:36:13.990352,armor 89
+317,icetest,Profile3,2022-10-06 01:36:13.997359,shielded hit
+318,icetest,Profile3,2022-10-06 01:36:14.004360,hp 138
+319,icetest,Profile3,2022-10-06 01:36:14.007360,armor 89
+320,icetest,Profile3,2022-10-06 01:36:14.012362,hp 138
+321,icetest,Profile3,2022-10-06 01:36:14.014362,armor 89
+322,icetest,Profile3,2022-10-06 01:36:14.380083,enemy_hit
+323,icetest,Profile3,2022-10-06 01:36:14.384084,killed an enemy
+324,icetest,Profile3,2022-10-06 01:36:14.810141,hp 138
+325,icetest,Profile3,2022-10-06 01:36:14.813147,armor 78
+326,icetest,Profile3,2022-10-06 01:36:14.816148,shielded hit
+327,icetest,Profile3,2022-10-06 01:36:14.821149,hp 138
+328,icetest,Profile3,2022-10-06 01:36:14.824149,armor 78
+329,icetest,Profile3,2022-10-06 01:36:14.827637,hp 138
+330,icetest,Profile3,2022-10-06 01:36:14.830638,armor 78
+331,icetest,Profile3,2022-10-06 01:36:15.079921,enemy_hit
+332,icetest,Profile3,2022-10-06 01:36:15.083921,killed an enemy
+333,icetest,Profile3,2022-10-06 01:36:16.103028,hp 138
+334,icetest,Profile3,2022-10-06 01:36:16.105030,armor 67
+335,icetest,Profile3,2022-10-06 01:36:16.113045,shielded hit
+336,icetest,Profile3,2022-10-06 01:36:16.119036,hp 138
+337,icetest,Profile3,2022-10-06 01:36:16.122037,armor 67
+338,icetest,Profile3,2022-10-06 01:36:16.126038,hp 138
+339,icetest,Profile3,2022-10-06 01:36:16.129039,armor 67
+340,icetest,Profile3,2022-10-06 01:36:16.352059,enemy_hit
+341,icetest,Profile3,2022-10-06 01:36:16.430084,enemy_hit
+342,icetest,Profile3,2022-10-06 01:36:16.656160,enemy_hit
+343,icetest,Profile3,2022-10-06 01:36:16.733186,enemy_hit
+344,icetest,Profile3,2022-10-06 01:36:16.739187,hp 138
+345,icetest,Profile3,2022-10-06 01:36:16.741187,armor 0
+346,icetest,Profile3,2022-10-06 01:36:16.754191,hp 138
+347,icetest,Profile3,2022-10-06 01:36:16.757191,armor 0
+348,icetest,Profile3,2022-10-06 01:36:17.851506,hp 138
+349,icetest,Profile3,2022-10-06 01:36:17.853507,armor 25
+350,icetest,Profile3,2022-10-06 01:36:17.864509,shielded hit
+351,icetest,Profile3,2022-10-06 01:36:17.872511,hp 138
+352,icetest,Profile3,2022-10-06 01:36:17.874511,armor 25
+353,icetest,Profile3,2022-10-06 01:36:17.877516,hp 138
+354,icetest,Profile3,2022-10-06 01:36:17.880516,armor 25
+355,icetest,Profile3,2022-10-06 01:36:18.587643,hp 138
+356,icetest,Profile3,2022-10-06 01:36:18.589643,armor 0
+357,icetest,Profile3,2022-10-06 01:36:18.593645,hp 138
+358,icetest,Profile3,2022-10-06 01:36:18.596644,armor 0
+359,icetest,Profile3,2022-10-06 01:36:18.599646,hp 138
+360,icetest,Profile3,2022-10-06 01:36:18.602646,armor 0
+361,icetest,Profile3,2022-10-06 01:36:18.607647,hp 138
+362,icetest,Profile3,2022-10-06 01:36:18.610648,armor 0
+363,icetest,Profile3,2022-10-06 01:36:19.332430,hp 138
+364,icetest,Profile3,2022-10-06 01:36:19.335430,armor 0
+365,icetest,Profile3,2022-10-06 01:36:19.339431,hp 138
+366,icetest,Profile3,2022-10-06 01:36:19.341431,armor 0
+367,icetest,Profile3,2022-10-06 01:36:19.345432,auto regenerate armor
+368,icetest,Profile3,2022-10-06 01:36:20.445275,hp 138
+369,icetest,Profile3,2022-10-06 01:36:20.448277,armor 221
+370,icetest,Profile3,2022-10-06 01:36:20.456278,shielded hit
+371,icetest,Profile3,2022-10-06 01:36:20.462280,hp 138
+372,icetest,Profile3,2022-10-06 01:36:20.466280,armor 221
+373,icetest,Profile3,2022-10-06 01:36:20.470281,hp 138
+374,icetest,Profile3,2022-10-06 01:36:20.473468,armor 221
+375,icetest,Profile3,2022-10-06 01:36:22.939389,hp 138
+376,icetest,Profile3,2022-10-06 01:36:22.941389,armor 212
+377,icetest,Profile3,2022-10-06 01:36:22.944390,auto regenerate armor
+378,icetest,Profile3,2022-10-06 01:36:23.597027,hp 138
+379,icetest,Profile3,2022-10-06 01:36:23.599029,armor 221
+380,icetest,Profile3,2022-10-06 01:36:23.603028,hp 138
+381,icetest,Profile3,2022-10-06 01:36:23.606030,armor 221
+382,icetest,Profile3,2022-10-06 01:36:23.610030,hp 138
+383,icetest,Profile3,2022-10-06 01:36:23.613083,armor 221
+384,icetest,Profile3,2022-10-06 01:36:23.619084,hp 138
+385,icetest,Profile3,2022-10-06 01:36:23.622086,armor 221
+386,icetest,Profile3,2022-10-06 01:36:25.157819,hp 138
+387,icetest,Profile3,2022-10-06 01:36:25.160820,armor 221
+388,icetest,Profile3,2022-10-06 01:36:25.163822,shielded hit
+389,icetest,Profile3,2022-10-06 01:36:25.169822,hp 138
+390,icetest,Profile3,2022-10-06 01:36:25.172823,armor 221
+391,icetest,Profile3,2022-10-06 01:36:25.177831,hp 138
+392,icetest,Profile3,2022-10-06 01:36:25.179825,armor 221
+393,icetest,Profile3,2022-10-06 01:36:25.797041,hp 138
+394,icetest,Profile3,2022-10-06 01:36:25.799041,armor 212
+395,icetest,Profile3,2022-10-06 01:36:25.809043,shielded hit
+396,icetest,Profile3,2022-10-06 01:36:25.815045,hp 138
+397,icetest,Profile3,2022-10-06 01:36:25.818046,armor 212
+398,icetest,Profile3,2022-10-06 01:36:25.822046,hp 138
+399,icetest,Profile3,2022-10-06 01:36:25.825047,armor 212
+400,icetest,Profile3,2022-10-06 01:36:25.954184,enemy_hit
+401,icetest,Profile3,2022-10-06 01:36:25.957185,killed an enemy
+402,icetest,Profile3,2022-10-06 01:36:26.770948,enemy_hit
+403,icetest,Profile3,2022-10-06 01:36:26.775776,hp 138
+404,icetest,Profile3,2022-10-06 01:36:26.778777,armor 202
+405,icetest,Profile3,2022-10-06 01:36:26.781778,killed an enemy
+406,icetest,Profile3,2022-10-06 01:36:28.041569,auto regenerate armor
+407,icetest,Profile3,2022-10-06 01:36:28.046684,hp 138
+408,icetest,Profile3,2022-10-06 01:36:28.048684,armor 221
+409,icetest,Profile3,2022-10-06 01:36:28.596728,hp 138
+410,icetest,Profile3,2022-10-06 01:36:28.598728,armor 221
+411,icetest,Profile3,2022-10-06 01:36:28.603730,hp 138
+412,icetest,Profile3,2022-10-06 01:36:28.606730,armor 221
+413,icetest,Profile3,2022-10-06 01:36:28.610735,hp 138
+414,icetest,Profile3,2022-10-06 01:36:28.612736,armor 221
+415,icetest,Profile3,2022-10-06 01:36:28.617737,hp 138
+416,icetest,Profile3,2022-10-06 01:36:28.620737,armor 221
+417,icetest,Profile3,2022-10-06 01:36:28.949895,enemy_hit
+418,icetest,Profile3,2022-10-06 01:36:28.952895,killed an enemy
+419,icetest,Profile3,2022-10-06 01:36:29.794897,enemy_hit
+420,icetest,Profile3,2022-10-06 01:36:29.799897,killed an enemy
+421,icetest,Profile3,2022-10-06 01:36:30.254246,enemy_hit
+422,icetest,Profile3,2022-10-06 01:36:30.258247,killed an enemy
+423,icetest,Profile3,2022-10-06 01:36:32.760018,hp 138
+424,icetest,Profile3,2022-10-06 01:36:32.762019,armor 221
+425,icetest,Profile3,2022-10-06 01:36:32.769021,shielded hit
+426,icetest,Profile3,2022-10-06 01:36:32.777023,hp 138
+427,icetest,Profile3,2022-10-06 01:36:32.780024,armor 221
+428,icetest,Profile3,2022-10-06 01:36:32.784024,hp 138
+429,icetest,Profile3,2022-10-06 01:36:32.786024,armor 221
+430,icetest,Profile3,2022-10-06 01:36:32.963436,enemy_hit
+431,icetest,Profile3,2022-10-06 01:36:32.967437,hp 138
+432,icetest,Profile3,2022-10-06 01:36:32.970437,armor 211
+433,icetest,Profile3,2022-10-06 01:36:32.973438,killed an enemy
+434,icetest,Profile3,2022-10-06 01:36:33.608239,hp 138
+435,icetest,Profile3,2022-10-06 01:36:33.611239,armor 221
+436,icetest,Profile3,2022-10-06 01:36:33.616242,hp 138
+437,icetest,Profile3,2022-10-06 01:36:33.619242,armor 221
+438,icetest,Profile3,2022-10-06 01:36:33.623242,hp 138
+439,icetest,Profile3,2022-10-06 01:36:33.626243,armor 221
+440,icetest,Profile3,2022-10-06 01:36:33.630244,hp 138
+441,icetest,Profile3,2022-10-06 01:36:33.633244,armor 221
+442,icetest,Profile3,2022-10-06 01:36:33.941297,hp 138
+443,icetest,Profile3,2022-10-06 01:36:33.943302,armor 221
+444,icetest,Profile3,2022-10-06 01:36:33.952294,shielded hit
+445,icetest,Profile3,2022-10-06 01:36:33.958295,hp 138
+446,icetest,Profile3,2022-10-06 01:36:33.961295,armor 221
+447,icetest,Profile3,2022-10-06 01:36:33.965296,hp 138
+448,icetest,Profile3,2022-10-06 01:36:33.968297,armor 221
+449,icetest,Profile3,2022-10-06 01:36:35.333031,hp 138
+450,icetest,Profile3,2022-10-06 01:36:35.336031,armor 206
+451,icetest,Profile3,2022-10-06 01:36:35.345033,shielded hit
+452,icetest,Profile3,2022-10-06 01:36:35.350035,hp 138
+453,icetest,Profile3,2022-10-06 01:36:35.353035,armor 206
+454,icetest,Profile3,2022-10-06 01:36:35.366039,hp 138
+455,icetest,Profile3,2022-10-06 01:36:35.370039,armor 206
+456,icetest,Profile3,2022-10-06 01:36:36.683301,hp 138
+457,icetest,Profile3,2022-10-06 01:36:36.686302,armor 195
+458,icetest,Profile3,2022-10-06 01:36:36.693303,shielded hit
+459,icetest,Profile3,2022-10-06 01:36:36.700306,hp 138
+460,icetest,Profile3,2022-10-06 01:36:36.704307,armor 195
+461,icetest,Profile3,2022-10-06 01:36:36.707307,hp 138
+462,icetest,Profile3,2022-10-06 01:36:36.710309,armor 195
+463,icetest,Profile3,2022-10-06 01:36:37.177492,hp 138
+464,icetest,Profile3,2022-10-06 01:36:37.180493,armor 172
+465,icetest,Profile3,2022-10-06 01:36:37.190495,shielded hit
+466,icetest,Profile3,2022-10-06 01:36:37.198500,hp 138
+467,icetest,Profile3,2022-10-06 01:36:37.200500,armor 172
+468,icetest,Profile3,2022-10-06 01:36:37.213507,hp 138
+469,icetest,Profile3,2022-10-06 01:36:37.217508,armor 172
+470,icetest,Profile3,2022-10-06 01:36:38.234615,hp 138
+471,icetest,Profile3,2022-10-06 01:36:38.236616,armor 150
+472,icetest,Profile3,2022-10-06 01:36:38.243619,shielded hit
+473,icetest,Profile3,2022-10-06 01:36:38.252459,hp 138
+474,icetest,Profile3,2022-10-06 01:36:38.255450,armor 150
+475,icetest,Profile3,2022-10-06 01:36:38.258270,hp 138
+476,icetest,Profile3,2022-10-06 01:36:38.261265,armor 150
+477,icetest,Profile3,2022-10-06 01:36:43.096164,Session_Accuracy 33
+478,icetest,Profile3,2022-10-06 01:36:43.099164,Session_total_downed 0
+479,icetest,Profile3,2022-10-06 01:36:43.101165,Session_total_kills 28
+480,icetest,Profile3,2022-10-06 01:36:43.103165,Session_total_heads_shots 6
+481,icetest,Profile3,2022-10-06 01:36:43.106166,Session_total_specials_kills 2
+482,icetest,Profile3,2022-10-06 01:36:43.108167,Session_civilians_killed 0
