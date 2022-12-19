@@ -1,0 +1,170 @@
+﻿VAR,LABEL,TYPE,INPUT,QUESTION
+CASE,Interview-Nummer (fortlaufend),METRIC,SYSTEM,
+SERIAL,Seriennummer (sofern verwendet),TEXT,SYSTEM,
+REF,Referenz (sofern im Link angegeben),TEXT,SYSTEM,
+QUESTNNR,Fragebogen der im Interview verwendet wurde,TEXT,SYSTEM,
+MODE,Interview-Modus,TEXT,SYSTEM,
+STARTED,Zeitpunkt zu dem das Interview begonnen hat (Europe/Berlin),TIME,SYSTEM,
+BA01_01,Realismus: Realismus des visuellen Feedbacks,ORDINAL,SCALE,Wie realistisch erschien Dir die Schadensindikatoren? (Schadensindikatoren sind alle visuellen Elemente die kommunizieren dass Du im Spiel Schaden bekommen hast.)
+BA02_01,Immersion: Immersion,ORDINAL,SCALE,Wie sehr bist du in das Spiel eingetaucht ?
+BA03_01,Angst: Angst ausgelöst durch das visuelle Feedback,ORDINAL,SCALE,Haben Dir die Schadensindikatoren Angst gemacht?
+BA04_01,Schmerzen: Schmerzen ausgelöst durch das visuelle Feedback,ORDINAL,SCALE,Wie schmerzhaft erschien Dir die Schadensindikatoren?
+BA05_01,Abschreckung: Ich habe es vermieden angeschossen zu werden damit die Schadensindikatoren nicht ausgelöst werden,ORDINAL,SCALE,Fragen über die abschreckende und hemmende Wirkung der Schadensindikatoren.
+BA05_02,Abschreckung: Gegnerische Schüsse habe ich trotz Schadensindikatoren auch mal ignoriert,ORDINAL,SCALE,Fragen über die abschreckende und hemmende Wirkung der Schadensindikatoren.
+BA05_07,Abschreckung: Ich habe mich häufig hinter Deckung versteckt um nicht getroffen zu werden,ORDINAL,SCALE,Fragen über die abschreckende und hemmende Wirkung der Schadensindikatoren.
+BA06_01,Körperliche Reaktion: Ich konnte mein Herz rasen fühlen,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt?
+BA06_03,Körperliche Reaktion: Ich habe mich in meinem Körper präsent gefühlt,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt?
+BA06_04,Körperliche Reaktion: Ich hatte das Gefühl mein Körper und meine Spielfigur wären verbunden,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt?
+BA06_05,Körperliche Reaktion: Die Schadenindikatoren haben mich nervös gemacht,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt?
+BA06_06,Körperliche Reaktion: Mir war bewusst dass ich nicht in echter Gefahr bin,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt?
+BA07_01,Spaß: Wie viel Spaß hat dir das Spiel mit den Schadensindikatoren gemacht?,ORDINAL,SCALE,Spaß
+BA08_01,Aufregung: Wie aufregend war das Spiel mit den Schadensindikatoren für Dich?,ORDINAL,SCALE,
+BA09_01,nochmal spielen: Würdest du in deiner Freizeit nochmal ein Spiel mit den verwendeten Schadensindikatoren spielen?,ORDINAL,SCALE,
+BB01_01,Realismus: Realismus des visuellen Feedbacks,ORDINAL,SCALE,Wie realistisch erschien Dir die Schadensindikatoren? (Schadensindikatoren sind visuelles Feedback und Vibrationsfeedback ausgelöst durch die Weste)
+BB01_02,Realismus: Realismus des Vibrationsfeedbacks,ORDINAL,SCALE,Wie realistisch erschien Dir die Schadensindikatoren? (Schadensindikatoren sind visuelles Feedback und Vibrationsfeedback ausgelöst durch die Weste)
+BB02_01,Immersion: Immersion,ORDINAL,SCALE,Wie sehr bist du in das Spiel eingetaucht?
+BB03_01,Angst: Angst ausgelöst durch das visuelle Feedback,ORDINAL,SCALE,Haben Dir die Schadensindikatoren Angst gemacht?
+BB03_02,Angst: Angst ausgelöst durch das Vibrationsfeedback,ORDINAL,SCALE,Haben Dir die Schadensindikatoren Angst gemacht?
+BB04_01,Schmerzen: Schmerzen ausgelöst durch das visuelle Feedback,ORDINAL,SCALE,Wie schmerzhaft erschien Dir die Schadensindikatoren?
+BB04_02,Schmerzen: Schmerzen ausgelöst durch das Vibrationsfeedback,ORDINAL,SCALE,Wie schmerzhaft erschien Dir die Schadensindikatoren?
+BB05_01,Abschreckung: Ich habe es vermieden angeschossen zu werden damit die Schadensindikatoren nicht ausgelöst werden,ORDINAL,SCALE,Fragen über die abschreckende und hemmende Wirkung der Schadensindikatoren.
+BB05_02,Abschreckung: Gegnerische Schüsse habe ich trotz Schadensindikatoren auch mal ignoriert,ORDINAL,SCALE,Fragen über die abschreckende und hemmende Wirkung der Schadensindikatoren.
+BB05_07,Abschreckung: Ich habe mich häufig hinter Deckung versteckt um nicht getroffen zu werden,ORDINAL,SCALE,Fragen über die abschreckende und hemmende Wirkung der Schadensindikatoren.
+BB06_01,Körperliche Reaktion: Ich konnte mein Herz rasen fühlen,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt ?
+BB06_03,Körperliche Reaktion: Ich habe mich in meinem Körper präsent gefühlt,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt ?
+BB06_04,Körperliche Reaktion: Ich hatte das Gefühl mein Körper und meine Spielfigur wären verbunden,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt ?
+BB06_05,Körperliche Reaktion: Die Schadenindikatoren haben mich nervös gemacht,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt ?
+BB06_06,Körperliche Reaktion: Mir war bewusst dass ich nicht in echter Gefahr bin,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt ?
+BB07_01,Spaß: Wie viel Spaß hat dir das Spiel mit den Schadensindikatoren gemacht?,ORDINAL,SCALE,Spaß
+BB08_01,Aufregung: Wie aufregend war das Spiel mit den Schadensindikatoren für Dich?,ORDINAL,SCALE,
+BB09_01,nochmal spielen: Würdest du in deiner Freizeit nochmal ein Spiel mit den verwendeten Schadensindikatoren spielen?,ORDINAL,SCALE,
+BC01_01,Realismus: Realismus der visuellen Feedbacks,ORDINAL,SCALE,Wie realistisch erschien Dir die Schadensindikatoren? (Schadensindikatoren sind visuelles Feedback  Vibrationsfeedback und thermisches Feedback in Form von Kälte)
+BC01_02,Realismus: Realismus des Vibrationsfeedbacks,ORDINAL,SCALE,Wie realistisch erschien Dir die Schadensindikatoren? (Schadensindikatoren sind visuelles Feedback  Vibrationsfeedback und thermisches Feedback in Form von Kälte)
+BC01_03,Realismus: Realismus des thermischen Feedbacks,ORDINAL,SCALE,Wie realistisch erschien Dir die Schadensindikatoren? (Schadensindikatoren sind visuelles Feedback  Vibrationsfeedback und thermisches Feedback in Form von Kälte)
+BC02_01,Immersion: Immersion,ORDINAL,SCALE,Wie sehr bist du in das Spiel eingetaucht?
+BC03_01,Angst: Angst ausgelöst durch das visuelle Feedback,ORDINAL,SCALE,Haben Dir die Schadensindikatoren Angst gemacht?
+BC03_02,Angst: Angst ausgelöst durch das Vibrationsfeedback,ORDINAL,SCALE,Haben Dir die Schadensindikatoren Angst gemacht?
+BC03_03,Angst: Angst ausgelöst durch das thermischen Feedbacks,ORDINAL,SCALE,Haben Dir die Schadensindikatoren Angst gemacht?
+BC04_01,Schmerzen: Schmerzen ausgelöst durch das visuelle Feedback,ORDINAL,SCALE,Wie schmerzhaft erschien Dir die Schadensindikatoren?
+BC04_02,Schmerzen: Schmerzen ausgelöst durch das Vibrationsfeedback,ORDINAL,SCALE,Wie schmerzhaft erschien Dir die Schadensindikatoren?
+BC04_03,Schmerzen: Schmerzen ausgelöst duch das thermischen Feedback,ORDINAL,SCALE,Wie schmerzhaft erschien Dir die Schadensindikatoren?
+BC05_01,Abschreckung: Ich habe es vermieden angeschossen zu werden damit die Schadensindikatoren nicht ausgelöst werden,ORDINAL,SCALE,Fragen über die abschreckende und hemmende Wirkung der Schadensindikatoren.
+BC05_02,Abschreckung: Gegnerische Schüsse habe ich trotz Schadensindikatoren auch mal ignoriert,ORDINAL,SCALE,Fragen über die abschreckende und hemmende Wirkung der Schadensindikatoren.
+BC05_07,Abschreckung: Ich habe mich häufig hinter Deckung versteckt um nicht getroffen zu werden,ORDINAL,SCALE,Fragen über die abschreckende und hemmende Wirkung der Schadensindikatoren.
+BC06_01,Körperliche Reaktion: Ich konnte mein Herz rasen fühlen,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt ?
+BC06_03,Körperliche Reaktion: Ich habe mich in meinem Körper präsent gefühlt,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt ?
+BC06_04,Körperliche Reaktion: Ich hatte das Gefühl mein Körper und meine Spielfigur wären verbunden,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt ?
+BC06_05,Körperliche Reaktion: Die Schadenindikatoren haben mich nervös gemacht,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt ?
+BC06_06,Körperliche Reaktion: Mir war bewusst dass ich nicht in echter Gefahr bin,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt ?
+BC07_01,Spaß: Wie viel Spaß hat dir das Spiel mit den Schadensindikatoren gemacht?,ORDINAL,SCALE,Spaß
+BC08_01,Aufregung: Wie aufregend war das Spiel mit den Schadensindikatoren für Dich?,ORDINAL,SCALE,
+BC09_01,nochmal spielen: Würdest du in deiner Freizeit nochmal ein Spiel mit den verwendeten Schadensindikatoren spielen?,ORDINAL,SCALE,
+BD01_01,Realismus: Realismus der visuellen Feedbacks,ORDINAL,SCALE,Wie realistisch erschien Dir die Schadensindikatoren ? (Schadensindikatoren sind visuelles Feedback  Vibrationsfeedback und thermisches Feedback und Sound Clips die abgespielt werden wenn Du getroffen wirst)
+BD01_02,Realismus: Realismus des Vibrationsfeedbacks,ORDINAL,SCALE,Wie realistisch erschien Dir die Schadensindikatoren ? (Schadensindikatoren sind visuelles Feedback  Vibrationsfeedback und thermisches Feedback und Sound Clips die abgespielt werden wenn Du getroffen wirst)
+BD01_03,Realismus: Realismus des thermischen Feedbacks,ORDINAL,SCALE,Wie realistisch erschien Dir die Schadensindikatoren ? (Schadensindikatoren sind visuelles Feedback  Vibrationsfeedback und thermisches Feedback und Sound Clips die abgespielt werden wenn Du getroffen wirst)
+BD01_04,Realismus: Realismus des auditiven Feedbacks,ORDINAL,SCALE,Wie realistisch erschien Dir die Schadensindikatoren ? (Schadensindikatoren sind visuelles Feedback  Vibrationsfeedback und thermisches Feedback und Sound Clips die abgespielt werden wenn Du getroffen wirst)
+BD02_01,Immersion: Immersion,ORDINAL,SCALE,Wie sehr bist du in das Spiel eingetaucht ?
+BD03_01,Angst: Angst ausgelöst durch das visuelle Feedback,ORDINAL,SCALE,Haben Dir die Schadensindikatoren Angst gemacht?
+BD03_02,Angst: Angst ausgelöst durch das Vibrationsfeedback,ORDINAL,SCALE,Haben Dir die Schadensindikatoren Angst gemacht?
+BD03_03,Angst: Angst ausgelöst durch des thermische Feedback,ORDINAL,SCALE,Haben Dir die Schadensindikatoren Angst gemacht?
+BD03_04,Angst: Angst ausgelöst durch das auditive Feedback,ORDINAL,SCALE,Haben Dir die Schadensindikatoren Angst gemacht?
+BD04_01,Schmerzen: Schmerzen ausgelöst durch das visuelle Feedback,ORDINAL,SCALE,Wie schmerzhaft erschien Dir die Schadensindikatoren?
+BD04_02,Schmerzen: Schmerzen ausgelöst durch das Vibrationsfeedback,ORDINAL,SCALE,Wie schmerzhaft erschien Dir die Schadensindikatoren?
+BD04_03,Schmerzen: Schmerzen ausgelöst duch das thermischen Feedback,ORDINAL,SCALE,Wie schmerzhaft erschien Dir die Schadensindikatoren?
+BD04_04,Schmerzen: Schmerzen ausgelöst durch das auditive Feedback,ORDINAL,SCALE,Wie schmerzhaft erschien Dir die Schadensindikatoren?
+BD05_01,Abschreckung: Ich habe es vermieden angeschossen zu werden damit die Schadensindikatoren nicht ausgelöst werden,ORDINAL,SCALE,Fragen über die abschreckende und hemmende Wirkung der Schadensindikatoren.
+BD05_02,Abschreckung: Gegnerische Schüsse habe ich trotz Schadensindikatoren auch mal ignoriert,ORDINAL,SCALE,Fragen über die abschreckende und hemmende Wirkung der Schadensindikatoren.
+BD05_07,Abschreckung: Ich habe mich häufig hinter Deckung versteckt um nicht getroffen zu werden,ORDINAL,SCALE,Fragen über die abschreckende und hemmende Wirkung der Schadensindikatoren.
+BD06_01,Körperliche Reaktion: Ich konnte mein Herz rasen fühlen,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt?
+BD06_03,Körperliche Reaktion: Ich habe mich in meinem Körper präsent gefühlt,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt?
+BD06_04,Körperliche Reaktion: Ich hatte das Gefühl mein Körper und meine Spielfigur wären verbunden,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt?
+BD06_05,Körperliche Reaktion: Die Schadenindikatoren haben mich nervös gemacht,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt?
+BD06_06,Körperliche Reaktion: Mir war bewusst das ich nicht in echter Gefahr bin,ORDINAL,SCALE,Wie hast du dich aufgrund der Schadensindikatoren gefühlt?
+BD07_01,Spaß: Wie viel Spaß hat dir das Spiel mit den Schadensindikatoren gemacht ?,ORDINAL,SCALE,Spaß
+BD08_01,Aufregung: Wie aufregend war das Spiel mit den Schadensindikatoren für Dich?,ORDINAL,SCALE,
+BD09_01,nochmal spielen: Würdest du in deiner Freizeit nochmal ein Spiel mit den verwendeten Schadensindikatoren spielen?,ORDINAL,SCALE,
+BD10_01,Spielstil: Ich hatte das Gefühl unbesiegbar zu sein,ORDINAL,SCALE,Fragen zu Deinem Spielerlebnis und Spielverhalten wenn alle vier Modalitäten (visuell auditiv Vibration Temperatur) als Schadensindikatoren verwendet werden.
+BD10_02,Spielstil: Ich bin häufig durch Gegnergruppen gerannt,ORDINAL,SCALE,Fragen zu Deinem Spielerlebnis und Spielverhalten wenn alle vier Modalitäten (visuell auditiv Vibration Temperatur) als Schadensindikatoren verwendet werden.
+BD10_03,Spielstil: Ich habe Gegner immer aus einer sicheren Distanz getötet,ORDINAL,SCALE,Fragen zu Deinem Spielerlebnis und Spielverhalten wenn alle vier Modalitäten (visuell auditiv Vibration Temperatur) als Schadensindikatoren verwendet werden.
+BD10_04,Spielstil: Ich habe erstmal Gegner getötet bevor ich mich auf ein Objektive konzentriert habe,ORDINAL,SCALE,Fragen zu Deinem Spielerlebnis und Spielverhalten wenn alle vier Modalitäten (visuell auditiv Vibration Temperatur) als Schadensindikatoren verwendet werden.
+BD10_05,Spielstil: Ich bin erst in Deckung gegangen wenn meine Rüstung kaputt war,ORDINAL,SCALE,Fragen zu Deinem Spielerlebnis und Spielverhalten wenn alle vier Modalitäten (visuell auditiv Vibration Temperatur) als Schadensindikatoren verwendet werden.
+BD10_06,Spielstil: Ich war die meiste Zeit geduckt,ORDINAL,SCALE,Fragen zu Deinem Spielerlebnis und Spielverhalten wenn alle vier Modalitäten (visuell auditiv Vibration Temperatur) als Schadensindikatoren verwendet werden.
+BD10_07,Spielstil: Ich bin viel gerannt,ORDINAL,SCALE,Fragen zu Deinem Spielerlebnis und Spielverhalten wenn alle vier Modalitäten (visuell auditiv Vibration Temperatur) als Schadensindikatoren verwendet werden.
+BD10_08,Spielstil: Ich habe mich verwundbar gefühlt,ORDINAL,SCALE,Fragen zu Deinem Spielerlebnis und Spielverhalten wenn alle vier Modalitäten (visuell auditiv Vibration Temperatur) als Schadensindikatoren verwendet werden.
+BD10_09,Spielstil: Es war leicht die Ziele des Spiels zu erreichen,ORDINAL,SCALE,Fragen zu Deinem Spielerlebnis und Spielverhalten wenn alle vier Modalitäten (visuell auditiv Vibration Temperatur) als Schadensindikatoren verwendet werden.
+BD10_10,Spielstil: Es gab zu viele Gegner,ORDINAL,SCALE,Fragen zu Deinem Spielerlebnis und Spielverhalten wenn alle vier Modalitäten (visuell auditiv Vibration Temperatur) als Schadensindikatoren verwendet werden.
+BD10_11,Spielstil: Ich habe mich überfordert gefühlt,ORDINAL,SCALE,Fragen zu Deinem Spielerlebnis und Spielverhalten wenn alle vier Modalitäten (visuell auditiv Vibration Temperatur) als Schadensindikatoren verwendet werden.
+BD10_12,Spielstil: Ich habe mein Spielverhalten aufgrund der Schadensindikatoren verändert,ORDINAL,SCALE,Fragen zu Deinem Spielerlebnis und Spielverhalten wenn alle vier Modalitäten (visuell auditiv Vibration Temperatur) als Schadensindikatoren verwendet werden.
+BD10_13,Spielstil: Ich hatte ein passiven (vorsichtigen) Spielstil,ORDINAL,SCALE,Fragen zu Deinem Spielerlebnis und Spielverhalten wenn alle vier Modalitäten (visuell auditiv Vibration Temperatur) als Schadensindikatoren verwendet werden.
+DD01_01,Alter: Alter,METRIC,OPEN,
+DD02,Geschlecht,NOMINAL,SELECTION,
+DD04,Beschäftigung,NOMINAL,SELECTION,Aktuelle Beschäftigung
+DD05_01,Spielerfahrung: Wie viel Erfahrung hast Du mit Computerspielen?,ORDINAL,SCALE,Wie viel Erfahrung hast du mit den Folgenden Themen?
+DD05_02,Spielerfahrung: Wie viel Erfahrung hast Du mit First Person Shooter Spielen?,ORDINAL,SCALE,Wie viel Erfahrung hast du mit den Folgenden Themen?
+DD05_03,Spielerfahrung: Wie viel Erfahrung hast Du mit dem Spiel Payday 2 (laute Heists) ?,ORDINAL,SCALE,Wie viel Erfahrung hast du mit den Folgenden Themen?
+DD05_04,Spielerfahrung: Wie viel Erfahrung hast Du mit haptischem Feedback (Vibrations-Westen EMS Thermisches Feedback),ORDINAL,SCALE,Wie viel Erfahrung hast du mit den Folgenden Themen?
+IF01,Am meisten Aufgefallen: Ausweichoption (negativ) oder Anzahl ausgewählter Optionen,METRIC,SYSTEM,Allgemeine Fragen zu allen Spielsession: 
+
+Welche Modalität ist dir am meisten aufgefallen? 
+IF01_01,Am meisten Aufgefallen: Visuell,DICHOTOMOUS,CHECKBOX,Allgemeine Fragen zu allen Spielsession: 
+
+Welche Modalität ist dir am meisten aufgefallen? 
+IF01_02,Am meisten Aufgefallen: Auditiv,DICHOTOMOUS,CHECKBOX,Allgemeine Fragen zu allen Spielsession: 
+
+Welche Modalität ist dir am meisten aufgefallen? 
+IF01_03,Am meisten Aufgefallen: Vibrationsweste,DICHOTOMOUS,CHECKBOX,Allgemeine Fragen zu allen Spielsession: 
+
+Welche Modalität ist dir am meisten aufgefallen? 
+IF01_04,Am meisten Aufgefallen: Temperatur (Kälte),DICHOTOMOUS,CHECKBOX,Allgemeine Fragen zu allen Spielsession: 
+
+Welche Modalität ist dir am meisten aufgefallen? 
+IF01_06,Am meisten Aufgefallen: Mir ist nichts aufgefallen,DICHOTOMOUS,CHECKBOX,Allgemeine Fragen zu allen Spielsession: 
+
+Welche Modalität ist dir am meisten aufgefallen? 
+IF02_01,Informationen: Visuelles Feedback,ORDINAL,SCALE,Wie viele Informationen haben dir die unterschiedlichen Modalitäten über das Spielgeschehen gegeben?
+IF02_02,Informationen: Vibrationsfeedback,ORDINAL,SCALE,Wie viele Informationen haben dir die unterschiedlichen Modalitäten über das Spielgeschehen gegeben?
+IF02_03,Informationen: Thermisches Feedback,ORDINAL,SCALE,Wie viele Informationen haben dir die unterschiedlichen Modalitäten über das Spielgeschehen gegeben?
+IF02_04,Informationen: Auditives Feedback,ORDINAL,SCALE,Wie viele Informationen haben dir die unterschiedlichen Modalitäten über das Spielgeschehen gegeben?
+IF03_01,Informationsübertragung: [01],TEXT,OPEN,Welche Informationen hat Dir das visuelle Feedback gegeben?
+IF04_01,Informationsübertragung: [01],TEXT,OPEN,Welche Informationen hat Dir das  Vibrationsfeedback gegeben?
+IF05_01,Informationsübertragung: [01],TEXT,OPEN,Welche Informationen hat Dir das thermische Feedback gegeben?
+IF06_01,Informationsübertragung: [01],TEXT,OPEN,Welche Informationen hat Dir das auditive Feedback gegeben?
+IF07_01,Payday2: Wie gut gefällt dir das originale Spiel Payday 2 ohne modifizierte Schadensindikatoren ?,ORDINAL,SCALE,Original Payday 2
+P102_01,Playertag: [01],TEXT,OPEN,Bitte hier den randomisierten Playertag eintragen. 
+
+V002_01,Freies Feedback: [01],TEXT,OPEN,Hast Du noch weiteres Feedback oder etwas was Du zu den Schadensindikatoren oder dem Spiel sagen willst?
+TIME001,Verweildauer Seite 1,METRIC,SYSTEM,
+TIME002,Verweildauer Seite 2,METRIC,SYSTEM,
+TIME003,Verweildauer Seite 3,METRIC,SYSTEM,
+TIME004,Verweildauer Seite 4,METRIC,SYSTEM,
+TIME005,Verweildauer Seite 5,METRIC,SYSTEM,
+TIME006,Verweildauer Seite 6,METRIC,SYSTEM,
+TIME007,Verweildauer Seite 7,METRIC,SYSTEM,
+TIME008,Verweildauer Seite 8,METRIC,SYSTEM,
+TIME009,Verweildauer Seite 9,METRIC,SYSTEM,
+TIME010,Verweildauer Seite 10,METRIC,SYSTEM,
+TIME011,Verweildauer Seite 11,METRIC,SYSTEM,
+TIME012,Verweildauer Seite 12,METRIC,SYSTEM,
+TIME013,Verweildauer Seite 13,METRIC,SYSTEM,
+TIME014,Verweildauer Seite 14,METRIC,SYSTEM,
+TIME015,Verweildauer Seite 15,METRIC,SYSTEM,
+TIME016,Verweildauer Seite 16,METRIC,SYSTEM,
+TIME017,Verweildauer Seite 17,METRIC,SYSTEM,
+TIME018,Verweildauer Seite 18,METRIC,SYSTEM,
+TIME019,Verweildauer Seite 19,METRIC,SYSTEM,
+TIME020,Verweildauer Seite 20,METRIC,SYSTEM,
+TIME021,Verweildauer Seite 21,METRIC,SYSTEM,
+TIME022,Verweildauer Seite 22,METRIC,SYSTEM,
+TIME023,Verweildauer Seite 23,METRIC,SYSTEM,
+TIME024,Verweildauer Seite 24,METRIC,SYSTEM,
+TIME_SUM,Verweildauer gesamt (ohne Ausreißer),METRIC,SYSTEM,
+MAILSENT,Versandzeitpunkt der Einladungsmail (nur für nicht-anonyme Adressaten),TIME,SYSTEM,
+LASTDATA,Zeitpunkt als der Datensatz das letzte mal geändert wurde,TIME,SYSTEM,
+FINISHED,Wurde die Befragung abgeschlossen (letzte Seite erreicht)?,BOOL,SYSTEM,
+Q_VIEWER,Hat der Teilnehmer den Fragebogen nur angesehen ohne die Pflichtfragen zu beantworten?,BOOL,SYSTEM,
+LASTPAGE,Seite die der Teilnehmer zuletzt bearbeitet hat,METRIC,SYSTEM,
+MAXPAGE,Letzte Seite die im Fragebogen bearbeitet wurde,METRIC,SYSTEM,
+MISSING,Anteil fehlender Antworten in Prozent,METRIC,SYSTEM,
+MISSREL,Anteil fehlender Antworten (gewichtet nach Relevanz),METRIC,SYSTEM,
+TIME_RSI,Maluspunkte für schnelles Ausfüllen,METRIC,SYSTEM,
+DEG_TIME,Maluspunkte für schnelles Ausfüllen,METRIC,SYSTEM,
