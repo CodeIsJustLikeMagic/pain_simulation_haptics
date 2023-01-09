@@ -1,0 +1,1685 @@
+,Player,Profile,Time,Event
+0,hrzup,Profile-Visual,2022-12-20 17:56:35.432059,stance_crouched 0
+1,hrzup,Profile-Visual,2022-12-20 17:56:38.332509,stance_crouched 0
+2,hrzup,Profile-Visual,2022-12-20 17:56:38.365516,activate_objective Enter_the_bank
+3,hrzup,Profile-Visual,2022-12-20 17:56:40.755043,complete_objective Enter_the_bank
+4,hrzup,Profile-Visual,2022-12-20 17:56:41.764269,activate_objective Saw_open_the_door
+5,hrzup,Profile-Visual,2022-12-20 17:56:45.166033,hp 460
+6,hrzup,Profile-Visual,2022-12-20 17:56:45.169034,armor 91
+7,hrzup,Profile-Visual,2022-12-20 17:56:45.173034,shielded hit
+8,hrzup,Profile-Visual,2022-12-20 17:56:45.179035,hp 460
+9,hrzup,Profile-Visual,2022-12-20 17:56:45.181035,armor 91
+10,hrzup,Profile-Visual,2022-12-20 17:56:45.184036,hp 460
+11,hrzup,Profile-Visual,2022-12-20 17:56:45.187037,armor 91
+12,hrzup,Profile-Visual,2022-12-20 17:56:45.190038,health_subtracted 0
+13,hrzup,Profile-Visual,2022-12-20 17:56:45.307064,hp 460
+14,hrzup,Profile-Visual,2022-12-20 17:56:45.309065,armor 84
+15,hrzup,Profile-Visual,2022-12-20 17:56:45.313065,enemy_headshot
+16,hrzup,Profile-Visual,2022-12-20 17:56:45.316066,killed an enemy
+17,hrzup,Profile-Visual,2022-12-20 17:56:45.320067,weapon_fired 1
+18,hrzup,Profile-Visual,2022-12-20 17:56:45.388082,weapon_fired 0
+19,hrzup,Profile-Visual,2022-12-20 17:56:47.660593,hp 460
+20,hrzup,Profile-Visual,2022-12-20 17:56:47.662593,armor 91
+21,hrzup,Profile-Visual,2022-12-20 17:56:47.666593,auto regenerate armor
+22,hrzup,Profile-Visual,2022-12-20 17:57:06.734314,complete_objective Saw_open_the_door
+23,hrzup,Profile-Visual,2022-12-20 17:57:07.736554,activate_objective Defend_the_saw
+24,hrzup,Profile-Visual,2022-12-20 17:57:24.576073,stance_crouched 0
+25,hrzup,Profile-Visual,2022-12-20 17:57:25.424768,weapon_fired 1
+26,hrzup,Profile-Visual,2022-12-20 17:57:25.501786,killed an enemy
+27,hrzup,Profile-Visual,2022-12-20 17:57:25.505787,weapon_fired 1
+28,hrzup,Profile-Visual,2022-12-20 17:57:25.573802,weapon_fired 0
+29,hrzup,Profile-Visual,2022-12-20 17:57:26.547277,stance_crouched 0
+30,hrzup,Profile-Visual,2022-12-20 17:57:32.342960,stance_crouched 0
+31,hrzup,Profile-Visual,2022-12-20 17:57:32.707041,weapon_fired 0
+32,hrzup,Profile-Visual,2022-12-20 17:57:32.783058,weapon_fired 0
+33,hrzup,Profile-Visual,2022-12-20 17:57:33.069123,weapon_fired 0
+34,hrzup,Profile-Visual,2022-12-20 17:57:33.145140,weapon_fired 0
+35,hrzup,Profile-Visual,2022-12-20 17:57:33.518224,stance_crouched 0
+36,hrzup,Profile-Visual,2022-12-20 17:57:39.665474,stance_crouched 0
+37,hrzup,Profile-Visual,2022-12-20 17:57:40.243604,weapon_fired 0
+38,hrzup,Profile-Visual,2022-12-20 17:57:40.322621,weapon_fired 0
+39,hrzup,Profile-Visual,2022-12-20 17:57:40.459652,weapon_fired 1
+40,hrzup,Profile-Visual,2022-12-20 17:57:40.537671,weapon_fired 0
+41,hrzup,Profile-Visual,2022-12-20 17:57:40.642693,weapon_fired 0
+42,hrzup,Profile-Visual,2022-12-20 17:57:42.201974,weapon_fired 0
+43,hrzup,Profile-Visual,2022-12-20 17:57:42.280991,weapon_fired 0
+44,hrzup,Profile-Visual,2022-12-20 17:57:42.505042,weapon_fired 0
+45,hrzup,Profile-Visual,2022-12-20 17:57:42.583060,weapon_fired 0
+46,hrzup,Profile-Visual,2022-12-20 17:57:44.000813,weapon_fired 0
+47,hrzup,Profile-Visual,2022-12-20 17:57:44.079830,weapon_fired 0
+48,hrzup,Profile-Visual,2022-12-20 17:57:44.147845,weapon_fired 0
+49,hrzup,Profile-Visual,2022-12-20 17:57:44.501925,weapon_fired 0
+50,hrzup,Profile-Visual,2022-12-20 17:57:44.582943,weapon_fired 0
+51,hrzup,Profile-Visual,2022-12-20 17:57:44.952390,hp 460
+52,hrzup,Profile-Visual,2022-12-20 17:57:44.955391,armor 91
+53,hrzup,Profile-Visual,2022-12-20 17:57:44.959392,shielded hit
+54,hrzup,Profile-Visual,2022-12-20 17:57:44.964393,hp 460
+55,hrzup,Profile-Visual,2022-12-20 17:57:44.967393,armor 91
+56,hrzup,Profile-Visual,2022-12-20 17:57:44.970394,hp 460
+57,hrzup,Profile-Visual,2022-12-20 17:57:44.972395,armor 91
+58,hrzup,Profile-Visual,2022-12-20 17:57:44.976396,health_subtracted 0
+59,hrzup,Profile-Visual,2022-12-20 17:57:45.108425,weapon_fired 0
+60,hrzup,Profile-Visual,2022-12-20 17:57:45.181873,weapon_fired 0
+61,hrzup,Profile-Visual,2022-12-20 17:57:45.708772,hp 460
+62,hrzup,Profile-Visual,2022-12-20 17:57:45.711748,armor 81
+63,hrzup,Profile-Visual,2022-12-20 17:57:45.719750,hp 460
+64,hrzup,Profile-Visual,2022-12-20 17:57:45.722750,armor 81
+65,hrzup,Profile-Visual,2022-12-20 17:57:45.726752,shielded hit
+66,hrzup,Profile-Visual,2022-12-20 17:57:45.730752,hp 460
+67,hrzup,Profile-Visual,2022-12-20 17:57:45.734753,armor 81
+68,hrzup,Profile-Visual,2022-12-20 17:57:45.738755,health_subtracted 0
+69,hrzup,Profile-Visual,2022-12-20 17:57:46.113838,stance_crouched 0
+70,hrzup,Profile-Visual,2022-12-20 17:57:48.188373,hp 460
+71,hrzup,Profile-Visual,2022-12-20 17:57:48.191374,armor 71
+72,hrzup,Profile-Visual,2022-12-20 17:57:48.195375,auto regenerate armor
+73,hrzup,Profile-Visual,2022-12-20 17:57:48.381358,stance_crouched 0
+74,hrzup,Profile-Visual,2022-12-20 17:57:48.654689,weapon_fired 1
+75,hrzup,Profile-Visual,2022-12-20 17:57:48.734707,weapon_fired 1
+76,hrzup,Profile-Visual,2022-12-20 17:57:48.740708,killed an enemy
+77,hrzup,Profile-Visual,2022-12-20 17:57:48.803722,weapon_fired 0
+78,hrzup,Profile-Visual,2022-12-20 17:57:49.087785,weapon_fired 1
+79,hrzup,Profile-Visual,2022-12-20 17:57:49.092786,killed an enemy
+80,hrzup,Profile-Visual,2022-12-20 17:57:49.163803,weapon_fired 0
+81,hrzup,Profile-Visual,2022-12-20 17:57:49.803946,weapon_fired 0
+82,hrzup,Profile-Visual,2022-12-20 17:57:49.880963,weapon_fired 0
+83,hrzup,Profile-Visual,2022-12-20 17:57:50.247045,weapon_fired 0
+84,hrzup,Profile-Visual,2022-12-20 17:57:50.323063,weapon_fired 0
+85,hrzup,Profile-Visual,2022-12-20 17:57:50.668140,killed an enemy
+86,hrzup,Profile-Visual,2022-12-20 17:57:50.672141,weapon_fired 1
+87,hrzup,Profile-Visual,2022-12-20 17:57:50.749158,weapon_fired 0
+88,hrzup,Profile-Visual,2022-12-20 17:57:51.388301,stance_crouched 0
+89,hrzup,Profile-Visual,2022-12-20 17:57:52.460141,hp 460
+90,hrzup,Profile-Visual,2022-12-20 17:57:52.462141,armor 91
+91,hrzup,Profile-Visual,2022-12-20 17:57:52.466142,auto regenerate armor
+92,hrzup,Profile-Visual,2022-12-20 17:57:58.028731,stance_crouched 0
+93,hrzup,Profile-Visual,2022-12-20 17:57:58.607212,weapon_fired 0
+94,hrzup,Profile-Visual,2022-12-20 17:57:58.675228,weapon_fired 0
+95,hrzup,Profile-Visual,2022-12-20 17:57:58.747244,enemy_headshot
+96,hrzup,Profile-Visual,2022-12-20 17:57:58.750245,killed an enemy
+97,hrzup,Profile-Visual,2022-12-20 17:57:58.753245,hp 460
+98,hrzup,Profile-Visual,2022-12-20 17:57:58.756246,armor 91
+99,hrzup,Profile-Visual,2022-12-20 17:57:58.760247,weapon_fired 1
+100,hrzup,Profile-Visual,2022-12-20 17:57:58.935286,weapon_fired 0
+101,hrzup,Profile-Visual,2022-12-20 17:57:59.004302,weapon_fired 0
+102,hrzup,Profile-Visual,2022-12-20 17:57:59.271362,enemy_headshot
+103,hrzup,Profile-Visual,2022-12-20 17:57:59.275362,killed an enemy
+104,hrzup,Profile-Visual,2022-12-20 17:57:59.288384,weapon_fired 1
+105,hrzup,Profile-Visual,2022-12-20 17:57:59.355380,weapon_fired 0
+106,hrzup,Profile-Visual,2022-12-20 17:57:59.971902,stance_crouched 0
+107,hrzup,Profile-Visual,2022-12-20 17:58:01.625778,hp 460
+108,hrzup,Profile-Visual,2022-12-20 17:58:01.627778,armor 91
+109,hrzup,Profile-Visual,2022-12-20 17:58:01.631780,auto regenerate armor
+110,hrzup,Profile-Visual,2022-12-20 17:58:01.691793,stance_crouched 0
+111,hrzup,Profile-Visual,2022-12-20 17:58:02.350941,weapon_fired 1
+112,hrzup,Profile-Visual,2022-12-20 17:58:02.428959,killed an enemy
+113,hrzup,Profile-Visual,2022-12-20 17:58:02.431959,weapon_fired 1
+114,hrzup,Profile-Visual,2022-12-20 17:58:02.451963,stance_crouched 0
+115,hrzup,Profile-Visual,2022-12-20 17:58:14.210992,hp 460
+116,hrzup,Profile-Visual,2022-12-20 17:58:14.213992,armor 91
+117,hrzup,Profile-Visual,2022-12-20 17:58:14.218993,enemy_headshot
+118,hrzup,Profile-Visual,2022-12-20 17:58:14.222994,killed an enemy
+119,hrzup,Profile-Visual,2022-12-20 17:58:14.227995,weapon_fired 1
+120,hrzup,Profile-Visual,2022-12-20 17:58:14.298011,weapon_fired 0
+121,hrzup,Profile-Visual,2022-12-20 17:58:14.367026,weapon_fired 0
+122,hrzup,Profile-Visual,2022-12-20 17:58:14.438042,weapon_fired 0
+123,hrzup,Profile-Visual,2022-12-20 17:58:14.500056,enemy_headshot
+124,hrzup,Profile-Visual,2022-12-20 17:58:14.504057,killed an enemy
+125,hrzup,Profile-Visual,2022-12-20 17:58:14.508058,weapon_fired 1
+126,hrzup,Profile-Visual,2022-12-20 17:58:14.580307,weapon_fired 0
+127,hrzup,Profile-Visual,2022-12-20 17:58:14.630318,hp 460
+128,hrzup,Profile-Visual,2022-12-20 17:58:14.632319,armor 91
+129,hrzup,Profile-Visual,2022-12-20 17:58:14.635320,shielded hit
+130,hrzup,Profile-Visual,2022-12-20 17:58:14.641321,hp 460
+131,hrzup,Profile-Visual,2022-12-20 17:58:14.644322,armor 91
+132,hrzup,Profile-Visual,2022-12-20 17:58:14.647322,hp 460
+133,hrzup,Profile-Visual,2022-12-20 17:58:14.650323,armor 91
+134,hrzup,Profile-Visual,2022-12-20 17:58:14.654324,health_subtracted 0
+135,hrzup,Profile-Visual,2022-12-20 17:58:14.677329,killed an enemy
+136,hrzup,Profile-Visual,2022-12-20 17:58:14.682330,weapon_fired 1
+137,hrzup,Profile-Visual,2022-12-20 17:58:14.754346,weapon_fired 0
+138,hrzup,Profile-Visual,2022-12-20 17:58:14.808358,weapon_fired 0
+139,hrzup,Profile-Visual,2022-12-20 17:58:16.005450,weapon_fired 0
+140,hrzup,Profile-Visual,2022-12-20 17:58:16.083468,weapon_fired 1
+141,hrzup,Profile-Visual,2022-12-20 17:58:16.153378,weapon_fired 0
+142,hrzup,Profile-Visual,2022-12-20 17:58:16.230396,weapon_fired 0
+143,hrzup,Profile-Visual,2022-12-20 17:58:16.991567,hp 460
+144,hrzup,Profile-Visual,2022-12-20 17:58:16.993567,armor 81
+145,hrzup,Profile-Visual,2022-12-20 17:58:16.997568,auto regenerate armor
+146,hrzup,Profile-Visual,2022-12-20 17:58:17.781948,killed an enemy
+147,hrzup,Profile-Visual,2022-12-20 17:58:17.785949,weapon_fired 1
+148,hrzup,Profile-Visual,2022-12-20 17:58:17.859966,weapon_fired 0
+149,hrzup,Profile-Visual,2022-12-20 17:58:31.936043,stance_crouched 0
+150,hrzup,Profile-Visual,2022-12-20 17:58:35.587533,weapon_fired 0
+151,hrzup,Profile-Visual,2022-12-20 17:58:35.670551,weapon_fired 0
+152,hrzup,Profile-Visual,2022-12-20 17:58:36.531745,stance_crouched 0
+153,hrzup,Profile-Visual,2022-12-20 17:58:42.179402,complete_objective Defend_the_saw
+154,hrzup,Profile-Visual,2022-12-20 17:58:43.152510,activate_objective Disable_the_security_shutters
+155,hrzup,Profile-Visual,2022-12-20 17:58:45.043668,complete_objective Disable_the_security_shutters
+156,hrzup,Profile-Visual,2022-12-20 17:58:46.045894,activate_objective Retrieve_the_equipment
+157,hrzup,Profile-Visual,2022-12-20 17:58:59.098212,hp 460
+158,hrzup,Profile-Visual,2022-12-20 17:58:59.101212,armor 91
+159,hrzup,Profile-Visual,2022-12-20 17:58:59.104213,auto regenerate armor
+160,hrzup,Profile-Visual,2022-12-20 17:59:17.039265,hp 460
+161,hrzup,Profile-Visual,2022-12-20 17:59:17.041265,armor 91
+162,hrzup,Profile-Visual,2022-12-20 17:59:17.044266,shielded hit
+163,hrzup,Profile-Visual,2022-12-20 17:59:17.050267,hp 460
+164,hrzup,Profile-Visual,2022-12-20 17:59:17.053267,armor 91
+165,hrzup,Profile-Visual,2022-12-20 17:59:17.057269,hp 431
+166,hrzup,Profile-Visual,2022-12-20 17:59:17.060270,armor 91
+167,hrzup,Profile-Visual,2022-12-20 17:59:17.063270,health_subtracted 2.9
+168,hrzup,Profile-Visual,2022-12-20 17:59:17.076273,hp 445
+169,hrzup,Profile-Visual,2022-12-20 17:59:17.079274,armor 84
+170,hrzup,Profile-Visual,2022-12-20 17:59:17.083274,hp 445
+171,hrzup,Profile-Visual,2022-12-20 17:59:17.086275,armor 84
+172,hrzup,Profile-Visual,2022-12-20 17:59:17.089275,hp 445
+173,hrzup,Profile-Visual,2022-12-20 17:59:17.091276,armor 84
+174,hrzup,Profile-Visual,2022-12-20 17:59:17.097278,hp 445
+175,hrzup,Profile-Visual,2022-12-20 17:59:17.100278,armor 84
+176,hrzup,Profile-Visual,2022-12-20 17:59:19.528637,hp 445
+177,hrzup,Profile-Visual,2022-12-20 17:59:19.530638,armor 0
+178,hrzup,Profile-Visual,2022-12-20 17:59:19.533639,hp 445
+179,hrzup,Profile-Visual,2022-12-20 17:59:19.536639,armor 0
+180,hrzup,Profile-Visual,2022-12-20 17:59:19.539640,auto regenerate armor
+181,hrzup,Profile-Visual,2022-12-20 17:59:22.077377,hp 459
+182,hrzup,Profile-Visual,2022-12-20 17:59:22.080378,armor 91
+183,hrzup,Profile-Visual,2022-12-20 17:59:22.085379,hp 459
+184,hrzup,Profile-Visual,2022-12-20 17:59:22.087379,armor 91
+185,hrzup,Profile-Visual,2022-12-20 17:59:22.091380,hp 459
+186,hrzup,Profile-Visual,2022-12-20 17:59:22.094381,armor 91
+187,hrzup,Profile-Visual,2022-12-20 17:59:22.100382,hp 459
+188,hrzup,Profile-Visual,2022-12-20 17:59:22.103383,armor 91
+189,hrzup,Profile-Visual,2022-12-20 17:59:24.050282,complete_objective Retrieve_the_equipment
+190,hrzup,Profile-Visual,2022-12-20 17:59:24.339347,hp 459
+191,hrzup,Profile-Visual,2022-12-20 17:59:24.342348,armor 91
+192,hrzup,Profile-Visual,2022-12-20 17:59:24.346349,shielded hit
+193,hrzup,Profile-Visual,2022-12-20 17:59:24.352350,hp 459
+194,hrzup,Profile-Visual,2022-12-20 17:59:24.354352,armor 91
+195,hrzup,Profile-Visual,2022-12-20 17:59:24.358352,hp 459
+196,hrzup,Profile-Visual,2022-12-20 17:59:24.360352,armor 91
+197,hrzup,Profile-Visual,2022-12-20 17:59:24.364354,health_subtracted 0
+198,hrzup,Profile-Visual,2022-12-20 17:59:25.058722,activate_objective Place_the_drill_on_the_vault
+199,hrzup,Profile-Visual,2022-12-20 17:59:25.268769,stance_crouched 0
+200,hrzup,Profile-Visual,2022-12-20 17:59:26.646078,auto regenerate armor
+201,hrzup,Profile-Visual,2022-12-20 17:59:26.654079,hp 459
+202,hrzup,Profile-Visual,2022-12-20 17:59:26.657080,armor 81
+203,hrzup,Profile-Visual,2022-12-20 17:59:27.064172,hp 460
+204,hrzup,Profile-Visual,2022-12-20 17:59:27.067172,armor 91
+205,hrzup,Profile-Visual,2022-12-20 17:59:27.071173,hp 460
+206,hrzup,Profile-Visual,2022-12-20 17:59:27.073174,armor 91
+207,hrzup,Profile-Visual,2022-12-20 17:59:27.077174,hp 460
+208,hrzup,Profile-Visual,2022-12-20 17:59:27.079175,armor 91
+209,hrzup,Profile-Visual,2022-12-20 17:59:27.083176,hp 460
+210,hrzup,Profile-Visual,2022-12-20 17:59:27.085176,armor 91
+211,hrzup,Profile-Visual,2022-12-20 17:59:28.885580,hp 460
+212,hrzup,Profile-Visual,2022-12-20 17:59:28.888581,armor 91
+213,hrzup,Profile-Visual,2022-12-20 17:59:28.892581,shielded hit
+214,hrzup,Profile-Visual,2022-12-20 17:59:28.903585,hp 460
+215,hrzup,Profile-Visual,2022-12-20 17:59:28.905584,armor 91
+216,hrzup,Profile-Visual,2022-12-20 17:59:28.910586,hp 460
+217,hrzup,Profile-Visual,2022-12-20 17:59:28.912586,armor 91
+218,hrzup,Profile-Visual,2022-12-20 17:59:28.915587,health_subtracted 0
+219,hrzup,Profile-Visual,2022-12-20 17:59:31.401144,hp 460
+220,hrzup,Profile-Visual,2022-12-20 17:59:31.403145,armor 89
+221,hrzup,Profile-Visual,2022-12-20 17:59:31.406146,auto regenerate armor
+222,hrzup,Profile-Visual,2022-12-20 17:59:35.555634,weapon_fired 0
+223,hrzup,Profile-Visual,2022-12-20 17:59:35.639653,killed an enemy
+224,hrzup,Profile-Visual,2022-12-20 17:59:35.643653,weapon_fired 1
+225,hrzup,Profile-Visual,2022-12-20 17:59:35.721670,hp 460
+226,hrzup,Profile-Visual,2022-12-20 17:59:35.723671,armor 91
+227,hrzup,Profile-Visual,2022-12-20 17:59:35.727672,shielded hit
+228,hrzup,Profile-Visual,2022-12-20 17:59:35.735674,hp 460
+229,hrzup,Profile-Visual,2022-12-20 17:59:35.739675,armor 91
+230,hrzup,Profile-Visual,2022-12-20 17:59:35.743676,hp 460
+231,hrzup,Profile-Visual,2022-12-20 17:59:35.745676,armor 91
+232,hrzup,Profile-Visual,2022-12-20 17:59:35.749677,health_subtracted 0
+233,hrzup,Profile-Visual,2022-12-20 17:59:37.370539,hp 460
+234,hrzup,Profile-Visual,2022-12-20 17:59:37.372540,armor 87
+235,hrzup,Profile-Visual,2022-12-20 17:59:37.375541,shielded hit
+236,hrzup,Profile-Visual,2022-12-20 17:59:37.382542,hp 460
+237,hrzup,Profile-Visual,2022-12-20 17:59:37.384543,armor 87
+238,hrzup,Profile-Visual,2022-12-20 17:59:37.390544,hp 460
+239,hrzup,Profile-Visual,2022-12-20 17:59:37.393545,armor 87
+240,hrzup,Profile-Visual,2022-12-20 17:59:37.396545,health_subtracted 0
+241,hrzup,Profile-Visual,2022-12-20 17:59:41.246416,hp 460
+242,hrzup,Profile-Visual,2022-12-20 17:59:41.249417,armor 83
+243,hrzup,Profile-Visual,2022-12-20 17:59:41.252418,auto regenerate armor
+244,hrzup,Profile-Visual,2022-12-20 17:59:41.261420,hp 460
+245,hrzup,Profile-Visual,2022-12-20 17:59:41.264421,armor 84
+246,hrzup,Profile-Visual,2022-12-20 17:59:41.268421,enemy_headshot
+247,hrzup,Profile-Visual,2022-12-20 17:59:41.272423,killed an enemy
+248,hrzup,Profile-Visual,2022-12-20 17:59:41.275424,weapon_fired 1
+249,hrzup,Profile-Visual,2022-12-20 17:59:41.345438,weapon_fired 0
+250,hrzup,Profile-Visual,2022-12-20 17:59:41.417455,weapon_fired 0
+251,hrzup,Profile-Visual,2022-12-20 17:59:45.044393,hp 460
+252,hrzup,Profile-Visual,2022-12-20 17:59:45.047393,armor 91
+253,hrzup,Profile-Visual,2022-12-20 17:59:45.050394,auto regenerate armor
+254,hrzup,Profile-Visual,2022-12-20 17:59:45.182424,stance_crouched 0
+255,hrzup,Profile-Visual,2022-12-20 17:59:49.227791,complete_objective Place_the_drill_on_the_vault
+256,hrzup,Profile-Visual,2022-12-20 17:59:50.239237,activate_objective Defend_the_drill
+257,hrzup,Profile-Visual,2022-12-20 18:00:03.138788,weapon_fired 1
+258,hrzup,Profile-Visual,2022-12-20 18:00:03.215805,hp 460
+259,hrzup,Profile-Visual,2022-12-20 18:00:03.218806,armor 91
+260,hrzup,Profile-Visual,2022-12-20 18:00:03.222807,enemy_headshot
+261,hrzup,Profile-Visual,2022-12-20 18:00:03.228808,killed an enemy
+262,hrzup,Profile-Visual,2022-12-20 18:00:03.232809,weapon_fired 1
+263,hrzup,Profile-Visual,2022-12-20 18:00:03.454859,enemy_headshot
+264,hrzup,Profile-Visual,2022-12-20 18:00:03.458860,killed an enemy
+265,hrzup,Profile-Visual,2022-12-20 18:00:03.464861,weapon_fired 1
+266,hrzup,Profile-Visual,2022-12-20 18:00:03.538878,weapon_fired 1
+267,hrzup,Profile-Visual,2022-12-20 18:00:07.488077,weapon_fired 0
+268,hrzup,Profile-Visual,2022-12-20 18:00:07.561094,weapon_fired 0
+269,hrzup,Profile-Visual,2022-12-20 18:00:07.634110,weapon_fired 0
+270,hrzup,Profile-Visual,2022-12-20 18:00:07.741134,shielded hit
+271,hrzup,Profile-Visual,2022-12-20 18:00:07.748136,hp 460
+272,hrzup,Profile-Visual,2022-12-20 18:00:07.751137,armor 91
+273,hrzup,Profile-Visual,2022-12-20 18:00:07.756138,hp 460
+274,hrzup,Profile-Visual,2022-12-20 18:00:07.758138,armor 91
+275,hrzup,Profile-Visual,2022-12-20 18:00:07.762139,hp 460
+276,hrzup,Profile-Visual,2022-12-20 18:00:07.766139,armor 91
+277,hrzup,Profile-Visual,2022-12-20 18:00:07.770140,health_subtracted 0
+278,hrzup,Profile-Visual,2022-12-20 18:00:07.973412,weapon_fired 0
+279,hrzup,Profile-Visual,2022-12-20 18:00:08.053430,killed an enemy
+280,hrzup,Profile-Visual,2022-12-20 18:00:08.057431,weapon_fired 1
+281,hrzup,Profile-Visual,2022-12-20 18:00:08.201463,weapon_fired 0
+282,hrzup,Profile-Visual,2022-12-20 18:00:08.934954,stance_crouched 0
+283,hrzup,Profile-Visual,2022-12-20 18:00:09.828140,stance_crouched 0
+284,hrzup,Profile-Visual,2022-12-20 18:00:10.211226,hp 460
+285,hrzup,Profile-Visual,2022-12-20 18:00:10.213226,armor 71
+286,hrzup,Profile-Visual,2022-12-20 18:00:10.217228,auto regenerate armor
+287,hrzup,Profile-Visual,2022-12-20 18:00:12.775065,weapon_fired 0
+288,hrzup,Profile-Visual,2022-12-20 18:00:12.852082,weapon_fired 0
+289,hrzup,Profile-Visual,2022-12-20 18:00:12.924098,weapon_fired 0
+290,hrzup,Profile-Visual,2022-12-20 18:00:12.998114,weapon_fired 0
+291,hrzup,Profile-Visual,2022-12-20 18:00:13.073131,hp 460
+292,hrzup,Profile-Visual,2022-12-20 18:00:13.075131,armor 91
+293,hrzup,Profile-Visual,2022-12-20 18:00:13.079133,enemy_headshot
+294,hrzup,Profile-Visual,2022-12-20 18:00:13.083133,killed an enemy
+295,hrzup,Profile-Visual,2022-12-20 18:00:13.086134,weapon_fired 1
+296,hrzup,Profile-Visual,2022-12-20 18:00:13.152149,weapon_fired 0
+297,hrzup,Profile-Visual,2022-12-20 18:00:13.216164,weapon_fired 0
+298,hrzup,Profile-Visual,2022-12-20 18:00:13.288179,weapon_fired 0
+299,hrzup,Profile-Visual,2022-12-20 18:00:13.363196,weapon_fired 0
+300,hrzup,Profile-Visual,2022-12-20 18:00:13.428862,weapon_fired 0
+301,hrzup,Profile-Visual,2022-12-20 18:00:23.474088,hp 460
+302,hrzup,Profile-Visual,2022-12-20 18:00:23.476088,armor 91
+303,hrzup,Profile-Visual,2022-12-20 18:00:23.481090,auto regenerate armor
+304,hrzup,Profile-Visual,2022-12-20 18:00:27.620662,stance_crouched 0
+305,hrzup,Profile-Visual,2022-12-20 18:00:27.937733,hp 460
+306,hrzup,Profile-Visual,2022-12-20 18:00:27.939733,armor 91
+307,hrzup,Profile-Visual,2022-12-20 18:00:27.943734,shielded hit
+308,hrzup,Profile-Visual,2022-12-20 18:00:27.949736,hp 460
+309,hrzup,Profile-Visual,2022-12-20 18:00:27.953737,armor 91
+310,hrzup,Profile-Visual,2022-12-20 18:00:27.958064,hp 460
+311,hrzup,Profile-Visual,2022-12-20 18:00:27.961048,armor 91
+312,hrzup,Profile-Visual,2022-12-20 18:00:27.965048,health_subtracted 0
+313,hrzup,Profile-Visual,2022-12-20 18:00:28.797695,stance_crouched 0
+314,hrzup,Profile-Visual,2022-12-20 18:00:28.948730,stance_crouched 0
+315,hrzup,Profile-Visual,2022-12-20 18:00:30.107220,stance_crouched 0
+316,hrzup,Profile-Visual,2022-12-20 18:00:30.384190,stance_crouched 0
+317,hrzup,Profile-Visual,2022-12-20 18:00:30.611241,killed an enemy
+318,hrzup,Profile-Visual,2022-12-20 18:00:31.540497,stance_crouched 0
+319,hrzup,Profile-Visual,2022-12-20 18:00:32.335297,hp 460
+320,hrzup,Profile-Visual,2022-12-20 18:00:32.337297,armor 61
+321,hrzup,Profile-Visual,2022-12-20 18:00:32.341298,auto regenerate armor
+322,hrzup,Profile-Visual,2022-12-20 18:00:36.834655,weapon_fired 0
+323,hrzup,Profile-Visual,2022-12-20 18:00:36.909672,weapon_fired 0
+324,hrzup,Profile-Visual,2022-12-20 18:00:36.981688,weapon_fired 0
+325,hrzup,Profile-Visual,2022-12-20 18:00:37.642836,hp 460
+326,hrzup,Profile-Visual,2022-12-20 18:00:37.644836,armor 91
+327,hrzup,Profile-Visual,2022-12-20 18:00:37.648838,shielded hit
+328,hrzup,Profile-Visual,2022-12-20 18:00:37.654839,hp 460
+329,hrzup,Profile-Visual,2022-12-20 18:00:37.656839,armor 91
+330,hrzup,Profile-Visual,2022-12-20 18:00:37.665841,health_subtracted 0
+331,hrzup,Profile-Visual,2022-12-20 18:00:37.669842,hp 460
+332,hrzup,Profile-Visual,2022-12-20 18:00:37.672843,armor 91
+333,hrzup,Profile-Visual,2022-12-20 18:00:38.030539,hp 460
+334,hrzup,Profile-Visual,2022-12-20 18:00:38.034539,armor 81
+335,hrzup,Profile-Visual,2022-12-20 18:00:38.038540,enemy_headshot
+336,hrzup,Profile-Visual,2022-12-20 18:00:38.041540,killed an enemy
+337,hrzup,Profile-Visual,2022-12-20 18:00:38.046542,weapon_fired 1
+338,hrzup,Profile-Visual,2022-12-20 18:00:38.112557,weapon_fired 0
+339,hrzup,Profile-Visual,2022-12-20 18:00:38.276594,weapon_fired 0
+340,hrzup,Profile-Visual,2022-12-20 18:00:38.352611,weapon_fired 0
+341,hrzup,Profile-Visual,2022-12-20 18:00:38.478094,weapon_fired 0
+342,hrzup,Profile-Visual,2022-12-20 18:00:39.665361,hp 460
+343,hrzup,Profile-Visual,2022-12-20 18:00:39.667361,armor 91
+344,hrzup,Profile-Visual,2022-12-20 18:00:39.678363,shielded hit
+345,hrzup,Profile-Visual,2022-12-20 18:00:39.682364,hp 460
+346,hrzup,Profile-Visual,2022-12-20 18:00:39.684365,armor 91
+347,hrzup,Profile-Visual,2022-12-20 18:00:39.688365,hp 460
+348,hrzup,Profile-Visual,2022-12-20 18:00:39.690366,armor 91
+349,hrzup,Profile-Visual,2022-12-20 18:00:39.693366,health_subtracted 0
+350,hrzup,Profile-Visual,2022-12-20 18:00:39.696367,weapon_fired 0
+351,hrzup,Profile-Visual,2022-12-20 18:00:39.770384,killed an enemy
+352,hrzup,Profile-Visual,2022-12-20 18:00:39.774385,weapon_fired 1
+353,hrzup,Profile-Visual,2022-12-20 18:00:39.836398,weapon_fired 0
+354,hrzup,Profile-Visual,2022-12-20 18:00:39.980431,weapon_fired 0
+355,hrzup,Profile-Visual,2022-12-20 18:00:40.051447,weapon_fired 0
+356,hrzup,Profile-Visual,2022-12-20 18:00:40.627576,hp 460
+357,hrzup,Profile-Visual,2022-12-20 18:00:40.630577,armor 83
+358,hrzup,Profile-Visual,2022-12-20 18:00:40.638987,hp 460
+359,hrzup,Profile-Visual,2022-12-20 18:00:40.641579,armor 83
+360,hrzup,Profile-Visual,2022-12-20 18:00:40.645580,shielded hit
+361,hrzup,Profile-Visual,2022-12-20 18:00:40.649581,hp 460
+362,hrzup,Profile-Visual,2022-12-20 18:00:40.651581,armor 83
+363,hrzup,Profile-Visual,2022-12-20 18:00:40.655582,health_subtracted 0
+364,hrzup,Profile-Visual,2022-12-20 18:00:42.704280,weapon_fired 0
+365,hrzup,Profile-Visual,2022-12-20 18:00:42.794300,weapon_fired 0
+366,hrzup,Profile-Visual,2022-12-20 18:00:42.912327,weapon_fired 0
+367,hrzup,Profile-Visual,2022-12-20 18:00:42.982343,weapon_fired 0
+368,hrzup,Profile-Visual,2022-12-20 18:00:43.113372,hp 460
+369,hrzup,Profile-Visual,2022-12-20 18:00:43.116373,armor 79
+370,hrzup,Profile-Visual,2022-12-20 18:00:43.120374,auto regenerate armor
+371,hrzup,Profile-Visual,2022-12-20 18:00:43.217396,weapon_fired 0
+372,hrzup,Profile-Visual,2022-12-20 18:00:45.467064,stance_crouched 0
+373,hrzup,Profile-Visual,2022-12-20 18:00:46.476357,stance_crouched 0
+374,hrzup,Profile-Visual,2022-12-20 18:00:47.366556,weapon_fired 0
+375,hrzup,Profile-Visual,2022-12-20 18:00:47.448574,weapon_fired 1
+376,hrzup,Profile-Visual,2022-12-20 18:00:48.536819,stance_crouched 0
+377,hrzup,Profile-Visual,2022-12-20 18:00:48.796877,killed an enemy
+378,hrzup,Profile-Visual,2022-12-20 18:00:49.729889,stance_crouched 0
+379,hrzup,Profile-Visual,2022-12-20 18:00:49.888680,hp 460
+380,hrzup,Profile-Visual,2022-12-20 18:00:49.890680,armor 91
+381,hrzup,Profile-Visual,2022-12-20 18:00:49.894680,auto regenerate armor
+382,hrzup,Profile-Visual,2022-12-20 18:00:50.132495,stance_crouched 0
+383,hrzup,Profile-Visual,2022-12-20 18:00:50.795645,weapon_fired 0
+384,hrzup,Profile-Visual,2022-12-20 18:00:50.866660,weapon_fired 0
+385,hrzup,Profile-Visual,2022-12-20 18:00:51.162990,weapon_fired 0
+386,hrzup,Profile-Visual,2022-12-20 18:00:51.237007,weapon_fired 0
+387,hrzup,Profile-Visual,2022-12-20 18:00:51.702237,stance_crouched 0
+388,hrzup,Profile-Visual,2022-12-20 18:00:56.884872,hp 460
+389,hrzup,Profile-Visual,2022-12-20 18:00:56.887872,armor 91
+390,hrzup,Profile-Visual,2022-12-20 18:00:56.890873,shielded hit
+391,hrzup,Profile-Visual,2022-12-20 18:00:56.896875,hp 460
+392,hrzup,Profile-Visual,2022-12-20 18:00:56.900875,armor 91
+393,hrzup,Profile-Visual,2022-12-20 18:00:56.903876,hp 460
+394,hrzup,Profile-Visual,2022-12-20 18:00:56.906877,armor 91
+395,hrzup,Profile-Visual,2022-12-20 18:00:56.910877,health_subtracted 0
+396,hrzup,Profile-Visual,2022-12-20 18:00:57.559023,weapon_fired 1
+397,hrzup,Profile-Visual,2022-12-20 18:00:57.641041,killed an enemy
+398,hrzup,Profile-Visual,2022-12-20 18:00:57.654044,weapon_fired 1
+399,hrzup,Profile-Visual,2022-12-20 18:00:57.706056,weapon_fired 0
+400,hrzup,Profile-Visual,2022-12-20 18:00:57.782074,weapon_fired 0
+401,hrzup,Profile-Visual,2022-12-20 18:00:57.854089,hp 460
+402,hrzup,Profile-Visual,2022-12-20 18:00:57.856090,armor 86
+403,hrzup,Profile-Visual,2022-12-20 18:00:57.860090,enemy_headshot
+404,hrzup,Profile-Visual,2022-12-20 18:00:57.864091,killed an enemy
+405,hrzup,Profile-Visual,2022-12-20 18:00:57.868092,weapon_fired 1
+406,hrzup,Profile-Visual,2022-12-20 18:00:57.941108,weapon_fired 0
+407,hrzup,Profile-Visual,2022-12-20 18:00:58.540243,shielded hit
+408,hrzup,Profile-Visual,2022-12-20 18:00:58.547245,hp 460
+409,hrzup,Profile-Visual,2022-12-20 18:00:58.550245,armor 91
+410,hrzup,Profile-Visual,2022-12-20 18:00:58.553246,hp 460
+411,hrzup,Profile-Visual,2022-12-20 18:00:58.556247,armor 91
+412,hrzup,Profile-Visual,2022-12-20 18:00:58.559247,hp 460
+413,hrzup,Profile-Visual,2022-12-20 18:00:58.562248,armor 91
+414,hrzup,Profile-Visual,2022-12-20 18:00:58.567249,health_subtracted 0
+415,hrzup,Profile-Visual,2022-12-20 18:00:59.069362,weapon_fired 0
+416,hrzup,Profile-Visual,2022-12-20 18:00:59.151380,weapon_fired 0
+417,hrzup,Profile-Visual,2022-12-20 18:00:59.201391,weapon_fired 0
+418,hrzup,Profile-Visual,2022-12-20 18:00:59.271408,weapon_fired 0
+419,hrzup,Profile-Visual,2022-12-20 18:00:59.284410,hp 460
+420,hrzup,Profile-Visual,2022-12-20 18:00:59.286411,armor 61
+421,hrzup,Profile-Visual,2022-12-20 18:00:59.290411,shielded hit
+422,hrzup,Profile-Visual,2022-12-20 18:00:59.297413,hp 460
+423,hrzup,Profile-Visual,2022-12-20 18:00:59.300414,armor 61
+424,hrzup,Profile-Visual,2022-12-20 18:00:59.304414,hp 460
+425,hrzup,Profile-Visual,2022-12-20 18:00:59.308415,armor 61
+426,hrzup,Profile-Visual,2022-12-20 18:00:59.311416,health_subtracted 0
+427,hrzup,Profile-Visual,2022-12-20 18:00:59.502459,weapon_fired 0
+428,hrzup,Profile-Visual,2022-12-20 18:00:59.572475,weapon_fired 0
+429,hrzup,Profile-Visual,2022-12-20 18:00:59.642490,weapon_fired 0
+430,hrzup,Profile-Visual,2022-12-20 18:00:59.845144,weapon_fired 0
+431,hrzup,Profile-Visual,2022-12-20 18:00:59.919160,weapon_fired 0
+432,hrzup,Profile-Visual,2022-12-20 18:01:00.793356,hp 460
+433,hrzup,Profile-Visual,2022-12-20 18:01:00.795357,armor 31
+434,hrzup,Profile-Visual,2022-12-20 18:01:00.799358,shielded hit
+435,hrzup,Profile-Visual,2022-12-20 18:01:00.805359,hp 460
+436,hrzup,Profile-Visual,2022-12-20 18:01:00.809360,armor 31
+437,hrzup,Profile-Visual,2022-12-20 18:01:00.813361,hp 460
+438,hrzup,Profile-Visual,2022-12-20 18:01:00.816362,armor 31
+439,hrzup,Profile-Visual,2022-12-20 18:01:00.820363,health_subtracted 0
+440,hrzup,Profile-Visual,2022-12-20 18:01:03.287916,hp 460
+441,hrzup,Profile-Visual,2022-12-20 18:01:03.290917,armor 1
+442,hrzup,Profile-Visual,2022-12-20 18:01:03.293917,auto regenerate armor
+443,hrzup,Profile-Visual,2022-12-20 18:01:04.684133,enemy_headshot
+444,hrzup,Profile-Visual,2022-12-20 18:01:04.688134,killed an enemy
+445,hrzup,Profile-Visual,2022-12-20 18:01:04.693135,hp 460
+446,hrzup,Profile-Visual,2022-12-20 18:01:04.696136,armor 91
+447,hrzup,Profile-Visual,2022-12-20 18:01:04.701136,weapon_fired 1
+448,hrzup,Profile-Visual,2022-12-20 18:01:04.768152,weapon_fired 0
+449,hrzup,Profile-Visual,2022-12-20 18:01:04.831166,weapon_fired 0
+450,hrzup,Profile-Visual,2022-12-20 18:01:05.214686,weapon_fired 0
+451,hrzup,Profile-Visual,2022-12-20 18:01:05.292703,killed an enemy
+452,hrzup,Profile-Visual,2022-12-20 18:01:05.296704,weapon_fired 1
+453,hrzup,Profile-Visual,2022-12-20 18:01:05.370721,weapon_fired 0
+454,hrzup,Profile-Visual,2022-12-20 18:01:05.438736,weapon_fired 0
+455,hrzup,Profile-Visual,2022-12-20 18:01:05.504751,weapon_fired 0
+456,hrzup,Profile-Visual,2022-12-20 18:01:05.575766,weapon_fired 0
+457,hrzup,Profile-Visual,2022-12-20 18:01:05.650783,weapon_fired 0
+458,hrzup,Profile-Visual,2022-12-20 18:01:05.715799,weapon_fired 0
+459,hrzup,Profile-Visual,2022-12-20 18:01:07.257501,hp 460
+460,hrzup,Profile-Visual,2022-12-20 18:01:07.260502,armor 91
+461,hrzup,Profile-Visual,2022-12-20 18:01:07.265502,enemy_headshot
+462,hrzup,Profile-Visual,2022-12-20 18:01:07.271505,weapon_fired 1
+463,hrzup,Profile-Visual,2022-12-20 18:01:07.274504,killed an enemy
+464,hrzup,Profile-Visual,2022-12-20 18:01:07.344520,weapon_fired 0
+465,hrzup,Profile-Visual,2022-12-20 18:01:07.412535,weapon_fired 0
+466,hrzup,Profile-Visual,2022-12-20 18:01:07.482552,weapon_fired 0
+467,hrzup,Profile-Visual,2022-12-20 18:01:16.503211,hp 460
+468,hrzup,Profile-Visual,2022-12-20 18:01:16.506212,armor 91
+469,hrzup,Profile-Visual,2022-12-20 18:01:16.510213,auto regenerate armor
+470,hrzup,Profile-Visual,2022-12-20 18:01:21.702238,stance_crouched 0
+471,hrzup,Profile-Visual,2022-12-20 18:01:22.558645,weapon_fired 0
+472,hrzup,Profile-Visual,2022-12-20 18:01:22.630661,weapon_fired 0
+473,hrzup,Profile-Visual,2022-12-20 18:01:23.545655,weapon_fired 0
+474,hrzup,Profile-Visual,2022-12-20 18:01:23.618671,weapon_fired 0
+475,hrzup,Profile-Visual,2022-12-20 18:01:24.673785,weapon_fired 0
+476,hrzup,Profile-Visual,2022-12-20 18:01:24.761805,weapon_fired 0
+477,hrzup,Profile-Visual,2022-12-20 18:01:25.518974,stance_crouched 0
+478,hrzup,Profile-Visual,2022-12-20 18:01:43.242906,shielded hit
+479,hrzup,Profile-Visual,2022-12-20 18:01:43.248907,hp 460
+480,hrzup,Profile-Visual,2022-12-20 18:01:43.251907,armor 91
+481,hrzup,Profile-Visual,2022-12-20 18:01:43.255909,hp 460
+482,hrzup,Profile-Visual,2022-12-20 18:01:43.258909,armor 91
+483,hrzup,Profile-Visual,2022-12-20 18:01:43.264910,hp 460
+484,hrzup,Profile-Visual,2022-12-20 18:01:43.267911,armor 91
+485,hrzup,Profile-Visual,2022-12-20 18:01:43.270912,health_subtracted 0
+486,hrzup,Profile-Visual,2022-12-20 18:01:45.452405,hp 460
+487,hrzup,Profile-Visual,2022-12-20 18:01:45.455405,armor 87
+488,hrzup,Profile-Visual,2022-12-20 18:01:45.458407,auto regenerate armor
+489,hrzup,Profile-Visual,2022-12-20 18:01:46.874015,hp 460
+490,hrzup,Profile-Visual,2022-12-20 18:01:46.877016,armor 91
+491,hrzup,Profile-Visual,2022-12-20 18:01:46.881016,enemy_headshot
+492,hrzup,Profile-Visual,2022-12-20 18:01:46.884017,killed an enemy
+493,hrzup,Profile-Visual,2022-12-20 18:01:46.888018,weapon_fired 1
+494,hrzup,Profile-Visual,2022-12-20 18:01:46.960034,weapon_fired 0
+495,hrzup,Profile-Visual,2022-12-20 18:01:47.034051,weapon_fired 0
+496,hrzup,Profile-Visual,2022-12-20 18:01:47.245400,killed an enemy
+497,hrzup,Profile-Visual,2022-12-20 18:01:47.249401,weapon_fired 1
+498,hrzup,Profile-Visual,2022-12-20 18:01:47.326418,weapon_fired 0
+499,hrzup,Profile-Visual,2022-12-20 18:01:47.923260,killed an enemy
+500,hrzup,Profile-Visual,2022-12-20 18:01:47.927261,weapon_fired 1
+501,hrzup,Profile-Visual,2022-12-20 18:01:48.002278,weapon_fired 0
+502,hrzup,Profile-Visual,2022-12-20 18:01:49.028469,weapon_fired 0
+503,hrzup,Profile-Visual,2022-12-20 18:01:49.104486,weapon_fired 0
+504,hrzup,Profile-Visual,2022-12-20 18:01:49.172501,weapon_fired 0
+505,hrzup,Profile-Visual,2022-12-20 18:01:49.777685,hp 460
+506,hrzup,Profile-Visual,2022-12-20 18:01:49.779686,armor 91
+507,hrzup,Profile-Visual,2022-12-20 18:01:49.783686,auto regenerate armor
+508,hrzup,Profile-Visual,2022-12-20 18:01:50.012737,hp 460
+509,hrzup,Profile-Visual,2022-12-20 18:01:50.015738,armor 91
+510,hrzup,Profile-Visual,2022-12-20 18:01:50.019739,shielded hit
+511,hrzup,Profile-Visual,2022-12-20 18:01:50.025742,hp 460
+512,hrzup,Profile-Visual,2022-12-20 18:01:50.028741,armor 91
+513,hrzup,Profile-Visual,2022-12-20 18:01:50.032742,hp 460
+514,hrzup,Profile-Visual,2022-12-20 18:01:50.035743,armor 91
+515,hrzup,Profile-Visual,2022-12-20 18:01:50.039744,health_subtracted 0
+516,hrzup,Profile-Visual,2022-12-20 18:01:50.794262,hp 460
+517,hrzup,Profile-Visual,2022-12-20 18:01:50.796262,armor 81
+518,hrzup,Profile-Visual,2022-12-20 18:01:50.800263,shielded hit
+519,hrzup,Profile-Visual,2022-12-20 18:01:50.806264,hp 460
+520,hrzup,Profile-Visual,2022-12-20 18:01:50.809266,armor 81
+521,hrzup,Profile-Visual,2022-12-20 18:01:50.813266,hp 460
+522,hrzup,Profile-Visual,2022-12-20 18:01:50.816267,armor 81
+523,hrzup,Profile-Visual,2022-12-20 18:01:50.820268,health_subtracted 0
+524,hrzup,Profile-Visual,2022-12-20 18:01:51.340384,hp 460
+525,hrzup,Profile-Visual,2022-12-20 18:01:51.343385,armor 71
+526,hrzup,Profile-Visual,2022-12-20 18:01:51.346386,enemy_headshot
+527,hrzup,Profile-Visual,2022-12-20 18:01:51.349386,killed an enemy
+528,hrzup,Profile-Visual,2022-12-20 18:01:51.354388,weapon_fired 1
+529,hrzup,Profile-Visual,2022-12-20 18:01:51.443407,weapon_fired 0
+530,hrzup,Profile-Visual,2022-12-20 18:01:51.498421,weapon_fired 0
+531,hrzup,Profile-Visual,2022-12-20 18:01:51.878658,shielded hit
+532,hrzup,Profile-Visual,2022-12-20 18:01:51.886660,hp 460
+533,hrzup,Profile-Visual,2022-12-20 18:01:51.888660,armor 91
+534,hrzup,Profile-Visual,2022-12-20 18:01:51.892661,hp 460
+535,hrzup,Profile-Visual,2022-12-20 18:01:51.895662,armor 91
+536,hrzup,Profile-Visual,2022-12-20 18:01:51.898663,hp 460
+537,hrzup,Profile-Visual,2022-12-20 18:01:51.901663,armor 91
+538,hrzup,Profile-Visual,2022-12-20 18:01:51.905664,health_subtracted 0
+539,hrzup,Profile-Visual,2022-12-20 18:01:52.569764,hp 460
+540,hrzup,Profile-Visual,2022-12-20 18:01:52.572764,armor 81
+541,hrzup,Profile-Visual,2022-12-20 18:01:52.576765,shielded hit
+542,hrzup,Profile-Visual,2022-12-20 18:01:52.582766,hp 460
+543,hrzup,Profile-Visual,2022-12-20 18:01:52.585767,armor 81
+544,hrzup,Profile-Visual,2022-12-20 18:01:52.589768,hp 460
+545,hrzup,Profile-Visual,2022-12-20 18:01:52.592768,armor 81
+546,hrzup,Profile-Visual,2022-12-20 18:01:52.596769,health_subtracted 0
+547,hrzup,Profile-Visual,2022-12-20 18:01:53.168897,enemy_headshot
+548,hrzup,Profile-Visual,2022-12-20 18:01:53.172898,killed an enemy
+549,hrzup,Profile-Visual,2022-12-20 18:01:53.175900,weapon_fired 1
+550,hrzup,Profile-Visual,2022-12-20 18:01:53.253917,weapon_fired 0
+551,hrzup,Profile-Visual,2022-12-20 18:01:53.316931,weapon_fired 0
+552,hrzup,Profile-Visual,2022-12-20 18:01:53.388947,weapon_fired 0
+553,hrzup,Profile-Visual,2022-12-20 18:01:53.463964,weapon_fired 0
+554,hrzup,Profile-Visual,2022-12-20 18:01:53.553984,hp 460
+555,hrzup,Profile-Visual,2022-12-20 18:01:53.556985,armor 71
+556,hrzup,Profile-Visual,2022-12-20 18:01:53.560985,shielded hit
+557,hrzup,Profile-Visual,2022-12-20 18:01:53.565986,hp 460
+558,hrzup,Profile-Visual,2022-12-20 18:01:53.568987,armor 71
+559,hrzup,Profile-Visual,2022-12-20 18:01:53.571988,hp 460
+560,hrzup,Profile-Visual,2022-12-20 18:01:53.573988,armor 71
+561,hrzup,Profile-Visual,2022-12-20 18:01:53.577989,stance_crouched 1
+562,hrzup,Profile-Visual,2022-12-20 18:01:55.078317,stance_crouched 0
+563,hrzup,Profile-Visual,2022-12-20 18:01:55.697390,hp 460
+564,hrzup,Profile-Visual,2022-12-20 18:01:55.700390,armor 48
+565,hrzup,Profile-Visual,2022-12-20 18:01:55.704391,auto regenerate armor
+566,hrzup,Profile-Visual,2022-12-20 18:01:58.423825,hp 460
+567,hrzup,Profile-Visual,2022-12-20 18:01:58.425825,armor 91
+568,hrzup,Profile-Visual,2022-12-20 18:01:58.430827,auto regenerate armor
+569,hrzup,Profile-Visual,2022-12-20 18:01:58.434827,weapon_fired 1
+570,hrzup,Profile-Visual,2022-12-20 18:01:58.512845,killed an enemy
+571,hrzup,Profile-Visual,2022-12-20 18:01:58.516846,weapon_fired 1
+572,hrzup,Profile-Visual,2022-12-20 18:01:58.594863,weapon_fired 0
+573,hrzup,Profile-Visual,2022-12-20 18:01:58.653876,weapon_fired 0
+574,hrzup,Profile-Visual,2022-12-20 18:02:05.433623,hp 460
+575,hrzup,Profile-Visual,2022-12-20 18:02:05.436623,armor 91
+576,hrzup,Profile-Visual,2022-12-20 18:02:05.440625,shielded hit
+577,hrzup,Profile-Visual,2022-12-20 18:02:05.445626,hp 460
+578,hrzup,Profile-Visual,2022-12-20 18:02:05.448626,armor 91
+579,hrzup,Profile-Visual,2022-12-20 18:02:05.452627,hp 460
+580,hrzup,Profile-Visual,2022-12-20 18:02:05.455627,armor 91
+581,hrzup,Profile-Visual,2022-12-20 18:02:05.458629,health_subtracted 0
+582,hrzup,Profile-Visual,2022-12-20 18:02:05.682679,hp 460
+583,hrzup,Profile-Visual,2022-12-20 18:02:05.685679,armor 82
+584,hrzup,Profile-Visual,2022-12-20 18:02:05.689680,shielded hit
+585,hrzup,Profile-Visual,2022-12-20 18:02:05.695682,hp 460
+586,hrzup,Profile-Visual,2022-12-20 18:02:05.697682,armor 82
+587,hrzup,Profile-Visual,2022-12-20 18:02:05.701683,hp 460
+588,hrzup,Profile-Visual,2022-12-20 18:02:05.704684,armor 82
+589,hrzup,Profile-Visual,2022-12-20 18:02:05.708685,stance_crouched 1
+590,hrzup,Profile-Visual,2022-12-20 18:02:06.666843,stance_crouched 0
+591,hrzup,Profile-Visual,2022-12-20 18:02:08.692288,hp 460
+592,hrzup,Profile-Visual,2022-12-20 18:02:08.694288,armor 58
+593,hrzup,Profile-Visual,2022-12-20 18:02:08.698289,auto regenerate armor
+594,hrzup,Profile-Visual,2022-12-20 18:02:11.693036,weapon_fired 0
+595,hrzup,Profile-Visual,2022-12-20 18:02:11.773053,hp 460
+596,hrzup,Profile-Visual,2022-12-20 18:02:11.776054,armor 91
+597,hrzup,Profile-Visual,2022-12-20 18:02:11.779054,enemy_headshot
+598,hrzup,Profile-Visual,2022-12-20 18:02:11.783055,killed an enemy
+599,hrzup,Profile-Visual,2022-12-20 18:02:11.787057,weapon_fired 1
+600,hrzup,Profile-Visual,2022-12-20 18:02:11.852071,weapon_fired 0
+601,hrzup,Profile-Visual,2022-12-20 18:02:11.930088,weapon_fired 0
+602,hrzup,Profile-Visual,2022-12-20 18:02:14.057284,hp 460
+603,hrzup,Profile-Visual,2022-12-20 18:02:14.059284,armor 91
+604,hrzup,Profile-Visual,2022-12-20 18:02:14.063285,auto regenerate armor
+605,hrzup,Profile-Visual,2022-12-20 18:02:17.109552,hp 460
+606,hrzup,Profile-Visual,2022-12-20 18:02:17.112553,armor 91
+607,hrzup,Profile-Visual,2022-12-20 18:02:17.117554,shielded hit
+608,hrzup,Profile-Visual,2022-12-20 18:02:17.122555,hp 460
+609,hrzup,Profile-Visual,2022-12-20 18:02:17.125556,armor 91
+610,hrzup,Profile-Visual,2022-12-20 18:02:17.129557,hp 460
+611,hrzup,Profile-Visual,2022-12-20 18:02:17.132557,armor 91
+612,hrzup,Profile-Visual,2022-12-20 18:02:17.135558,health_subtracted 0
+613,hrzup,Profile-Visual,2022-12-20 18:02:18.042157,hp 460
+614,hrzup,Profile-Visual,2022-12-20 18:02:18.045158,armor 89
+615,hrzup,Profile-Visual,2022-12-20 18:02:18.050159,shielded hit
+616,hrzup,Profile-Visual,2022-12-20 18:02:18.057160,hp 460
+617,hrzup,Profile-Visual,2022-12-20 18:02:18.059161,armor 89
+618,hrzup,Profile-Visual,2022-12-20 18:02:18.063162,hp 460
+619,hrzup,Profile-Visual,2022-12-20 18:02:18.065162,armor 89
+620,hrzup,Profile-Visual,2022-12-20 18:02:18.068163,health_subtracted 0
+621,hrzup,Profile-Visual,2022-12-20 18:02:18.240201,hp 460
+622,hrzup,Profile-Visual,2022-12-20 18:02:18.243203,armor 87
+623,hrzup,Profile-Visual,2022-12-20 18:02:18.247203,shielded hit
+624,hrzup,Profile-Visual,2022-12-20 18:02:18.251204,hp 460
+625,hrzup,Profile-Visual,2022-12-20 18:02:18.254205,armor 87
+626,hrzup,Profile-Visual,2022-12-20 18:02:18.259206,hp 460
+627,hrzup,Profile-Visual,2022-12-20 18:02:18.262206,armor 87
+628,hrzup,Profile-Visual,2022-12-20 18:02:18.266207,health_subtracted 0
+629,hrzup,Profile-Visual,2022-12-20 18:02:20.524928,hp 460
+630,hrzup,Profile-Visual,2022-12-20 18:02:20.527929,armor 83
+631,hrzup,Profile-Visual,2022-12-20 18:02:20.531930,auto regenerate armor
+632,hrzup,Profile-Visual,2022-12-20 18:02:24.555116,killed an enemy
+633,hrzup,Profile-Visual,2022-12-20 18:02:24.559117,weapon_fired 1
+634,hrzup,Profile-Visual,2022-12-20 18:02:24.637135,hp 460
+635,hrzup,Profile-Visual,2022-12-20 18:02:24.639135,armor 91
+636,hrzup,Profile-Visual,2022-12-20 18:02:24.643136,enemy_headshot
+637,hrzup,Profile-Visual,2022-12-20 18:02:24.646137,killed an enemy
+638,hrzup,Profile-Visual,2022-12-20 18:02:24.649137,weapon_fired 1
+639,hrzup,Profile-Visual,2022-12-20 18:02:26.052573,weapon_fired 0
+640,hrzup,Profile-Visual,2022-12-20 18:02:26.132592,enemy_headshot
+641,hrzup,Profile-Visual,2022-12-20 18:02:26.136592,killed an enemy
+642,hrzup,Profile-Visual,2022-12-20 18:02:26.141593,weapon_fired 1
+643,hrzup,Profile-Visual,2022-12-20 18:02:26.216610,weapon_fired 0
+644,hrzup,Profile-Visual,2022-12-20 18:02:26.279625,killed an enemy
+645,hrzup,Profile-Visual,2022-12-20 18:02:26.284625,weapon_fired 1
+646,hrzup,Profile-Visual,2022-12-20 18:02:26.357642,weapon_fired 0
+647,hrzup,Profile-Visual,2022-12-20 18:02:26.440661,weapon_fired 0
+648,hrzup,Profile-Visual,2022-12-20 18:02:26.822746,weapon_fired 0
+649,hrzup,Profile-Visual,2022-12-20 18:02:26.894762,weapon_fired 0
+650,hrzup,Profile-Visual,2022-12-20 18:02:26.949775,weapon_fired 0
+651,hrzup,Profile-Visual,2022-12-20 18:02:27.675214,hp 460
+652,hrzup,Profile-Visual,2022-12-20 18:02:27.677214,armor 91
+653,hrzup,Profile-Visual,2022-12-20 18:02:27.681216,auto regenerate armor
+654,hrzup,Profile-Visual,2022-12-20 18:02:27.702220,weapon_fired 1
+655,hrzup,Profile-Visual,2022-12-20 18:02:27.774236,killed an enemy
+656,hrzup,Profile-Visual,2022-12-20 18:02:27.777237,weapon_fired 1
+657,hrzup,Profile-Visual,2022-12-20 18:02:35.763918,weapon_fired 0
+658,hrzup,Profile-Visual,2022-12-20 18:02:35.851938,weapon_fired 0
+659,hrzup,Profile-Visual,2022-12-20 18:02:35.920953,weapon_fired 0
+660,hrzup,Profile-Visual,2022-12-20 18:02:35.988969,hp 460
+661,hrzup,Profile-Visual,2022-12-20 18:02:35.991969,armor 91
+662,hrzup,Profile-Visual,2022-12-20 18:02:35.995970,enemy_headshot
+663,hrzup,Profile-Visual,2022-12-20 18:02:35.998971,killed an enemy
+664,hrzup,Profile-Visual,2022-12-20 18:02:36.001971,weapon_fired 1
+665,hrzup,Profile-Visual,2022-12-20 18:02:36.066986,weapon_fired 0
+666,hrzup,Profile-Visual,2022-12-20 18:02:36.134001,enemy_headshot
+667,hrzup,Profile-Visual,2022-12-20 18:02:36.138001,killed an enemy
+668,hrzup,Profile-Visual,2022-12-20 18:02:36.141002,weapon_fired 1
+669,hrzup,Profile-Visual,2022-12-20 18:02:36.214019,weapon_fired 0
+670,hrzup,Profile-Visual,2022-12-20 18:02:36.273032,weapon_fired 0
+671,hrzup,Profile-Visual,2022-12-20 18:02:36.342047,weapon_fired 0
+672,hrzup,Profile-Visual,2022-12-20 18:02:36.415063,weapon_fired 0
+673,hrzup,Profile-Visual,2022-12-20 18:02:36.488080,weapon_fired 0
+674,hrzup,Profile-Visual,2022-12-20 18:02:36.554600,weapon_fired 0
+675,hrzup,Profile-Visual,2022-12-20 18:02:36.621616,weapon_fired 0
+676,hrzup,Profile-Visual,2022-12-20 18:02:37.436798,weapon_fired 1
+677,hrzup,Profile-Visual,2022-12-20 18:02:37.440799,killed an enemy
+678,hrzup,Profile-Visual,2022-12-20 18:02:37.518816,weapon_fired 0
+679,hrzup,Profile-Visual,2022-12-20 18:02:39.223199,weapon_fired 0
+680,hrzup,Profile-Visual,2022-12-20 18:02:39.311218,weapon_fired 0
+681,hrzup,Profile-Visual,2022-12-20 18:02:39.572277,killed an enemy
+682,hrzup,Profile-Visual,2022-12-20 18:02:39.576278,weapon_fired 1
+683,hrzup,Profile-Visual,2022-12-20 18:02:39.654296,weapon_fired 0
+684,hrzup,Profile-Visual,2022-12-20 18:02:39.721311,weapon_fired 0
+685,hrzup,Profile-Visual,2022-12-20 18:02:39.794327,weapon_fired 0
+686,hrzup,Profile-Visual,2022-12-20 18:02:42.885099,weapon_fired 0
+687,hrzup,Profile-Visual,2022-12-20 18:02:42.966612,hp 460
+688,hrzup,Profile-Visual,2022-12-20 18:02:42.968612,armor 91
+689,hrzup,Profile-Visual,2022-12-20 18:02:42.972614,enemy_headshot
+690,hrzup,Profile-Visual,2022-12-20 18:02:42.975614,killed an enemy
+691,hrzup,Profile-Visual,2022-12-20 18:02:42.980615,weapon_fired 1
+692,hrzup,Profile-Visual,2022-12-20 18:02:43.056632,weapon_fired 0
+693,hrzup,Profile-Visual,2022-12-20 18:02:43.116646,weapon_fired 0
+694,hrzup,Profile-Visual,2022-12-20 18:02:43.187662,weapon_fired 0
+695,hrzup,Profile-Visual,2022-12-20 18:02:43.664768,weapon_fired 0
+696,hrzup,Profile-Visual,2022-12-20 18:02:43.744787,killed an enemy
+697,hrzup,Profile-Visual,2022-12-20 18:02:43.747787,weapon_fired 1
+698,hrzup,Profile-Visual,2022-12-20 18:02:43.816802,weapon_fired 0
+699,hrzup,Profile-Visual,2022-12-20 18:02:43.879817,weapon_fired 0
+700,hrzup,Profile-Visual,2022-12-20 18:02:43.946832,weapon_fired 0
+701,hrzup,Profile-Visual,2022-12-20 18:02:44.015847,weapon_fired 0
+702,hrzup,Profile-Visual,2022-12-20 18:02:44.081862,weapon_fired 0
+703,hrzup,Profile-Visual,2022-12-20 18:02:44.498956,hp 460
+704,hrzup,Profile-Visual,2022-12-20 18:02:44.500956,armor 91
+705,hrzup,Profile-Visual,2022-12-20 18:02:44.505958,auto regenerate armor
+706,hrzup,Profile-Visual,2022-12-20 18:02:44.776018,weapon_fired 1
+707,hrzup,Profile-Visual,2022-12-20 18:02:44.845033,killed an enemy
+708,hrzup,Profile-Visual,2022-12-20 18:02:44.849034,weapon_fired 1
+709,hrzup,Profile-Visual,2022-12-20 18:02:44.924051,weapon_fired 0
+710,hrzup,Profile-Visual,2022-12-20 18:02:44.994067,weapon_fired 0
+711,hrzup,Profile-Visual,2022-12-20 18:02:45.066083,weapon_fired 0
+712,hrzup,Profile-Visual,2022-12-20 18:02:45.138099,weapon_fired 0
+713,hrzup,Profile-Visual,2022-12-20 18:02:45.211256,weapon_fired 0
+714,hrzup,Profile-Visual,2022-12-20 18:02:45.293275,weapon_fired 0
+715,hrzup,Profile-Visual,2022-12-20 18:02:46.131674,hp 460
+716,hrzup,Profile-Visual,2022-12-20 18:02:46.134675,armor 91
+717,hrzup,Profile-Visual,2022-12-20 18:02:46.138676,shielded hit
+718,hrzup,Profile-Visual,2022-12-20 18:02:46.144676,hp 460
+719,hrzup,Profile-Visual,2022-12-20 18:02:46.146677,armor 91
+720,hrzup,Profile-Visual,2022-12-20 18:02:46.150678,hp 460
+721,hrzup,Profile-Visual,2022-12-20 18:02:46.153678,armor 91
+722,hrzup,Profile-Visual,2022-12-20 18:02:46.157680,health_subtracted 0
+723,hrzup,Profile-Visual,2022-12-20 18:02:46.647795,hp 460
+724,hrzup,Profile-Visual,2022-12-20 18:02:46.650796,armor 81
+725,hrzup,Profile-Visual,2022-12-20 18:02:46.654796,shielded hit
+726,hrzup,Profile-Visual,2022-12-20 18:02:46.660798,hp 460
+727,hrzup,Profile-Visual,2022-12-20 18:02:46.663798,armor 81
+728,hrzup,Profile-Visual,2022-12-20 18:02:46.670800,health_subtracted 0
+729,hrzup,Profile-Visual,2022-12-20 18:02:46.674801,hp 460
+730,hrzup,Profile-Visual,2022-12-20 18:02:46.677802,armor 81
+731,hrzup,Profile-Visual,2022-12-20 18:02:46.688804,weapon_fired 0
+732,hrzup,Profile-Visual,2022-12-20 18:02:46.765821,hp 460
+733,hrzup,Profile-Visual,2022-12-20 18:02:46.768822,armor 69
+734,hrzup,Profile-Visual,2022-12-20 18:02:46.772823,enemy_headshot
+735,hrzup,Profile-Visual,2022-12-20 18:02:46.775824,killed an enemy
+736,hrzup,Profile-Visual,2022-12-20 18:02:46.779825,weapon_fired 1
+737,hrzup,Profile-Visual,2022-12-20 18:02:46.836954,weapon_fired 0
+738,hrzup,Profile-Visual,2022-12-20 18:02:46.906970,weapon_fired 0
+739,hrzup,Profile-Visual,2022-12-20 18:02:49.022829,hp 460
+740,hrzup,Profile-Visual,2022-12-20 18:02:49.025829,armor 86
+741,hrzup,Profile-Visual,2022-12-20 18:02:49.029830,auto regenerate armor
+742,hrzup,Profile-Visual,2022-12-20 18:02:49.378308,weapon_fired 1
+743,hrzup,Profile-Visual,2022-12-20 18:02:49.456326,killed an enemy
+744,hrzup,Profile-Visual,2022-12-20 18:02:49.461327,weapon_fired 1
+745,hrzup,Profile-Visual,2022-12-20 18:02:49.550347,weapon_fired 0
+746,hrzup,Profile-Visual,2022-12-20 18:02:49.609360,weapon_fired 0
+747,hrzup,Profile-Visual,2022-12-20 18:02:49.681376,weapon_fired 0
+748,hrzup,Profile-Visual,2022-12-20 18:02:51.883916,weapon_fired 1
+749,hrzup,Profile-Visual,2022-12-20 18:02:51.967935,hp 460
+750,hrzup,Profile-Visual,2022-12-20 18:02:51.969935,armor 91
+751,hrzup,Profile-Visual,2022-12-20 18:02:51.974937,enemy_headshot
+752,hrzup,Profile-Visual,2022-12-20 18:02:51.977937,killed an enemy
+753,hrzup,Profile-Visual,2022-12-20 18:02:51.980938,weapon_fired 1
+754,hrzup,Profile-Visual,2022-12-20 18:02:52.049954,weapon_fired 0
+755,hrzup,Profile-Visual,2022-12-20 18:02:53.029173,hp 460
+756,hrzup,Profile-Visual,2022-12-20 18:02:53.032174,armor 91
+757,hrzup,Profile-Visual,2022-12-20 18:02:53.036174,auto regenerate armor
+758,hrzup,Profile-Visual,2022-12-20 18:02:55.476074,killed an enemy
+759,hrzup,Profile-Visual,2022-12-20 18:02:55.480074,weapon_fired 1
+760,hrzup,Profile-Visual,2022-12-20 18:02:55.552092,weapon_fired 0
+761,hrzup,Profile-Visual,2022-12-20 18:02:55.623938,weapon_fired 0
+762,hrzup,Profile-Visual,2022-12-20 18:02:55.703956,weapon_fired 0
+763,hrzup,Profile-Visual,2022-12-20 18:02:55.729963,hp 460
+764,hrzup,Profile-Visual,2022-12-20 18:02:55.732963,armor 91
+765,hrzup,Profile-Visual,2022-12-20 18:02:55.741965,shielded hit
+766,hrzup,Profile-Visual,2022-12-20 18:02:55.745966,hp 460
+767,hrzup,Profile-Visual,2022-12-20 18:02:55.747966,armor 91
+768,hrzup,Profile-Visual,2022-12-20 18:02:55.750967,hp 460
+769,hrzup,Profile-Visual,2022-12-20 18:02:55.752967,armor 91
+770,hrzup,Profile-Visual,2022-12-20 18:02:55.756968,health_subtracted 0
+771,hrzup,Profile-Visual,2022-12-20 18:02:55.848989,weapon_fired 0
+772,hrzup,Profile-Visual,2022-12-20 18:02:56.015026,hp 460
+773,hrzup,Profile-Visual,2022-12-20 18:02:56.018027,armor 87
+774,hrzup,Profile-Visual,2022-12-20 18:02:56.021028,enemy_headshot
+775,hrzup,Profile-Visual,2022-12-20 18:02:56.024028,weapon_fired 1
+776,hrzup,Profile-Visual,2022-12-20 18:02:56.097045,weapon_fired 0
+777,hrzup,Profile-Visual,2022-12-20 18:02:56.155057,weapon_fired 0
+778,hrzup,Profile-Visual,2022-12-20 18:02:56.429119,hp 460
+779,hrzup,Profile-Visual,2022-12-20 18:02:56.432120,armor 91
+780,hrzup,Profile-Visual,2022-12-20 18:02:56.436121,shielded hit
+781,hrzup,Profile-Visual,2022-12-20 18:02:56.441122,hp 460
+782,hrzup,Profile-Visual,2022-12-20 18:02:56.444123,armor 91
+783,hrzup,Profile-Visual,2022-12-20 18:02:56.449124,hp 460
+784,hrzup,Profile-Visual,2022-12-20 18:02:56.451124,armor 91
+785,hrzup,Profile-Visual,2022-12-20 18:02:56.455125,health_subtracted 0
+786,hrzup,Profile-Visual,2022-12-20 18:02:56.798202,killed an enemy
+787,hrzup,Profile-Visual,2022-12-20 18:02:56.802203,weapon_fired 1
+788,hrzup,Profile-Visual,2022-12-20 18:02:56.874219,weapon_fired 0
+789,hrzup,Profile-Visual,2022-12-20 18:02:56.945235,weapon_fired 0
+790,hrzup,Profile-Visual,2022-12-20 18:02:57.570375,hp 460
+791,hrzup,Profile-Visual,2022-12-20 18:02:57.573376,armor 87
+792,hrzup,Profile-Visual,2022-12-20 18:02:57.577377,shielded hit
+793,hrzup,Profile-Visual,2022-12-20 18:02:57.583378,hp 460
+794,hrzup,Profile-Visual,2022-12-20 18:02:57.586379,armor 87
+795,hrzup,Profile-Visual,2022-12-20 18:02:57.590380,hp 460
+796,hrzup,Profile-Visual,2022-12-20 18:02:57.593380,armor 87
+797,hrzup,Profile-Visual,2022-12-20 18:02:57.596381,health_subtracted 0
+798,hrzup,Profile-Visual,2022-12-20 18:02:57.688402,hp 460
+799,hrzup,Profile-Visual,2022-12-20 18:02:57.690402,armor 84
+800,hrzup,Profile-Visual,2022-12-20 18:02:57.693403,shielded hit
+801,hrzup,Profile-Visual,2022-12-20 18:02:57.699404,hp 460
+802,hrzup,Profile-Visual,2022-12-20 18:02:57.701404,armor 84
+803,hrzup,Profile-Visual,2022-12-20 18:02:57.705405,hp 460
+804,hrzup,Profile-Visual,2022-12-20 18:02:57.707406,armor 84
+805,hrzup,Profile-Visual,2022-12-20 18:02:57.712407,health_subtracted 0
+806,hrzup,Profile-Visual,2022-12-20 18:02:57.894448,weapon_fired 0
+807,hrzup,Profile-Visual,2022-12-20 18:02:57.963463,weapon_fired 0
+808,hrzup,Profile-Visual,2022-12-20 18:02:58.161508,hp 460
+809,hrzup,Profile-Visual,2022-12-20 18:02:58.163508,armor 73
+810,hrzup,Profile-Visual,2022-12-20 18:02:58.167509,shielded hit
+811,hrzup,Profile-Visual,2022-12-20 18:02:58.173510,hp 460
+812,hrzup,Profile-Visual,2022-12-20 18:02:58.176511,armor 73
+813,hrzup,Profile-Visual,2022-12-20 18:02:58.181513,hp 460
+814,hrzup,Profile-Visual,2022-12-20 18:02:58.185513,armor 73
+815,hrzup,Profile-Visual,2022-12-20 18:02:58.188514,health_subtracted 0
+816,hrzup,Profile-Visual,2022-12-20 18:02:59.124225,hp 460
+817,hrzup,Profile-Visual,2022-12-20 18:02:59.126226,armor 65
+818,hrzup,Profile-Visual,2022-12-20 18:02:59.129228,shielded hit
+819,hrzup,Profile-Visual,2022-12-20 18:02:59.136229,hp 460
+820,hrzup,Profile-Visual,2022-12-20 18:02:59.139229,armor 65
+821,hrzup,Profile-Visual,2022-12-20 18:02:59.142230,hp 460
+822,hrzup,Profile-Visual,2022-12-20 18:02:59.145230,armor 65
+823,hrzup,Profile-Visual,2022-12-20 18:02:59.151232,health_subtracted 0
+824,hrzup,Profile-Visual,2022-12-20 18:03:00.160462,hp 460
+825,hrzup,Profile-Visual,2022-12-20 18:03:00.164463,armor 57
+826,hrzup,Profile-Visual,2022-12-20 18:03:00.169464,shielded hit
+827,hrzup,Profile-Visual,2022-12-20 18:03:00.176465,hp 460
+828,hrzup,Profile-Visual,2022-12-20 18:03:00.179466,armor 57
+829,hrzup,Profile-Visual,2022-12-20 18:03:00.182467,hp 460
+830,hrzup,Profile-Visual,2022-12-20 18:03:00.184467,armor 57
+831,hrzup,Profile-Visual,2022-12-20 18:03:00.188468,health_subtracted 0
+832,hrzup,Profile-Visual,2022-12-20 18:03:00.315496,weapon_fired 0
+833,hrzup,Profile-Visual,2022-12-20 18:03:00.392513,weapon_fired 0
+834,hrzup,Profile-Visual,2022-12-20 18:03:00.412518,hp 460
+835,hrzup,Profile-Visual,2022-12-20 18:03:00.414519,armor 53
+836,hrzup,Profile-Visual,2022-12-20 18:03:00.418520,shielded hit
+837,hrzup,Profile-Visual,2022-12-20 18:03:00.425521,hp 460
+838,hrzup,Profile-Visual,2022-12-20 18:03:00.427522,armor 53
+839,hrzup,Profile-Visual,2022-12-20 18:03:00.431522,hp 460
+840,hrzup,Profile-Visual,2022-12-20 18:03:00.433523,armor 53
+841,hrzup,Profile-Visual,2022-12-20 18:03:00.438524,health_subtracted 0
+842,hrzup,Profile-Visual,2022-12-20 18:03:01.294716,weapon_fired 0
+843,hrzup,Profile-Visual,2022-12-20 18:03:01.356730,weapon_fired 0
+844,hrzup,Profile-Visual,2022-12-20 18:03:01.424745,weapon_fired 0
+845,hrzup,Profile-Visual,2022-12-20 18:03:01.498762,hp 460
+846,hrzup,Profile-Visual,2022-12-20 18:03:01.500763,armor 43
+847,hrzup,Profile-Visual,2022-12-20 18:03:01.504763,killed an enemy
+848,hrzup,Profile-Visual,2022-12-20 18:03:01.509765,weapon_fired 1
+849,hrzup,Profile-Visual,2022-12-20 18:03:01.513765,enemy_headshot
+850,hrzup,Profile-Visual,2022-12-20 18:03:01.582780,weapon_fired 0
+851,hrzup,Profile-Visual,2022-12-20 18:03:01.644795,weapon_fired 0
+852,hrzup,Profile-Visual,2022-12-20 18:03:01.810832,stance_crouched 0
+853,hrzup,Profile-Visual,2022-12-20 18:03:02.947087,stance_crouched 0
+854,hrzup,Profile-Visual,2022-12-20 18:03:03.118125,hp 460
+855,hrzup,Profile-Visual,2022-12-20 18:03:03.121126,armor 68
+856,hrzup,Profile-Visual,2022-12-20 18:03:03.124126,auto regenerate armor
+857,hrzup,Profile-Visual,2022-12-20 18:03:05.269226,hp 460
+858,hrzup,Profile-Visual,2022-12-20 18:03:05.272227,armor 91
+859,hrzup,Profile-Visual,2022-12-20 18:03:05.275228,shielded hit
+860,hrzup,Profile-Visual,2022-12-20 18:03:05.281229,hp 460
+861,hrzup,Profile-Visual,2022-12-20 18:03:05.284230,armor 91
+862,hrzup,Profile-Visual,2022-12-20 18:03:05.287230,hp 460
+863,hrzup,Profile-Visual,2022-12-20 18:03:05.289231,armor 91
+864,hrzup,Profile-Visual,2022-12-20 18:03:05.292231,health_subtracted 0
+865,hrzup,Profile-Visual,2022-12-20 18:03:05.889365,weapon_fired 0
+866,hrzup,Profile-Visual,2022-12-20 18:03:05.967383,weapon_fired 0
+867,hrzup,Profile-Visual,2022-12-20 18:03:06.039399,weapon_fired 0
+868,hrzup,Profile-Visual,2022-12-20 18:03:06.117416,weapon_fired 0
+869,hrzup,Profile-Visual,2022-12-20 18:03:06.196434,hp 460
+870,hrzup,Profile-Visual,2022-12-20 18:03:06.198435,armor 61
+871,hrzup,Profile-Visual,2022-12-20 18:03:06.202437,killed an enemy
+872,hrzup,Profile-Visual,2022-12-20 18:03:06.208437,weapon_fired 1
+873,hrzup,Profile-Visual,2022-12-20 18:03:06.212438,enemy_headshot
+874,hrzup,Profile-Visual,2022-12-20 18:03:06.297457,weapon_fired 0
+875,hrzup,Profile-Visual,2022-12-20 18:03:06.356470,weapon_fired 0
+876,hrzup,Profile-Visual,2022-12-20 18:03:06.427486,weapon_fired 0
+877,hrzup,Profile-Visual,2022-12-20 18:03:06.508504,weapon_fired 0
+878,hrzup,Profile-Visual,2022-12-20 18:03:07.066630,killed an enemy
+879,hrzup,Profile-Visual,2022-12-20 18:03:07.071630,weapon_fired 1
+880,hrzup,Profile-Visual,2022-12-20 18:03:07.147648,weapon_fired 0
+881,hrzup,Profile-Visual,2022-12-20 18:03:07.201660,weapon_fired 0
+882,hrzup,Profile-Visual,2022-12-20 18:03:07.271675,weapon_fired 0
+883,hrzup,Profile-Visual,2022-12-20 18:03:07.335690,weapon_fired 1
+884,hrzup,Profile-Visual,2022-12-20 18:03:07.404706,weapon_fired 0
+885,hrzup,Profile-Visual,2022-12-20 18:03:07.468720,weapon_fired 0
+886,hrzup,Profile-Visual,2022-12-20 18:03:07.738780,hp 460
+887,hrzup,Profile-Visual,2022-12-20 18:03:07.740780,armor 86
+888,hrzup,Profile-Visual,2022-12-20 18:03:07.744781,auto regenerate armor
+889,hrzup,Profile-Visual,2022-12-20 18:03:08.546447,hp 460
+890,hrzup,Profile-Visual,2022-12-20 18:03:08.548447,armor 91
+891,hrzup,Profile-Visual,2022-12-20 18:03:08.553448,shielded hit
+892,hrzup,Profile-Visual,2022-12-20 18:03:08.561450,hp 460
+893,hrzup,Profile-Visual,2022-12-20 18:03:08.564450,armor 91
+894,hrzup,Profile-Visual,2022-12-20 18:03:08.567452,hp 460
+895,hrzup,Profile-Visual,2022-12-20 18:03:08.570452,armor 91
+896,hrzup,Profile-Visual,2022-12-20 18:03:08.573453,health_subtracted 0
+897,hrzup,Profile-Visual,2022-12-20 18:03:09.063562,hp 460
+898,hrzup,Profile-Visual,2022-12-20 18:03:09.066564,armor 81
+899,hrzup,Profile-Visual,2022-12-20 18:03:09.069564,shielded hit
+900,hrzup,Profile-Visual,2022-12-20 18:03:09.076566,hp 460
+901,hrzup,Profile-Visual,2022-12-20 18:03:09.079566,armor 81
+902,hrzup,Profile-Visual,2022-12-20 18:03:09.083567,hp 460
+903,hrzup,Profile-Visual,2022-12-20 18:03:09.085567,armor 81
+904,hrzup,Profile-Visual,2022-12-20 18:03:09.088568,health_subtracted 0
+905,hrzup,Profile-Visual,2022-12-20 18:03:09.580678,hp 460
+906,hrzup,Profile-Visual,2022-12-20 18:03:09.582679,armor 71
+907,hrzup,Profile-Visual,2022-12-20 18:03:09.587680,shielded hit
+908,hrzup,Profile-Visual,2022-12-20 18:03:09.594682,hp 460
+909,hrzup,Profile-Visual,2022-12-20 18:03:09.597682,armor 71
+910,hrzup,Profile-Visual,2022-12-20 18:03:09.601683,hp 460
+911,hrzup,Profile-Visual,2022-12-20 18:03:09.603684,armor 71
+912,hrzup,Profile-Visual,2022-12-20 18:03:09.607684,health_subtracted 0
+913,hrzup,Profile-Visual,2022-12-20 18:03:09.806729,stance_crouched 0
+914,hrzup,Profile-Visual,2022-12-20 18:03:10.695929,stance_crouched 0
+915,hrzup,Profile-Visual,2022-12-20 18:03:12.587574,auto regenerate armor
+916,hrzup,Profile-Visual,2022-12-20 18:03:12.595575,hp 460
+917,hrzup,Profile-Visual,2022-12-20 18:03:12.598576,armor 67
+918,hrzup,Profile-Visual,2022-12-20 18:03:13.948268,hp 460
+919,hrzup,Profile-Visual,2022-12-20 18:03:13.951269,armor 91
+920,hrzup,Profile-Visual,2022-12-20 18:03:13.955269,enemy_headshot
+921,hrzup,Profile-Visual,2022-12-20 18:03:13.958271,killed an enemy
+922,hrzup,Profile-Visual,2022-12-20 18:03:13.962271,weapon_fired 1
+923,hrzup,Profile-Visual,2022-12-20 18:03:14.041289,weapon_fired 0
+924,hrzup,Profile-Visual,2022-12-20 18:03:14.117306,weapon_fired 0
+925,hrzup,Profile-Visual,2022-12-20 18:03:14.162316,weapon_fired 0
+926,hrzup,Profile-Visual,2022-12-20 18:03:14.228330,weapon_fired 0
+927,hrzup,Profile-Visual,2022-12-20 18:03:14.706876,weapon_fired 1
+928,hrzup,Profile-Visual,2022-12-20 18:03:14.781893,weapon_fired 0
+929,hrzup,Profile-Visual,2022-12-20 18:03:14.851909,weapon_fired 0
+930,hrzup,Profile-Visual,2022-12-20 18:03:14.924925,weapon_fired 0
+931,hrzup,Profile-Visual,2022-12-20 18:03:16.830496,hp 460
+932,hrzup,Profile-Visual,2022-12-20 18:03:16.832497,armor 91
+933,hrzup,Profile-Visual,2022-12-20 18:03:16.836498,shielded hit
+934,hrzup,Profile-Visual,2022-12-20 18:03:16.841499,hp 460
+935,hrzup,Profile-Visual,2022-12-20 18:03:16.844499,armor 91
+936,hrzup,Profile-Visual,2022-12-20 18:03:16.848500,hp 460
+937,hrzup,Profile-Visual,2022-12-20 18:03:16.850501,armor 91
+938,hrzup,Profile-Visual,2022-12-20 18:03:16.853501,health_subtracted 0
+939,hrzup,Profile-Visual,2022-12-20 18:03:16.872506,killed an enemy
+940,hrzup,Profile-Visual,2022-12-20 18:03:16.877507,weapon_fired 1
+941,hrzup,Profile-Visual,2022-12-20 18:03:16.955525,weapon_fired 0
+942,hrzup,Profile-Visual,2022-12-20 18:03:17.025540,weapon_fired 0
+943,hrzup,Profile-Visual,2022-12-20 18:03:17.101557,weapon_fired 0
+944,hrzup,Profile-Visual,2022-12-20 18:03:17.470652,hp 460
+945,hrzup,Profile-Visual,2022-12-20 18:03:17.473652,armor 81
+946,hrzup,Profile-Visual,2022-12-20 18:03:17.477653,shielded hit
+947,hrzup,Profile-Visual,2022-12-20 18:03:17.483654,hp 460
+948,hrzup,Profile-Visual,2022-12-20 18:03:17.485655,armor 81
+949,hrzup,Profile-Visual,2022-12-20 18:03:17.489656,hp 460
+950,hrzup,Profile-Visual,2022-12-20 18:03:17.493658,armor 81
+951,hrzup,Profile-Visual,2022-12-20 18:03:17.497657,health_subtracted 0
+952,hrzup,Profile-Visual,2022-12-20 18:03:17.680698,weapon_fired 0
+953,hrzup,Profile-Visual,2022-12-20 18:03:17.757716,hp 460
+954,hrzup,Profile-Visual,2022-12-20 18:03:17.760716,armor 72
+955,hrzup,Profile-Visual,2022-12-20 18:03:17.762717,enemy_headshot
+956,hrzup,Profile-Visual,2022-12-20 18:03:17.766718,killed an enemy
+957,hrzup,Profile-Visual,2022-12-20 18:03:17.769718,weapon_fired 1
+958,hrzup,Profile-Visual,2022-12-20 18:03:17.833733,weapon_fired 0
+959,hrzup,Profile-Visual,2022-12-20 18:03:17.898748,weapon_fired 0
+960,hrzup,Profile-Visual,2022-12-20 18:03:17.964762,weapon_fired 0
+961,hrzup,Profile-Visual,2022-12-20 18:03:19.853759,hp 460
+962,hrzup,Profile-Visual,2022-12-20 18:03:19.855759,armor 91
+963,hrzup,Profile-Visual,2022-12-20 18:03:19.859760,auto regenerate armor
+964,hrzup,Profile-Visual,2022-12-20 18:03:23.733570,hp 460
+965,hrzup,Profile-Visual,2022-12-20 18:03:23.736571,armor 91
+966,hrzup,Profile-Visual,2022-12-20 18:03:23.739571,shielded hit
+967,hrzup,Profile-Visual,2022-12-20 18:03:23.745573,hp 460
+968,hrzup,Profile-Visual,2022-12-20 18:03:23.748574,armor 91
+969,hrzup,Profile-Visual,2022-12-20 18:03:23.752574,hp 460
+970,hrzup,Profile-Visual,2022-12-20 18:03:23.755575,armor 91
+971,hrzup,Profile-Visual,2022-12-20 18:03:23.758576,health_subtracted 0
+972,hrzup,Profile-Visual,2022-12-20 18:03:24.136660,weapon_fired 0
+973,hrzup,Profile-Visual,2022-12-20 18:03:24.214678,weapon_fired 0
+974,hrzup,Profile-Visual,2022-12-20 18:03:24.295935,enemy_headshot
+975,hrzup,Profile-Visual,2022-12-20 18:03:24.300937,killed an enemy
+976,hrzup,Profile-Visual,2022-12-20 18:03:24.303938,hp 460
+977,hrzup,Profile-Visual,2022-12-20 18:03:24.305938,armor 81
+978,hrzup,Profile-Visual,2022-12-20 18:03:24.308938,weapon_fired 1
+979,hrzup,Profile-Visual,2022-12-20 18:03:24.380955,weapon_fired 0
+980,hrzup,Profile-Visual,2022-12-20 18:03:25.265153,weapon_fired 1
+981,hrzup,Profile-Visual,2022-12-20 18:03:25.331168,weapon_fired 0
+982,hrzup,Profile-Visual,2022-12-20 18:03:25.406185,weapon_fired 0
+983,hrzup,Profile-Visual,2022-12-20 18:03:26.642968,killed an enemy
+984,hrzup,Profile-Visual,2022-12-20 18:03:26.646970,weapon_fired 1
+985,hrzup,Profile-Visual,2022-12-20 18:03:26.726987,weapon_fired 0
+986,hrzup,Profile-Visual,2022-12-20 18:03:26.765996,hp 460
+987,hrzup,Profile-Visual,2022-12-20 18:03:26.767996,armor 91
+988,hrzup,Profile-Visual,2022-12-20 18:03:26.771997,auto regenerate armor
+989,hrzup,Profile-Visual,2022-12-20 18:03:26.804004,weapon_fired 0
+990,hrzup,Profile-Visual,2022-12-20 18:03:26.875020,hp 460
+991,hrzup,Profile-Visual,2022-12-20 18:03:26.877020,armor 91
+992,hrzup,Profile-Visual,2022-12-20 18:03:26.881021,enemy_headshot
+993,hrzup,Profile-Visual,2022-12-20 18:03:26.884022,killed an enemy
+994,hrzup,Profile-Visual,2022-12-20 18:03:26.888023,weapon_fired 1
+995,hrzup,Profile-Visual,2022-12-20 18:03:26.998048,weapon_fired 0
+996,hrzup,Profile-Visual,2022-12-20 18:03:27.068063,weapon_fired 0
+997,hrzup,Profile-Visual,2022-12-20 18:03:27.762219,shielded hit
+998,hrzup,Profile-Visual,2022-12-20 18:03:27.769220,hp 460
+999,hrzup,Profile-Visual,2022-12-20 18:03:27.772222,armor 91
+1000,hrzup,Profile-Visual,2022-12-20 18:03:27.777223,hp 460
+1001,hrzup,Profile-Visual,2022-12-20 18:03:27.780223,armor 91
+1002,hrzup,Profile-Visual,2022-12-20 18:03:27.785224,hp 460
+1003,hrzup,Profile-Visual,2022-12-20 18:03:27.788225,armor 91
+1004,hrzup,Profile-Visual,2022-12-20 18:03:27.792225,health_subtracted 0
+1005,hrzup,Profile-Visual,2022-12-20 18:03:28.763443,weapon_fired 0
+1006,hrzup,Profile-Visual,2022-12-20 18:03:28.838461,weapon_fired 0
+1007,hrzup,Profile-Visual,2022-12-20 18:03:28.915478,weapon_fired 0
+1008,hrzup,Profile-Visual,2022-12-20 18:03:28.979492,weapon_fired 0
+1009,hrzup,Profile-Visual,2022-12-20 18:03:29.984717,stance_crouched 0
+1010,hrzup,Profile-Visual,2022-12-20 18:03:30.240775,hp 460
+1011,hrzup,Profile-Visual,2022-12-20 18:03:30.243775,armor 81
+1012,hrzup,Profile-Visual,2022-12-20 18:03:30.246776,auto regenerate armor
+1013,hrzup,Profile-Visual,2022-12-20 18:03:30.597855,weapon_fired 0
+1014,hrzup,Profile-Visual,2022-12-20 18:03:30.668871,weapon_fired 0
+1015,hrzup,Profile-Visual,2022-12-20 18:03:31.389032,stance_crouched 0
+1016,hrzup,Profile-Visual,2022-12-20 18:03:33.184435,weapon_fired 0
+1017,hrzup,Profile-Visual,2022-12-20 18:03:33.262452,hp 460
+1018,hrzup,Profile-Visual,2022-12-20 18:03:33.264453,armor 91
+1019,hrzup,Profile-Visual,2022-12-20 18:03:33.268454,enemy_headshot
+1020,hrzup,Profile-Visual,2022-12-20 18:03:33.273455,killed an enemy
+1021,hrzup,Profile-Visual,2022-12-20 18:03:33.277456,weapon_fired 1
+1022,hrzup,Profile-Visual,2022-12-20 18:03:33.334469,weapon_fired 0
+1023,hrzup,Profile-Visual,2022-12-20 18:03:33.406485,weapon_fired 0
+1024,hrzup,Profile-Visual,2022-12-20 18:03:33.467498,weapon_fired 0
+1025,hrzup,Profile-Visual,2022-12-20 18:03:34.796369,enemy_headshot
+1026,hrzup,Profile-Visual,2022-12-20 18:03:34.800370,killed an enemy
+1027,hrzup,Profile-Visual,2022-12-20 18:03:34.804371,weapon_fired 1
+1028,hrzup,Profile-Visual,2022-12-20 18:03:34.880388,weapon_fired 0
+1029,hrzup,Profile-Visual,2022-12-20 18:03:34.959405,weapon_fired 0
+1030,hrzup,Profile-Visual,2022-12-20 18:03:36.139720,weapon_fired 0
+1031,hrzup,Profile-Visual,2022-12-20 18:03:36.222739,weapon_fired 0
+1032,hrzup,Profile-Visual,2022-12-20 18:03:36.289753,weapon_fired 0
+1033,hrzup,Profile-Visual,2022-12-20 18:03:36.303757,hp 460
+1034,hrzup,Profile-Visual,2022-12-20 18:03:36.306757,armor 91
+1035,hrzup,Profile-Visual,2022-12-20 18:03:36.312759,hp 460
+1036,hrzup,Profile-Visual,2022-12-20 18:03:36.316760,armor 91
+1037,hrzup,Profile-Visual,2022-12-20 18:03:36.320760,shielded hit
+1038,hrzup,Profile-Visual,2022-12-20 18:03:36.324762,health_subtracted 0
+1039,hrzup,Profile-Visual,2022-12-20 18:03:36.328763,hp 460
+1040,hrzup,Profile-Visual,2022-12-20 18:03:36.331763,armor 91
+1041,hrzup,Profile-Visual,2022-12-20 18:03:36.714884,weapon_fired 0
+1042,hrzup,Profile-Visual,2022-12-20 18:03:36.792902,weapon_fired 0
+1043,hrzup,Profile-Visual,2022-12-20 18:03:37.166986,hp 460
+1044,hrzup,Profile-Visual,2022-12-20 18:03:37.169986,armor 61
+1045,hrzup,Profile-Visual,2022-12-20 18:03:37.174988,shielded hit
+1046,hrzup,Profile-Visual,2022-12-20 18:03:37.181989,hp 460
+1047,hrzup,Profile-Visual,2022-12-20 18:03:37.184989,armor 61
+1048,hrzup,Profile-Visual,2022-12-20 18:03:37.187990,hp 460
+1049,hrzup,Profile-Visual,2022-12-20 18:03:37.190991,armor 61
+1050,hrzup,Profile-Visual,2022-12-20 18:03:37.195992,health_subtracted 0
+1051,hrzup,Profile-Visual,2022-12-20 18:03:38.868469,stance_crouched 0
+1052,hrzup,Profile-Visual,2022-12-20 18:03:38.904478,tased
+1053,hrzup,Profile-Visual,2022-12-20 18:03:38.913480,hp 460
+1054,hrzup,Profile-Visual,2022-12-20 18:03:38.915480,armor 31
+1055,hrzup,Profile-Visual,2022-12-20 18:03:38.919480,tased
+1056,hrzup,Profile-Visual,2022-12-20 18:03:38.923482,stance_crouched 0
+1057,hrzup,Profile-Visual,2022-12-20 18:03:38.925482,stance_crouched 0
+1058,hrzup,Profile-Visual,2022-12-20 18:03:38.929483,stance_crouched 0
+1059,hrzup,Profile-Visual,2022-12-20 18:03:38.940485,weapon_fired 0
+1060,hrzup,Profile-Visual,2022-12-20 18:03:39.005500,weapon_fired 0
+1061,hrzup,Profile-Visual,2022-12-20 18:03:39.056512,weapon_fired 0
+1062,hrzup,Profile-Visual,2022-12-20 18:03:39.116525,weapon_fired 0
+1063,hrzup,Profile-Visual,2022-12-20 18:03:39.185541,weapon_fired 0
+1064,hrzup,Profile-Visual,2022-12-20 18:03:39.245678,weapon_fired 0
+1065,hrzup,Profile-Visual,2022-12-20 18:03:39.320695,weapon_fired 0
+1066,hrzup,Profile-Visual,2022-12-20 18:03:39.388690,weapon_fired 0
+1067,hrzup,Profile-Visual,2022-12-20 18:03:39.666168,hp 460
+1068,hrzup,Profile-Visual,2022-12-20 18:03:39.668169,armor 31
+1069,hrzup,Profile-Visual,2022-12-20 18:03:39.671169,auto regenerate armor
+1070,hrzup,Profile-Visual,2022-12-20 18:03:40.055686,weapon_fired 0
+1071,hrzup,Profile-Visual,2022-12-20 18:03:40.128702,weapon_fired 0
+1072,hrzup,Profile-Visual,2022-12-20 18:03:40.199208,weapon_fired 0
+1073,hrzup,Profile-Visual,2022-12-20 18:03:40.270729,weapon_fired 0
+1074,hrzup,Profile-Visual,2022-12-20 18:03:40.355748,weapon_fired 0
+1075,hrzup,Profile-Visual,2022-12-20 18:03:40.417762,weapon_fired 0
+1076,hrzup,Profile-Visual,2022-12-20 18:03:40.486777,weapon_fired 0
+1077,hrzup,Profile-Visual,2022-12-20 18:03:40.557793,weapon_fired 0
+1078,hrzup,Profile-Visual,2022-12-20 18:03:40.898870,weapon_fired 0
+1079,hrzup,Profile-Visual,2022-12-20 18:03:40.976887,weapon_fired 0
+1080,hrzup,Profile-Visual,2022-12-20 18:03:41.050904,weapon_fired 0
+1081,hrzup,Profile-Visual,2022-12-20 18:03:41.124920,weapon_fired 0
+1082,hrzup,Profile-Visual,2022-12-20 18:03:41.189935,weapon_fired 0
+1083,hrzup,Profile-Visual,2022-12-20 18:03:41.262951,weapon_fired 0
+1084,hrzup,Profile-Visual,2022-12-20 18:03:41.332967,weapon_fired 0
+1085,hrzup,Profile-Visual,2022-12-20 18:03:41.409984,weapon_fired 0
+1086,hrzup,Profile-Visual,2022-12-20 18:03:41.474999,weapon_fired 0
+1087,hrzup,Profile-Visual,2022-12-20 18:03:41.547015,weapon_fired 0
+1088,hrzup,Profile-Visual,2022-12-20 18:03:41.614030,weapon_fired 0
+1089,hrzup,Profile-Visual,2022-12-20 18:03:41.686046,weapon_fired 0
+1090,hrzup,Profile-Visual,2022-12-20 18:03:41.750060,weapon_fired 0
+1091,hrzup,Profile-Visual,2022-12-20 18:03:41.820077,weapon_fired 0
+1092,hrzup,Profile-Visual,2022-12-20 18:03:41.884091,weapon_fired 0
+1093,hrzup,Profile-Visual,2022-12-20 18:03:41.954510,weapon_fired 0
+1094,hrzup,Profile-Visual,2022-12-20 18:03:42.026526,weapon_fired 0
+1095,hrzup,Profile-Visual,2022-12-20 18:03:42.314591,weapon_fired 0
+1096,hrzup,Profile-Visual,2022-12-20 18:03:42.390608,weapon_fired 0
+1097,hrzup,Profile-Visual,2022-12-20 18:03:42.462624,weapon_fired 0
+1098,hrzup,Profile-Visual,2022-12-20 18:03:42.535641,weapon_fired 0
+1099,hrzup,Profile-Visual,2022-12-20 18:03:42.600654,weapon_fired 0
+1100,hrzup,Profile-Visual,2022-12-20 18:03:42.679672,weapon_fired 0
+1101,hrzup,Profile-Visual,2022-12-20 18:03:42.753690,weapon_fired 0
+1102,hrzup,Profile-Visual,2022-12-20 18:03:42.822704,weapon_fired 0
+1103,hrzup,Profile-Visual,2022-12-20 18:03:43.550295,weapon_fired 0
+1104,hrzup,Profile-Visual,2022-12-20 18:03:43.623312,weapon_fired 0
+1105,hrzup,Profile-Visual,2022-12-20 18:03:43.699329,weapon_fired 0
+1106,hrzup,Profile-Visual,2022-12-20 18:03:43.770344,weapon_fired 0
+1107,hrzup,Profile-Visual,2022-12-20 18:03:44.237450,hp 460
+1108,hrzup,Profile-Visual,2022-12-20 18:03:44.239450,armor 91
+1109,hrzup,Profile-Visual,2022-12-20 18:03:44.249453,shielded hit
+1110,hrzup,Profile-Visual,2022-12-20 18:03:44.253453,hp 460
+1111,hrzup,Profile-Visual,2022-12-20 18:03:44.255453,armor 91
+1112,hrzup,Profile-Visual,2022-12-20 18:03:44.259454,hp 460
+1113,hrzup,Profile-Visual,2022-12-20 18:03:44.262455,armor 91
+1114,hrzup,Profile-Visual,2022-12-20 18:03:44.266456,health_subtracted 0
+1115,hrzup,Profile-Visual,2022-12-20 18:03:45.583256,stance_crouched 0
+1116,hrzup,Profile-Visual,2022-12-20 18:03:46.734005,hp 460
+1117,hrzup,Profile-Visual,2022-12-20 18:03:46.736006,armor 86
+1118,hrzup,Profile-Visual,2022-12-20 18:03:46.740007,auto regenerate armor
+1119,hrzup,Profile-Visual,2022-12-20 18:03:51.644477,stance_crouched 0
+1120,hrzup,Profile-Visual,2022-12-20 18:03:52.107571,weapon_fired 0
+1121,hrzup,Profile-Visual,2022-12-20 18:03:52.178587,weapon_fired 0
+1122,hrzup,Profile-Visual,2022-12-20 18:03:52.798642,stance_crouched 0
+1123,hrzup,Profile-Visual,2022-12-20 18:03:56.093477,hp 460
+1124,hrzup,Profile-Visual,2022-12-20 18:03:56.095478,armor 91
+1125,hrzup,Profile-Visual,2022-12-20 18:03:56.099479,shielded hit
+1126,hrzup,Profile-Visual,2022-12-20 18:03:56.104480,hp 460
+1127,hrzup,Profile-Visual,2022-12-20 18:03:56.107480,armor 91
+1128,hrzup,Profile-Visual,2022-12-20 18:03:56.112482,hp 460
+1129,hrzup,Profile-Visual,2022-12-20 18:03:56.116483,armor 91
+1130,hrzup,Profile-Visual,2022-12-20 18:03:56.120484,health_subtracted 0
+1131,hrzup,Profile-Visual,2022-12-20 18:03:56.557582,weapon_fired 0
+1132,hrzup,Profile-Visual,2022-12-20 18:03:56.633599,weapon_fired 0
+1133,hrzup,Profile-Visual,2022-12-20 18:03:56.713617,hp 460
+1134,hrzup,Profile-Visual,2022-12-20 18:03:56.715617,armor 86
+1135,hrzup,Profile-Visual,2022-12-20 18:03:56.719618,enemy_headshot
+1136,hrzup,Profile-Visual,2022-12-20 18:03:56.723619,killed an enemy
+1137,hrzup,Profile-Visual,2022-12-20 18:03:56.727620,weapon_fired 1
+1138,hrzup,Profile-Visual,2022-12-20 18:03:56.793634,weapon_fired 0
+1139,hrzup,Profile-Visual,2022-12-20 18:03:56.998563,weapon_fired 0
+1140,hrzup,Profile-Visual,2022-12-20 18:03:57.066578,weapon_fired 0
+1141,hrzup,Profile-Visual,2022-12-20 18:03:57.206610,enemy_headshot
+1142,hrzup,Profile-Visual,2022-12-20 18:03:57.210611,killed an enemy
+1143,hrzup,Profile-Visual,2022-12-20 18:03:57.214611,weapon_fired 1
+1144,hrzup,Profile-Visual,2022-12-20 18:03:57.295630,weapon_fired 0
+1145,hrzup,Profile-Visual,2022-12-20 18:03:57.367646,weapon_fired 0
+1146,hrzup,Profile-Visual,2022-12-20 18:03:57.429660,hp 460
+1147,hrzup,Profile-Visual,2022-12-20 18:03:57.432661,armor 91
+1148,hrzup,Profile-Visual,2022-12-20 18:03:57.441663,shielded hit
+1149,hrzup,Profile-Visual,2022-12-20 18:03:57.449664,hp 460
+1150,hrzup,Profile-Visual,2022-12-20 18:03:57.452665,armor 91
+1151,hrzup,Profile-Visual,2022-12-20 18:03:57.457666,hp 460
+1152,hrzup,Profile-Visual,2022-12-20 18:03:57.460667,armor 91
+1153,hrzup,Profile-Visual,2022-12-20 18:03:57.464668,health_subtracted 0
+1154,hrzup,Profile-Visual,2022-12-20 18:03:57.568691,weapon_fired 0
+1155,hrzup,Profile-Visual,2022-12-20 18:03:57.639707,weapon_fired 0
+1156,hrzup,Profile-Visual,2022-12-20 18:03:57.717725,weapon_fired 0
+1157,hrzup,Profile-Visual,2022-12-20 18:03:57.766736,weapon_fired 0
+1158,hrzup,Profile-Visual,2022-12-20 18:03:57.828749,weapon_fired 0
+1159,hrzup,Profile-Visual,2022-12-20 18:03:57.891764,weapon_fired 0
+1160,hrzup,Profile-Visual,2022-12-20 18:03:57.953777,weapon_fired 0
+1161,hrzup,Profile-Visual,2022-12-20 18:03:58.021792,weapon_fired 0
+1162,hrzup,Profile-Visual,2022-12-20 18:03:58.096809,weapon_fired 0
+1163,hrzup,Profile-Visual,2022-12-20 18:03:58.166826,weapon_fired 0
+1164,hrzup,Profile-Visual,2022-12-20 18:03:58.397720,killed an enemy
+1165,hrzup,Profile-Visual,2022-12-20 18:03:58.408723,hp 460
+1166,hrzup,Profile-Visual,2022-12-20 18:03:58.411723,armor 87
+1167,hrzup,Profile-Visual,2022-12-20 18:03:58.416725,weapon_fired 1
+1168,hrzup,Profile-Visual,2022-12-20 18:03:58.421726,shielded hit
+1169,hrzup,Profile-Visual,2022-12-20 18:03:58.426727,hp 460
+1170,hrzup,Profile-Visual,2022-12-20 18:03:58.429727,armor 87
+1171,hrzup,Profile-Visual,2022-12-20 18:03:58.434729,hp 460
+1172,hrzup,Profile-Visual,2022-12-20 18:03:58.438729,armor 87
+1173,hrzup,Profile-Visual,2022-12-20 18:03:58.441730,health_subtracted 0
+1174,hrzup,Profile-Visual,2022-12-20 18:03:58.502744,weapon_fired 0
+1175,hrzup,Profile-Visual,2022-12-20 18:03:58.576760,weapon_fired 0
+1176,hrzup,Profile-Visual,2022-12-20 18:03:58.652778,weapon_fired 0
+1177,hrzup,Profile-Visual,2022-12-20 18:03:58.726794,weapon_fired 0
+1178,hrzup,Profile-Visual,2022-12-20 18:03:58.774805,weapon_fired 0
+1179,hrzup,Profile-Visual,2022-12-20 18:03:59.033863,stance_crouched 0
+1180,hrzup,Profile-Visual,2022-12-20 18:04:00.180446,stance_crouched 0
+1181,hrzup,Profile-Visual,2022-12-20 18:04:01.043660,stance_crouched 0
+1182,hrzup,Profile-Visual,2022-12-20 18:04:01.941862,stance_crouched 0
+1183,hrzup,Profile-Visual,2022-12-20 18:04:02.731038,weapon_fired 0
+1184,hrzup,Profile-Visual,2022-12-20 18:04:02.809056,weapon_fired 0
+1185,hrzup,Profile-Visual,2022-12-20 18:04:02.933084,auto regenerate armor
+1186,hrzup,Profile-Visual,2022-12-20 18:04:02.937085,hp 460
+1187,hrzup,Profile-Visual,2022-12-20 18:04:02.940085,armor 83
+1188,hrzup,Profile-Visual,2022-12-20 18:04:04.249379,weapon_fired 0
+1189,hrzup,Profile-Visual,2022-12-20 18:04:04.334398,weapon_fired 0
+1190,hrzup,Profile-Visual,2022-12-20 18:04:04.401413,weapon_fired 0
+1191,hrzup,Profile-Visual,2022-12-20 18:04:04.476430,weapon_fired 0
+1192,hrzup,Profile-Visual,2022-12-20 18:04:04.546446,weapon_fired 0
+1193,hrzup,Profile-Visual,2022-12-20 18:04:05.995771,hp 460
+1194,hrzup,Profile-Visual,2022-12-20 18:04:05.997771,armor 91
+1195,hrzup,Profile-Visual,2022-12-20 18:04:06.001772,auto regenerate armor
+1196,hrzup,Profile-Visual,2022-12-20 18:04:07.632138,killed an enemy
+1197,hrzup,Profile-Visual,2022-12-20 18:04:07.636139,weapon_fired 1
+1198,hrzup,Profile-Visual,2022-12-20 18:04:07.709155,weapon_fired 0
+1199,hrzup,Profile-Visual,2022-12-20 18:04:07.784172,weapon_fired 0
+1200,hrzup,Profile-Visual,2022-12-20 18:04:07.850187,weapon_fired 0
+1201,hrzup,Profile-Visual,2022-12-20 18:04:07.920202,weapon_fired 0
+1202,hrzup,Profile-Visual,2022-12-20 18:04:09.223242,enemy_headshot
+1203,hrzup,Profile-Visual,2022-12-20 18:04:09.228244,killed an enemy
+1204,hrzup,Profile-Visual,2022-12-20 18:04:09.233245,hp 460
+1205,hrzup,Profile-Visual,2022-12-20 18:04:09.236246,armor 91
+1206,hrzup,Profile-Visual,2022-12-20 18:04:09.241247,weapon_fired 1
+1207,hrzup,Profile-Visual,2022-12-20 18:04:09.315264,weapon_fired 0
+1208,hrzup,Profile-Visual,2022-12-20 18:04:09.384279,weapon_fired 0
+1209,hrzup,Profile-Visual,2022-12-20 18:04:09.397281,hp 460
+1210,hrzup,Profile-Visual,2022-12-20 18:04:09.399282,armor 91
+1211,hrzup,Profile-Visual,2022-12-20 18:04:09.403283,shielded hit
+1212,hrzup,Profile-Visual,2022-12-20 18:04:09.410285,hp 460
+1213,hrzup,Profile-Visual,2022-12-20 18:04:09.413285,armor 91
+1214,hrzup,Profile-Visual,2022-12-20 18:04:09.417286,health_subtracted 0
+1215,hrzup,Profile-Visual,2022-12-20 18:04:09.423288,hp 460
+1216,hrzup,Profile-Visual,2022-12-20 18:04:09.426288,armor 91
+1217,hrzup,Profile-Visual,2022-12-20 18:04:09.482301,weapon_fired 0
+1218,hrzup,Profile-Visual,2022-12-20 18:04:09.549316,weapon_fired 0
+1219,hrzup,Profile-Visual,2022-12-20 18:04:10.727108,hp 460
+1220,hrzup,Profile-Visual,2022-12-20 18:04:10.730108,armor 81
+1221,hrzup,Profile-Visual,2022-12-20 18:04:10.733109,shielded hit
+1222,hrzup,Profile-Visual,2022-12-20 18:04:10.739111,hp 460
+1223,hrzup,Profile-Visual,2022-12-20 18:04:10.742111,armor 81
+1224,hrzup,Profile-Visual,2022-12-20 18:04:10.748112,hp 460
+1225,hrzup,Profile-Visual,2022-12-20 18:04:10.751113,armor 81
+1226,hrzup,Profile-Visual,2022-12-20 18:04:10.755114,health_subtracted 0
+1227,hrzup,Profile-Visual,2022-12-20 18:04:10.848135,weapon_fired 0
+1228,hrzup,Profile-Visual,2022-12-20 18:04:12.096415,hp 460
+1229,hrzup,Profile-Visual,2022-12-20 18:04:12.099416,armor 77
+1230,hrzup,Profile-Visual,2022-12-20 18:04:12.103417,shielded hit
+1231,hrzup,Profile-Visual,2022-12-20 18:04:12.111419,hp 460
+1232,hrzup,Profile-Visual,2022-12-20 18:04:12.114419,armor 77
+1233,hrzup,Profile-Visual,2022-12-20 18:04:12.118420,hp 460
+1234,hrzup,Profile-Visual,2022-12-20 18:04:12.121421,armor 77
+1235,hrzup,Profile-Visual,2022-12-20 18:04:12.125422,health_subtracted 0
+1236,hrzup,Profile-Visual,2022-12-20 18:04:15.300040,hp 460
+1237,hrzup,Profile-Visual,2022-12-20 18:04:15.303041,armor 67
+1238,hrzup,Profile-Visual,2022-12-20 18:04:15.306042,auto regenerate armor
+1239,hrzup,Profile-Visual,2022-12-20 18:04:28.198387,stance_crouched 1
+1240,hrzup,Profile-Visual,2022-12-20 18:04:28.770929,stance_crouched 0
+1241,hrzup,Profile-Visual,2022-12-20 18:04:31.427628,stance_crouched 1
+1242,hrzup,Profile-Visual,2022-12-20 18:04:39.888053,weapon_fired 0
+1243,hrzup,Profile-Visual,2022-12-20 18:04:40.103101,weapon_fired 1
+1244,hrzup,Profile-Visual,2022-12-20 18:04:40.108102,killed an enemy
+1245,hrzup,Profile-Visual,2022-12-20 18:04:40.175117,weapon_fired 0
+1246,hrzup,Profile-Visual,2022-12-20 18:04:41.601449,weapon_fired 0
+1247,hrzup,Profile-Visual,2022-12-20 18:04:41.676465,weapon_fired 1
+1248,hrzup,Profile-Visual,2022-12-20 18:04:42.923660,weapon_fired 1
+1249,hrzup,Profile-Visual,2022-12-20 18:04:42.995676,killed an enemy
+1250,hrzup,Profile-Visual,2022-12-20 18:04:42.999677,weapon_fired 1
+1251,hrzup,Profile-Visual,2022-12-20 18:04:43.409769,killed an enemy
+1252,hrzup,Profile-Visual,2022-12-20 18:04:43.414770,weapon_fired 1
+1253,hrzup,Profile-Visual,2022-12-20 18:04:43.486786,weapon_fired 0
+1254,hrzup,Profile-Visual,2022-12-20 18:04:43.562803,weapon_fired 0
+1255,hrzup,Profile-Visual,2022-12-20 18:04:43.878875,weapon_fired 0
+1256,hrzup,Profile-Visual,2022-12-20 18:04:44.718703,hp 460
+1257,hrzup,Profile-Visual,2022-12-20 18:04:44.721704,armor 91
+1258,hrzup,Profile-Visual,2022-12-20 18:04:44.725704,shielded hit
+1259,hrzup,Profile-Visual,2022-12-20 18:04:44.730705,hp 460
+1260,hrzup,Profile-Visual,2022-12-20 18:04:44.733706,armor 91
+1261,hrzup,Profile-Visual,2022-12-20 18:04:44.738707,hp 460
+1262,hrzup,Profile-Visual,2022-12-20 18:04:44.741708,armor 91
+1263,hrzup,Profile-Visual,2022-12-20 18:04:44.744709,health_subtracted 0
+1264,hrzup,Profile-Visual,2022-12-20 18:04:47.384673,weapon_fired 0
+1265,hrzup,Profile-Visual,2022-12-20 18:04:47.458690,killed an enemy
+1266,hrzup,Profile-Visual,2022-12-20 18:04:47.462692,weapon_fired 1
+1267,hrzup,Profile-Visual,2022-12-20 18:04:47.776762,weapon_fired 0
+1268,hrzup,Profile-Visual,2022-12-20 18:04:47.839776,weapon_fired 0
+1269,hrzup,Profile-Visual,2022-12-20 18:04:48.902792,stance_crouched 1
+1270,hrzup,Profile-Visual,2022-12-20 18:04:48.999814,hp 460
+1271,hrzup,Profile-Visual,2022-12-20 18:04:49.002814,armor 86
+1272,hrzup,Profile-Visual,2022-12-20 18:04:49.005815,auto regenerate armor
+1273,hrzup,Profile-Visual,2022-12-20 18:04:49.684967,stance_crouched 1
+1274,hrzup,Profile-Visual,2022-12-20 18:04:50.412992,killed an enemy
+1275,hrzup,Profile-Visual,2022-12-20 18:04:50.416994,weapon_fired 1
+1276,hrzup,Profile-Visual,2022-12-20 18:04:50.490010,weapon_fired 0
+1277,hrzup,Profile-Visual,2022-12-20 18:04:50.842089,weapon_fired 1
+1278,hrzup,Profile-Visual,2022-12-20 18:04:50.914105,killed an enemy
+1279,hrzup,Profile-Visual,2022-12-20 18:04:50.918106,weapon_fired 1
+1280,hrzup,Profile-Visual,2022-12-20 18:04:53.891013,killed an enemy
+1281,hrzup,Profile-Visual,2022-12-20 18:04:53.896014,weapon_fired 1
+1282,hrzup,Profile-Visual,2022-12-20 18:04:53.972032,weapon_fired 0
+1283,hrzup,Profile-Visual,2022-12-20 18:04:54.047048,weapon_fired 0
+1284,hrzup,Profile-Visual,2022-12-20 18:04:54.540111,auto regenerate armor
+1285,hrzup,Profile-Visual,2022-12-20 18:04:54.547112,hp 460
+1286,hrzup,Profile-Visual,2022-12-20 18:04:54.551113,armor 91
+1287,hrzup,Profile-Visual,2022-12-20 18:05:03.648651,stance_crouched 0
+1288,hrzup,Profile-Visual,2022-12-20 18:05:04.421828,stance_crouched 0
+1289,hrzup,Profile-Visual,2022-12-20 18:05:04.962949,killed an enemy
+1290,hrzup,Profile-Visual,2022-12-20 18:05:04.966950,weapon_fired 1
+1291,hrzup,Profile-Visual,2022-12-20 18:05:05.040966,weapon_fired 0
+1292,hrzup,Profile-Visual,2022-12-20 18:05:05.354278,weapon_fired 0
+1293,hrzup,Profile-Visual,2022-12-20 18:05:05.436297,weapon_fired 0
+1294,hrzup,Profile-Visual,2022-12-20 18:05:05.620339,hp 460
+1295,hrzup,Profile-Visual,2022-12-20 18:05:05.623339,armor 91
+1296,hrzup,Profile-Visual,2022-12-20 18:05:05.627340,shielded hit
+1297,hrzup,Profile-Visual,2022-12-20 18:05:05.632341,hp 460
+1298,hrzup,Profile-Visual,2022-12-20 18:05:05.636342,armor 91
+1299,hrzup,Profile-Visual,2022-12-20 18:05:05.640343,hp 460
+1300,hrzup,Profile-Visual,2022-12-20 18:05:05.643343,armor 91
+1301,hrzup,Profile-Visual,2022-12-20 18:05:05.646344,health_subtracted 0
+1302,hrzup,Profile-Visual,2022-12-20 18:05:05.958414,killed an enemy
+1303,hrzup,Profile-Visual,2022-12-20 18:05:05.962415,weapon_fired 1
+1304,hrzup,Profile-Visual,2022-12-20 18:05:06.043433,weapon_fired 0
+1305,hrzup,Profile-Visual,2022-12-20 18:05:06.353503,hp 460
+1306,hrzup,Profile-Visual,2022-12-20 18:05:06.356503,armor 81
+1307,hrzup,Profile-Visual,2022-12-20 18:05:06.359504,shielded hit
+1308,hrzup,Profile-Visual,2022-12-20 18:05:06.366506,hp 460
+1309,hrzup,Profile-Visual,2022-12-20 18:05:06.369506,armor 81
+1310,hrzup,Profile-Visual,2022-12-20 18:05:06.379508,hp 460
+1311,hrzup,Profile-Visual,2022-12-20 18:05:06.382509,armor 81
+1312,hrzup,Profile-Visual,2022-12-20 18:05:06.386510,health_subtracted 0
+1313,hrzup,Profile-Visual,2022-12-20 18:05:06.699581,killed an enemy
+1314,hrzup,Profile-Visual,2022-12-20 18:05:06.703581,weapon_fired 1
+1315,hrzup,Profile-Visual,2022-12-20 18:05:06.774598,weapon_fired 0
+1316,hrzup,Profile-Visual,2022-12-20 18:05:06.945636,weapon_fired 0
+1317,hrzup,Profile-Visual,2022-12-20 18:05:07.029654,weapon_fired 0
+1318,hrzup,Profile-Visual,2022-12-20 18:05:07.674799,weapon_fired 0
+1319,hrzup,Profile-Visual,2022-12-20 18:05:07.844837,weapon_fired 0
+1320,hrzup,Profile-Visual,2022-12-20 18:05:07.922855,weapon_fired 0
+1321,hrzup,Profile-Visual,2022-12-20 18:05:08.931081,stance_crouched 0
+1322,hrzup,Profile-Visual,2022-12-20 18:05:09.265517,stance_crouched 0
+1323,hrzup,Profile-Visual,2022-12-20 18:05:09.518574,hp 460
+1324,hrzup,Profile-Visual,2022-12-20 18:05:09.520574,armor 71
+1325,hrzup,Profile-Visual,2022-12-20 18:05:09.524575,auto regenerate armor
+1326,hrzup,Profile-Visual,2022-12-20 18:05:09.562584,weapon_fired 0
+1327,hrzup,Profile-Visual,2022-12-20 18:05:09.631599,weapon_fired 0
+1328,hrzup,Profile-Visual,2022-12-20 18:05:09.698615,weapon_fired 0
+1329,hrzup,Profile-Visual,2022-12-20 18:05:10.175221,stance_crouched 0
+1330,hrzup,Profile-Visual,2022-12-20 18:05:12.178719,stance_crouched 0
+1331,hrzup,Profile-Visual,2022-12-20 18:05:13.759305,weapon_fired 0
+1332,hrzup,Profile-Visual,2022-12-20 18:05:13.834323,weapon_fired 1
+1333,hrzup,Profile-Visual,2022-12-20 18:05:14.411452,stance_crouched 0
+1334,hrzup,Profile-Visual,2022-12-20 18:05:16.366198,hp 460
+1335,hrzup,Profile-Visual,2022-12-20 18:05:16.368199,armor 91
+1336,hrzup,Profile-Visual,2022-12-20 18:05:16.371199,auto regenerate armor
+1337,hrzup,Profile-Visual,2022-12-20 18:05:18.037827,stance_crouched 0
+1338,hrzup,Profile-Visual,2022-12-20 18:05:19.833290,weapon_fired 0
+1339,hrzup,Profile-Visual,2022-12-20 18:05:19.908307,weapon_fired 0
+1340,hrzup,Profile-Visual,2022-12-20 18:05:20.789310,weapon_fired 0
+1341,hrzup,Profile-Visual,2022-12-20 18:05:20.870329,killed an enemy
+1342,hrzup,Profile-Visual,2022-12-20 18:05:20.875329,weapon_fired 1
+1343,hrzup,Profile-Visual,2022-12-20 18:05:20.943345,weapon_fired 0
+1344,hrzup,Profile-Visual,2022-12-20 18:05:20.964349,stance_crouched 0
+1345,hrzup,Profile-Visual,2022-12-20 18:05:21.868533,stance_crouched 0
+1346,hrzup,Profile-Visual,2022-12-20 18:05:22.764511,stance_crouched 0
+1347,hrzup,Profile-Visual,2022-12-20 18:05:25.596263,hp 460
+1348,hrzup,Profile-Visual,2022-12-20 18:05:25.599264,armor 91
+1349,hrzup,Profile-Visual,2022-12-20 18:05:25.603266,shielded hit
+1350,hrzup,Profile-Visual,2022-12-20 18:05:25.608266,hp 460
+1351,hrzup,Profile-Visual,2022-12-20 18:05:25.611267,armor 91
+1352,hrzup,Profile-Visual,2022-12-20 18:05:25.615268,hp 460
+1353,hrzup,Profile-Visual,2022-12-20 18:05:25.617268,armor 91
+1354,hrzup,Profile-Visual,2022-12-20 18:05:25.620268,health_subtracted 0
+1355,hrzup,Profile-Visual,2022-12-20 18:05:26.659381,hp 460
+1356,hrzup,Profile-Visual,2022-12-20 18:05:26.661381,armor 87
+1357,hrzup,Profile-Visual,2022-12-20 18:05:26.665382,shielded hit
+1358,hrzup,Profile-Visual,2022-12-20 18:05:26.670384,hp 460
+1359,hrzup,Profile-Visual,2022-12-20 18:05:26.672384,armor 87
+1360,hrzup,Profile-Visual,2022-12-20 18:05:26.676385,hp 460
+1361,hrzup,Profile-Visual,2022-12-20 18:05:26.679386,armor 87
+1362,hrzup,Profile-Visual,2022-12-20 18:05:26.682386,health_subtracted 0
+1363,hrzup,Profile-Visual,2022-12-20 18:05:27.316259,stance_crouched 0
+1364,hrzup,Profile-Visual,2022-12-20 18:05:28.220173,stance_crouched 0
+1365,hrzup,Profile-Visual,2022-12-20 18:05:29.138763,hp 460
+1366,hrzup,Profile-Visual,2022-12-20 18:05:29.141764,armor 67
+1367,hrzup,Profile-Visual,2022-12-20 18:05:29.146765,auto regenerate armor
+1368,hrzup,Profile-Visual,2022-12-20 18:05:29.315803,weapon_fired 0
+1369,hrzup,Profile-Visual,2022-12-20 18:05:29.395821,weapon_fired 0
+1370,hrzup,Profile-Visual,2022-12-20 18:05:29.946036,weapon_fired 0
+1371,hrzup,Profile-Visual,2022-12-20 18:05:30.006050,weapon_fired 0
+1372,hrzup,Profile-Visual,2022-12-20 18:05:30.314119,weapon_fired 0
+1373,hrzup,Profile-Visual,2022-12-20 18:05:30.394137,weapon_fired 0
+1374,hrzup,Profile-Visual,2022-12-20 18:05:31.436371,weapon_fired 0
+1375,hrzup,Profile-Visual,2022-12-20 18:05:31.519389,weapon_fired 0
+1376,hrzup,Profile-Visual,2022-12-20 18:05:31.932482,weapon_fired 0
+1377,hrzup,Profile-Visual,2022-12-20 18:05:32.012501,weapon_fired 0
+1378,hrzup,Profile-Visual,2022-12-20 18:05:36.342127,killed an enemy
+1379,hrzup,Profile-Visual,2022-12-20 18:05:36.346127,weapon_fired 1
+1380,hrzup,Profile-Visual,2022-12-20 18:05:36.423144,weapon_fired 0
+1381,hrzup,Profile-Visual,2022-12-20 18:05:36.508163,weapon_fired 0
+1382,hrzup,Profile-Visual,2022-12-20 18:05:46.224230,hp 460
+1383,hrzup,Profile-Visual,2022-12-20 18:05:46.226230,armor 91
+1384,hrzup,Profile-Visual,2022-12-20 18:05:46.230231,enemy_headshot
+1385,hrzup,Profile-Visual,2022-12-20 18:05:46.233232,killed an enemy
+1386,hrzup,Profile-Visual,2022-12-20 18:05:46.238234,weapon_fired 1
+1387,hrzup,Profile-Visual,2022-12-20 18:05:46.314250,weapon_fired 0
+1388,hrzup,Profile-Visual,2022-12-20 18:05:46.382265,enemy_headshot
+1389,hrzup,Profile-Visual,2022-12-20 18:05:46.386266,killed an enemy
+1390,hrzup,Profile-Visual,2022-12-20 18:05:46.390267,weapon_fired 1
+1391,hrzup,Profile-Visual,2022-12-20 18:05:46.463112,killed an enemy
+1392,hrzup,Profile-Visual,2022-12-20 18:05:46.467113,weapon_fired 1
+1393,hrzup,Profile-Visual,2022-12-20 18:05:46.531127,weapon_fired 0
+1394,hrzup,Profile-Visual,2022-12-20 18:05:46.717169,weapon_fired 0
+1395,hrzup,Profile-Visual,2022-12-20 18:05:46.787185,enemy_headshot
+1396,hrzup,Profile-Visual,2022-12-20 18:05:46.791186,killed an enemy
+1397,hrzup,Profile-Visual,2022-12-20 18:05:46.795186,weapon_fired 1
+1398,hrzup,Profile-Visual,2022-12-20 18:05:47.288883,weapon_fired 0
+1399,hrzup,Profile-Visual,2022-12-20 18:05:47.373903,weapon_fired 0
+1400,hrzup,Profile-Visual,2022-12-20 18:05:47.432004,weapon_fired 0
+1401,hrzup,Profile-Visual,2022-12-20 18:05:48.020379,weapon_fired 0
+1402,hrzup,Profile-Visual,2022-12-20 18:05:48.098397,killed an enemy
+1403,hrzup,Profile-Visual,2022-12-20 18:05:48.102399,weapon_fired 1
+1404,hrzup,Profile-Visual,2022-12-20 18:05:48.170412,weapon_fired 0
+1405,hrzup,Profile-Visual,2022-12-20 18:05:48.347179,hp 460
+1406,hrzup,Profile-Visual,2022-12-20 18:05:48.350180,armor 91
+1407,hrzup,Profile-Visual,2022-12-20 18:05:48.355181,auto regenerate armor
+1408,hrzup,Profile-Visual,2022-12-20 18:05:48.436200,weapon_fired 0
+1409,hrzup,Profile-Visual,2022-12-20 18:05:48.504215,weapon_fired 0
+1410,hrzup,Profile-Visual,2022-12-20 18:05:48.582232,weapon_fired 0
+1411,hrzup,Profile-Visual,2022-12-20 18:05:48.642246,weapon_fired 0
+1412,hrzup,Profile-Visual,2022-12-20 18:05:48.711261,hp 460
+1413,hrzup,Profile-Visual,2022-12-20 18:05:48.714262,armor 91
+1414,hrzup,Profile-Visual,2022-12-20 18:05:48.717263,enemy_headshot
+1415,hrzup,Profile-Visual,2022-12-20 18:05:48.721264,killed an enemy
+1416,hrzup,Profile-Visual,2022-12-20 18:05:48.726265,weapon_fired 1
+1417,hrzup,Profile-Visual,2022-12-20 18:05:48.795280,weapon_fired 0
+1418,hrzup,Profile-Visual,2022-12-20 18:05:48.873298,weapon_fired 0
+1419,hrzup,Profile-Visual,2022-12-20 18:05:48.985323,weapon_fired 0
+1420,hrzup,Profile-Visual,2022-12-20 18:05:49.056339,weapon_fired 0
+1421,hrzup,Profile-Visual,2022-12-20 18:05:49.254384,weapon_fired 0
+1422,hrzup,Profile-Visual,2022-12-20 18:05:49.325399,weapon_fired 1
+1423,hrzup,Profile-Visual,2022-12-20 18:05:49.398430,killed an enemy
+1424,hrzup,Profile-Visual,2022-12-20 18:05:49.402431,weapon_fired 1
+1425,hrzup,Profile-Visual,2022-12-20 18:05:49.473447,weapon_fired 0
+1426,hrzup,Profile-Visual,2022-12-20 18:05:49.545463,weapon_fired 0
+1427,hrzup,Profile-Visual,2022-12-20 18:05:49.737506,weapon_fired 0
+1428,hrzup,Profile-Visual,2022-12-20 18:05:49.816524,weapon_fired 0
+1429,hrzup,Profile-Visual,2022-12-20 18:05:49.881538,weapon_fired 0
+1430,hrzup,Profile-Visual,2022-12-20 18:05:49.953555,weapon_fired 0
+1431,hrzup,Profile-Visual,2022-12-20 18:05:50.260288,weapon_fired 0
+1432,hrzup,Profile-Visual,2022-12-20 18:05:51.089562,hp 460
+1433,hrzup,Profile-Visual,2022-12-20 18:05:51.092562,armor 91
+1434,hrzup,Profile-Visual,2022-12-20 18:05:51.095563,auto regenerate armor
+1435,hrzup,Profile-Visual,2022-12-20 18:05:51.768776,hp 460
+1436,hrzup,Profile-Visual,2022-12-20 18:05:51.770776,armor 91
+1437,hrzup,Profile-Visual,2022-12-20 18:05:51.774777,enemy_headshot
+1438,hrzup,Profile-Visual,2022-12-20 18:05:51.777778,weapon_fired 1
+1439,hrzup,Profile-Visual,2022-12-20 18:05:51.845793,weapon_fired 0
+1440,hrzup,Profile-Visual,2022-12-20 18:05:51.920809,weapon_fired 0
+1441,hrzup,Profile-Visual,2022-12-20 18:05:54.755170,hp 460
+1442,hrzup,Profile-Visual,2022-12-20 18:05:54.758170,armor 91
+1443,hrzup,Profile-Visual,2022-12-20 18:05:54.761171,auto regenerate armor
+1444,hrzup,Profile-Visual,2022-12-20 18:06:05.531860,stance_crouched 0
+1445,hrzup,Profile-Visual,2022-12-20 18:06:06.024129,weapon_fired 1
+1446,hrzup,Profile-Visual,2022-12-20 18:06:06.100146,killed an enemy
+1447,hrzup,Profile-Visual,2022-12-20 18:06:06.104147,weapon_fired 1
+1448,hrzup,Profile-Visual,2022-12-20 18:06:07.314418,stance_crouched 0
+1449,hrzup,Profile-Visual,2022-12-20 18:06:18.080761,complete_objective Defend_the_drill
+1450,hrzup,Profile-Visual,2022-12-20 18:06:18.707902,hp 460
+1451,hrzup,Profile-Visual,2022-12-20 18:06:18.710903,armor 91
+1452,hrzup,Profile-Visual,2022-12-20 18:06:18.714904,auto regenerate armor
+1453,hrzup,Profile-Visual,2022-12-20 18:06:19.087988,activate_objective Inspect_the_vault
+1454,hrzup,Profile-Visual,2022-12-20 18:06:31.261305,complete_objective Inspect_the_vault
+1455,hrzup,Profile-Visual,2022-12-20 18:06:32.269531,activate_objective Blow_up_the_floor
+1456,hrzup,Profile-Visual,2022-12-20 18:06:40.792508,complete_objective Blow_up_the_floor
+1457,hrzup,Profile-Visual,2022-12-20 18:06:41.792732,activate_objective Take_the_medallion
+1458,hrzup,Profile-Visual,2022-12-20 18:06:42.834966,stance_crouched 1
+1459,hrzup,Profile-Visual,2022-12-20 18:07:01.345532,hp 460
+1460,hrzup,Profile-Visual,2022-12-20 18:07:01.347533,armor 91
+1461,hrzup,Profile-Visual,2022-12-20 18:07:01.351534,auto regenerate armor
+1462,hrzup,Profile-Visual,2022-12-20 18:07:07.128839,complete_objective Take_the_medallion
+1463,hrzup,Profile-Visual,2022-12-20 18:07:08.073050,stance_crouched 0
+1464,hrzup,Profile-Visual,2022-12-20 18:07:08.202080,activate_objective Open_the_sewers
+1465,hrzup,Profile-Visual,2022-12-20 18:07:14.250259,hp 460
+1466,hrzup,Profile-Visual,2022-12-20 18:07:14.252259,armor 91
+1467,hrzup,Profile-Visual,2022-12-20 18:07:14.256260,shielded hit
+1468,hrzup,Profile-Visual,2022-12-20 18:07:14.262261,hp 460
+1469,hrzup,Profile-Visual,2022-12-20 18:07:14.265262,armor 91
+1470,hrzup,Profile-Visual,2022-12-20 18:07:14.270263,hp 460
+1471,hrzup,Profile-Visual,2022-12-20 18:07:14.273264,armor 91
+1472,hrzup,Profile-Visual,2022-12-20 18:07:14.276265,stance_crouched 1
+1473,hrzup,Profile-Visual,2022-12-20 18:07:15.194471,stance_crouched 0
+1474,hrzup,Profile-Visual,2022-12-20 18:07:16.277183,hp 460
+1475,hrzup,Profile-Visual,2022-12-20 18:07:16.280184,armor 68
+1476,hrzup,Profile-Visual,2022-12-20 18:07:16.284185,auto regenerate armor
+1477,hrzup,Profile-Visual,2022-12-20 18:07:22.547048,hp 460
+1478,hrzup,Profile-Visual,2022-12-20 18:07:22.550048,armor 91
+1479,hrzup,Profile-Visual,2022-12-20 18:07:22.554049,shielded hit
+1480,hrzup,Profile-Visual,2022-12-20 18:07:22.560050,hp 460
+1481,hrzup,Profile-Visual,2022-12-20 18:07:22.563051,armor 91
+1482,hrzup,Profile-Visual,2022-12-20 18:07:22.567052,hp 460
+1483,hrzup,Profile-Visual,2022-12-20 18:07:22.569052,armor 91
+1484,hrzup,Profile-Visual,2022-12-20 18:07:22.572053,health_subtracted 0
+1485,hrzup,Profile-Visual,2022-12-20 18:07:24.167188,hp 460
+1486,hrzup,Profile-Visual,2022-12-20 18:07:24.171189,armor 66
+1487,hrzup,Profile-Visual,2022-12-20 18:07:24.175190,shielded hit
+1488,hrzup,Profile-Visual,2022-12-20 18:07:24.179192,hp 460
+1489,hrzup,Profile-Visual,2022-12-20 18:07:24.182191,armor 66
+1490,hrzup,Profile-Visual,2022-12-20 18:07:24.188193,hp 460
+1491,hrzup,Profile-Visual,2022-12-20 18:07:24.190193,armor 66
+1492,hrzup,Profile-Visual,2022-12-20 18:07:24.194194,health_subtracted 0
+1493,hrzup,Profile-Visual,2022-12-20 18:07:24.304219,hp 460
+1494,hrzup,Profile-Visual,2022-12-20 18:07:24.307220,armor 60
+1495,hrzup,Profile-Visual,2022-12-20 18:07:24.311220,shielded hit
+1496,hrzup,Profile-Visual,2022-12-20 18:07:24.317222,hp 460
+1497,hrzup,Profile-Visual,2022-12-20 18:07:24.320222,armor 60
+1498,hrzup,Profile-Visual,2022-12-20 18:07:24.324223,hp 460
+1499,hrzup,Profile-Visual,2022-12-20 18:07:24.327224,armor 60
+1500,hrzup,Profile-Visual,2022-12-20 18:07:24.331226,health_subtracted 0
+1501,hrzup,Profile-Visual,2022-12-20 18:07:24.338226,weapon_fired 0
+1502,hrzup,Profile-Visual,2022-12-20 18:07:24.409243,hp 460
+1503,hrzup,Profile-Visual,2022-12-20 18:07:24.411243,armor 53
+1504,hrzup,Profile-Visual,2022-12-20 18:07:24.415243,enemy_headshot
+1505,hrzup,Profile-Visual,2022-12-20 18:07:24.419244,weapon_fired 1
+1506,hrzup,Profile-Visual,2022-12-20 18:07:24.481258,weapon_fired 0
+1507,hrzup,Profile-Visual,2022-12-20 18:07:24.536271,weapon_fired 0
+1508,hrzup,Profile-Visual,2022-12-20 18:07:24.853342,killed an enemy
+1509,hrzup,Profile-Visual,2022-12-20 18:07:24.857342,weapon_fired 1
+1510,hrzup,Profile-Visual,2022-12-20 18:07:24.861344,enemy_headshot
+1511,hrzup,Profile-Visual,2022-12-20 18:07:24.931360,weapon_fired 0
+1512,hrzup,Profile-Visual,2022-12-20 18:07:24.947363,hp 460
+1513,hrzup,Profile-Visual,2022-12-20 18:07:24.949363,armor 73
+1514,hrzup,Profile-Visual,2022-12-20 18:07:24.954365,shielded hit
+1515,hrzup,Profile-Visual,2022-12-20 18:07:24.960366,hp 460
+1516,hrzup,Profile-Visual,2022-12-20 18:07:24.963367,armor 73
+1517,hrzup,Profile-Visual,2022-12-20 18:07:24.966367,hp 460
+1518,hrzup,Profile-Visual,2022-12-20 18:07:24.969368,armor 73
+1519,hrzup,Profile-Visual,2022-12-20 18:07:24.973369,health_subtracted 0
+1520,hrzup,Profile-Visual,2022-12-20 18:07:25.412065,hp 460
+1521,hrzup,Profile-Visual,2022-12-20 18:07:25.414066,armor 63
+1522,hrzup,Profile-Visual,2022-12-20 18:07:25.418067,shielded hit
+1523,hrzup,Profile-Visual,2022-12-20 18:07:25.423067,hp 460
+1524,hrzup,Profile-Visual,2022-12-20 18:07:25.426068,armor 63
+1525,hrzup,Profile-Visual,2022-12-20 18:07:25.429068,hp 460
+1526,hrzup,Profile-Visual,2022-12-20 18:07:25.432069,armor 63
+1527,hrzup,Profile-Visual,2022-12-20 18:07:25.435070,health_subtracted 0
+1528,hrzup,Profile-Visual,2022-12-20 18:07:25.701130,weapon_fired 0
+1529,hrzup,Profile-Visual,2022-12-20 18:07:25.774146,weapon_fired 0
+1530,hrzup,Profile-Visual,2022-12-20 18:07:25.837160,weapon_fired 0
+1531,hrzup,Profile-Visual,2022-12-20 18:07:25.881170,hp 460
+1532,hrzup,Profile-Visual,2022-12-20 18:07:25.883171,armor 53
+1533,hrzup,Profile-Visual,2022-12-20 18:07:25.887171,shielded hit
+1534,hrzup,Profile-Visual,2022-12-20 18:07:25.893173,hp 460
+1535,hrzup,Profile-Visual,2022-12-20 18:07:25.896173,armor 53
+1536,hrzup,Profile-Visual,2022-12-20 18:07:25.899174,hp 460
+1537,hrzup,Profile-Visual,2022-12-20 18:07:25.901174,armor 53
+1538,hrzup,Profile-Visual,2022-12-20 18:07:25.905176,health_subtracted 0
+1539,hrzup,Profile-Visual,2022-12-20 18:07:26.063211,weapon_fired 0
+1540,hrzup,Profile-Visual,2022-12-20 18:07:26.143229,killed an enemy
+1541,hrzup,Profile-Visual,2022-12-20 18:07:26.147230,weapon_fired 1
+1542,hrzup,Profile-Visual,2022-12-20 18:07:26.285261,weapon_fired 0
+1543,hrzup,Profile-Visual,2022-12-20 18:07:26.745364,weapon_fired 0
+1544,hrzup,Profile-Visual,2022-12-20 18:07:26.830383,weapon_fired 0
+1545,hrzup,Profile-Visual,2022-12-20 18:07:26.945409,killed an enemy
+1546,hrzup,Profile-Visual,2022-12-20 18:07:26.949410,weapon_fired 1
+1547,hrzup,Profile-Visual,2022-12-20 18:07:27.027427,weapon_fired 0
+1548,hrzup,Profile-Visual,2022-12-20 18:07:27.171460,weapon_fired 0
+1549,hrzup,Profile-Visual,2022-12-20 18:07:27.253478,weapon_fired 0
+1550,hrzup,Profile-Visual,2022-12-20 18:07:27.825847,hp 460
+1551,hrzup,Profile-Visual,2022-12-20 18:07:27.827846,armor 43
+1552,hrzup,Profile-Visual,2022-12-20 18:07:27.831848,shielded hit
+1553,hrzup,Profile-Visual,2022-12-20 18:07:27.837849,hp 460
+1554,hrzup,Profile-Visual,2022-12-20 18:07:27.840849,armor 43
+1555,hrzup,Profile-Visual,2022-12-20 18:07:27.844851,hp 460
+1556,hrzup,Profile-Visual,2022-12-20 18:07:27.846851,armor 43
+1557,hrzup,Profile-Visual,2022-12-20 18:07:27.850852,health_subtracted 0
+1558,hrzup,Profile-Visual,2022-12-20 18:07:28.323958,hp 460
+1559,hrzup,Profile-Visual,2022-12-20 18:07:28.326960,armor 33
+1560,hrzup,Profile-Visual,2022-12-20 18:07:28.331960,shielded hit
+1561,hrzup,Profile-Visual,2022-12-20 18:07:28.339962,hp 460
+1562,hrzup,Profile-Visual,2022-12-20 18:07:28.342963,armor 33
+1563,hrzup,Profile-Visual,2022-12-20 18:07:28.346964,hp 460
+1564,hrzup,Profile-Visual,2022-12-20 18:07:28.349964,armor 33
+1565,hrzup,Profile-Visual,2022-12-20 18:07:28.352964,health_subtracted 0
+1566,hrzup,Profile-Visual,2022-12-20 18:07:28.781061,hp 460
+1567,hrzup,Profile-Visual,2022-12-20 18:07:28.784061,armor 23
+1568,hrzup,Profile-Visual,2022-12-20 18:07:28.789062,shielded hit
+1569,hrzup,Profile-Visual,2022-12-20 18:07:28.796064,hp 460
+1570,hrzup,Profile-Visual,2022-12-20 18:07:28.798064,armor 23
+1571,hrzup,Profile-Visual,2022-12-20 18:07:28.802065,hp 460
+1572,hrzup,Profile-Visual,2022-12-20 18:07:28.805066,armor 23
+1573,hrzup,Profile-Visual,2022-12-20 18:07:28.810067,health_subtracted 0
+1574,hrzup,Profile-Visual,2022-12-20 18:07:29.291175,hp 460
+1575,hrzup,Profile-Visual,2022-12-20 18:07:29.294176,armor 13
+1576,hrzup,Profile-Visual,2022-12-20 18:07:29.298177,shielded hit
+1577,hrzup,Profile-Visual,2022-12-20 18:07:29.305178,hp 460
+1578,hrzup,Profile-Visual,2022-12-20 18:07:29.308179,armor 13
+1579,hrzup,Profile-Visual,2022-12-20 18:07:29.319181,health_subtracted 0
+1580,hrzup,Profile-Visual,2022-12-20 18:07:29.323183,hp 460
+1581,hrzup,Profile-Visual,2022-12-20 18:07:29.325183,armor 13
+1582,hrzup,Profile-Visual,2022-12-20 18:07:29.494372,hp 460
+1583,hrzup,Profile-Visual,2022-12-20 18:07:29.496372,armor 10
+1584,hrzup,Profile-Visual,2022-12-20 18:07:29.499373,shielded hit
+1585,hrzup,Profile-Visual,2022-12-20 18:07:29.505374,hp 460
+1586,hrzup,Profile-Visual,2022-12-20 18:07:29.508375,armor 10
+1587,hrzup,Profile-Visual,2022-12-20 18:07:29.512375,hp 460
+1588,hrzup,Profile-Visual,2022-12-20 18:07:29.514376,armor 10
+1589,hrzup,Profile-Visual,2022-12-20 18:07:29.518377,health_subtracted 0
+1590,hrzup,Profile-Visual,2022-12-20 18:07:30.860203,hp 460
+1591,hrzup,Profile-Visual,2022-12-20 18:07:30.862203,armor 0
+1592,hrzup,Profile-Visual,2022-12-20 18:07:30.867204,unshielded hit
+1593,hrzup,Profile-Visual,2022-12-20 18:07:30.873205,hp 455
+1594,hrzup,Profile-Visual,2022-12-20 18:07:30.875206,armor 0
+1595,hrzup,Profile-Visual,2022-12-20 18:07:30.878207,health_subtracted 0.5
+1596,hrzup,Profile-Visual,2022-12-20 18:07:30.895210,hp 460
+1597,hrzup,Profile-Visual,2022-12-20 18:07:30.898211,armor 0
+1598,hrzup,Profile-Visual,2022-12-20 18:07:30.902212,hp 460
+1599,hrzup,Profile-Visual,2022-12-20 18:07:30.904212,armor 0
+1600,hrzup,Profile-Visual,2022-12-20 18:07:30.909214,hp 460
+1601,hrzup,Profile-Visual,2022-12-20 18:07:30.911214,armor 0
+1602,hrzup,Profile-Visual,2022-12-20 18:07:30.915215,hp 460
+1603,hrzup,Profile-Visual,2022-12-20 18:07:30.919216,armor 0
+1604,hrzup,Profile-Visual,2022-12-20 18:07:33.982409,killed an enemy
+1605,hrzup,Profile-Visual,2022-12-20 18:07:33.986409,weapon_fired 1
+1606,hrzup,Profile-Visual,2022-12-20 18:07:34.070428,weapon_fired 0
+1607,hrzup,Profile-Visual,2022-12-20 18:07:34.140444,killed an enemy
+1608,hrzup,Profile-Visual,2022-12-20 18:07:34.144445,weapon_fired 1
+1609,hrzup,Profile-Visual,2022-12-20 18:07:34.208459,weapon_fired 0
+1610,hrzup,Profile-Visual,2022-12-20 18:07:34.273474,weapon_fired 0
+1611,hrzup,Profile-Visual,2022-12-20 18:07:34.335488,weapon_fired 0
+1612,hrzup,Profile-Visual,2022-12-20 18:07:34.720574,weapon_fired 0
+1613,hrzup,Profile-Visual,2022-12-20 18:07:34.814595,killed an enemy
+1614,hrzup,Profile-Visual,2022-12-20 18:07:34.818596,weapon_fired 1
+1615,hrzup,Profile-Visual,2022-12-20 18:07:34.895613,weapon_fired 0
+1616,hrzup,Profile-Visual,2022-12-20 18:07:34.963629,weapon_fired 0
+1617,hrzup,Profile-Visual,2022-12-20 18:07:35.035645,weapon_fired 0
+1618,hrzup,Profile-Visual,2022-12-20 18:07:35.106661,weapon_fired 0
+1619,hrzup,Profile-Visual,2022-12-20 18:07:35.297704,hp 460
+1620,hrzup,Profile-Visual,2022-12-20 18:07:35.299704,armor 0
+1621,hrzup,Profile-Visual,2022-12-20 18:07:35.303705,unshielded hit
+1622,hrzup,Profile-Visual,2022-12-20 18:07:35.310707,hp 456
+1623,hrzup,Profile-Visual,2022-12-20 18:07:35.313708,armor 0
+1624,hrzup,Profile-Visual,2022-12-20 18:07:35.317708,health_subtracted 0.4
+1625,hrzup,Profile-Visual,2022-12-20 18:07:35.880835,hp 456
+1626,hrzup,Profile-Visual,2022-12-20 18:07:35.884836,armor 0
+1627,hrzup,Profile-Visual,2022-12-20 18:07:35.888837,unshielded hit
+1628,hrzup,Profile-Visual,2022-12-20 18:07:35.894837,hp 452
+1629,hrzup,Profile-Visual,2022-12-20 18:07:35.897838,armor 0
+1630,hrzup,Profile-Visual,2022-12-20 18:07:35.900839,health_subtracted 0.4
+1631,hrzup,Profile-Visual,2022-12-20 18:07:35.911842,hp 460
+1632,hrzup,Profile-Visual,2022-12-20 18:07:35.914842,armor 0
+1633,hrzup,Profile-Visual,2022-12-20 18:07:35.918844,hp 460
+1634,hrzup,Profile-Visual,2022-12-20 18:07:35.921844,armor 0
+1635,hrzup,Profile-Visual,2022-12-20 18:07:35.925845,hp 460
+1636,hrzup,Profile-Visual,2022-12-20 18:07:35.928845,armor 0
+1637,hrzup,Profile-Visual,2022-12-20 18:07:35.932846,hp 460
+1638,hrzup,Profile-Visual,2022-12-20 18:07:35.935847,armor 0
+1639,hrzup,Profile-Visual,2022-12-20 18:07:36.018865,hp 460
+1640,hrzup,Profile-Visual,2022-12-20 18:07:36.021866,armor 0
+1641,hrzup,Profile-Visual,2022-12-20 18:07:36.025867,unshielded hit
+1642,hrzup,Profile-Visual,2022-12-20 18:07:36.031868,hp 450
+1643,hrzup,Profile-Visual,2022-12-20 18:07:36.034869,armor 0
+1644,hrzup,Profile-Visual,2022-12-20 18:07:36.038870,health_subtracted 1
+1645,hrzup,Profile-Visual,2022-12-20 18:07:39.215606,hp 450
+1646,hrzup,Profile-Visual,2022-12-20 18:07:39.217606,armor 0
+1647,hrzup,Profile-Visual,2022-12-20 18:07:39.221608,hp 450
+1648,hrzup,Profile-Visual,2022-12-20 18:07:39.225609,armor 0
+1649,hrzup,Profile-Visual,2022-12-20 18:07:39.228609,auto regenerate armor
+1650,hrzup,Profile-Visual,2022-12-20 18:07:40.111733,hp 450
+1651,hrzup,Profile-Visual,2022-12-20 18:07:40.114734,armor 91
+1652,hrzup,Profile-Visual,2022-12-20 18:07:40.117735,shielded hit
+1653,hrzup,Profile-Visual,2022-12-20 18:07:40.122736,hp 450
+1654,hrzup,Profile-Visual,2022-12-20 18:07:40.125736,armor 91
+1655,hrzup,Profile-Visual,2022-12-20 18:07:40.128737,hp 450
+1656,hrzup,Profile-Visual,2022-12-20 18:07:40.130737,armor 91
+1657,hrzup,Profile-Visual,2022-12-20 18:07:40.134739,stance_crouched 1
+1658,hrzup,Profile-Visual,2022-12-20 18:07:40.780002,stance_crouched 0
+1659,hrzup,Profile-Visual,2022-12-20 18:07:40.888026,hp 460
+1660,hrzup,Profile-Visual,2022-12-20 18:07:40.891027,armor 68
+1661,hrzup,Profile-Visual,2022-12-20 18:07:40.897028,hp 460
+1662,hrzup,Profile-Visual,2022-12-20 18:07:40.899028,armor 68
+1663,hrzup,Profile-Visual,2022-12-20 18:07:40.904029,hp 460
+1664,hrzup,Profile-Visual,2022-12-20 18:07:40.907030,armor 68
+1665,hrzup,Profile-Visual,2022-12-20 18:07:40.913032,hp 460
+1666,hrzup,Profile-Visual,2022-12-20 18:07:40.916032,armor 68
+1667,hrzup,Profile-Visual,2022-12-20 18:07:42.789808,hp 460
+1668,hrzup,Profile-Visual,2022-12-20 18:07:42.792808,armor 68
+1669,hrzup,Profile-Visual,2022-12-20 18:07:42.796809,auto regenerate armor
+1670,hrzup,Profile-Visual,2022-12-20 18:07:45.659886,weapon_fired 0
+1671,hrzup,Profile-Visual,2022-12-20 18:07:45.733902,weapon_fired 0
+1672,hrzup,Profile-Visual,2022-12-20 18:07:46.251019,weapon_fired 1
+1673,hrzup,Profile-Visual,2022-12-20 18:07:48.961627,hp 460
+1674,hrzup,Profile-Visual,2022-12-20 18:07:48.964628,armor 91
+1675,hrzup,Profile-Visual,2022-12-20 18:07:48.968628,enemy_headshot
+1676,hrzup,Profile-Visual,2022-12-20 18:07:48.972630,killed an enemy
+1677,hrzup,Profile-Visual,2022-12-20 18:07:48.976630,weapon_fired 1
+1678,hrzup,Profile-Visual,2022-12-20 18:07:49.056648,weapon_fired 0
+1679,hrzup,Profile-Visual,2022-12-20 18:07:50.728023,weapon_fired 0
+1680,hrzup,Profile-Visual,2022-12-20 18:07:50.807040,weapon_fired 0
+1681,hrzup,Profile-Visual,2022-12-20 18:07:50.946072,weapon_fired 0
+1682,hrzup,Profile-Visual,2022-12-20 18:07:53.452187,complete_objective Open_the_sewers
+1683,hrzup,Profile-Visual,2022-12-20 18:07:54.442534,activate_objective Loot_more_or_escape

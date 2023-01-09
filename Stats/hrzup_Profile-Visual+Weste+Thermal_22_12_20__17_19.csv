@@ -1,0 +1,1487 @@
+,Player,Profile,Time,Event
+0,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:19:17.023700,stance_crouched 0
+1,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:19:20.087410,stance_crouched 0
+2,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:19:20.186432,activate_objective Enter_the_bank
+3,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:19:27.475446,stance_crouched 0
+4,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:19:28.220612,stance_crouched 0
+5,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:19:29.169825,complete_objective Enter_the_bank
+6,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:19:30.180052,activate_objective Inspect_the_second_floor
+7,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:19:52.427232,killed an enemy
+8,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:19:52.430233,weapon_fired 1
+9,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:19:52.509251,weapon_fired 0
+10,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:19:52.579268,weapon_fired 0
+11,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:19:52.652283,weapon_fired 0
+12,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:19:56.285150,complete_objective Inspect_the_second_floor
+13,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:19:57.288506,activate_objective Cut_a_hole_in_the_floor
+14,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:04.216350,complete_objective Cut_a_hole_in_the_floor
+15,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:05.186567,activate_objective Defend_the_cutter
+16,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:08.003612,stance_crouched 0
+17,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:08.818699,weapon_fired 0
+18,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:08.901745,weapon_fired 0
+19,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:09.159781,weapon_fired 0
+20,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:09.236799,weapon_fired 0
+21,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:09.533897,weapon_fired 0
+22,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:09.619916,weapon_fired 0
+23,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:09.688932,weapon_fired 0
+24,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:09.792955,weapon_fired 0
+25,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:09.866767,weapon_fired 0
+26,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:13.095520,stance_crouched 0
+27,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:14.437821,stance_crouched 0
+28,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:15.049958,weapon_fired 0
+29,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:15.128976,weapon_fired 0
+30,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:18.606570,killed an enemy
+31,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:18.610571,weapon_fired 1
+32,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:18.688588,weapon_fired 0
+33,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:18.982654,weapon_fired 0
+34,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:19.053670,weapon_fired 0
+35,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:19.122685,weapon_fired 0
+36,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:20.284946,weapon_fired 1
+37,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:20.355962,killed an enemy
+38,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:20.360963,weapon_fired 1
+39,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:20.577012,weapon_fired 0
+40,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:20.659030,weapon_fired 0
+41,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:20.934479,weapon_fired 1
+42,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:21.010496,weapon_fired 0
+43,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:21.651597,killed an enemy
+44,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:21.664600,weapon_fired 1
+45,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:21.732615,weapon_fired 0
+46,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:21.956666,weapon_fired 0
+47,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:22.040685,weapon_fired 0
+48,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:22.345149,weapon_fired 0
+49,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:22.424167,weapon_fired 0
+50,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:23.920116,weapon_fired 0
+51,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:23.992131,weapon_fired 1
+52,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:24.066149,hp 460
+53,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:24.069148,armor 91
+54,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:24.073150,enemy_headshot
+55,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:24.078151,killed an enemy
+56,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:24.081151,weapon_fired 1
+57,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:24.357213,weapon_fired 0
+58,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:24.427229,weapon_fired 0
+59,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:25.981166,killed an enemy
+60,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:25.985167,weapon_fired 1
+61,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:26.067979,weapon_fired 0
+62,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:26.399053,weapon_fired 0
+63,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:26.471381,weapon_fired 0
+64,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:26.543268,weapon_fired 0
+65,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:27.528588,weapon_fired 1
+66,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:27.610606,hp 460
+67,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:27.612607,armor 91
+68,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:27.615608,enemy_headshot
+69,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:27.619609,killed an enemy
+70,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:27.623610,weapon_fired 1
+71,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:27.753639,weapon_fired 0
+72,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:27.763641,stance_crouched 0
+73,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:28.612832,stance_crouched 1
+74,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:30.457042,stance_crouched 0
+75,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:30.726103,stance_crouched 0
+76,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:31.429370,hp 460
+77,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:31.431371,armor 91
+78,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:31.435372,shielded hit
+79,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:31.442374,hp 460
+80,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:31.445374,armor 91
+81,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:31.450375,hp 460
+82,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:31.452375,armor 91
+83,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:31.455376,health_subtracted 0
+84,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:31.494386,stance_crouched 1
+85,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:33.484455,weapon_fired 0
+86,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:33.561473,weapon_fired 0
+87,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:33.920191,hp 460
+88,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:33.922191,armor 71
+89,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:33.926192,auto regenerate armor
+90,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:34.940042,weapon_fired 0
+91,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:35.017060,weapon_fired 0
+92,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:35.468161,weapon_fired 0
+93,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:35.542178,killed an enemy
+94,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:35.546179,weapon_fired 1
+95,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:37.762623,weapon_fired 0
+96,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:37.845642,weapon_fired 0
+97,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:38.084695,weapon_fired 0
+98,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:38.164713,weapon_fired 0
+99,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:38.878366,weapon_fired 0
+100,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:38.960384,weapon_fired 0
+101,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:39.530570,weapon_fired 0
+102,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:40.465780,stance_crouched 1
+103,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:41.341976,weapon_fired 0
+104,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:41.973117,weapon_fired 0
+105,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:42.052135,weapon_fired 0
+106,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:42.314194,weapon_fired 0
+107,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:42.392214,weapon_fired 0
+108,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:42.471232,hp 460
+109,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:42.473234,armor 91
+110,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:42.477233,shielded hit
+111,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:42.483235,hp 460
+112,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:42.486235,armor 91
+113,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:42.492236,hp 460
+114,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:42.494237,armor 91
+115,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:42.498238,health_subtracted 0
+116,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:42.593260,weapon_fired 0
+117,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:42.666275,weapon_fired 0
+118,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:42.923333,weapon_fired 0
+119,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:42.998350,weapon_fired 0
+120,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:44.018579,stance_crouched 1
+121,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:44.311644,weapon_fired 0
+122,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:44.390662,weapon_fired 0
+123,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:44.603710,hp 460
+124,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:44.606711,armor 61
+125,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:44.609711,enemy_headshot
+126,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:44.612713,killed an enemy
+127,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:44.616713,weapon_fired 1
+128,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:44.704733,weapon_fired 0
+129,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:44.802755,weapon_fired 0
+130,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:44.859768,hp 460
+131,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:44.861769,armor 84
+132,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:44.865769,auto regenerate armor
+133,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:44.884774,weapon_fired 0
+134,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:45.492118,weapon_fired 0
+135,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:46.597031,weapon_fired 1
+136,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:46.602034,killed an enemy
+137,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:46.671047,weapon_fired 0
+138,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:46.744064,weapon_fired 0
+139,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:49.659845,killed an enemy
+140,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:49.664846,weapon_fired 1
+141,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:49.744864,weapon_fired 0
+142,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:49.813879,weapon_fired 0
+143,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:51.303883,weapon_fired 0
+144,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:51.384901,weapon_fired 0
+145,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:53.304156,hp 460
+146,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:53.308156,armor 91
+147,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:53.317158,enemy_headshot
+148,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:53.321159,killed an enemy
+149,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:53.325160,weapon_fired 1
+150,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:53.406178,weapon_fired 0
+151,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:56.543072,weapon_fired 0
+152,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:56.616089,weapon_fired 1
+153,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:57.436273,weapon_fired 1
+154,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:57.513290,killed an enemy
+155,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:57.518291,weapon_fired 1
+156,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:59.165456,weapon_fired 0
+157,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:59.245411,weapon_fired 0
+158,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:20:59.257414,stance_crouched 1
+159,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:01.781267,stance_crouched 1
+160,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:02.911978,hp 460
+161,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:02.915979,armor 91
+162,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:02.919980,enemy_headshot
+163,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:02.923981,killed an enemy
+164,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:02.926982,weapon_fired 1
+165,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:02.997997,weapon_fired 0
+166,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:03.070013,weapon_fired 0
+167,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:03.236051,killed an enemy
+168,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:03.240052,weapon_fired 1
+169,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:03.317069,weapon_fired 0
+170,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:03.566125,weapon_fired 0
+171,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:03.620137,weapon_fired 0
+172,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:04.934418,stance_crouched 0
+173,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:05.151467,hp 460
+174,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:05.153467,armor 91
+175,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:05.157468,shielded hit
+176,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:05.165470,hp 460
+177,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:05.168470,armor 91
+178,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:05.174472,hp 460
+179,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:05.178473,armor 91
+180,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:05.182474,health_subtracted 0
+181,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:05.424529,weapon_fired 0
+182,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:05.490543,weapon_fired 0
+183,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:05.558558,killed an enemy
+184,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:05.562559,weapon_fired 1
+185,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:05.804613,weapon_fired 0
+186,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:05.877630,weapon_fired 0
+187,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:05.941644,weapon_fired 0
+188,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:06.039666,hp 460
+189,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:06.041666,armor 81
+190,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:06.045667,enemy_headshot
+191,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:06.049668,killed an enemy
+192,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:06.053669,weapon_fired 1
+193,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:06.127686,weapon_fired 0
+194,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:06.203703,killed an enemy
+195,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:06.207703,weapon_fired 1
+196,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:06.276719,weapon_fired 0
+197,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:06.439756,weapon_fired 0
+198,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:06.519773,weapon_fired 0
+199,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:06.584788,weapon_fired 0
+200,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:06.652803,weapon_fired 0
+201,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:06.956872,stance_crouched 1
+202,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:07.472987,stance_crouched 1
+203,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:08.506060,stance_crouched 1
+204,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:08.864140,weapon_fired 0
+205,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:08.943158,weapon_fired 0
+206,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:09.021175,weapon_fired 0
+207,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:09.133201,weapon_fired 0
+208,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:09.214219,weapon_fired 0
+209,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:09.666321,auto regenerate armor
+210,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:09.673322,hp 460
+211,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:09.676323,armor 91
+212,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:10.764515,weapon_fired 0
+213,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:10.839532,weapon_fired 0
+214,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:10.903546,weapon_fired 0
+215,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:11.678650,weapon_fired 0
+216,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:11.758667,weapon_fired 0
+217,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:11.821682,weapon_fired 0
+218,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:11.882695,weapon_fired 0
+219,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:11.957713,weapon_fired 0
+220,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:12.032729,weapon_fired 0
+221,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:12.113747,weapon_fired 0
+222,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:12.168760,weapon_fired 0
+223,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:12.234774,weapon_fired 0
+224,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:12.299789,weapon_fired 0
+225,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:12.906330,stance_crouched 0
+226,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:13.210398,weapon_fired 0
+227,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:13.290417,weapon_fired 0
+228,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:13.358940,weapon_fired 0
+229,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:13.506971,hp 460
+230,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:13.508972,armor 91
+231,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:13.512973,auto regenerate armor
+232,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:13.565985,weapon_fired 0
+233,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:13.641002,weapon_fired 0
+234,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:13.707016,weapon_fired 0
+235,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:13.719019,stance_crouched 0
+236,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:14.162920,stance_crouched 1
+237,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:17.216809,stance_crouched 0
+238,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:17.491879,stance_crouched 0
+239,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:18.819014,stance_crouched 1
+240,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:19.858248,stance_crouched 0
+241,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:20.529399,weapon_fired 0
+242,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:20.599414,weapon_fired 0
+243,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:20.671430,weapon_fired 1
+244,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:20.797458,killed an enemy
+245,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:20.802460,weapon_fired 1
+246,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:20.872476,weapon_fired 0
+247,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:21.940715,weapon_fired 0
+248,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.026734,weapon_fired 0
+249,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.253785,weapon_fired 0
+250,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.325801,weapon_fired 0
+251,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.371811,hp 460
+252,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.373812,armor 91
+253,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.377815,shielded hit
+254,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.388815,hp 460
+255,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.391816,armor 91
+256,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.396817,hp 460
+257,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.398818,armor 91
+258,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.402819,health_subtracted 0
+259,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.603864,weapon_fired 0
+260,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.661877,weapon_fired 0
+261,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.727891,weapon_fired 0
+262,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.792906,weapon_fired 0
+263,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.955943,hp 460
+264,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.957943,armor 81
+265,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.962944,enemy_headshot
+266,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.965945,killed an enemy
+267,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:22.969946,weapon_fired 1
+268,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:23.542074,weapon_fired 0
+269,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:23.617091,weapon_fired 0
+270,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:23.686106,weapon_fired 0
+271,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:23.930161,weapon_fired 0
+272,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:24.002178,killed an enemy
+273,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:24.006179,weapon_fired 1
+274,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:24.160213,weapon_fired 0
+275,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:24.232229,weapon_fired 0
+276,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:25.289467,weapon_fired 0
+277,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:25.369485,weapon_fired 0
+278,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:25.542523,hp 460
+279,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:25.545523,armor 91
+280,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:25.549524,enemy_headshot
+281,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:25.552525,killed an enemy
+282,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:25.555526,weapon_fired 1
+283,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:25.632543,weapon_fired 0
+284,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:25.773907,weapon_fired 0
+285,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:25.840923,weapon_fired 0
+286,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:26.782134,hp 460
+287,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:26.785135,armor 91
+288,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:26.790136,shielded hit
+289,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:26.798138,hp 460
+290,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:26.801138,armor 91
+291,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:26.808140,hp 460
+292,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:26.810140,armor 91
+293,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:26.814141,health_subtracted 0
+294,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:27.191226,weapon_fired 0
+295,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:27.258241,weapon_fired 0
+296,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:27.326256,weapon_fired 0
+297,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:27.344260,hp 460
+298,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:27.346260,armor 81
+299,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:27.350262,shielded hit
+300,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:27.360264,hp 460
+301,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:27.363265,armor 81
+302,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:27.376267,health_subtracted 0
+303,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:27.380268,hp 460
+304,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:27.383269,armor 81
+305,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:27.433280,weapon_fired 0
+306,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:27.503300,weapon_fired 0
+307,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:27.754356,weapon_fired 0
+308,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:27.831374,killed an enemy
+309,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:27.836375,weapon_fired 1
+310,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:27.972405,weapon_fired 0
+311,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:27.996411,stance_crouched 1
+312,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:28.054424,weapon_fired 0
+313,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:29.586365,weapon_fired 0
+314,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:29.656381,weapon_fired 0
+315,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:29.735398,enemy_headshot
+316,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:29.739400,killed an enemy
+317,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:29.743400,hp 460
+318,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:29.746401,armor 71
+319,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:29.749402,weapon_fired 1
+320,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:30.223094,weapon_fired 0
+321,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:30.294110,weapon_fired 0
+322,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:30.469150,weapon_fired 0
+323,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:30.535164,weapon_fired 0
+324,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:30.890244,hp 460
+325,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:30.892245,armor 91
+326,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:30.896245,auto regenerate armor
+327,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:31.617407,stance_crouched 1
+328,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:33.186377,complete_objective Defend_the_cutter
+329,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:34.180821,activate_objective Remove_the_cutter
+330,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:35.319076,complete_objective Remove_the_cutter
+331,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:36.312169,activate_objective Blow_open_the_floor
+332,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:36.324172,hp 460
+333,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:36.326172,armor 91
+334,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:36.330173,shielded hit
+335,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:36.338175,hp 460
+336,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:36.340175,armor 91
+337,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:36.344177,hp 460
+338,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:36.347178,armor 91
+339,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:36.352178,health_subtracted 0
+340,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:38.809760,hp 460
+341,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:38.812760,armor 71
+342,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:38.816761,auto regenerate armor
+343,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:46.672972,stance_crouched 0
+344,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:51.638198,hp 460
+345,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:51.641200,armor 91
+346,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:51.645200,shielded hit
+347,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:51.653202,hp 460
+348,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:51.656202,armor 91
+349,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:51.662205,hp 460
+350,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:51.665205,armor 91
+351,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:51.669205,health_subtracted 0
+352,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:52.056293,hp 460
+353,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:52.058293,armor 81
+354,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:52.062293,shielded hit
+355,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:52.072296,hp 460
+356,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:52.075297,armor 81
+357,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:52.080298,hp 460
+358,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:52.083298,armor 81
+359,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:52.087299,health_subtracted 0
+360,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:52.461830,stance_crouched 1
+361,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:52.953941,hp 460
+362,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:52.956941,armor 51
+363,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:52.959942,shielded hit
+364,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:52.968944,hp 460
+365,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:52.971945,armor 51
+366,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:52.978946,hp 460
+367,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:52.981947,armor 51
+368,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:52.985948,health_subtracted 0
+369,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:53.520336,weapon_fired 0
+370,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:53.596353,weapon_fired 0
+371,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:55.432626,auto regenerate armor
+372,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:55.440627,hp 460
+373,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:55.444629,armor 21
+374,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:56.155788,stance_crouched 0
+375,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:56.737918,weapon_fired 0
+376,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:56.816937,killed an enemy
+377,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:56.820938,weapon_fired 1
+378,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:56.954967,weapon_fired 0
+379,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:57.029984,weapon_fired 0
+380,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:58.588904,weapon_fired 0
+381,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:58.657919,weapon_fired 0
+382,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:58.824075,weapon_fired 0
+383,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:58.913096,hp 460
+384,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:58.915095,armor 91
+385,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:58.919096,enemy_headshot
+386,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:58.924097,killed an enemy
+387,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:58.927097,weapon_fired 1
+388,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:59.051992,weapon_fired 0
+389,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:59.126009,killed an enemy
+390,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:59.130010,weapon_fired 1
+391,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:59.212981,weapon_fired 0
+392,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:59.283997,weapon_fired 0
+393,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:59.397022,weapon_fired 0
+394,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:21:59.471038,weapon_fired 0
+395,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:00.038528,weapon_fired 0
+396,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:00.110544,weapon_fired 0
+397,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:00.262578,weapon_fired 0
+398,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:00.332594,weapon_fired 0
+399,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:00.871501,weapon_fired 0
+400,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:00.950519,weapon_fired 0
+401,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:01.071547,weapon_fired 0
+402,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:01.334605,hp 460
+403,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:01.337606,armor 91
+404,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:01.342607,auto regenerate armor
+405,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:01.359611,weapon_fired 1
+406,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:01.431627,weapon_fired 0
+407,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:01.533650,weapon_fired 0
+408,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:01.622669,weapon_fired 0
+409,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:01.725693,weapon_fired 0
+410,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:01.806711,weapon_fired 0
+411,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:04.455153,stance_crouched 0
+412,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:05.365357,stance_crouched 0
+413,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:06.643644,stance_crouched 0
+414,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:07.558849,stance_crouched 0
+415,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:08.571077,weapon_fired 0
+416,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:08.655095,weapon_fired 0
+417,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:08.798160,weapon_fired 0
+418,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:08.878178,weapon_fired 1
+419,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:09.004206,weapon_fired 0
+420,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:09.078223,weapon_fired 0
+421,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:09.158241,weapon_fired 0
+422,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:09.319277,weapon_fired 0
+423,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:09.397295,weapon_fired 0
+424,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:09.462772,weapon_fired 0
+425,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:11.507907,hp 460
+426,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:11.509908,armor 91
+427,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:11.513908,shielded hit
+428,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:11.522910,hp 460
+429,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:11.525911,armor 91
+430,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:11.531913,hp 460
+431,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:11.534914,armor 91
+432,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:11.545916,health_subtracted 0
+433,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:13.864491,hp 460
+434,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:13.867493,armor 81
+435,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:13.871493,auto regenerate armor
+436,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:18.157121,hp 460
+437,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:18.159122,armor 91
+438,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:18.164125,auto regenerate armor
+439,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:42.755870,stance_crouched 0
+440,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:45.101396,stance_crouched 0
+441,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:45.669524,killed an enemy
+442,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:45.673524,weapon_fired 1
+443,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:45.751542,weapon_fired 0
+444,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:45.829559,weapon_fired 0
+445,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:46.961813,weapon_fired 0
+446,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:47.039830,hp 460
+447,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:47.042831,armor 91
+448,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:47.046832,enemy_headshot
+449,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:47.050833,killed an enemy
+450,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:47.054834,weapon_fired 1
+451,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:47.123849,weapon_fired 0
+452,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:47.337897,weapon_fired 0
+453,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:47.398911,weapon_fired 0
+454,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:48.902248,hp 460
+455,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:48.905249,armor 91
+456,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:48.909251,auto regenerate armor
+457,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:49.159307,weapon_fired 0
+458,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:49.237324,weapon_fired 0
+459,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:50.080512,stance_crouched 0
+460,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:53.050179,weapon_fired 0
+461,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:53.135198,weapon_fired 0
+462,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:53.200212,weapon_fired 0
+463,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:53.375251,weapon_fired 1
+464,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:53.450269,weapon_fired 0
+465,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:53.515283,weapon_fired 0
+466,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:53.588300,weapon_fired 0
+467,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:53.653314,killed an enemy
+468,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:53.658316,weapon_fired 1
+469,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:53.768340,weapon_fired 0
+470,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:53.845357,weapon_fired 0
+471,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:53.992896,hp 460
+472,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:53.994897,armor 91
+473,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:53.998898,shielded hit
+474,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:54.009900,hp 460
+475,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:54.011900,armor 91
+476,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:54.018903,hp 460
+477,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:54.020902,armor 91
+478,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:22:54.024903,health_subtracted 0
+479,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:00.116929,hp 460
+480,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:00.119931,armor 31
+481,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:00.122930,auto regenerate armor
+482,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:04.594980,auto regenerate armor
+483,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:04.602981,hp 460
+484,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:04.605982,armor 91
+485,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:08.922101,stance_crouched 0
+486,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:10.123938,hp 460
+487,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:10.126938,armor 91
+488,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:10.129939,enemy_headshot
+489,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:10.133940,killed an enemy
+490,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:10.137941,weapon_fired 1
+491,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:10.214958,weapon_fired 0
+492,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:10.614047,weapon_fired 0
+493,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:10.880974,weapon_fired 0
+494,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:10.961993,weapon_fired 1
+495,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:11.076018,weapon_fired 1
+496,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:11.154035,weapon_fired 0
+497,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:11.379086,weapon_fired 1
+498,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:11.384087,killed an enemy
+499,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:12.360887,stance_crouched 0
+500,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:12.499918,hp 460
+501,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:12.502919,armor 91
+502,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:12.505919,shielded hit
+503,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:12.514921,hp 460
+504,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:12.516922,armor 91
+505,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:12.521924,hp 460
+506,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:12.524923,armor 91
+507,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:12.529925,health_subtracted 0
+508,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:13.888108,weapon_fired 1
+509,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:13.965125,weapon_fired 0
+510,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:14.114158,killed an enemy
+511,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:14.119160,weapon_fired 1
+512,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:14.198178,weapon_fired 0
+513,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:14.452235,killed an enemy
+514,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:14.465237,weapon_fired 1
+515,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:14.526252,weapon_fired 0
+516,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:14.601268,weapon_fired 1
+517,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:14.779308,weapon_fired 0
+518,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:14.853324,weapon_fired 0
+519,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:14.987354,weapon_fired 0
+520,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:16.038495,hp 460
+521,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:16.041495,armor 71
+522,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:16.046497,shielded hit
+523,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:16.052498,hp 460
+524,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:16.055499,armor 71
+525,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:16.064501,hp 460
+526,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:16.067501,armor 71
+527,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:16.071502,health_subtracted 0
+528,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:18.102815,hp 460
+529,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:18.105815,armor 61
+530,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:18.109816,shielded hit
+531,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:18.118818,hp 460
+532,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:18.120818,armor 61
+533,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:18.127820,hp 460
+534,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:18.129820,armor 61
+535,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:18.134822,health_subtracted 0
+536,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:18.147824,hp 460
+537,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:18.149825,armor 61
+538,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:18.153825,shielded hit
+539,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:18.163828,hp 460
+540,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:18.166829,armor 61
+541,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:18.171830,hp 460
+542,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:18.174831,armor 61
+543,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:18.178831,health_subtracted 0
+544,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:18.868009,weapon_fired 0
+545,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:18.950028,weapon_fired 0
+546,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:19.017043,killed an enemy
+547,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:19.021044,weapon_fired 1
+548,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:19.098061,weapon_fired 0
+549,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:19.173078,weapon_fired 0
+550,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:19.242093,weapon_fired 0
+551,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:19.308108,weapon_fired 0
+552,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:19.374123,weapon_fired 0
+553,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:19.456141,weapon_fired 0
+554,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:19.584170,weapon_fired 0
+555,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:19.654020,weapon_fired 0
+556,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:19.725036,weapon_fired 0
+557,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:20.906300,hp 460
+558,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:20.909301,armor 47
+559,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:20.913302,shielded hit
+560,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:20.929305,hp 460
+561,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:20.932306,armor 47
+562,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:20.936307,hp 460
+563,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:20.939308,armor 47
+564,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:20.943309,health_subtracted 0
+565,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:21.426417,shielded hit
+566,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:21.430418,hp 460
+567,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:21.433419,armor 27
+568,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:21.440420,hp 460
+569,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:21.443421,armor 27
+570,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:21.447422,hp 460
+571,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:21.450422,armor 27
+572,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:21.453423,health_subtracted 0
+573,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:21.694477,stance_crouched 1
+574,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:21.934531,hp 460
+575,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:21.936531,armor 17
+576,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:21.941533,shielded hit
+577,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:21.947534,hp 460
+578,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:21.950534,armor 17
+579,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:21.954536,hp 460
+580,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:21.957536,armor 17
+581,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:21.961537,health_subtracted 0
+582,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:22.215595,hp 460
+583,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:22.218595,armor 9
+584,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:22.221596,shielded hit
+585,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:22.230597,hp 460
+586,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:22.232598,armor 9
+587,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:22.238599,hp 460
+588,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:22.240600,armor 9
+589,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:22.243600,health_subtracted 0
+590,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:23.053620,hp 460
+591,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:23.055620,armor 0
+592,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:23.059621,unshielded hit
+593,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:23.069623,hp 450
+594,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:23.071624,armor 0
+595,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:23.076625,health_subtracted 1
+596,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:23.089628,hp 460
+597,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:23.091628,armor 0
+598,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:23.098630,hp 460
+599,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:23.101631,armor 0
+600,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:23.107632,hp 460
+601,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:23.110633,armor 0
+602,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:23.119635,hp 460
+603,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:23.122635,armor 0
+604,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:25.716521,weapon_fired 0
+605,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:25.781536,weapon_fired 0
+606,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:25.990583,hp 460
+607,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:25.993583,armor 0
+608,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:25.997584,hp 460
+609,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.000585,armor 0
+610,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.004586,enemy_headshot
+611,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.008587,killed an enemy
+612,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.011588,weapon_fired 1
+613,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.081603,weapon_fired 0
+614,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.231637,weapon_fired 0
+615,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.351663,hp 460
+616,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.355665,armor 24
+617,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.359665,shielded hit
+618,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.368668,hp 460
+619,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.370668,armor 24
+620,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.378670,hp 460
+621,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.381670,armor 24
+622,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.385672,health_subtracted 0
+623,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.464689,weapon_fired 0
+624,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.530704,weapon_fired 0
+625,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.591717,weapon_fired 0
+626,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.668735,killed an enemy
+627,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.675736,weapon_fired 1
+628,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.744752,weapon_fired 0
+629,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.834772,weapon_fired 0
+630,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:26.909789,weapon_fired 0
+631,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:27.137840,weapon_fired 0
+632,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:27.214857,weapon_fired 0
+633,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:27.329883,weapon_fired 0
+634,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:27.402899,hp 460
+635,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:27.404900,armor 15
+636,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:27.408901,shielded hit
+637,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:27.416902,hp 460
+638,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:27.418903,armor 15
+639,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:27.424904,hp 460
+640,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:27.428905,armor 15
+641,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:27.432906,health_subtracted 0
+642,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:27.993032,hp 460
+643,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:27.996032,armor 11
+644,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:28.000034,shielded hit
+645,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:28.008035,hp 460
+646,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:28.010036,armor 11
+647,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:28.016037,hp 460
+648,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:28.018037,armor 11
+649,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:28.022039,health_subtracted 0
+650,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:28.810215,stance_crouched 1
+651,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:28.897235,hp 460
+652,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:28.900236,armor 7
+653,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:28.905236,shielded hit
+654,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:28.911238,hp 460
+655,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:28.914238,armor 7
+656,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:28.918239,hp 460
+657,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:28.921240,armor 7
+658,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:28.925241,health_subtracted 0
+659,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:29.570386,weapon_fired 0
+660,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:29.574386,weapon_fired 1
+661,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:29.952471,killed an enemy
+662,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:29.956472,weapon_fired 0
+663,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:29.960473,weapon_fired 1
+664,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:31.379866,hp 460
+665,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:31.381866,armor 3
+666,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:31.385867,auto regenerate armor
+667,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:34.997075,weapon_fired 0
+668,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:35.002076,weapon_fired 1
+669,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:36.995279,hp 460
+670,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:36.998279,armor 91
+671,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:37.002280,auto regenerate armor
+672,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:37.621748,stance_crouched 0
+673,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:38.319775,stance_crouched 0
+674,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:39.488465,stance_crouched 0
+675,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:23:41.521740,stance_crouched 1
+676,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:01.638747,hp 460
+677,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:01.642749,armor 91
+678,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:01.646749,shielded hit
+679,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:01.655751,hp 460
+680,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:01.658752,armor 91
+681,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:01.662753,hp 460
+682,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:01.666754,armor 91
+683,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:01.670755,health_subtracted 0
+684,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:01.848795,weapon_fired 0
+685,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:02.445321,weapon_fired 0
+686,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:03.019450,weapon_fired 0
+687,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:04.113695,hp 460
+688,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:04.116697,armor 83
+689,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:04.120697,auto regenerate armor
+690,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:04.394900,complete_objective Blow_open_the_floor
+691,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:05.431890,activate_objective Enter_the_vault_room
+692,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:06.618607,stance_crouched 0
+693,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:07.567854,complete_objective Enter_the_vault_room
+694,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:08.582195,activate_objective Disable_the_security_shutters
+695,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:09.776159,stance_crouched 0
+696,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:12.076060,complete_objective Disable_the_security_shutters
+697,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:13.083285,activate_objective Place_the_drill_on_the_vault
+698,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:24.538765,stance_crouched 0
+699,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:30.551894,complete_objective Place_the_drill_on_the_vault
+700,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:31.588126,activate_objective Defend_the_drill
+701,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:35.554873,hp 460
+702,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:35.556874,armor 91
+703,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:35.561875,auto regenerate armor
+704,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:36.463942,stance_crouched 0
+705,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:36.926119,stance_crouched 0
+706,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:41.173806,stance_crouched 0
+707,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:41.613077,weapon_fired 0
+708,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:41.694095,weapon_fired 0
+709,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:43.784968,stance_crouched 0
+710,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:47.671004,stance_crouched 0
+711,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:47.989795,weapon_fired 0
+712,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:48.077815,weapon_fired 1
+713,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:48.359877,weapon_fired 0
+714,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:48.423892,weapon_fired 0
+715,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:49.585779,enemy_headshot
+716,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:49.589780,killed an enemy
+717,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:49.593781,hp 460
+718,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:49.597782,armor 91
+719,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:49.600783,weapon_fired 1
+720,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:49.666798,weapon_fired 0
+721,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:51.116016,weapon_fired 0
+722,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:51.192711,killed an enemy
+723,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:24:51.196712,weapon_fired 1
+724,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:01.894848,weapon_fired 1
+725,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:01.898848,killed an enemy
+726,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:01.970865,weapon_fired 0
+727,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:02.044881,weapon_fired 0
+728,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:02.113897,weapon_fired 0
+729,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:03.434847,weapon_fired 0
+730,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:03.516865,hp 460
+731,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:03.519866,armor 91
+732,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:03.522866,enemy_headshot
+733,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:03.526868,killed an enemy
+734,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:03.529869,weapon_fired 1
+735,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:03.597884,weapon_fired 0
+736,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:07.152430,weapon_fired 0
+737,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:07.230447,weapon_fired 0
+738,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:07.304464,weapon_fired 0
+739,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:07.796688,weapon_fired 1
+740,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:07.877706,weapon_fired 0
+741,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:07.948722,killed an enemy
+742,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:07.953723,weapon_fired 1
+743,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:08.035742,weapon_fired 0
+744,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:08.115759,weapon_fired 0
+745,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:11.939070,stance_crouched 0
+746,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:14.257156,hp 460
+747,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:14.259156,armor 91
+748,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:14.263157,shielded hit
+749,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:14.273159,hp 460
+750,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:14.275159,armor 91
+751,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:14.282161,hp 460
+752,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:14.285162,armor 91
+753,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:14.289163,health_subtracted 0
+754,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.401412,hp 460
+755,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.403413,armor 61
+756,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.407414,shielded hit
+757,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.416416,hp 460
+758,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.420417,armor 61
+759,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.425417,hp 460
+760,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.428418,armor 61
+761,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.432419,health_subtracted 0
+762,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.444422,weapon_fired 0
+763,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.510437,weapon_fired 0
+764,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.584453,weapon_fired 0
+765,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.863516,shielded hit
+766,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.870517,hp 460
+767,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.872518,armor 31
+768,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.877519,hp 460
+769,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.879519,armor 31
+770,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.883520,hp 460
+771,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.885521,armor 31
+772,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:15.890523,health_subtracted 0
+773,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:16.368629,hp 460
+774,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:16.371629,armor 1
+775,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:16.375631,shielded hit
+776,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:16.392634,hp 460
+777,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:16.395635,armor 1
+778,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:16.398636,hp 460
+779,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:16.401637,armor 1
+780,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:16.405638,health_subtracted 0
+781,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:16.675698,stance_crouched 1
+782,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:16.974612,hp 460
+783,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:16.978613,armor 0
+784,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:16.982613,unshielded hit
+785,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:16.990615,hp 435
+786,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:16.992616,armor 0
+787,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:16.996617,health_subtracted 2.5
+788,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:17.009619,hp 449
+789,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:17.012620,armor 0
+790,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:17.020622,hp 449
+791,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:17.022622,armor 0
+792,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:17.039626,hp 449
+793,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:17.042627,armor 0
+794,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:17.046627,hp 449
+795,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:17.049628,armor 0
+796,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:17.542744,hp 449
+797,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:17.545744,armor 0
+798,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:17.549745,unshielded hit
+799,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:17.561747,hp 436
+800,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:17.563748,armor 0
+801,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:17.567749,health_subtracted 1.25
+802,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:20.990347,hp 436
+803,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:20.993348,armor 0
+804,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:20.996348,hp 436
+805,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:20.998349,armor 0
+806,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:21.002349,auto regenerate armor
+807,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:22.002574,hp 450
+808,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:22.005575,armor 91
+809,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:22.008575,hp 450
+810,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:22.011576,armor 91
+811,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:22.015577,hp 450
+812,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:22.018578,armor 91
+813,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:22.023579,hp 450
+814,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:22.027579,armor 91
+815,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:23.202843,hp 450
+816,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:23.204843,armor 91
+817,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:23.208845,shielded hit
+818,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:23.216846,hp 450
+819,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:23.218847,armor 91
+820,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:23.224848,hp 450
+821,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:23.227849,armor 91
+822,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:23.231850,health_subtracted 0
+823,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:25.404337,stance_crouched 1
+824,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:26.992693,hp 460
+825,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:26.994694,armor 79
+826,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:27.001695,hp 460
+827,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:27.004696,armor 79
+828,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:27.008697,hp 460
+829,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:27.011698,armor 79
+830,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:27.020699,hp 460
+831,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:27.022700,armor 79
+832,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:27.493806,hp 460
+833,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:27.495806,armor 79
+834,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:27.499807,enemy_headshot
+835,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:27.502808,killed an enemy
+836,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:27.506809,weapon_fired 1
+837,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:27.589827,weapon_fired 0
+838,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:28.574048,stance_crouched 1
+839,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:29.148177,stance_crouched 0
+840,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:29.640288,hp 460
+841,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:29.643288,armor 91
+842,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:29.647289,shielded hit
+843,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:29.664293,hp 460
+844,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:29.666293,armor 91
+845,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:29.670294,hp 460
+846,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:29.673295,armor 91
+847,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:29.677296,health_subtracted 0
+848,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:30.283432,weapon_fired 0
+849,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:30.361449,weapon_fired 0
+850,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:30.434465,weapon_fired 0
+851,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:30.731532,weapon_fired 1
+852,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:30.803548,killed an enemy
+853,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:30.808550,weapon_fired 1
+854,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:30.962584,weapon_fired 0
+855,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:31.037601,weapon_fired 0
+856,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:32.113842,shielded hit
+857,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:32.118844,hp 460
+858,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:32.120844,armor 83
+859,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:32.126845,hp 460
+860,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:32.129846,armor 83
+861,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:32.133847,hp 460
+862,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:32.135847,armor 83
+863,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:32.139848,health_subtracted 0
+864,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:33.085222,hp 460
+865,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:33.087223,armor 75
+866,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:33.091224,shielded hit
+867,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:33.099225,hp 460
+868,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:33.102226,armor 75
+869,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:33.108228,hp 460
+870,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:33.111228,armor 75
+871,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:33.115230,health_subtracted 0
+872,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:33.484818,stance_crouched 0
+873,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:34.721274,stance_crouched 0
+874,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:35.563452,hp 460
+875,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:35.565452,armor 67
+876,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:35.570453,auto regenerate armor
+877,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:45.126858,hp 460
+878,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:45.128858,armor 91
+879,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:45.133859,shielded hit
+880,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:45.139861,hp 460
+881,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:45.143862,armor 91
+882,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:45.147863,hp 460
+883,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:45.150863,armor 91
+884,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:45.154865,health_subtracted 0
+885,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:45.650805,hp 460
+886,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:45.652806,armor 61
+887,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:45.656806,shielded hit
+888,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:45.667809,hp 460
+889,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:45.671809,armor 61
+890,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:45.676811,hp 460
+891,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:45.679811,armor 61
+892,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:45.682813,health_subtracted 0
+893,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:46.164920,hp 460
+894,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:46.167921,armor 31
+895,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:46.172922,shielded hit
+896,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:46.187925,hp 460
+897,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:46.189926,armor 31
+898,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:46.193927,hp 460
+899,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:46.195927,armor 31
+900,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:46.199928,health_subtracted 0
+901,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:46.264943,weapon_fired 0
+902,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:46.326957,weapon_fired 0
+903,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:46.627854,hp 460
+904,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:46.629854,armor 1
+905,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:46.633856,shielded hit
+906,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:46.642858,hp 460
+907,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:46.645858,armor 1
+908,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:46.650859,hp 460
+909,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:46.653860,armor 1
+910,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:46.657861,health_subtracted 0
+911,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:49.116249,hp 460
+912,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:49.118249,armor 0
+913,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:49.122250,hp 460
+914,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:49.125250,armor 0
+915,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:49.129251,auto regenerate armor
+916,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:50.059640,stance_crouched 0
+917,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:50.517668,weapon_fired 1
+918,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:50.603688,weapon_fired 0
+919,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:50.672703,weapon_fired 0
+920,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:50.951664,weapon_fired 1
+921,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:51.038684,killed an enemy
+922,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:51.042685,weapon_fired 1
+923,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:51.282739,weapon_fired 0
+924,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:51.362757,weapon_fired 0
+925,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:52.433062,weapon_fired 1
+926,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:52.438063,killed an enemy
+927,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:52.509079,weapon_fired 0
+928,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:53.440881,killed an enemy
+929,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:53.444881,weapon_fired 1
+930,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:53.526900,weapon_fired 0
+931,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:53.602916,weapon_fired 0
+932,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:53.865975,weapon_fired 0
+933,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:53.936992,weapon_fired 0
+934,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:54.080023,weapon_fired 1
+935,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:54.158041,weapon_fired 1
+936,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:54.287070,weapon_fired 0
+937,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:54.362054,weapon_fired 0
+938,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:54.529092,killed an enemy
+939,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:54.543095,weapon_fired 1
+940,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:54.613111,hp 460
+941,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:54.616111,armor 91
+942,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:54.620112,enemy_headshot
+943,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:54.623114,killed an enemy
+944,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:54.627114,weapon_fired 1
+945,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:54.722135,weapon_fired 0
+946,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:54.798658,weapon_fired 0
+947,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:57.915763,stance_crouched 0
+948,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:58.715770,weapon_fired 0
+949,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:58.793787,weapon_fired 0
+950,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:58.870805,weapon_fired 1
+951,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:58.941820,hp 460
+952,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:58.944821,armor 91
+953,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:58.947822,enemy_headshot
+954,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:58.950823,killed an enemy
+955,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:58.955824,weapon_fired 1
+956,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:59.042843,weapon_fired 0
+957,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:59.106857,weapon_fired 0
+958,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:59.170813,weapon_fired 0
+959,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:59.233826,weapon_fired 0
+960,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:25:59.807351,stance_crouched 0
+961,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:01.600567,weapon_fired 0
+962,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:01.612569,stance_crouched 0
+963,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:01.689586,killed an enemy
+964,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:01.703590,weapon_fired 1
+965,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:01.761618,weapon_fired 0
+966,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:01.839634,weapon_fired 0
+967,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:01.903648,weapon_fired 0
+968,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:01.976665,weapon_fired 0
+969,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:02.043680,weapon_fired 0
+970,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:02.777316,stance_crouched 0
+971,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:04.670150,stance_crouched 0
+972,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:06.595057,stance_crouched 0
+973,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:09.325420,stance_crouched 0
+974,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:13.174424,stance_crouched 0
+975,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:13.602521,weapon_fired 0
+976,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:13.680538,killed an enemy
+977,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:13.684539,weapon_fired 1
+978,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:13.755555,weapon_fired 0
+979,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:13.841574,weapon_fired 0
+980,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:14.415909,weapon_fired 0
+981,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:14.498927,weapon_fired 0
+982,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:14.510931,stance_crouched 0
+983,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:18.066728,stance_crouched 0
+984,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:21.559511,stance_crouched 0
+985,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:25.991905,weapon_fired 0
+986,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:26.076924,weapon_fired 0
+987,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:26.150942,weapon_fired 0
+988,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:26.215956,killed an enemy
+989,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:26.220958,weapon_fired 1
+990,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:26.297974,weapon_fired 0
+991,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:26.366989,weapon_fired 0
+992,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:26.438491,weapon_fired 0
+993,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:26.504506,weapon_fired 0
+994,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:30.716898,weapon_fired 0
+995,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:30.804918,killed an enemy
+996,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:30.808919,weapon_fired 1
+997,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:30.875934,weapon_fired 0
+998,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:30.952952,weapon_fired 0
+999,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:31.023967,weapon_fired 0
+1000,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:39.876931,stance_crouched 0
+1001,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:40.600033,weapon_fired 0
+1002,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:41.237451,weapon_fired 0
+1003,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:41.670571,weapon_fired 0
+1004,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:26:42.532764,stance_crouched 0
+1005,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:09.132548,weapon_fired 1
+1006,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:09.214566,weapon_fired 0
+1007,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:09.293584,weapon_fired 0
+1008,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:09.359598,weapon_fired 0
+1009,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:11.001777,weapon_fired 0
+1010,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:11.081795,weapon_fired 1
+1011,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:11.153811,killed an enemy
+1012,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:11.157811,weapon_fired 1
+1013,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:11.231828,weapon_fired 0
+1014,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:11.303844,weapon_fired 0
+1015,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:12.031405,killed an enemy
+1016,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:12.035406,weapon_fired 1
+1017,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:12.115424,weapon_fired 0
+1018,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:12.185440,weapon_fired 0
+1019,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:14.406085,hp 460
+1020,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:14.408086,armor 91
+1021,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:14.412087,enemy_headshot
+1022,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:14.417088,killed an enemy
+1023,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:14.421090,weapon_fired 1
+1024,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:14.492106,weapon_fired 0
+1025,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:29.136666,weapon_fired 0
+1026,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:29.213684,hp 460
+1027,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:29.215684,armor 91
+1028,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:29.219685,enemy_headshot
+1029,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:29.223687,killed an enemy
+1030,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:29.226687,weapon_fired 1
+1031,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:29.305704,weapon_fired 0
+1032,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:31.641256,weapon_fired 0
+1033,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:31.726275,weapon_fired 0
+1034,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:31.803292,killed an enemy
+1035,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:31.807293,weapon_fired 1
+1036,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:31.874308,weapon_fired 0
+1037,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:31.943324,weapon_fired 0
+1038,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:33.651769,weapon_fired 0
+1039,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:33.734787,weapon_fired 0
+1040,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:34.213178,hp 460
+1041,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:34.215178,armor 91
+1042,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:34.219179,enemy_headshot
+1043,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:34.222180,killed an enemy
+1044,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:34.226181,weapon_fired 1
+1045,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:34.309200,weapon_fired 0
+1046,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:38.668345,hp 460
+1047,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:38.670345,armor 91
+1048,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:38.674347,enemy_headshot
+1049,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:38.678348,killed an enemy
+1050,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:38.682349,weapon_fired 1
+1051,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:38.758365,weapon_fired 0
+1052,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:45.548527,weapon_fired 0
+1053,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:45.624545,weapon_fired 1
+1054,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:54.606948,hp 460
+1055,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:54.609948,armor 91
+1056,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:54.613949,enemy_headshot
+1057,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:54.617950,killed an enemy
+1058,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:54.622951,weapon_fired 1
+1059,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:54.705970,weapon_fired 0
+1060,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:27:54.768984,weapon_fired 0
+1061,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:00.315891,weapon_fired 1
+1062,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:00.319892,killed an enemy
+1063,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:00.404911,weapon_fired 0
+1064,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:00.477238,weapon_fired 0
+1065,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:00.547762,weapon_fired 0
+1066,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:09.894590,weapon_fired 0
+1067,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:09.977608,weapon_fired 0
+1068,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:10.049624,weapon_fired 0
+1069,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:10.339689,weapon_fired 0
+1070,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:10.419707,weapon_fired 0
+1071,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:10.498725,weapon_fired 0
+1072,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:10.681766,weapon_fired 0
+1073,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:10.753782,weapon_fired 1
+1074,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:10.856805,killed an enemy
+1075,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:10.861807,weapon_fired 1
+1076,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:10.931822,weapon_fired 0
+1077,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:12.004524,hp 460
+1078,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:12.007524,armor 91
+1079,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:12.011526,enemy_headshot
+1080,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:12.015527,killed an enemy
+1081,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:12.019527,weapon_fired 1
+1082,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:12.106547,weapon_fired 0
+1083,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:17.112542,hp 460
+1084,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:17.115543,armor 91
+1085,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:17.118543,shielded hit
+1086,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:17.134547,hp 460
+1087,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:17.137548,armor 91
+1088,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:17.140548,hp 460
+1089,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:17.142549,armor 91
+1090,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:17.145550,health_subtracted 0
+1091,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:18.443673,hp 460
+1092,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:18.447674,armor 81
+1093,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:18.451675,shielded hit
+1094,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:18.456676,hp 460
+1095,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:18.458677,armor 81
+1096,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:18.462678,hp 460
+1097,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:18.465678,armor 81
+1098,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:18.469679,health_subtracted 0
+1099,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:18.884772,weapon_fired 0
+1100,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:18.902776,hp 460
+1101,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:18.904777,armor 71
+1102,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:18.908777,shielded hit
+1103,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:18.916779,hp 460
+1104,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:18.920780,armor 71
+1105,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:18.925781,hp 460
+1106,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:18.928782,armor 71
+1107,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:18.931783,health_subtracted 0
+1108,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:19.002798,weapon_fired 0
+1109,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:19.370881,shielded hit
+1110,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:19.378883,hp 460
+1111,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:19.381884,armor 61
+1112,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:19.386885,hp 460
+1113,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:19.389886,armor 61
+1114,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:19.393886,hp 460
+1115,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:19.396887,armor 61
+1116,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:19.399888,health_subtracted 0
+1117,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:19.411890,killed an enemy
+1118,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:19.415891,weapon_fired 1
+1119,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:19.484906,weapon_fired 0
+1120,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:19.628196,weapon_fired 0
+1121,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:19.692211,weapon_fired 0
+1122,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:21.735705,hp 460
+1123,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:21.737705,armor 51
+1124,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:21.741706,auto regenerate armor
+1125,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:24.644659,weapon_fired 0
+1126,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:24.716676,weapon_fired 0
+1127,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:25.993969,weapon_fired 0
+1128,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:26.080988,weapon_fired 0
+1129,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:26.335045,weapon_fired 1
+1130,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:26.340046,killed an enemy
+1131,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:26.418064,weapon_fired 0
+1132,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:30.926751,stance_crouched 0
+1133,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:31.805952,weapon_fired 0
+1134,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:31.883970,weapon_fired 1
+1135,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:32.023001,weapon_fired 0
+1136,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:32.102019,weapon_fired 0
+1137,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:33.051658,killed an enemy
+1138,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:33.065661,weapon_fired 1
+1139,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:33.144679,weapon_fired 0
+1140,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:33.202161,weapon_fired 0
+1141,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:33.831297,stance_crouched 0
+1142,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:35.096717,weapon_fired 0
+1143,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:35.175735,weapon_fired 0
+1144,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:36.754927,stance_crouched 0
+1145,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:36.890958,weapon_fired 0
+1146,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:36.968976,weapon_fired 0
+1147,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:37.039992,weapon_fired 0
+1148,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:37.252039,killed an enemy
+1149,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:37.257040,weapon_fired 1
+1150,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:37.335058,weapon_fired 0
+1151,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:37.420076,shielded hit
+1152,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:37.425078,hp 460
+1153,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:37.428078,armor 91
+1154,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:37.434080,hp 460
+1155,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:37.437080,armor 91
+1156,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:37.440081,hp 460
+1157,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:37.442082,armor 91
+1158,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:37.447083,health_subtracted 0
+1159,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:37.643127,weapon_fired 0
+1160,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:37.714143,weapon_fired 1
+1161,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:37.840171,weapon_fired 0
+1162,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:37.916188,weapon_fired 1
+1163,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:38.167244,weapon_fired 0
+1164,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:38.242262,killed an enemy
+1165,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:38.247263,weapon_fired 1
+1166,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:39.512916,hp 460
+1167,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:39.515916,armor 87
+1168,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:39.518917,enemy_headshot
+1169,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:39.522919,killed an enemy
+1170,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:39.525918,weapon_fired 1
+1171,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:39.546923,hp 460
+1172,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:39.549924,armor 87
+1173,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:39.554925,auto regenerate armor
+1174,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:40.547644,weapon_fired 0
+1175,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:40.627662,weapon_fired 1
+1176,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:40.698679,killed an enemy
+1177,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:40.703679,weapon_fired 1
+1178,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:40.779696,weapon_fired 0
+1179,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:40.868716,weapon_fired 0
+1180,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:40.942682,weapon_fired 0
+1181,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:41.015698,weapon_fired 0
+1182,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:42.580053,weapon_fired 0
+1183,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:42.658071,weapon_fired 1
+1184,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:42.731087,weapon_fired 0
+1185,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:42.796102,weapon_fired 0
+1186,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:43.331222,hp 460
+1187,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:43.333222,armor 91
+1188,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:43.337224,shielded hit
+1189,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:43.347226,hp 460
+1190,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:43.350226,armor 91
+1191,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:43.354228,hp 460
+1192,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:43.357228,armor 91
+1193,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:43.360228,health_subtracted 0
+1194,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:43.445565,hp 460
+1195,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:43.448565,armor 87
+1196,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:43.452567,shielded hit
+1197,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:43.467569,hp 460
+1198,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:43.469570,armor 87
+1199,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:43.473571,hp 460
+1200,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:43.476571,armor 87
+1201,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:43.479573,health_subtracted 0
+1202,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:44.569652,stance_crouched 0
+1203,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:44.611661,hp 460
+1204,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:44.614662,armor 71
+1205,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:44.617663,shielded hit
+1206,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:44.624664,hp 460
+1207,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:44.628666,armor 71
+1208,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:44.632666,hp 460
+1209,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:44.634666,armor 71
+1210,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:44.638667,health_subtracted 0
+1211,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:46.520010,hp 460
+1212,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:46.523011,armor 67
+1213,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:46.526012,enemy_headshot
+1214,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:46.530013,killed an enemy
+1215,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:46.534014,weapon_fired 1
+1216,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:47.506492,hp 460
+1217,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:47.509493,armor 91
+1218,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:47.513495,auto regenerate armor
+1219,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:53.413152,stance_crouched 0
+1220,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:53.628722,killed an enemy
+1221,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:53.632722,weapon_fired 1
+1222,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:53.703739,weapon_fired 1
+1223,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:53.777863,hp 460
+1224,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:53.780863,armor 91
+1225,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:53.784864,enemy_headshot
+1226,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:53.788865,killed an enemy
+1227,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:53.792866,weapon_fired 1
+1228,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:53.867883,weapon_fired 0
+1229,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:53.936898,weapon_fired 0
+1230,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:53.998597,weapon_fired 0
+1231,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:54.069613,weapon_fired 0
+1232,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:54.127626,weapon_fired 0
+1233,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:54.196641,weapon_fired 0
+1234,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:28:54.587729,stance_crouched 0
+1235,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:00.921009,enemy_headshot
+1236,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:00.924010,killed an enemy
+1237,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:00.928011,hp 460
+1238,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:00.931012,armor 91
+1239,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:00.935012,weapon_fired 1
+1240,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:01.018284,weapon_fired 0
+1241,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:01.082298,weapon_fired 0
+1242,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:02.772585,killed an enemy
+1243,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:02.776586,weapon_fired 1
+1244,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:02.858603,weapon_fired 0
+1245,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:03.115661,weapon_fired 0
+1246,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:03.183098,weapon_fired 0
+1247,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:04.753186,stance_crouched 0
+1248,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:06.033485,stance_crouched 0
+1249,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:06.755647,stance_crouched 0
+1250,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:09.475677,stance_crouched 0
+1251,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:16.798121,weapon_fired 0
+1252,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:16.879645,weapon_fired 0
+1253,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:16.954662,hp 460
+1254,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:16.957663,armor 91
+1255,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:16.960663,enemy_headshot
+1256,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:16.964664,killed an enemy
+1257,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:16.967664,weapon_fired 1
+1258,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:17.156707,weapon_fired 0
+1259,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:17.230724,weapon_fired 0
+1260,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:17.934882,weapon_fired 1
+1261,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:17.938883,killed an enemy
+1262,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:18.012899,weapon_fired 0
+1263,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:18.082915,weapon_fired 0
+1264,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:31.148739,weapon_fired 1
+1265,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:31.230758,weapon_fired 0
+1266,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:31.297773,killed an enemy
+1267,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:31.301773,weapon_fired 1
+1268,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:42.195097,hp 460
+1269,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:42.197098,armor 91
+1270,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:42.201098,enemy_headshot
+1271,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:42.215102,weapon_fired 1
+1272,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:42.283117,weapon_fired 0
+1273,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:42.356133,weapon_fired 0
+1274,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:42.509167,weapon_fired 0
+1275,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:42.586185,killed an enemy
+1276,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:42.590186,weapon_fired 1
+1277,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:42.782382,weapon_fired 0
+1278,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:42.861400,weapon_fired 0
+1279,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:53.496868,killed an enemy
+1280,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:53.501869,weapon_fired 1
+1281,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:53.583902,weapon_fired 0
+1282,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:53.648916,weapon_fired 0
+1283,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:53.736936,weapon_fired 0
+1284,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:54.358076,hp 460
+1285,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:54.361076,armor 91
+1286,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:29:54.370078,auto regenerate armor
+1287,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:05.992686,stance_crouched 0
+1288,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:06.760858,killed an enemy
+1289,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:06.765859,weapon_fired 1
+1290,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:08.391223,weapon_fired 0
+1291,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:08.471242,weapon_fired 0
+1292,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:08.719802,weapon_fired 0
+1293,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:08.794819,weapon_fired 0
+1294,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:08.984862,hp 460
+1295,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:08.986862,armor 91
+1296,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:08.990863,shielded hit
+1297,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:09.007867,hp 460
+1298,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:09.009867,armor 91
+1299,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:09.013869,hp 460
+1300,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:09.016869,armor 91
+1301,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:09.019870,health_subtracted 0
+1302,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:10.270150,weapon_fired 0
+1303,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:10.348167,weapon_fired 0
+1304,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:10.704248,weapon_fired 0
+1305,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:10.784266,weapon_fired 0
+1306,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:11.271374,stance_crouched 0
+1307,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:12.089559,hp 460
+1308,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:12.092559,armor 71
+1309,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:12.097560,auto regenerate armor
+1310,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:23.904361,killed an enemy
+1311,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:23.910363,weapon_fired 1
+1312,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:23.998382,weapon_fired 0
+1313,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:24.073399,weapon_fired 0
+1314,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:24.141414,weapon_fired 0
+1315,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:24.210430,weapon_fired 1
+1316,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:24.277445,weapon_fired 0
+1317,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:24.354463,weapon_fired 0
+1318,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:24.426478,killed an enemy
+1319,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:24.432480,weapon_fired 1
+1320,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:34.203515,weapon_fired 0
+1321,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:34.285533,weapon_fired 0
+1322,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:34.364551,weapon_fired 0
+1323,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:34.440568,hp 460
+1324,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:34.443568,armor 91
+1325,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:34.447569,enemy_headshot
+1326,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:34.451570,killed an enemy
+1327,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:34.455571,weapon_fired 1
+1328,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:34.529687,weapon_fired 0
+1329,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:34.597702,weapon_fired 0
+1330,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:34.910772,weapon_fired 0
+1331,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:34.994791,weapon_fired 0
+1332,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:35.062806,weapon_fired 0
+1333,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:35.131822,weapon_fired 0
+1334,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:35.221842,weapon_fired 0
+1335,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:35.267852,weapon_fired 0
+1336,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:36.720271,hp 460
+1337,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:36.723271,armor 91
+1338,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:36.726273,enemy_headshot
+1339,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:36.730274,killed an enemy
+1340,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:36.733274,weapon_fired 1
+1341,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:36.811291,weapon_fired 0
+1342,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:36.882308,weapon_fired 0
+1343,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:39.166648,weapon_fired 1
+1344,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:39.235664,weapon_fired 0
+1345,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:39.301679,weapon_fired 0
+1346,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:47.164410,stance_crouched 0
+1347,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:48.263611,weapon_fired 1
+1348,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:48.340629,weapon_fired 0
+1349,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:48.801732,weapon_fired 0
+1350,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:48.874749,weapon_fired 0
+1351,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:49.417870,weapon_fired 0
+1352,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:49.500766,weapon_fired 1
+1353,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:49.650800,weapon_fired 0
+1354,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:49.732818,weapon_fired 0
+1355,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:49.869849,weapon_fired 0
+1356,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:51.557522,hp 460
+1357,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:51.559522,armor 91
+1358,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:51.563523,enemy_headshot
+1359,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:51.567524,killed an enemy
+1360,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:51.571525,weapon_fired 1
+1361,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:51.585528,stance_crouched 0
+1362,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:53.677584,auto regenerate armor
+1363,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:53.682585,hp 460
+1364,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:53.685586,armor 91
+1365,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:54.111482,stance_crouched 0
+1366,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:54.353536,weapon_fired 0
+1367,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:54.417550,killed an enemy
+1368,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:54.422552,weapon_fired 1
+1369,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:54.492568,weapon_fired 0
+1370,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:54.684610,weapon_fired 0
+1371,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:57.039138,weapon_fired 0
+1372,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:57.120157,weapon_fired 0
+1373,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:57.349208,weapon_fired 1
+1374,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:57.431226,killed an enemy
+1375,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:57.445229,weapon_fired 1
+1376,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:58.540864,hp 460
+1377,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:58.543865,armor 91
+1378,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:58.546866,shielded hit
+1379,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:58.554867,hp 460
+1380,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:58.558869,armor 91
+1381,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:58.562869,hp 460
+1382,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:58.565870,armor 91
+1383,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:58.571871,health_subtracted 0
+1384,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:58.742910,weapon_fired 0
+1385,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:30:58.814926,weapon_fired 0
+1386,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:00.375957,weapon_fired 0
+1387,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:00.454975,weapon_fired 0
+1388,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:01.359177,hp 460
+1389,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:01.362178,armor 81
+1390,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:01.366179,auto regenerate armor
+1391,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:01.769269,weapon_fired 0
+1392,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:01.857289,weapon_fired 0
+1393,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:02.272382,weapon_fired 0
+1394,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:02.351400,weapon_fired 0
+1395,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:02.500434,weapon_fired 0
+1396,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:02.566448,weapon_fired 0
+1397,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:02.714481,weapon_fired 0
+1398,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:02.798500,weapon_fired 0
+1399,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:02.899523,weapon_fired 0
+1400,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:02.977540,weapon_fired 0
+1401,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:03.499518,weapon_fired 0
+1402,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:03.573534,weapon_fired 0
+1403,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:03.882603,weapon_fired 0
+1404,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:03.971624,weapon_fired 0
+1405,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:04.499649,weapon_fired 0
+1406,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:04.580653,weapon_fired 0
+1407,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:04.712683,weapon_fired 0
+1408,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:04.781698,weapon_fired 0
+1409,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:04.931358,weapon_fired 0
+1410,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:05.008375,weapon_fired 0
+1411,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:05.080392,hp 460
+1412,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:05.082392,armor 91
+1413,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:05.086393,enemy_headshot
+1414,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:05.090395,killed an enemy
+1415,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:05.094394,weapon_fired 1
+1416,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:05.167411,weapon_fired 0
+1417,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:05.248429,weapon_fired 0
+1418,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:06.283107,complete_objective Defend_the_drill
+1419,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:07.011776,weapon_fired 0
+1420,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:07.090793,weapon_fired 0
+1421,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:07.163810,weapon_fired 0
+1422,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:07.281837,activate_objective Inspect_the_vault
+1423,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:07.781948,stance_crouched 0
+1424,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:15.778639,killed an enemy
+1425,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:15.782640,weapon_fired 1
+1426,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:15.866659,weapon_fired 0
+1427,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:15.943676,weapon_fired 0
+1428,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:16.127717,weapon_fired 0
+1429,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:16.203735,weapon_fired 0
+1430,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:16.339251,weapon_fired 0
+1431,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:16.406954,weapon_fired 0
+1432,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:19.865638,complete_objective Inspect_the_vault
+1433,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:20.878677,activate_objective Blow_up_the_floor
+1434,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:21.066719,hp 460
+1435,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:21.069719,armor 91
+1436,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:21.072720,auto regenerate armor
+1437,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:21.856403,stance_crouched 0
+1438,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:24.408092,stance_crouched 0
+1439,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:26.349483,hp 460
+1440,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:26.351483,armor 91
+1441,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:26.355484,shielded hit
+1442,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:26.364486,hp 460
+1443,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:26.367486,armor 91
+1444,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:26.371487,hp 460
+1445,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:26.375488,armor 91
+1446,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:26.380489,health_subtracted 0
+1447,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:28.837785,hp 460
+1448,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:28.840784,armor 81
+1449,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:28.849787,auto regenerate armor
+1450,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:35.646081,hp 460
+1451,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:35.648080,armor 91
+1452,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:35.653082,hp 460
+1453,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:35.656083,armor 91
+1454,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:35.660083,health_subtracted 0
+1455,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:35.664084,complete_objective Blow_up_the_floor
+1456,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:36.614639,activate_objective Take_the_medallion
+1457,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:37.088746,hp 460
+1458,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:37.090746,armor 38
+1459,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:37.095747,auto regenerate armor
+1460,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:31:41.973773,stance_crouched 1
+1461,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:06.565317,complete_objective Take_the_medallion
+1462,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:07.588547,activate_objective Open_the_sewers
+1463,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:07.974867,stance_crouched 0
+1464,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:12.982682,hp 460
+1465,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:12.984683,armor 91
+1466,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:12.988683,shielded hit
+1467,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:12.994685,hp 460
+1468,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:12.997686,armor 91
+1469,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:13.005687,hp 460
+1470,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:13.008688,armor 91
+1471,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:13.011690,health_subtracted 0
+1472,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:16.414835,hp 460
+1473,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:16.417874,armor 61
+1474,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:16.421935,shielded hit
+1475,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:16.435938,hp 460
+1476,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:16.438938,armor 61
+1477,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:16.442939,hp 460
+1478,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:16.445940,armor 61
+1479,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:16.450941,stance_crouched 1
+1480,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:16.455942,stance_crouched 0
+1481,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:17.904753,hp 460
+1482,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:17.908753,armor 38
+1483,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:17.912755,auto regenerate armor
+1484,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:29.986966,complete_objective Open_the_sewers
+1485,hrzup,Profile-Visual+Weste+Thermal,2022-12-20 17:32:30.982731,activate_objective Loot_more_or_escape
