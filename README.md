@@ -24,6 +24,10 @@ evaluation has already been performed. Thank you to everyone who participated!
 
 Setup: 
 - Install bHaptics player https://www.bhaptics.com/support/download
+- Edit main.py line 27. Input your computers path to the pain_simulation Payday Mod.
+- Edit thermalFeedback.py line 17 to make sure the name of your Arduino (as seen in device manager) is correct.
+
+----------------
 
 Kalibration/Debugging calls: 
 - http://localhost:8001/debug/bhaptic
